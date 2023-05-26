@@ -1,0 +1,80 @@
+{
+    "callsign": "TVS435F ",
+    "endTime": "2023/05/22-20:20:47",
+    "icao24": "505e67",
+    "path": [
+        [
+            1684795404,
+            34.7793,
+            27.7051,
+            12192,
+            334,
+            false
+        ],
+        [
+            1684796300,
+            36.4671,
+            26.7019,
+            12192,
+            333,
+            false
+        ],
+        [
+            1684797198,
+            38.1716,
+            25.6389,
+            12192,
+            334,
+            false
+        ],
+        [
+            1684797647,
+            39.0201,
+            25.1034,
+            12192,
+            333,
+            false
+        ]
+    ],
+    "startTime": "2023/05/22-19:43:24",
+    "baro_altitude": 12192,
+    "category": 1,
+    "geo_altitude": 12367.26,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1684797292,
+    "latitude": 38.3527,
+    "longitude": 25.5261,
+    "on_ground": false,
+    "origin_country": "Slovakia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "6442",
+    "time_position": 1684797292,
+    "true_track": 333.66,
+    "velocity": 236.51,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1684795404,
+    "lastSeen": 1684797647
+}

@@ -1,0 +1,112 @@
+{
+    "callsign": "RWZ4605 ",
+    "endTime": "2023/04/26-20:36:16",
+    "icao24": "155c38",
+    "path": [
+        [
+            1682551989,
+            55.545,
+            38.3454,
+            609,
+            60,
+            false
+        ],
+        [
+            1682551989,
+            55.545,
+            38.3454,
+            609,
+            178,
+            false
+        ],
+        [
+            1682552052,
+            55.476,
+            38.8232,
+            1219,
+            114,
+            false
+        ],
+        [
+            1682552052,
+            55.476,
+            38.8232,
+            1219,
+            104,
+            false
+        ],
+        [
+            1682552101,
+            55.2277,
+            39.1602,
+            1219,
+            102,
+            false
+        ],
+        [
+            1682552101,
+            55.2277,
+            39.1602,
+            1219,
+            41,
+            false
+        ],
+        [
+            1682552176,
+            51.4415,
+            40.7265,
+            2438,
+            32,
+            false
+        ],
+        [
+            1682552176,
+            51.4415,
+            40.7265,
+            2438,
+            32,
+            false
+        ]
+    ],
+    "startTime": "2023/04/26-20:33:09",
+    "baro_altitude": 2613.66,
+    "category": 0,
+    "geo_altitude": 541.02,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1682553080,
+    "latitude": 51.4415,
+    "longitude": 40.7265,
+    "on_ground": false,
+    "origin_country": "Russian Federation",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1682552176,
+    "true_track": 32.49,
+    "velocity": 211.64,
+    "vertical_rate": 14.96,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 15,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "UUBW",
+    "estDepartureAirportHorizDistance": 574144,
+    "estDepartureAirportVertDistance": 669,
+    "firstSeen": 1682551989,
+    "lastSeen": 1682552176
+}

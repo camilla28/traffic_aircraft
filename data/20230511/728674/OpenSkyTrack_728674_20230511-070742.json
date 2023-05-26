@@ -1,0 +1,112 @@
+{
+    "callsign": "IAW216  ",
+    "endTime": "2023/05/11-07:01:51",
+    "icao24": "728674",
+    "path": [
+        [
+            1683799242,
+            41.3175,
+            28.772,
+            304,
+            47,
+            false
+        ],
+        [
+            1683799247,
+            41.3205,
+            28.776,
+            304,
+            47,
+            false
+        ],
+        [
+            1683799247,
+            41.3205,
+            28.776,
+            304,
+            30,
+            false
+        ],
+        [
+            1683799291,
+            41.3595,
+            28.8066,
+            914,
+            31,
+            false
+        ],
+        [
+            1683799302,
+            41.3692,
+            28.8147,
+            1219,
+            33,
+            false
+        ],
+        [
+            1683799307,
+            41.3739,
+            28.8198,
+            1219,
+            40,
+            false
+        ],
+        [
+            1683799311,
+            41.377,
+            28.8248,
+            1219,
+            50,
+            false
+        ],
+        [
+            1683799311,
+            41.377,
+            28.8248,
+            1219,
+            54,
+            false
+        ]
+    ],
+    "startTime": "2023/05/11-07:00:42",
+    "baro_altitude": 1356.36,
+    "category": 1,
+    "geo_altitude": 1432.56,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1683799314,
+    "latitude": 41.377,
+    "longitude": 28.8248,
+    "on_ground": false,
+    "origin_country": "Iraq",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1683799311,
+    "true_track": 54.1,
+    "velocity": 121.94,
+    "vertical_rate": 15.28,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 14,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LTFM",
+    "estDepartureAirportHorizDistance": 6738,
+    "estDepartureAirportVertDistance": 457,
+    "firstSeen": 1683799242,
+    "lastSeen": 1683799311
+}

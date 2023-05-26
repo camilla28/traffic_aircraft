@@ -1,0 +1,72 @@
+{
+    "callsign": "GIA961  ",
+    "endTime": "2023/05/10-22:55:21",
+    "icao24": "8a03a6",
+    "path": [
+        [
+            1683768898,
+            8.254,
+            76.7224,
+            10668,
+            112,
+            false
+        ],
+        [
+            1683769795,
+            7.4822,
+            78.5766,
+            10668,
+            112,
+            false
+        ],
+        [
+            1683770121,
+            7.1982,
+            79.2524,
+            10668,
+            112,
+            false
+        ]
+    ],
+    "startTime": "2023/05/10-22:34:58",
+    "baro_altitude": 10668,
+    "category": 1,
+    "geo_altitude": 11308.08,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1683770121,
+    "latitude": 7.1982,
+    "longitude": 79.2524,
+    "on_ground": false,
+    "origin_country": "Indonesia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1683770121,
+    "true_track": 112.79,
+    "velocity": 248.32,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1683768898,
+    "lastSeen": 1683770121
+}

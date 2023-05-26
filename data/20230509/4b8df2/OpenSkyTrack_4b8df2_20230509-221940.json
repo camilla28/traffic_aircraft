@@ -1,0 +1,136 @@
+{
+    "callsign": "CAI8306 ",
+    "endTime": "2023/05/09-22:19:36",
+    "icao24": "4b8df2",
+    "path": [
+        [
+            1683679556,
+            59.8603,
+            30.2583,
+            10972,
+            288,
+            false
+        ],
+        [
+            1683679580,
+            59.8604,
+            30.2578,
+            10972,
+            288,
+            false
+        ],
+        [
+            1683680580,
+            56.4223,
+            27.1076,
+            10972,
+            232,
+            false
+        ],
+        [
+            1683680902,
+            55.9797,
+            26.0811,
+            10972,
+            231,
+            false
+        ],
+        [
+            1683680909,
+            55.9705,
+            26.0612,
+            10972,
+            229,
+            false
+        ],
+        [
+            1683680914,
+            55.964,
+            26.048,
+            10972,
+            228,
+            false
+        ],
+        [
+            1683680920,
+            55.9539,
+            26.0287,
+            10972,
+            226,
+            false
+        ],
+        [
+            1683680926,
+            55.9437,
+            26.0107,
+            10972,
+            224,
+            false
+        ],
+        [
+            1683680931,
+            55.9356,
+            25.9971,
+            10972,
+            222,
+            false
+        ],
+        [
+            1683681536,
+            54.8983,
+            24.4169,
+            10972,
+            220,
+            false
+        ],
+        [
+            1683681576,
+            54.8294,
+            24.3162,
+            10972,
+            220,
+            false
+        ]
+    ],
+    "startTime": "2023/05/09-21:45:56",
+    "baro_altitude": 10972.8,
+    "category": 4,
+    "geo_altitude": 10012.68,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1683680091,
+    "latitude": 59.8604,
+    "longitude": 30.2578,
+    "on_ground": false,
+    "origin_country": "Turkey",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1556",
+    "time_position": 1683679580,
+    "true_track": 288.43,
+    "velocity": 1.63,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "ULLI",
+    "estDepartureAirportHorizDistance": 12588,
+    "estDepartureAirportVertDistance": 10949,
+    "firstSeen": 1683679556,
+    "lastSeen": 1683681576
+}

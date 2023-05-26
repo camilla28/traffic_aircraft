@@ -1,0 +1,100 @@
+{
+    "callsign": "IAE475  ",
+    "endTime": "2023/04/13-18:14:42",
+    "icao24": "155bf5",
+    "path": [
+        [
+            1681418131,
+            56.0697,
+            48.3024,
+            10058,
+            90,
+            false
+        ],
+        [
+            1681418768,
+            56.0457,
+            50.4234,
+            10058,
+            92,
+            false
+        ],
+        [
+            1681418774,
+            56.0453,
+            50.4424,
+            9753,
+            92,
+            false
+        ],
+        [
+            1681419668,
+            56.0374,
+            51.0433,
+            10058,
+            89,
+            false
+        ],
+        [
+            1681419860,
+            56.0374,
+            51.0524,
+            10058,
+            89,
+            false
+        ],
+        [
+            1681420265,
+            56.348,
+            57.6575,
+            10668,
+            83,
+            false
+        ],
+        [
+            1681420482,
+            56.4059,
+            58.6639,
+            10668,
+            84,
+            false
+        ]
+    ],
+    "startTime": "2023/04/13-17:35:31",
+    "baro_altitude": 10058.4,
+    "category": 4,
+    "geo_altitude": 10050.78,
+    "keys": [
+        "icao24",
+        "callsign",
+        "origin_country",
+        "time_position",
+        "last_contact",
+        "longitude",
+        "latitude",
+        "baro_altitude",
+        "on_ground",
+        "velocity",
+        "true_track",
+        "vertical_rate",
+        "sensors",
+        "geo_altitude",
+        "squawk",
+        "spi",
+        "position_source",
+        "category"
+    ],
+    "last_contact": 1681419362,
+    "latitude": 56.0374,
+    "longitude": 51.0253,
+    "on_ground": false,
+    "origin_country": "Russian Federation",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1681419354,
+    "true_track": 89.89,
+    "velocity": 265.45,
+    "vertical_rate": -0.33
+}

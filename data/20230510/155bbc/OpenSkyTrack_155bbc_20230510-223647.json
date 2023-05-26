@@ -1,0 +1,80 @@
+{
+    "callsign": "GZP913  ",
+    "endTime": "2023/05/10-22:36:41",
+    "icao24": "155bbc",
+    "path": [
+        [
+            1683767303,
+            59.283,
+            42.2574,
+            10058,
+            47,
+            false
+        ],
+        [
+            1683768202,
+            60.4646,
+            44.8584,
+            10058,
+            49,
+            false
+        ],
+        [
+            1683768996,
+            61.4621,
+            47.3184,
+            10058,
+            51,
+            false
+        ],
+        [
+            1683769001,
+            61.4686,
+            47.3353,
+            9753,
+            51,
+            false
+        ]
+    ],
+    "startTime": "2023/05/10-22:08:23",
+    "baro_altitude": 10058.4,
+    "category": 1,
+    "geo_altitude": 9966.96,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1683767471,
+    "latitude": 59.5058,
+    "longitude": 42.7211,
+    "on_ground": false,
+    "origin_country": "Russian Federation",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1683767470,
+    "true_track": 47.11,
+    "velocity": 216.95,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1683767303,
+    "lastSeen": 1683769001
+}

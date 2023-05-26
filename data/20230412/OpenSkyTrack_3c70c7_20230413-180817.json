@@ -1,0 +1,84 @@
+{
+    "callsign": "",
+    "endTime": "2023/04/13-18:08:03",
+    "icao24": "3c70c7",
+    "path": [
+        [
+            1681419918,
+            49.8617,
+            9.1757,
+            3962,
+            89,
+            false
+        ],
+        [
+            1681419919,
+            49.8617,
+            9.1757,
+            3962,
+            89,
+            false
+        ],
+        [
+            1681420010,
+            49.8603,
+            9.5794,
+            5486,
+            90,
+            false
+        ],
+        [
+            1681420054,
+            49.8597,
+            9.7107,
+            5791,
+            90,
+            false
+        ],
+        [
+            1681420083,
+            49.8591,
+            9.8026,
+            6096,
+            90,
+            false
+        ]
+    ],
+    "startTime": "2023/04/13-18:05:18",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "callsign",
+        "origin_country",
+        "time_position",
+        "last_contact",
+        "longitude",
+        "latitude",
+        "baro_altitude",
+        "on_ground",
+        "velocity",
+        "true_track",
+        "vertical_rate",
+        "sensors",
+        "geo_altitude",
+        "squawk",
+        "spi",
+        "position_source",
+        "category"
+    ],
+    "last_contact": 1681419380,
+    "latitude": 50.0345,
+    "longitude": 98.5279,
+    "on_ground": true,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1681419380,
+    "true_track": 247.5,
+    "velocity": 2.57,
+    "vertical_rate": null
+}

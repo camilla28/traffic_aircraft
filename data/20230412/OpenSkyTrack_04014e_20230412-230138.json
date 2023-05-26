@@ -1,0 +1,100 @@
+{
+    "callsign": "ETH712  ",
+    "endTime": "2023/04/12-23:01:34",
+    "icao24": "04014e",
+    "path": [
+        [
+            1681348425,
+            33.6282,
+            25.4799,
+            12192,
+            323,
+            false
+        ],
+        [
+            1681348446,
+            33.66,
+            25.4518,
+            12192,
+            323,
+            false
+        ],
+        [
+            1681348524,
+            33.7749,
+            25.3369,
+            12192,
+            313,
+            false
+        ],
+        [
+            1681349420,
+            34.9816,
+            23.836,
+            12192,
+            313,
+            false
+        ],
+        [
+            1681350315,
+            36.1797,
+            22.2764,
+            12192,
+            312,
+            false
+        ],
+        [
+            1681351208,
+            37.3494,
+            20.6788,
+            12192,
+            311,
+            false
+        ],
+        [
+            1681351294,
+            37.4624,
+            20.5201,
+            12192,
+            311,
+            false
+        ]
+    ],
+    "startTime": "2023/04/12-22:13:45",
+    "baro_altitude": 12192,
+    "category": 0,
+    "geo_altitude": 12374.88,
+    "keys": [
+        "icao24",
+        "callsign",
+        "origin_country",
+        "time_position",
+        "last_contact",
+        "longitude",
+        "latitude",
+        "baro_altitude",
+        "on_ground",
+        "velocity",
+        "true_track",
+        "vertical_rate",
+        "sensors",
+        "geo_altitude",
+        "squawk",
+        "spi",
+        "position_source",
+        "category"
+    ],
+    "last_contact": 1681350682,
+    "latitude": 36.6621,
+    "longitude": 21.6269,
+    "on_ground": false,
+    "origin_country": "Ethiopia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2075",
+    "time_position": 1681350682,
+    "true_track": 312.39,
+    "velocity": 215.94,
+    "vertical_rate": 0
+}

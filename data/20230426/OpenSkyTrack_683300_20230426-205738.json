@@ -1,0 +1,72 @@
+{
+    "callsign": "UPEM022 ",
+    "endTime": "2023/04/26-20:57:21",
+    "icao24": "683300",
+    "path": [
+        [
+            1682552227,
+            43.8538,
+            53.1389,
+            13106,
+            234,
+            false
+        ],
+        [
+            1682553064,
+            42.8978,
+            51.3129,
+            13106,
+            233,
+            false
+        ],
+        [
+            1682553441,
+            42.4568,
+            50.507,
+            13106,
+            233,
+            false
+        ]
+    ],
+    "startTime": "2023/04/26-20:37:07",
+    "baro_altitude": 13106.4,
+    "category": 0,
+    "geo_altitude": 13281.66,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1682553064,
+    "latitude": 42.8978,
+    "longitude": 51.3129,
+    "on_ground": false,
+    "origin_country": "Kazakhstan",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1682553064,
+    "true_track": 233.75,
+    "velocity": 217.52,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1682552227,
+    "lastSeen": 1682553441
+}

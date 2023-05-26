@@ -1,0 +1,84 @@
+{
+    "callsign": "BEL455  ",
+    "endTime": "2023/04/12-22:59:56",
+    "icao24": "44ccc3",
+    "path": [
+        [
+            1681348823,
+            33.7901,
+            25.3182,
+            11582,
+            326,
+            false
+        ],
+        [
+            1681348942,
+            33.9776,
+            25.168,
+            11582,
+            324,
+            false
+        ],
+        [
+            1681349837,
+            35.3269,
+            23.9135,
+            11582,
+            322,
+            false
+        ],
+        [
+            1681350732,
+            36.6658,
+            22.6127,
+            11582,
+            321,
+            false
+        ],
+        [
+            1681351196,
+            37.3562,
+            21.9184,
+            11582,
+            320,
+            false
+        ]
+    ],
+    "startTime": "2023/04/12-22:20:23",
+    "baro_altitude": 11582.4,
+    "category": 1,
+    "geo_altitude": 11795.76,
+    "keys": [
+        "icao24",
+        "callsign",
+        "origin_country",
+        "time_position",
+        "last_contact",
+        "longitude",
+        "latitude",
+        "baro_altitude",
+        "on_ground",
+        "velocity",
+        "true_track",
+        "vertical_rate",
+        "sensors",
+        "geo_altitude",
+        "squawk",
+        "spi",
+        "position_source",
+        "category"
+    ],
+    "last_contact": 1681350682,
+    "latitude": 36.5908,
+    "longitude": 22.6871,
+    "on_ground": false,
+    "origin_country": "Belgium",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2070",
+    "time_position": 1681350682,
+    "true_track": 321.3,
+    "velocity": 212.27,
+    "vertical_rate": 0
+}

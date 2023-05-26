@@ -1,0 +1,112 @@
+{
+    "callsign": "AIQ176  ",
+    "endTime": "2023/05/20-05:24:23",
+    "icao24": "880c46",
+    "path": [
+        [
+            1684569684,
+            5.7818,
+            77.0156,
+            10668,
+            65,
+            false
+        ],
+        [
+            1684570125,
+            6.1663,
+            77.8649,
+            10668,
+            68,
+            false
+        ],
+        [
+            1684570131,
+            6.1712,
+            77.8771,
+            10363,
+            68,
+            false
+        ],
+        [
+            1684570583,
+            6.5245,
+            78.7586,
+            10668,
+            68,
+            false
+        ],
+        [
+            1684570630,
+            6.5604,
+            78.8486,
+            10363,
+            68,
+            false
+        ],
+        [
+            1684570786,
+            6.6807,
+            79.1504,
+            10668,
+            68,
+            false
+        ],
+        [
+            1684570988,
+            6.837,
+            79.543,
+            10363,
+            68,
+            false
+        ],
+        [
+            1684571063,
+            6.8963,
+            79.6923,
+            10668,
+            68,
+            false
+        ]
+    ],
+    "startTime": "2023/05/20-05:01:24",
+    "baro_altitude": 10675.62,
+    "category": 4,
+    "geo_altitude": 11292.84,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1684569816,
+    "latitude": 5.8965,
+    "longitude": 77.27,
+    "on_ground": false,
+    "origin_country": "Thailand",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1684569816,
+    "true_track": 65.8,
+    "velocity": 234.64,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1684569684,
+    "lastSeen": 1684571063
+}

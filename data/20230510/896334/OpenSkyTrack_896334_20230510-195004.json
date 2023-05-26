@@ -1,0 +1,72 @@
+{
+    "callsign": "FDB9QC  ",
+    "endTime": "2023/05/10-19:49:57",
+    "icao24": "896334",
+    "path": [
+        [
+            1683757260,
+            42.9254,
+            50.9652,
+            10972,
+            353,
+            false
+        ],
+        [
+            1683758159,
+            44.682,
+            50.6953,
+            10972,
+            353,
+            false
+        ],
+        [
+            1683758997,
+            46.382,
+            50.4178,
+            10972,
+            353,
+            false
+        ]
+    ],
+    "startTime": "2023/05/10-19:21:00",
+    "baro_altitude": 10972.8,
+    "category": 1,
+    "geo_altitude": 11117.58,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1683758369,
+    "latitude": 45.104,
+    "longitude": 50.6281,
+    "on_ground": false,
+    "origin_country": "United Arab Emirates",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1683758369,
+    "true_track": 353.44,
+    "velocity": 225.26,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1683757260,
+    "lastSeen": 1683758997
+}

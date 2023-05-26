@@ -1,0 +1,72 @@
+{
+    "callsign": "ABY1735 ",
+    "endTime": "2023/05/10-21:23:14",
+    "icao24": "8962d0",
+    "path": [
+        [
+            1683763408,
+            23.2179,
+            48.4959,
+            11887,
+            95,
+            false
+        ],
+        [
+            1683764304,
+            23.0163,
+            50.6708,
+            11887,
+            96,
+            false
+        ],
+        [
+            1683764594,
+            22.9453,
+            51.3684,
+            11887,
+            96,
+            false
+        ]
+    ],
+    "startTime": "2023/05/10-21:03:28",
+    "baro_altitude": 11887.2,
+    "category": 4,
+    "geo_altitude": 12565.38,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1683764034,
+    "latitude": 23.0804,
+    "longitude": 50.0129,
+    "on_ground": false,
+    "origin_country": "United Arab Emirates",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1683764031,
+    "true_track": 95.91,
+    "velocity": 249.8,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1683763408,
+    "lastSeen": 1683764594
+}

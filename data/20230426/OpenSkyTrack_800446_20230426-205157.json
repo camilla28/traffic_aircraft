@@ -1,0 +1,72 @@
+{
+    "callsign": "BDA154  ",
+    "endTime": "2023/04/26-20:51:48",
+    "icao24": "800446",
+    "path": [
+        [
+            1682552696,
+            25.8632,
+            74.6949,
+            10058,
+            30,
+            false
+        ],
+        [
+            1682553036,
+            26.5297,
+            75.1295,
+            10058,
+            32,
+            false
+        ],
+        [
+            1682553108,
+            26.6686,
+            75.2341,
+            10058,
+            34,
+            false
+        ]
+    ],
+    "startTime": "2023/04/26-20:44:56",
+    "baro_altitude": 10058.4,
+    "category": 0,
+    "geo_altitude": 10325.1,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1682553081,
+    "latitude": 26.6154,
+    "longitude": 75.1937,
+    "on_ground": false,
+    "origin_country": "India",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1682553080,
+    "true_track": 34.4,
+    "velocity": 254.99,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1682552696,
+    "lastSeen": 1682553108
+}

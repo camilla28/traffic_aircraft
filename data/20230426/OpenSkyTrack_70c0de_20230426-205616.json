@@ -1,0 +1,120 @@
+{
+    "callsign": "OMA407  ",
+    "endTime": "2023/04/26-20:47:30",
+    "icao24": "70c0de",
+    "path": [
+        [
+            1682532623,
+            24.534,
+            54.9809,
+            10363,
+            302,
+            false
+        ],
+        [
+            1682533051,
+            24.9343,
+            54.2817,
+            10363,
+            304,
+            false
+        ],
+        [
+            1682536386,
+            27.6264,
+            48.1762,
+            10972,
+            298,
+            false
+        ],
+        [
+            1682536622,
+            27.8348,
+            47.7489,
+            10972,
+            298,
+            false
+        ],
+        [
+            1682536632,
+            27.843,
+            47.7295,
+            10972,
+            294,
+            false
+        ],
+        [
+            1682536639,
+            27.8476,
+            47.7168,
+            10972,
+            290,
+            false
+        ],
+        [
+            1682537220,
+            28.1931,
+            46.6158,
+            10972,
+            288,
+            false
+        ],
+        [
+            1682552850,
+            29.4505,
+            35.1377,
+            10668,
+            76,
+            false
+        ],
+        [
+            1682552850,
+            29.4505,
+            35.1377,
+            10668,
+            76,
+            false
+        ]
+    ],
+    "startTime": "2023/04/26-15:10:23",
+    "baro_altitude": 10668,
+    "category": 4,
+    "geo_altitude": 10957.56,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1682552872,
+    "latitude": 29.4505,
+    "longitude": 35.1377,
+    "on_ground": false,
+    "origin_country": "Oman",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1682552850,
+    "true_track": 76.74,
+    "velocity": 248.94,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "OM11",
+    "estDepartureAirportHorizDistance": 90986,
+    "estDepartureAirportVertDistance": 10336,
+    "firstSeen": 1682532623,
+    "lastSeen": 1682552850
+}

@@ -1,0 +1,80 @@
+{
+    "callsign": "EEF44   ",
+    "endTime": "2023/05/11-07:02:33",
+    "icao24": "511122",
+    "path": [
+        [
+            1683799069,
+            58.0911,
+            26.7763,
+            2133,
+            327,
+            false
+        ],
+        [
+            1683799107,
+            58.1125,
+            26.7502,
+            2133,
+            327,
+            false
+        ],
+        [
+            1683799164,
+            58.1442,
+            26.7116,
+            2438,
+            327,
+            false
+        ],
+        [
+            1683799353,
+            58.2598,
+            26.5726,
+            2743,
+            327,
+            false
+        ]
+    ],
+    "startTime": "2023/05/11-06:57:49",
+    "baro_altitude": 3032.76,
+    "category": 0,
+    "geo_altitude": 3116.58,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1683799339,
+    "latitude": 58.2509,
+    "longitude": 26.5834,
+    "on_ground": false,
+    "origin_country": "Estonia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1683799339,
+    "true_track": 327.5,
+    "velocity": 82.34,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1683799069,
+    "lastSeen": 1683799348
+}

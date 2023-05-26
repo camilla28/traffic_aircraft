@@ -1,0 +1,104 @@
+{
+    "callsign": "A7GHW   ",
+    "endTime": "2023/05/20-05:40:22",
+    "icao24": "06a363",
+    "path": [
+        [
+            1684571718,
+            25.1961,
+            52.0276,
+            304,
+            279,
+            false
+        ],
+        [
+            1684571863,
+            25.2118,
+            51.9268,
+            304,
+            277,
+            false
+        ],
+        [
+            1684571867,
+            25.212,
+            51.9242,
+            304,
+            272,
+            false
+        ],
+        [
+            1684571870,
+            25.212,
+            51.9223,
+            304,
+            261,
+            false
+        ],
+        [
+            1684571876,
+            25.2112,
+            51.9175,
+            304,
+            253,
+            false
+        ],
+        [
+            1684571881,
+            25.2103,
+            51.9146,
+            304,
+            248,
+            false
+        ],
+        [
+            1684572022,
+            25.1755,
+            51.8185,
+            304,
+            248,
+            false
+        ]
+    ],
+    "startTime": "2023/05/20-05:35:18",
+    "baro_altitude": 274.32,
+    "category": 0,
+    "geo_altitude": 220.98,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1684569816,
+    "latitude": 25.4854,
+    "longitude": 52.369,
+    "on_ground": false,
+    "origin_country": "Qatar",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1684569816,
+    "true_track": 190.35,
+    "velocity": 60.14,
+    "vertical_rate": 3.25,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 14,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "OTHH",
+    "estDepartureAirportHorizDistance": 43458,
+    "estDepartureAirportVertDistance": 339,
+    "firstSeen": 1684571718,
+    "lastSeen": 1684572022
+}

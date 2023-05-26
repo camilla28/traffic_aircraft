@@ -1,0 +1,100 @@
+{
+    "callsign": "GFA965  ",
+    "endTime": "2023/04/13-18:02:55",
+    "icao24": "89405b",
+    "path": [
+        [
+            1681418395,
+            26.886,
+            48.7238,
+            7010,
+            104,
+            false
+        ],
+        [
+            1681418616,
+            26.8076,
+            49.15,
+            7010,
+            101,
+            false
+        ],
+        [
+            1681418756,
+            26.766,
+            49.372,
+            7010,
+            104,
+            false
+        ],
+        [
+            1681418771,
+            26.7606,
+            49.3942,
+            7010,
+            106,
+            false
+        ],
+        [
+            1681418954,
+            26.7005,
+            49.5975,
+            7010,
+            108,
+            false
+        ],
+        [
+            1681419156,
+            26.667,
+            49.7095,
+            6705,
+            108,
+            false
+        ],
+        [
+            1681419775,
+            26.6571,
+            49.7426,
+            6400,
+            108,
+            false
+        ]
+    ],
+    "startTime": "2023/04/13-17:39:55",
+    "baro_altitude": 6644.64,
+    "category": 1,
+    "geo_altitude": 7010.4,
+    "keys": [
+        "icao24",
+        "callsign",
+        "origin_country",
+        "time_position",
+        "last_contact",
+        "longitude",
+        "latitude",
+        "baro_altitude",
+        "on_ground",
+        "velocity",
+        "true_track",
+        "vertical_rate",
+        "sensors",
+        "geo_altitude",
+        "squawk",
+        "spi",
+        "position_source",
+        "category"
+    ],
+    "last_contact": 1681419291,
+    "latitude": 26.6618,
+    "longitude": 49.727,
+    "on_ground": false,
+    "origin_country": "Bahrain",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1681419291,
+    "true_track": 108.4,
+    "velocity": 241.26,
+    "vertical_rate": -10.4
+}

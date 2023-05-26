@@ -1,0 +1,96 @@
+{
+    "callsign": "UBG101  ",
+    "endTime": "2023/05/10-22:13:00",
+    "icao24": "7020b5",
+    "path": [
+        [
+            1683767348,
+            23.8073,
+            90.4327,
+            304,
+            139,
+            false
+        ],
+        [
+            1683767377,
+            23.789,
+            90.4492,
+            304,
+            140,
+            false
+        ],
+        [
+            1683767444,
+            23.744,
+            90.4891,
+            609,
+            140,
+            false
+        ],
+        [
+            1683767484,
+            23.7166,
+            90.5134,
+            914,
+            140,
+            false
+        ],
+        [
+            1683767514,
+            23.6955,
+            90.532,
+            1219,
+            140,
+            false
+        ],
+        [
+            1683767580,
+            23.6501,
+            90.5722,
+            1524,
+            140,
+            false
+        ]
+    ],
+    "startTime": "2023/05/10-22:09:08",
+    "baro_altitude": 952.5,
+    "category": 0,
+    "geo_altitude": 929.64,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1683767458,
+    "latitude": 23.7345,
+    "longitude": 90.4975,
+    "on_ground": false,
+    "origin_country": "Bangladesh",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1683767458,
+    "true_track": 140.82,
+    "velocity": 96.9,
+    "vertical_rate": 5.85,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 14,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "VGZR",
+    "estDepartureAirportHorizDistance": 31888,
+    "estDepartureAirportVertDistance": 364,
+    "firstSeen": 1683767348,
+    "lastSeen": 1683767580
+}

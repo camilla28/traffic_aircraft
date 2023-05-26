@@ -1,0 +1,108 @@
+{
+    "callsign": "",
+    "endTime": "2023/04/12-22:51:47",
+    "icao24": "3c64f0",
+    "path": [
+        [
+            1681348375,
+            44.5102,
+            28.7057,
+            10972,
+            314,
+            false
+        ],
+        [
+            1681348375,
+            44.5102,
+            28.7057,
+            10972,
+            302,
+            false
+        ],
+        [
+            1681348404,
+            44.016,
+            27.3485,
+            10972,
+            299,
+            false
+        ],
+        [
+            1681349299,
+            44.7373,
+            25.5066,
+            10972,
+            298,
+            false
+        ],
+        [
+            1681350198,
+            45.4327,
+            23.6134,
+            10972,
+            296,
+            false
+        ],
+        [
+            1681350279,
+            45.4945,
+            23.4393,
+            10972,
+            296,
+            false
+        ],
+        [
+            1681350646,
+            45.6899,
+            22.8794,
+            11582,
+            296,
+            false
+        ],
+        [
+            1681350707,
+            45.8143,
+            22.5153,
+            11887,
+            296,
+            false
+        ]
+    ],
+    "startTime": "2023/04/12-22:12:55",
+    "baro_altitude": 11650.98,
+    "category": 1,
+    "geo_altitude": 11643.36,
+    "keys": [
+        "icao24",
+        "callsign",
+        "origin_country",
+        "time_position",
+        "last_contact",
+        "longitude",
+        "latitude",
+        "baro_altitude",
+        "on_ground",
+        "velocity",
+        "true_track",
+        "vertical_rate",
+        "sensors",
+        "geo_altitude",
+        "squawk",
+        "spi",
+        "position_source",
+        "category"
+    ],
+    "last_contact": 1681350649,
+    "latitude": 45.6899,
+    "longitude": 22.8794,
+    "on_ground": false,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1681350646,
+    "true_track": 296.21,
+    "velocity": 186.36,
+    "vertical_rate": 2.6
+}

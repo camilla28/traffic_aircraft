@@ -1,0 +1,104 @@
+{
+    "callsign": "IGO182  ",
+    "endTime": "2023/05/11-07:03:34",
+    "icao24": "8014af",
+    "path": [
+        [
+            1683798859,
+            11.1175,
+            77.1749,
+            8534,
+            56,
+            false
+        ],
+        [
+            1683798917,
+            11.1861,
+            77.2786,
+            8534,
+            56,
+            false
+        ],
+        [
+            1683799000,
+            11.2868,
+            77.4316,
+            8839,
+            56,
+            false
+        ],
+        [
+            1683799069,
+            11.3729,
+            77.5612,
+            9144,
+            55,
+            false
+        ],
+        [
+            1683799132,
+            11.4502,
+            77.6771,
+            9448,
+            56,
+            false
+        ],
+        [
+            1683799197,
+            11.5314,
+            77.7993,
+            9753,
+            56,
+            false
+        ],
+        [
+            1683799414,
+            11.7953,
+            78.199,
+            10058,
+            56,
+            false
+        ]
+    ],
+    "startTime": "2023/05/11-06:54:19",
+    "baro_altitude": 10058.4,
+    "category": 0,
+    "geo_altitude": 10668,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1683799339,
+    "latitude": 11.7049,
+    "longitude": 78.0616,
+    "on_ground": false,
+    "origin_country": "India",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1683799339,
+    "true_track": 56.31,
+    "velocity": 242.99,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "VOSX",
+    "estDepartureAirportHorizDistance": 40110,
+    "estDepartureAirportVertDistance": 8206,
+    "firstSeen": 1683798859,
+    "lastSeen": 1683799414
+}

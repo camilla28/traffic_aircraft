@@ -1,0 +1,76 @@
+{
+    "callsign": "UAE500  ",
+    "endTime": "2023/04/13-17:52:16",
+    "icao24": "896199",
+    "path": [
+        [
+            1681418731,
+            19.0906,
+            73.0031,
+            609,
+            269,
+            false
+        ],
+        [
+            1681418764,
+            19.0903,
+            72.987,
+            609,
+            269,
+            false
+        ],
+        [
+            1681418956,
+            19.0895,
+            72.9264,
+            304,
+            268,
+            false
+        ],
+        [
+            1681419136,
+            19.0892,
+            72.8992,
+            0,
+            268,
+            false
+        ]
+    ],
+    "startTime": "2023/04/13-17:45:31",
+    "baro_altitude": 167.64,
+    "category": 6,
+    "geo_altitude": 91.44,
+    "keys": [
+        "icao24",
+        "callsign",
+        "origin_country",
+        "time_position",
+        "last_contact",
+        "longitude",
+        "latitude",
+        "baro_altitude",
+        "on_ground",
+        "velocity",
+        "true_track",
+        "vertical_rate",
+        "sensors",
+        "geo_altitude",
+        "squawk",
+        "spi",
+        "position_source",
+        "category"
+    ],
+    "last_contact": 1681419143,
+    "latitude": 19.0892,
+    "longitude": 72.8992,
+    "on_ground": false,
+    "origin_country": "United Arab Emirates",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1681419136,
+    "true_track": 268.73,
+    "velocity": 69.47,
+    "vertical_rate": -2.6
+}

@@ -1,0 +1,128 @@
+{
+    "callsign": "REU975  ",
+    "endTime": "2023/05/10-23:13:28",
+    "icao24": "3a4494",
+    "path": [
+        [
+            1683767875,
+            34.2957,
+            24.7754,
+            10363,
+            318,
+            false
+        ],
+        [
+            1683768314,
+            35.0625,
+            23.9558,
+            10363,
+            318,
+            false
+        ],
+        [
+            1683768320,
+            35.072,
+            23.9454,
+            10058,
+            318,
+            false
+        ],
+        [
+            1683768583,
+            35.5204,
+            23.4563,
+            10363,
+            318,
+            false
+        ],
+        [
+            1683768623,
+            35.5862,
+            23.3838,
+            10668,
+            318,
+            false
+        ],
+        [
+            1683769517,
+            37.0474,
+            21.7299,
+            10972,
+            317,
+            false
+        ],
+        [
+            1683770415,
+            38.4962,
+            19.9973,
+            10972,
+            315,
+            false
+        ],
+        [
+            1683770434,
+            38.528,
+            19.9582,
+            10972,
+            315,
+            false
+        ],
+        [
+            1683771165,
+            39.6672,
+            18.4364,
+            10972,
+            310,
+            false
+        ],
+        [
+            1683771208,
+            39.7295,
+            18.3421,
+            10972,
+            310,
+            false
+        ]
+    ],
+    "startTime": "2023/05/10-22:17:55",
+    "baro_altitude": 10972.8,
+    "category": 1,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1683770352,
+    "latitude": 38.3952,
+    "longitude": 20.1213,
+    "on_ground": false,
+    "origin_country": "France",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1683770352,
+    "true_track": 316.08,
+    "velocity": 249.95,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1683767875,
+    "lastSeen": 1683771208
+}

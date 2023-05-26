@@ -1,0 +1,104 @@
+{
+    "callsign": "UAE816  ",
+    "endTime": "2023/05/10-23:03:33",
+    "icao24": "896316",
+    "path": [
+        [
+            1683769249,
+            26.0278,
+            48.2203,
+            10668,
+            56,
+            false
+        ],
+        [
+            1683769254,
+            26.0352,
+            48.2329,
+            10668,
+            56,
+            false
+        ],
+        [
+            1683769289,
+            26.0844,
+            48.3162,
+            10972,
+            56,
+            false
+        ],
+        [
+            1683769473,
+            26.3428,
+            48.7549,
+            11277,
+            56,
+            false
+        ],
+        [
+            1683770179,
+            26.9821,
+            50.5527,
+            11277,
+            112,
+            false
+        ],
+        [
+            1683770397,
+            26.7661,
+            51.1235,
+            11277,
+            110,
+            false
+        ],
+        [
+            1683770613,
+            26.579,
+            51.7049,
+            11277,
+            109,
+            false
+        ]
+    ],
+    "startTime": "2023/05/10-22:40:49",
+    "baro_altitude": 11277.6,
+    "category": 1,
+    "geo_altitude": 11864.34,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1683770355,
+    "latitude": 26.8062,
+    "longitude": 51.0123,
+    "on_ground": false,
+    "origin_country": "United Arab Emirates",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1683770354,
+    "true_track": 113.02,
+    "velocity": 282.83,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1683769249,
+    "lastSeen": 1683770613
+}

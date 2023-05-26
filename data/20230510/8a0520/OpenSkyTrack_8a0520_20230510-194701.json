@@ -1,0 +1,120 @@
+{
+    "callsign": "BTK6881 ",
+    "endTime": "2023/05/10-19:46:53",
+    "icao24": "8a0520",
+    "path": [
+        [
+            1683758188,
+            3.014,
+            99.4358,
+            5181,
+            134,
+            false
+        ],
+        [
+            1683758188,
+            3.014,
+            99.4358,
+            5181,
+            134,
+            false
+        ],
+        [
+            1683758295,
+            2.8658,
+            99.5849,
+            6096,
+            134,
+            false
+        ],
+        [
+            1683758424,
+            2.6917,
+            99.7599,
+            7315,
+            134,
+            false
+        ],
+        [
+            1683758478,
+            2.6216,
+            99.8303,
+            7620,
+            134,
+            false
+        ],
+        [
+            1683758574,
+            2.4911,
+            99.9614,
+            7924,
+            134,
+            false
+        ],
+        [
+            1683758697,
+            2.313,
+            100.1403,
+            8229,
+            134,
+            false
+        ],
+        [
+            1683758777,
+            2.1925,
+            100.2617,
+            8534,
+            134,
+            false
+        ],
+        [
+            1683758813,
+            2.1375,
+            100.317,
+            8839,
+            134,
+            false
+        ]
+    ],
+    "startTime": "2023/05/10-19:36:28",
+    "baro_altitude": 6210.3,
+    "category": 0,
+    "geo_altitude": 6667.5,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1683758367,
+    "latitude": 2.8658,
+    "longitude": 99.5849,
+    "on_ground": false,
+    "origin_country": "Indonesia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1683758295,
+    "true_track": 134.7,
+    "velocity": 209.17,
+    "vertical_rate": 15.28,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1683758188,
+    "lastSeen": 1683758813
+}

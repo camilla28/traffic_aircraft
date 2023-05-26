@@ -1,0 +1,88 @@
+{
+    "callsign": "THY44J  ",
+    "endTime": "2023/05/20-05:30:21",
+    "icao24": "4bb066",
+    "path": [
+        [
+            1684569317,
+            32.1141,
+            31.0595,
+            10972,
+            354,
+            false
+        ],
+        [
+            1684569822,
+            33.0621,
+            30.9571,
+            10972,
+            354,
+            false
+        ],
+        [
+            1684569824,
+            33.0658,
+            30.9569,
+            10972,
+            358,
+            false
+        ],
+        [
+            1684570638,
+            34.594,
+            30.8904,
+            10972,
+            357,
+            false
+        ],
+        [
+            1684571421,
+            36.0807,
+            30.8231,
+            10972,
+            358,
+            false
+        ]
+    ],
+    "startTime": "2023/05/20-04:55:17",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": 11277.6,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1684569780,
+    "latitude": 32.9675,
+    "longitude": 30.9649,
+    "on_ground": false,
+    "origin_country": "Turkey",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2377",
+    "time_position": 1684569771,
+    "true_track": 354.6,
+    "velocity": 207.73,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1684569317,
+    "lastSeen": 1684571421
+}

@@ -1,0 +1,72 @@
+{
+    "callsign": null,
+    "endTime": "2023/05/26-08:55:15",
+    "icao24": "48d160",
+    "path": [
+        [
+            1685102079,
+            50.6083,
+            22.3619,
+            609,
+            257,
+            false
+        ],
+        [
+            1685102110,
+            50.6057,
+            22.3432,
+            609,
+            259,
+            false
+        ],
+        [
+            1685102115,
+            50.6055,
+            22.3412,
+            609,
+            260,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-08:54:39",
+    "baro_altitude": 685.8,
+    "category": 0,
+    "geo_altitude": 807.72,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685102079,
+    "latitude": 50.6083,
+    "longitude": 22.3619,
+    "on_ground": false,
+    "origin_country": "Poland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1685102079,
+    "true_track": 257.32,
+    "velocity": 42.18,
+    "vertical_rate": -0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 28,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EPST",
+    "estDepartureAirportHorizDistance": 25744,
+    "estDepartureAirportVertDistance": 536,
+    "firstSeen": 1685102079,
+    "lastSeen": 1685102115
+}

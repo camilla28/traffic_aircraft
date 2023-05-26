@@ -1,0 +1,92 @@
+{
+    "callsign": "UAE129  ",
+    "endTime": "2023/04/12-22:51:30",
+    "icao24": "89610d",
+    "path": [
+        [
+            1681349630,
+            48.5381,
+            50.1024,
+            11582,
+            352,
+            false
+        ],
+        [
+            1681350197,
+            49.7702,
+            49.8427,
+            11582,
+            352,
+            false
+        ],
+        [
+            1681350216,
+            49.809,
+            49.8344,
+            11277,
+            352,
+            false
+        ],
+        [
+            1681350355,
+            50.1072,
+            49.7693,
+            11582,
+            351,
+            false
+        ],
+        [
+            1681350362,
+            50.1209,
+            49.7662,
+            11277,
+            352,
+            false
+        ],
+        [
+            1681350690,
+            50.8198,
+            49.6106,
+            11582,
+            351,
+            false
+        ]
+    ],
+    "startTime": "2023/04/12-22:33:50",
+    "baro_altitude": 11582.4,
+    "category": 1,
+    "geo_altitude": 11643.36,
+    "keys": [
+        "icao24",
+        "callsign",
+        "origin_country",
+        "time_position",
+        "last_contact",
+        "longitude",
+        "latitude",
+        "baro_altitude",
+        "on_ground",
+        "velocity",
+        "true_track",
+        "vertical_rate",
+        "sensors",
+        "geo_altitude",
+        "squawk",
+        "spi",
+        "position_source",
+        "category"
+    ],
+    "last_contact": 1681350682,
+    "latitude": 50.8026,
+    "longitude": 49.6146,
+    "on_ground": false,
+    "origin_country": "United Arab Emirates",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1681350682,
+    "true_track": 351.75,
+    "velocity": 240.16,
+    "vertical_rate": 0
+}

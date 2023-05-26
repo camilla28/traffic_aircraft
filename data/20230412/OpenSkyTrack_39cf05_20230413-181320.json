@@ -1,0 +1,92 @@
+{
+    "callsign": "AFR217  ",
+    "endTime": "2023/04/13-18:13:07",
+    "icao24": "39cf05",
+    "path": [
+        [
+            1681420249,
+            19.0888,
+            72.8727,
+            0,
+            269,
+            false
+        ],
+        [
+            1681420283,
+            19.088,
+            72.8468,
+            0,
+            267,
+            false
+        ],
+        [
+            1681420302,
+            19.0873,
+            72.8313,
+            304,
+            267,
+            false
+        ],
+        [
+            1681420370,
+            19.0868,
+            72.767,
+            609,
+            270,
+            false
+        ],
+        [
+            1681420378,
+            19.0874,
+            72.7571,
+            609,
+            275,
+            false
+        ],
+        [
+            1681420387,
+            19.0886,
+            72.7471,
+            609,
+            277,
+            false
+        ]
+    ],
+    "startTime": "2023/04/13-18:10:49",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "callsign",
+        "origin_country",
+        "time_position",
+        "last_contact",
+        "longitude",
+        "latitude",
+        "baro_altitude",
+        "on_ground",
+        "velocity",
+        "true_track",
+        "vertical_rate",
+        "sensors",
+        "geo_altitude",
+        "squawk",
+        "spi",
+        "position_source",
+        "category"
+    ],
+    "last_contact": 1681419349,
+    "latitude": 19.0957,
+    "longitude": 72.8705,
+    "on_ground": true,
+    "origin_country": "France",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1681419349,
+    "true_track": 225,
+    "velocity": 0.64,
+    "vertical_rate": null
+}

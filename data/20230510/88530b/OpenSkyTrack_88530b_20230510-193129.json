@@ -1,0 +1,96 @@
+{
+    "callsign": "THD314  ",
+    "endTime": "2023/05/10-19:31:21",
+    "icao24": "88530b",
+    "path": [
+        [
+            1683757774,
+            14.4772,
+            99.824,
+            7010,
+            117,
+            false
+        ],
+        [
+            1683757774,
+            14.4772,
+            99.824,
+            7010,
+            117,
+            false
+        ],
+        [
+            1683757794,
+            14.4606,
+            99.8571,
+            6705,
+            116,
+            false
+        ],
+        [
+            1683757852,
+            14.4141,
+            99.9507,
+            6400,
+            117,
+            false
+        ],
+        [
+            1683757875,
+            14.3967,
+            99.9852,
+            6096,
+            117,
+            false
+        ],
+        [
+            1683757881,
+            14.3919,
+            99.9948,
+            5791,
+            117,
+            false
+        ]
+    ],
+    "startTime": "2023/05/10-19:29:34",
+    "baro_altitude": 7124.7,
+    "category": 1,
+    "geo_altitude": 7620,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1683757757,
+    "latitude": 14.4931,
+    "longitude": 99.7921,
+    "on_ground": false,
+    "origin_country": "Thailand",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1683757756,
+    "true_track": 114.72,
+    "velocity": 221.44,
+    "vertical_rate": -5.2,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1683757774,
+    "lastSeen": 1683757881
+}

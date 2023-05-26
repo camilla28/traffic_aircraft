@@ -1,0 +1,76 @@
+{
+    "callsign": "",
+    "endTime": "2023/04/12-22:53:40",
+    "icao24": "7041c1",
+    "path": [
+        [
+            1681349141,
+            13.9458,
+            97.936,
+            11277,
+            146,
+            false
+        ],
+        [
+            1681349150,
+            13.9316,
+            97.9457,
+            11277,
+            146,
+            false
+        ],
+        [
+            1681350592,
+            11.8665,
+            99.3459,
+            11277,
+            146,
+            false
+        ],
+        [
+            1681350820,
+            11.7051,
+            99.4542,
+            11277,
+            146,
+            false
+        ]
+    ],
+    "startTime": "2023/04/12-22:25:41",
+    "baro_altitude": 11277.6,
+    "category": 1,
+    "geo_altitude": 12009.12,
+    "keys": [
+        "icao24",
+        "callsign",
+        "origin_country",
+        "time_position",
+        "last_contact",
+        "longitude",
+        "latitude",
+        "baro_altitude",
+        "on_ground",
+        "velocity",
+        "true_track",
+        "vertical_rate",
+        "sensors",
+        "geo_altitude",
+        "squawk",
+        "spi",
+        "position_source",
+        "category"
+    ],
+    "last_contact": 1681350680,
+    "latitude": 11.7931,
+    "longitude": 99.3954,
+    "on_ground": false,
+    "origin_country": "Myanmar",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1681350680,
+    "true_track": 146.5,
+    "velocity": 217.16,
+    "vertical_rate": 0.33
+}

@@ -1,0 +1,84 @@
+{
+    "callsign": "SXS6P   ",
+    "endTime": "2023/04/12-23:01:03",
+    "icao24": "4bce09",
+    "path": [
+        [
+            1681348917,
+            42.1094,
+            32.8914,
+            10972,
+            285,
+            false
+        ],
+        [
+            1681349391,
+            42.3558,
+            31.6446,
+            10972,
+            284,
+            false
+        ],
+        [
+            1681349981,
+            42.7392,
+            30.1823,
+            10972,
+            310,
+            false
+        ],
+        [
+            1681350636,
+            43.5459,
+            28.8603,
+            10972,
+            308,
+            false
+        ],
+        [
+            1681351263,
+            44.2277,
+            27.6167,
+            10972,
+            306,
+            false
+        ]
+    ],
+    "startTime": "2023/04/12-22:21:57",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": 10774.68,
+    "keys": [
+        "icao24",
+        "callsign",
+        "origin_country",
+        "time_position",
+        "last_contact",
+        "longitude",
+        "latitude",
+        "baro_altitude",
+        "on_ground",
+        "velocity",
+        "true_track",
+        "vertical_rate",
+        "sensors",
+        "geo_altitude",
+        "squawk",
+        "spi",
+        "position_source",
+        "category"
+    ],
+    "last_contact": 1681350682,
+    "latitude": 43.5997,
+    "longitude": 28.77,
+    "on_ground": false,
+    "origin_country": "Turkey",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1681350681,
+    "true_track": 309.28,
+    "velocity": 208.02,
+    "vertical_rate": 0.33
+}

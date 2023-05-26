@@ -1,0 +1,68 @@
+{
+    "callsign": "BBC339  ",
+    "endTime": "2023/04/13-17:58:10",
+    "icao24": "70204a",
+    "path": [
+        [
+            1681418184,
+            22.9637,
+            88.2412,
+            10972,
+            273,
+            false
+        ],
+        [
+            1681419079,
+            23.0207,
+            87.0894,
+            10972,
+            272,
+            false
+        ],
+        [
+            1681419490,
+            23.0229,
+            87.0411,
+            10972,
+            272,
+            false
+        ]
+    ],
+    "startTime": "2023/04/13-17:36:24",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": 11536.68,
+    "keys": [
+        "icao24",
+        "callsign",
+        "origin_country",
+        "time_position",
+        "last_contact",
+        "longitude",
+        "latitude",
+        "baro_altitude",
+        "on_ground",
+        "velocity",
+        "true_track",
+        "vertical_rate",
+        "sensors",
+        "geo_altitude",
+        "squawk",
+        "spi",
+        "position_source",
+        "category"
+    ],
+    "last_contact": 1681419354,
+    "latitude": 23.0227,
+    "longitude": 87.0451,
+    "on_ground": false,
+    "origin_country": "Bangladesh",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "4711",
+    "time_position": 1681419354,
+    "true_track": 272.86,
+    "velocity": 227.15,
+    "vertical_rate": 0
+}

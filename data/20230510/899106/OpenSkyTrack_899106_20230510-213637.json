@@ -1,0 +1,184 @@
+{
+    "callsign": "CAL5583 ",
+    "endTime": "2023/05/10-21:10:17",
+    "icao24": "899106",
+    "path": [
+        [
+            1683763230,
+            5.4583,
+            100.4057,
+            1219,
+            2,
+            false
+        ],
+        [
+            1683763238,
+            5.469,
+            100.4046,
+            1219,
+            347,
+            false
+        ],
+        [
+            1683763246,
+            5.4795,
+            100.401,
+            1524,
+            337,
+            false
+        ],
+        [
+            1683763248,
+            5.4809,
+            100.4003,
+            1524,
+            332,
+            false
+        ],
+        [
+            1683763260,
+            5.494,
+            100.3904,
+            1524,
+            316,
+            false
+        ],
+        [
+            1683763263,
+            5.4977,
+            100.3861,
+            1524,
+            308,
+            false
+        ],
+        [
+            1683763271,
+            5.5036,
+            100.3782,
+            1828,
+            306,
+            false
+        ],
+        [
+            1683763278,
+            5.509,
+            100.3705,
+            1828,
+            304,
+            false
+        ],
+        [
+            1683763286,
+            5.5159,
+            100.36,
+            1828,
+            302,
+            false
+        ],
+        [
+            1683763314,
+            5.537,
+            100.3269,
+            2133,
+            302,
+            false
+        ],
+        [
+            1683763338,
+            5.5556,
+            100.2985,
+            2438,
+            303,
+            false
+        ],
+        [
+            1683763357,
+            5.5702,
+            100.277,
+            2743,
+            304,
+            false
+        ],
+        [
+            1683763400,
+            5.6069,
+            100.2247,
+            3048,
+            305,
+            false
+        ],
+        [
+            1683763433,
+            5.6367,
+            100.1824,
+            3352,
+            304,
+            false
+        ],
+        [
+            1683763462,
+            5.6643,
+            100.1426,
+            3657,
+            304,
+            false
+        ],
+        [
+            1683763462,
+            5.6643,
+            100.1426,
+            3657,
+            334,
+            false
+        ],
+        [
+            1683763817,
+            6.2682,
+            99.7869,
+            6705,
+            334,
+            false
+        ]
+    ],
+    "startTime": "2023/05/10-21:00:30",
+    "baro_altitude": 6797.04,
+    "category": 1,
+    "geo_altitude": 4046.22,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1683763817,
+    "latitude": 6.2682,
+    "longitude": 99.7869,
+    "on_ground": false,
+    "origin_country": "Taiwan",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1683763817,
+    "true_track": 334.27,
+    "velocity": 238.14,
+    "vertical_rate": 7.15,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 19,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "WMKB",
+    "estDepartureAirportHorizDistance": 1797,
+    "estDepartureAirportVertDistance": 1368,
+    "firstSeen": 1683763230,
+    "lastSeen": 1683763817
+}
