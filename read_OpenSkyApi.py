@@ -20,8 +20,8 @@ api = OpenSkyApi(username="Camillas97", password="PEE3028")
 
 def get_states():
     # bbox = (min latitude, max latitude, min longitude, max longitude)
-    # states = api.get_states(bbox=(45.8389, 47.8229, 5.9962, 10.5226))
-    states = api.get_states(bbox=(-20, 60, 20, 100))
+    states = api.get_states(bbox=(45.8389, 47.8229, 5.9962, 10.5226))
+    #states = api.get_states(bbox=(-20, 60, 20, 100))
 
     for s in states.states:
         #print(states)
@@ -39,12 +39,6 @@ def get_states():
             # if the demo_folder directory is not present 
             # then create it.
             os.makedirs("data\\"+datestr)
-
-        if not os.path.exists("data\\"+datestr+"\\"+icao24):
-            
-            # if the demo_folder directory is not present 
-            # then create it.
-            os.makedirs("data\\"+datestr+"\\"+icao24)
             
         #icao24 = "4b1815"
         track = jsons.dump(api.get_track_by_aircraft(icao24))

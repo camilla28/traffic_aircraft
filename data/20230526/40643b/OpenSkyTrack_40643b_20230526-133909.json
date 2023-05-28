@@ -1,0 +1,96 @@
+{
+    "callsign": "EZY39XL ",
+    "endTime": "2023/05/26-13:39:02",
+    "icao24": "40643b",
+    "path": [
+        [
+            1685119041,
+            47.6055,
+            7.5184,
+            0,
+            335,
+            false
+        ],
+        [
+            1685119046,
+            47.6093,
+            7.5158,
+            0,
+            333,
+            false
+        ],
+        [
+            1685119118,
+            47.6576,
+            7.4817,
+            609,
+            335,
+            false
+        ],
+        [
+            1685119129,
+            47.6669,
+            7.4755,
+            914,
+            335,
+            false
+        ],
+        [
+            1685119137,
+            47.6743,
+            7.4704,
+            914,
+            330,
+            false
+        ],
+        [
+            1685119142,
+            47.68,
+            7.4649,
+            914,
+            323,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-13:37:21",
+    "baro_altitude": 190.5,
+    "category": 1,
+    "geo_altitude": 312.42,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685119045,
+    "latitude": 47.6069,
+    "longitude": 7.5174,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1685119043,
+    "true_track": 335.05,
+    "velocity": 81.71,
+    "vertical_rate": 4.23,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 129,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSZM",
+    "estDepartureAirportHorizDistance": 1804,
+    "estDepartureAirportVertDistance": 64,
+    "firstSeen": 1685119041,
+    "lastSeen": 1685119142
+}

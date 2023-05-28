@@ -1,0 +1,136 @@
+{
+    "callsign": "SWR7KN  ",
+    "endTime": "2023/05/26-13:31:04",
+    "icao24": "4b17f9",
+    "path": [
+        [
+            1685115815,
+            51.4646,
+            6.5916,
+            7620,
+            140,
+            false
+        ],
+        [
+            1685115815,
+            51.4646,
+            6.5916,
+            7620,
+            140,
+            false
+        ],
+        [
+            1685116397,
+            50.3489,
+            7.8269,
+            10363,
+            156,
+            false
+        ],
+        [
+            1685116397,
+            50.3489,
+            7.8269,
+            10363,
+            156,
+            false
+        ],
+        [
+            1685116646,
+            50.1589,
+            7.9543,
+            10363,
+            143,
+            false
+        ],
+        [
+            1685116646,
+            50.1589,
+            7.9543,
+            10363,
+            143,
+            false
+        ],
+        [
+            1685116936,
+            49.3858,
+            8.2771,
+            9753,
+            173,
+            false
+        ],
+        [
+            1685117642,
+            48.0542,
+            8.4958,
+            5791,
+            173,
+            false
+        ],
+        [
+            1685117896,
+            49.2356,
+            8.3023,
+            9144,
+            293,
+            false
+        ],
+        [
+            1685118332,
+            48.6689,
+            8.3963,
+            6705,
+            173,
+            false
+        ],
+        [
+            1685118664,
+            48.752,
+            8.3826,
+            6705,
+            173,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-12:43:35",
+    "baro_altitude": null,
+    "category": 4,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685119535,
+    "latitude": 47.4552,
+    "longitude": 8.5563,
+    "on_ground": true,
+    "origin_country": "Switzerland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1685119535,
+    "true_track": 275.62,
+    "velocity": 10.8,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDLC",
+    "estDepartureAirportHorizDistance": 8141,
+    "estDepartureAirportVertDistance": 7876,
+    "firstSeen": 1685115815,
+    "lastSeen": 1685118664
+}

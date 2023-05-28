@@ -1,0 +1,96 @@
+{
+    "callsign": "JDI19J  ",
+    "endTime": "2023/05/26-13:37:18",
+    "icao24": "488d61",
+    "path": [
+        [
+            1685117990,
+            45.538,
+            9.2386,
+            1219,
+            341,
+            false
+        ],
+        [
+            1685117990,
+            45.538,
+            9.2386,
+            1219,
+            341,
+            false
+        ],
+        [
+            1685118443,
+            46.0014,
+            9.0615,
+            5791,
+            355,
+            false
+        ],
+        [
+            1685118538,
+            46.3074,
+            9.0234,
+            5791,
+            355,
+            false
+        ],
+        [
+            1685118955,
+            47.0929,
+            8.9936,
+            10363,
+            6,
+            false
+        ],
+        [
+            1685119038,
+            47.2598,
+            9.0224,
+            10363,
+            6,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-13:19:50",
+    "baro_altitude": 10363.2,
+    "category": 1,
+    "geo_altitude": 10706.1,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685119038,
+    "latitude": 47.2598,
+    "longitude": 9.0224,
+    "on_ground": false,
+    "origin_country": "Poland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1685119038,
+    "true_track": 6.65,
+    "velocity": 231,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 61,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LIMB",
+    "estDepartureAirportHorizDistance": 2784,
+    "estDepartureAirportVertDistance": 1300,
+    "firstSeen": 1685117990,
+    "lastSeen": 1685119038
+}

@@ -1,0 +1,128 @@
+{
+    "callsign": "NJE107R ",
+    "endTime": "2023/05/26-13:54:33",
+    "icao24": "494116",
+    "path": [
+        [
+            1685117642,
+            51.8316,
+            5.1732,
+            609,
+            141,
+            false
+        ],
+        [
+            1685117642,
+            51.8316,
+            5.1732,
+            609,
+            141,
+            false
+        ],
+        [
+            1685117895,
+            51.4926,
+            5.3223,
+            5486,
+            164,
+            false
+        ],
+        [
+            1685118320,
+            50.752,
+            5.696,
+            10363,
+            169,
+            false
+        ],
+        [
+            1685118320,
+            50.752,
+            5.696,
+            10363,
+            169,
+            false
+        ],
+        [
+            1685118651,
+            50.5105,
+            5.8403,
+            10972,
+            41,
+            false
+        ],
+        [
+            1685118651,
+            50.5105,
+            5.8403,
+            10972,
+            41,
+            false
+        ],
+        [
+            1685119451,
+            48.7864,
+            6.5511,
+            13106,
+            177,
+            false
+        ],
+        [
+            1685119989,
+            47.5742,
+            6.6426,
+            13106,
+            174,
+            false
+        ],
+        [
+            1685120073,
+            47.4162,
+            6.6649,
+            13106,
+            174,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-13:14:02",
+    "baro_altitude": 13106.4,
+    "category": 0,
+    "geo_altitude": 13411.2,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685120043,
+    "latitude": 47.4725,
+    "longitude": 6.6571,
+    "on_ground": false,
+    "origin_country": "Portugal",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1685120043,
+    "true_track": 174.59,
+    "velocity": 212.9,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 87,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EHDB",
+    "estDepartureAirportHorizDistance": 29797,
+    "estDepartureAirportVertDistance": 906,
+    "firstSeen": 1685117642,
+    "lastSeen": 1685120073
+}

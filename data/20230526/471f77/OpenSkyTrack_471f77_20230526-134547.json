@@ -1,0 +1,88 @@
+{
+    "callsign": "WZZ4AP  ",
+    "endTime": "2023/05/26-13:45:42",
+    "icao24": "471f77",
+    "path": [
+        [
+            1685119450,
+            47.6783,
+            9.5294,
+            304,
+            59,
+            false
+        ],
+        [
+            1685119477,
+            47.6886,
+            9.5553,
+            609,
+            59,
+            false
+        ],
+        [
+            1685119523,
+            47.709,
+            9.6077,
+            914,
+            60,
+            false
+        ],
+        [
+            1685119532,
+            47.7128,
+            9.6212,
+            1219,
+            74,
+            false
+        ],
+        [
+            1685119542,
+            47.714,
+            9.6359,
+            1219,
+            86,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-13:44:10",
+    "baro_altitude": 1371.6,
+    "category": 4,
+    "geo_altitude": 1501.14,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685119536,
+    "latitude": 47.7134,
+    "longitude": 9.6263,
+    "on_ground": false,
+    "origin_country": "Hungary",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2777",
+    "time_position": 1685119536,
+    "true_track": 79.83,
+    "velocity": 116.55,
+    "vertical_rate": 14.96,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 126,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDNY",
+    "estDepartureAirportHorizDistance": 1046,
+    "estDepartureAirportVertDistance": 71,
+    "firstSeen": 1685119450,
+    "lastSeen": 1685119542
+}

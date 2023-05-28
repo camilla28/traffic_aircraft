@@ -1,0 +1,144 @@
+{
+    "callsign": "RYR86EY ",
+    "endTime": "2023/05/26-11:49:55",
+    "icao24": "4d2383",
+    "path": [
+        [
+            1685112106,
+            45.7024,
+            9.2214,
+            3352,
+            298,
+            false
+        ],
+        [
+            1685112210,
+            45.7041,
+            9.2169,
+            3352,
+            298,
+            false
+        ],
+        [
+            1685112292,
+            45.8815,
+            8.748,
+            5791,
+            298,
+            false
+        ],
+        [
+            1685112331,
+            45.9147,
+            8.6592,
+            6096,
+            298,
+            false
+        ],
+        [
+            1685112363,
+            45.9419,
+            8.5865,
+            6400,
+            298,
+            false
+        ],
+        [
+            1685112394,
+            45.9693,
+            8.5139,
+            6705,
+            299,
+            false
+        ],
+        [
+            1685112432,
+            46.0032,
+            8.4283,
+            7010,
+            299,
+            false
+        ],
+        [
+            1685112464,
+            46.0336,
+            8.3516,
+            7315,
+            299,
+            false
+        ],
+        [
+            1685112500,
+            46.0661,
+            8.2686,
+            7620,
+            299,
+            false
+        ],
+        [
+            1685112538,
+            46.1022,
+            8.1759,
+            7924,
+            299,
+            false
+        ],
+        [
+            1685112585,
+            46.1474,
+            8.0596,
+            8229,
+            299,
+            false
+        ],
+        [
+            1685112595,
+            46.1572,
+            8.0344,
+            8534,
+            299,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-11:41:46",
+    "baro_altitude": 7193.28,
+    "category": 0,
+    "geo_altitude": 7490.46,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685112418,
+    "latitude": 45.9907,
+    "longitude": 8.4597,
+    "on_ground": false,
+    "origin_country": "Malta",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5775",
+    "time_position": 1685112418,
+    "true_track": 299.76,
+    "velocity": 206.23,
+    "vertical_rate": 8.45,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LILB",
+    "estDepartureAirportHorizDistance": 70013,
+    "estDepartureAirportVertDistance": 3197,
+    "firstSeen": 1685112106,
+    "lastSeen": 1685112595
+}

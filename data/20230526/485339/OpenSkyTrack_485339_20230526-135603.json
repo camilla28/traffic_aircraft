@@ -1,0 +1,112 @@
+{
+    "callsign": "CND993  ",
+    "endTime": "2023/05/26-13:55:55",
+    "icao24": "485339",
+    "path": [
+        [
+            1685118674,
+            50.4071,
+            7.5757,
+            10668,
+            2,
+            false
+        ],
+        [
+            1685119059,
+            50.1262,
+            7.8335,
+            6096,
+            136,
+            false
+        ],
+        [
+            1685119059,
+            50.1262,
+            7.8335,
+            6096,
+            136,
+            false
+        ],
+        [
+            1685119450,
+            48.6962,
+            9.2051,
+            10668,
+            142,
+            false
+        ],
+        [
+            1685119469,
+            48.6644,
+            9.2418,
+            10668,
+            142,
+            false
+        ],
+        [
+            1685119719,
+            48.2327,
+            9.7341,
+            10668,
+            143,
+            false
+        ],
+        [
+            1685119784,
+            48.122,
+            9.858,
+            10972,
+            143,
+            false
+        ],
+        [
+            1685120155,
+            47.4854,
+            10.5592,
+            11277,
+            143,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-13:31:14",
+    "baro_altitude": 11277.6,
+    "category": 1,
+    "geo_altitude": 11605.26,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685120043,
+    "latitude": 47.6796,
+    "longitude": 10.3477,
+    "on_ground": false,
+    "origin_country": "Kingdom of the Netherlands",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3142",
+    "time_position": 1685120043,
+    "true_track": 143.6,
+    "velocity": 238.4,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDRK",
+    "estDepartureAirportHorizDistance": 9663,
+    "estDepartureAirportVertDistance": 10472,
+    "firstSeen": 1685118674,
+    "lastSeen": 1685120155
+}

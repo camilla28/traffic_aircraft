@@ -1,0 +1,96 @@
+{
+    "callsign": "MINTY   ",
+    "endTime": "2023/05/26-11:18:38",
+    "icao24": "43ea70",
+    "path": [
+        [
+            1685110249,
+            46.2409,
+            6.1131,
+            304,
+            47,
+            false
+        ],
+        [
+            1685110249,
+            46.2409,
+            6.1131,
+            304,
+            47,
+            false
+        ],
+        [
+            1685110484,
+            46.3457,
+            6.3888,
+            3657,
+            134,
+            false
+        ],
+        [
+            1685110495,
+            46.339,
+            6.3971,
+            3657,
+            139,
+            false
+        ],
+        [
+            1685110518,
+            46.3267,
+            6.4117,
+            3657,
+            140,
+            false
+        ],
+        [
+            1685110718,
+            46.2773,
+            6.4691,
+            3962,
+            141,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-11:10:49",
+    "baro_altitude": 4229.1,
+    "category": 3,
+    "geo_altitude": 4465.32,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685110659,
+    "latitude": 46.2815,
+    "longitude": 6.4641,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1685110655,
+    "true_track": 141.29,
+    "velocity": 169.44,
+    "vertical_rate": 7.48,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 104,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSGG",
+    "estDepartureAirportHorizDistance": 451,
+    "estDepartureAirportVertDistance": 56,
+    "firstSeen": 1685110249,
+    "lastSeen": 1685110718
+}

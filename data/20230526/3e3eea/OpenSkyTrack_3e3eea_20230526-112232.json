@@ -1,0 +1,136 @@
+{
+    "callsign": "DIPAG   ",
+    "endTime": "2023/05/26-11:22:24",
+    "icao24": "3e3eea",
+    "path": [
+        [
+            1685107547,
+            51.7362,
+            7.6519,
+            7315,
+            229,
+            false
+        ],
+        [
+            1685107547,
+            51.7362,
+            7.6519,
+            7315,
+            229,
+            false
+        ],
+        [
+            1685108768,
+            50.4956,
+            6.7165,
+            9753,
+            198,
+            false
+        ],
+        [
+            1685108768,
+            50.4956,
+            6.7165,
+            9753,
+            198,
+            false
+        ],
+        [
+            1685109110,
+            49.3733,
+            6.4031,
+            10058,
+            182,
+            false
+        ],
+        [
+            1685109999,
+            48.1195,
+            6.3123,
+            10058,
+            182,
+            false
+        ],
+        [
+            1685110359,
+            47.619,
+            6.2771,
+            10058,
+            182,
+            false
+        ],
+        [
+            1685110467,
+            47.4698,
+            6.2645,
+            10058,
+            186,
+            false
+        ],
+        [
+            1685110559,
+            47.3405,
+            6.2443,
+            10058,
+            185,
+            false
+        ],
+        [
+            1685110696,
+            47.1522,
+            6.215,
+            10058,
+            186,
+            false
+        ],
+        [
+            1685110944,
+            46.8117,
+            6.1619,
+            10058,
+            185,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-10:25:47",
+    "baro_altitude": 10058.4,
+    "category": 0,
+    "geo_altitude": 10393.68,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685110659,
+    "latitude": 47.2028,
+    "longitude": 6.2229,
+    "on_ground": false,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1130",
+    "time_position": 1685110659,
+    "true_track": 186.15,
+    "velocity": 153.67,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDLH",
+    "estDepartureAirportHorizDistance": 12436,
+    "estDepartureAirportVertDistance": 7478,
+    "firstSeen": 1685107547,
+    "lastSeen": 1685110944
+}

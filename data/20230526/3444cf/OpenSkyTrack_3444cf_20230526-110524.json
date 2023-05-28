@@ -1,0 +1,128 @@
+{
+    "callsign": "VLG2469 ",
+    "endTime": "2023/05/26-11:05:06",
+    "icao24": "3444cf",
+    "path": [
+        [
+            1685108621,
+            49.387,
+            11.2398,
+            2133,
+            190,
+            false
+        ],
+        [
+            1685108632,
+            49.3864,
+            11.2396,
+            2133,
+            190,
+            false
+        ],
+        [
+            1685109110,
+            48.5787,
+            9.3995,
+            9448,
+            224,
+            false
+        ],
+        [
+            1685109119,
+            48.5648,
+            9.3788,
+            9448,
+            224,
+            false
+        ],
+        [
+            1685109172,
+            48.4856,
+            9.2608,
+            9753,
+            224,
+            false
+        ],
+        [
+            1685109221,
+            48.4127,
+            9.1528,
+            10058,
+            224,
+            false
+        ],
+        [
+            1685109271,
+            48.3395,
+            9.0448,
+            10363,
+            224,
+            false
+        ],
+        [
+            1685109319,
+            48.2684,
+            8.9403,
+            10668,
+            224,
+            false
+        ],
+        [
+            1685109390,
+            48.1642,
+            8.7873,
+            10972,
+            224,
+            false
+        ],
+        [
+            1685109906,
+            47.4059,
+            7.7044,
+            11277,
+            223,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-10:43:41",
+    "baro_altitude": 11285.22,
+    "category": 1,
+    "geo_altitude": 11635.74,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685109653,
+    "latitude": 47.7738,
+    "longitude": 8.2242,
+    "on_ground": false,
+    "origin_country": "Spain",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "6653",
+    "time_position": 1685109653,
+    "true_track": 223.73,
+    "velocity": 230.68,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 145,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDDN",
+    "estDepartureAirportHorizDistance": 17056,
+    "estDepartureAirportVertDistance": 1868,
+    "firstSeen": 1685108621,
+    "lastSeen": 1685109906
+}

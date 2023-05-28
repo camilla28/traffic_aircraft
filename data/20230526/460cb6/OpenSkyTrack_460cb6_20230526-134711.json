@@ -1,0 +1,296 @@
+{
+    "callsign": "FSF273T ",
+    "endTime": "2023/05/26-13:46:59",
+    "icao24": "460cb6",
+    "path": [
+        [
+            1685119056,
+            46.8625,
+            6.9495,
+            609,
+            70,
+            false
+        ],
+        [
+            1685119062,
+            46.8631,
+            6.9541,
+            609,
+            83,
+            false
+        ],
+        [
+            1685119070,
+            46.8628,
+            6.962,
+            609,
+            98,
+            false
+        ],
+        [
+            1685119086,
+            46.8626,
+            6.9639,
+            609,
+            99,
+            false
+        ],
+        [
+            1685119099,
+            46.8559,
+            6.9889,
+            914,
+            115,
+            false
+        ],
+        [
+            1685119112,
+            46.8518,
+            7.001,
+            914,
+            116,
+            false
+        ],
+        [
+            1685119142,
+            46.8436,
+            7.0259,
+            1219,
+            116,
+            false
+        ],
+        [
+            1685119180,
+            46.8334,
+            7.057,
+            1524,
+            115,
+            false
+        ],
+        [
+            1685119213,
+            46.8247,
+            7.0844,
+            1828,
+            116,
+            false
+        ],
+        [
+            1685119214,
+            46.8242,
+            7.0857,
+            1828,
+            118,
+            false
+        ],
+        [
+            1685119234,
+            46.8144,
+            7.0976,
+            2133,
+            166,
+            false
+        ],
+        [
+            1685119238,
+            46.8115,
+            7.0981,
+            2133,
+            181,
+            false
+        ],
+        [
+            1685119245,
+            46.8067,
+            7.0966,
+            2133,
+            203,
+            false
+        ],
+        [
+            1685119249,
+            46.804,
+            7.0943,
+            2133,
+            217,
+            false
+        ],
+        [
+            1685119255,
+            46.8012,
+            7.0902,
+            2133,
+            232,
+            false
+        ],
+        [
+            1685119260,
+            46.7995,
+            7.0856,
+            2133,
+            247,
+            false
+        ],
+        [
+            1685119267,
+            46.7984,
+            7.0779,
+            2438,
+            268,
+            false
+        ],
+        [
+            1685119274,
+            46.7991,
+            7.07,
+            2438,
+            285,
+            false
+        ],
+        [
+            1685119281,
+            46.8008,
+            7.0637,
+            2438,
+            293,
+            false
+        ],
+        [
+            1685119294,
+            46.8043,
+            7.0521,
+            2438,
+            294,
+            false
+        ],
+        [
+            1685119333,
+            46.814,
+            7.0187,
+            2743,
+            293,
+            false
+        ],
+        [
+            1685119340,
+            46.8162,
+            7.0103,
+            3048,
+            292,
+            false
+        ],
+        [
+            1685119345,
+            46.817,
+            7.0068,
+            2743,
+            289,
+            false
+        ],
+        [
+            1685119353,
+            46.8177,
+            7.0034,
+            3048,
+            289,
+            false
+        ],
+        [
+            1685119359,
+            46.8179,
+            7.0024,
+            3048,
+            286,
+            false
+        ],
+        [
+            1685119374,
+            46.8192,
+            6.9959,
+            3048,
+            285,
+            false
+        ],
+        [
+            1685119435,
+            46.8229,
+            6.9795,
+            3048,
+            289,
+            false
+        ],
+        [
+            1685119469,
+            46.8237,
+            6.976,
+            3048,
+            289,
+            false
+        ],
+        [
+            1685119542,
+            46.8674,
+            6.7992,
+            4267,
+            289,
+            false
+        ],
+        [
+            1685119590,
+            46.8801,
+            6.7475,
+            4572,
+            289,
+            false
+        ],
+        [
+            1685119619,
+            46.8882,
+            6.7146,
+            4876,
+            289,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-13:37:36",
+    "baro_altitude": 4488.18,
+    "category": 0,
+    "geo_altitude": 4732.02,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685119536,
+    "latitude": 46.8656,
+    "longitude": 6.8064,
+    "on_ground": false,
+    "origin_country": "Finland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5767",
+    "time_position": 1685119535,
+    "true_track": 289.61,
+    "velocity": 87.38,
+    "vertical_rate": 7.15,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 114,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSMP",
+    "estDepartureAirportHorizDistance": 3043,
+    "estDepartureAirportVertDistance": 307,
+    "firstSeen": 1685119056,
+    "lastSeen": 1685119619
+}

@@ -1,0 +1,96 @@
+{
+    "callsign": "TVS2400 ",
+    "endTime": "2023/05/26-11:03:48",
+    "icao24": "49d2b7",
+    "path": [
+        [
+            1685108768,
+            48.668,
+            4.9778,
+            9753,
+            111,
+            false
+        ],
+        [
+            1685108768,
+            48.668,
+            4.9778,
+            9753,
+            111,
+            false
+        ],
+        [
+            1685109110,
+            47.9835,
+            7.2467,
+            11277,
+            121,
+            false
+        ],
+        [
+            1685109211,
+            47.8752,
+            7.507,
+            11277,
+            121,
+            false
+        ],
+        [
+            1685109349,
+            47.7269,
+            7.8596,
+            11277,
+            122,
+            false
+        ],
+        [
+            1685109828,
+            47.2033,
+            9.0681,
+            11277,
+            123,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-10:46:08",
+    "baro_altitude": 11277.6,
+    "category": 1,
+    "geo_altitude": 11612.88,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685109653,
+    "latitude": 47.3955,
+    "longitude": 8.6307,
+    "on_ground": false,
+    "origin_country": "Czech Republic",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5620",
+    "time_position": 1685109653,
+    "true_track": 122.72,
+    "velocity": 227.47,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFSI",
+    "estDepartureAirportHorizDistance": 6768,
+    "estDepartureAirportVertDistance": 9629,
+    "firstSeen": 1685108768,
+    "lastSeen": 1685109828
+}

@@ -1,0 +1,112 @@
+{
+    "callsign": "N53235  ",
+    "endTime": "2023/05/26-11:32:49",
+    "icao24": "a6baba",
+    "path": [
+        [
+            1685111461,
+            47.6709,
+            9.5103,
+            304,
+            60,
+            false
+        ],
+        [
+            1685111473,
+            47.6736,
+            9.5171,
+            304,
+            59,
+            false
+        ],
+        [
+            1685111483,
+            47.6762,
+            9.523,
+            304,
+            55,
+            false
+        ],
+        [
+            1685111491,
+            47.6788,
+            9.5284,
+            304,
+            53,
+            false
+        ],
+        [
+            1685111501,
+            47.6824,
+            9.5353,
+            609,
+            54,
+            false
+        ],
+        [
+            1685111531,
+            47.6915,
+            9.5544,
+            609,
+            55,
+            false
+        ],
+        [
+            1685111558,
+            47.7,
+            9.5723,
+            914,
+            53,
+            false
+        ],
+        [
+            1685111569,
+            47.7041,
+            9.5801,
+            914,
+            51,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-11:31:01",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685111327,
+    "latitude": 47.6666,
+    "longitude": 9.5062,
+    "on_ground": true,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1685111323,
+    "true_track": 233.44,
+    "velocity": 10.29,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 128,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDNY",
+    "estDepartureAirportHorizDistance": 793,
+    "estDepartureAirportVertDistance": 43,
+    "firstSeen": 1685111461,
+    "lastSeen": 1685111569
+}

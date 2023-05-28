@@ -1,0 +1,104 @@
+{
+    "callsign": "HHN220  ",
+    "endTime": "2023/05/26-11:03:35",
+    "icao24": "3cd43b",
+    "path": [
+        [
+            1685107873,
+            49.8945,
+            6.4476,
+            10668,
+            168,
+            false
+        ],
+        [
+            1685107873,
+            49.8945,
+            6.4476,
+            10668,
+            168,
+            false
+        ],
+        [
+            1685109119,
+            47.29,
+            6.3165,
+            12496,
+            187,
+            false
+        ],
+        [
+            1685109455,
+            46.667,
+            6.1921,
+            12496,
+            187,
+            false
+        ],
+        [
+            1685109614,
+            46.3636,
+            6.132,
+            12496,
+            188,
+            false
+        ],
+        [
+            1685109625,
+            46.3433,
+            6.1264,
+            12496,
+            193,
+            false
+        ],
+        [
+            1685109815,
+            45.9919,
+            5.9967,
+            12496,
+            194,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-10:31:13",
+    "baro_altitude": 12496.8,
+    "category": 0,
+    "geo_altitude": 12801.6,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685109653,
+    "latitude": 46.2913,
+    "longitude": 6.1071,
+    "on_ground": false,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "4122",
+    "time_position": 1685109653,
+    "true_track": 194.4,
+    "velocity": 215.11,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDRB",
+    "estDepartureAirportHorizDistance": 10128,
+    "estDepartureAirportVertDistance": 10524,
+    "firstSeen": 1685107873,
+    "lastSeen": 1685109815
+}

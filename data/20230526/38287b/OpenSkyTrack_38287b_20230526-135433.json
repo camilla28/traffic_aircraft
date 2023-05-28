@@ -1,0 +1,136 @@
+{
+    "callsign": "FPFRG   ",
+    "endTime": "2023/05/26-13:54:22",
+    "icao24": "38287b",
+    "path": [
+        [
+            1685119471,
+            47.1141,
+            7.6213,
+            914,
+            154,
+            false
+        ],
+        [
+            1685119471,
+            47.1141,
+            7.6213,
+            914,
+            154,
+            false
+        ],
+        [
+            1685119510,
+            47.093,
+            7.6279,
+            914,
+            173,
+            false
+        ],
+        [
+            1685119510,
+            47.093,
+            7.6279,
+            914,
+            173,
+            false
+        ],
+        [
+            1685119510,
+            47.093,
+            7.6279,
+            1219,
+            173,
+            false
+        ],
+        [
+            1685119953,
+            46.8828,
+            7.7274,
+            1219,
+            -160,
+            false
+        ],
+        [
+            1685119953,
+            46.8828,
+            7.7274,
+            1219,
+            -160,
+            false
+        ],
+        [
+            1685120018,
+            46.8465,
+            7.7081,
+            1219,
+            -155,
+            false
+        ],
+        [
+            1685120029,
+            46.8406,
+            7.7031,
+            1219,
+            -149,
+            false
+        ],
+        [
+            1685120041,
+            46.8345,
+            7.6969,
+            1219,
+            -144,
+            false
+        ],
+        [
+            1685120062,
+            46.8242,
+            7.6847,
+            1219,
+            -143,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-13:44:31",
+    "baro_altitude": 1478.28,
+    "category": 2,
+    "geo_altitude": 1549,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685120043,
+    "latitude": 46.8335,
+    "longitude": 7.6958,
+    "on_ground": false,
+    "origin_country": "France",
+    "position_source": 3,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7000",
+    "time_position": 1685120043,
+    "true_track": -143.79,
+    "velocity": 70.08,
+    "vertical_rate": -1,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 121,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSPL",
+    "estDepartureAirportHorizDistance": 11868,
+    "estDepartureAirportVertDistance": 723,
+    "firstSeen": 1685119471,
+    "lastSeen": 1685120062
+}

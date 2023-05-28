@@ -1,0 +1,104 @@
+{
+    "callsign": "HBKPI   ",
+    "endTime": "2023/05/26-13:46:58",
+    "icao24": "4b1bf6",
+    "path": [
+        [
+            1685119442,
+            47.2107,
+            7.2338,
+            1524,
+            78,
+            false
+        ],
+        [
+            1685119469,
+            47.2129,
+            7.2518,
+            1524,
+            80,
+            false
+        ],
+        [
+            1685119493,
+            47.2145,
+            7.2681,
+            1524,
+            82,
+            false
+        ],
+        [
+            1685119514,
+            47.2157,
+            7.2831,
+            1524,
+            82,
+            false
+        ],
+        [
+            1685119522,
+            47.2164,
+            7.2889,
+            1524,
+            77,
+            false
+        ],
+        [
+            1685119532,
+            47.2176,
+            7.2959,
+            1524,
+            74,
+            false
+        ],
+        [
+            1685119618,
+            47.2291,
+            7.353,
+            1524,
+            73,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-13:44:02",
+    "baro_altitude": 1623.06,
+    "category": 0,
+    "geo_altitude": 1775.46,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685119535,
+    "latitude": 47.218,
+    "longitude": 7.298,
+    "on_ground": false,
+    "origin_country": "Switzerland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7000",
+    "time_position": 1685119535,
+    "true_track": 74.93,
+    "velocity": 55.41,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 117,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSZJ",
+    "estDepartureAirportHorizDistance": 10866,
+    "estDepartureAirportVertDistance": 1075,
+    "firstSeen": 1685119442,
+    "lastSeen": 1685119618
+}

@@ -1,0 +1,136 @@
+{
+    "callsign": "DHONY   ",
+    "endTime": "2023/05/26-13:06:37",
+    "icao24": "3df902",
+    "path": [
+        [
+            1685117062,
+            46.1116,
+            6.2738,
+            1219,
+            35,
+            false
+        ],
+        [
+            1685117072,
+            46.1146,
+            6.2768,
+            1219,
+            32,
+            false
+        ],
+        [
+            1685117090,
+            46.1204,
+            6.2818,
+            1219,
+            31,
+            false
+        ],
+        [
+            1685117099,
+            46.1231,
+            6.2845,
+            1219,
+            34,
+            false
+        ],
+        [
+            1685117115,
+            46.1281,
+            6.2896,
+            1219,
+            37,
+            false
+        ],
+        [
+            1685117154,
+            46.1401,
+            6.3033,
+            1219,
+            39,
+            false
+        ],
+        [
+            1685117161,
+            46.1419,
+            6.3057,
+            1219,
+            42,
+            false
+        ],
+        [
+            1685117169,
+            46.144,
+            6.3084,
+            1219,
+            45,
+            false
+        ],
+        [
+            1685117178,
+            46.1467,
+            6.3125,
+            1219,
+            46,
+            false
+        ],
+        [
+            1685117187,
+            46.1493,
+            6.3161,
+            1219,
+            41,
+            false
+        ],
+        [
+            1685117197,
+            46.1522,
+            6.3202,
+            1219,
+            42,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-13:04:22",
+    "baro_altitude": 1280.16,
+    "category": 0,
+    "geo_altitude": 1409.7,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685117084,
+    "latitude": 46.1182,
+    "longitude": 6.2799,
+    "on_ground": false,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1685117084,
+    "true_track": 30.72,
+    "velocity": 41.29,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 98,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFLI",
+    "estDepartureAirportHorizDistance": 8944,
+    "estDepartureAirportVertDistance": 778,
+    "firstSeen": 1685117062,
+    "lastSeen": 1685117197
+}

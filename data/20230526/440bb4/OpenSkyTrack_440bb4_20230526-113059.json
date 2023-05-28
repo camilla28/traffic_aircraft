@@ -1,0 +1,152 @@
+{
+    "callsign": "OEEMA   ",
+    "endTime": "2023/05/26-11:30:36",
+    "icao24": "440bb4",
+    "path": [
+        [
+            1685110364,
+            46.5975,
+            6.6422,
+            1219,
+            75,
+            false
+        ],
+        [
+            1685110449,
+            46.6136,
+            6.6963,
+            1524,
+            65,
+            false
+        ],
+        [
+            1685110449,
+            46.6136,
+            6.6963,
+            1524,
+            65,
+            false
+        ],
+        [
+            1685110527,
+            46.6259,
+            6.7356,
+            1828,
+            65,
+            false
+        ],
+        [
+            1685110894,
+            46.6327,
+            6.7572,
+            2133,
+            65,
+            false
+        ],
+        [
+            1685110963,
+            46.6384,
+            6.7755,
+            2438,
+            65,
+            false
+        ],
+        [
+            1685110984,
+            46.633,
+            6.7581,
+            2133,
+            65,
+            false
+        ],
+        [
+            1685111082,
+            46.6388,
+            6.7769,
+            2438,
+            65,
+            false
+        ],
+        [
+            1685111125,
+            46.6364,
+            6.7692,
+            2133,
+            65,
+            false
+        ],
+        [
+            1685111263,
+            46.6397,
+            6.7797,
+            2438,
+            65,
+            false
+        ],
+        [
+            1685111311,
+            46.962,
+            7.619,
+            7620,
+            51,
+            false
+        ],
+        [
+            1685111367,
+            46.9936,
+            7.6775,
+            7620,
+            51,
+            false
+        ],
+        [
+            1685111436,
+            47.0327,
+            7.7498,
+            7924,
+            51,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-11:12:44",
+    "baro_altitude": 7741.92,
+    "category": 0,
+    "geo_altitude": 8069.58,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685111333,
+    "latitude": 46.9739,
+    "longitude": 7.6411,
+    "on_ground": false,
+    "origin_country": "Austria",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5716",
+    "time_position": 1685111332,
+    "true_track": 51.57,
+    "velocity": 101.79,
+    "vertical_rate": 4.55,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 104,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSGL",
+    "estDepartureAirportHorizDistance": 6118,
+    "estDepartureAirportVertDistance": 658,
+    "firstSeen": 1685110364,
+    "lastSeen": 1685111436
+}

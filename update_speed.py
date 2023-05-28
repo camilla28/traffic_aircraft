@@ -33,6 +33,9 @@ def distance_on_geoid(lat1, lon1, lat2, lon2) :
     # Dot product
     dot = (x1 * x2 + y1 * y2 + z1 * z2)
     cos_theta = dot / (r * r)
+    print(cos_theta)
+    if cos_theta > 1:
+        cos_theta = 1
     theta = math.acos(cos_theta)
     
     # Distance in Metres
@@ -60,6 +63,7 @@ with open(testFileName,  "r") as read_file:
         last_waypoint = data_dict_sorted[icao][0]
 
         index = 0
+        print(icao)
         for waypoint in data_dict_sorted[icao]:
             
             if index !=0:
@@ -79,6 +83,12 @@ with open(testFileName,  "r") as read_file:
                     alt_diff = waypoint[3] - last_waypoint[3]
                     vertical_rate = alt_diff / time_diff
                     waypoint.append(vertical_rate)
+                elif time_diff <= 0:
+                    waypoint.append(0) #speed = 0
+                    waypoint.append(0) #vertical_rate = 0
+            else:
+                waypoint.append(0) #speed = 0
+                waypoint.append(0) #vertical_rate = 0
 
             index = index + 1
             last_waypoint = waypoint

@@ -1,0 +1,104 @@
+{
+    "callsign": "THY3PK  ",
+    "endTime": "2023/05/26-15:11:50",
+    "icao24": "4bb286",
+    "path": [
+        [
+            1685124601,
+            47.4607,
+            8.5133,
+            609,
+            276,
+            false
+        ],
+        [
+            1685124631,
+            47.4617,
+            8.4998,
+            609,
+            276,
+            false
+        ],
+        [
+            1685124637,
+            47.4619,
+            8.4964,
+            914,
+            275,
+            false
+        ],
+        [
+            1685124643,
+            47.4621,
+            8.4938,
+            304,
+            276,
+            false
+        ],
+        [
+            1685124694,
+            47.4629,
+            8.4759,
+            914,
+            276,
+            false
+        ],
+        [
+            1685124701,
+            47.4629,
+            8.4747,
+            609,
+            275,
+            false
+        ],
+        [
+            1685124710,
+            47.4627,
+            8.4734,
+            914,
+            275,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-15:10:01",
+    "baro_altitude": 1021.08,
+    "category": 0,
+    "geo_altitude": 1150.62,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685124650,
+    "latitude": 47.4623,
+    "longitude": 8.4911,
+    "on_ground": false,
+    "origin_country": "Turkey",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3056",
+    "time_position": 1685124650,
+    "true_track": 276.2,
+    "velocity": 95.22,
+    "vertical_rate": 14.96,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 130,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSZH",
+    "estDepartureAirportHorizDistance": 2729,
+    "estDepartureAirportVertDistance": 315,
+    "firstSeen": 1685124601,
+    "lastSeen": 1685124710
+}

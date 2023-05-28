@@ -3,9 +3,6 @@ import json
 import time
 import os
 
-api = OpenSkyApi(username="Camillas97", password="PEE3028")
-
-bbox_filter = (-20, 60, 20, 100)
 
 # Write in file
 datestr = time.strftime("%Y%m%d")
@@ -34,30 +31,40 @@ for dir in dir_list:
                 
                 data_dict = json.load(read_file)
                 
-                waypoint = [
-                            data_dict["time_position"],
-                            data_dict["latitude"],
-                            data_dict["longitude"],
-                            data_dict["baro_altitude"],
-                            data_dict["true_track"],
-                            data_dict["on_ground"],
-                            data_dict["velocity"],
-                            data_dict["vertical_rate"]
-                            ]
+                if data_dict["baro_altitude"] is None or data_dict["latitude"] is None  or data_dict["longitude"] is None:
+                    continue
+                else:
+                    waypoint = [
+                                data_dict["time_position"],
+                                data_dict["latitude"],
+                                data_dict["longitude"],
+                                data_dict["baro_altitude"],
+                                data_dict["true_track"],
+                                data_dict["on_ground"],
+                                data_dict["velocity"],
+                                data_dict["vertical_rate"]
+                                ]
 
-                data[dir].append(waypoint)
-        
+                    data[dir].append(waypoint)
+            
         with open(path+'\\'+files[0], "r") as read_file:
 
             data_dict = json.load(read_file)
+            
+            path_non_duplicate = []
+            [path_non_duplicate.append(item) for item in data_dict["path"] if item not in path_non_duplicate]
 
-            for waypoint in data_dict["path"]:
+            for waypoint in path_non_duplicate:
                 data[dir].append(waypoint)        
 
 with open(data_path + "\\" + datestr + ".json", "w") as outfile:
     json.dump(data, outfile)
 
 '''
+api = OpenSkyApi(username="Camillas97", password="PEE3028")
+
+bbox_filter = (-20, 60, 20, 100)
+
 with open("OpenSkyTrack_a59601_20230509-204813.json", "r") as read_file:
     data_dict = json.load(read_file)
 

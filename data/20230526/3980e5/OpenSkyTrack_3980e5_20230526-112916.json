@@ -1,0 +1,152 @@
+{
+    "callsign": "FHAHF   ",
+    "endTime": "2023/05/26-11:29:05",
+    "icao24": "3980e5",
+    "path": [
+        [
+            1685111104,
+            46.1527,
+            7.1599,
+            2743,
+            235,
+            false
+        ],
+        [
+            1685111115,
+            46.1485,
+            7.1512,
+            2743,
+            234,
+            false
+        ],
+        [
+            1685111134,
+            46.1413,
+            7.1365,
+            3048,
+            235,
+            false
+        ],
+        [
+            1685111164,
+            46.1292,
+            7.1118,
+            3352,
+            234,
+            false
+        ],
+        [
+            1685111236,
+            46.0936,
+            7.0392,
+            3657,
+            234,
+            false
+        ],
+        [
+            1685111257,
+            46.0805,
+            7.0124,
+            3962,
+            234,
+            false
+        ],
+        [
+            1685111272,
+            46.0729,
+            6.9968,
+            4267,
+            235,
+            false
+        ],
+        [
+            1685111289,
+            46.0647,
+            6.98,
+            4572,
+            235,
+            false
+        ],
+        [
+            1685111299,
+            46.06,
+            6.9696,
+            4572,
+            242,
+            false
+        ],
+        [
+            1685111309,
+            46.0579,
+            6.9577,
+            4572,
+            267,
+            false
+        ],
+        [
+            1685111320,
+            46.0597,
+            6.9425,
+            4572,
+            291,
+            false
+        ],
+        [
+            1685111326,
+            46.0629,
+            6.9343,
+            4572,
+            295,
+            false
+        ],
+        [
+            1685111345,
+            46.0795,
+            6.9156,
+            4876,
+            328,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-11:25:04",
+    "baro_altitude": 4853.94,
+    "category": 0,
+    "geo_altitude": 5097.78,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685111326,
+    "latitude": 46.0629,
+    "longitude": 6.9343,
+    "on_ground": false,
+    "origin_country": "France",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1685111326,
+    "true_track": 295.68,
+    "velocity": 118.73,
+    "vertical_rate": 0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 13,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSGS",
+    "estDepartureAirportHorizDistance": 14158,
+    "estDepartureAirportVertDistance": 2427,
+    "firstSeen": 1685111104,
+    "lastSeen": 1685111345
+}
