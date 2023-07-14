@@ -1,0 +1,128 @@
+{
+    "callsign": "EJU3818 ",
+    "endTime": "2023/05/26-13:46:09",
+    "icao24": "440080",
+    "path": [
+        [
+            1685117166,
+            49.0006,
+            2.6507,
+            609,
+            85,
+            false
+        ],
+        [
+            1685117166,
+            49.0006,
+            2.6507,
+            609,
+            85,
+            false
+        ],
+        [
+            1685117203,
+            49.0011,
+            2.6598,
+            914,
+            84,
+            false
+        ],
+        [
+            1685117753,
+            48.9915,
+            2.9804,
+            3048,
+            97,
+            false
+        ],
+        [
+            1685119059,
+            47.9539,
+            6.9348,
+            9448,
+            111,
+            false
+        ],
+        [
+            1685119059,
+            47.9539,
+            6.9348,
+            9448,
+            111,
+            false
+        ],
+        [
+            1685119450,
+            46.6567,
+            8.196,
+            7315,
+            153,
+            false
+        ],
+        [
+            1685119505,
+            46.5639,
+            8.2634,
+            7315,
+            153,
+            false
+        ],
+        [
+            1685119542,
+            46.5014,
+            8.3063,
+            7010,
+            155,
+            false
+        ],
+        [
+            1685119569,
+            46.4564,
+            8.3353,
+            7010,
+            155,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-13:06:06",
+    "baro_altitude": 7170.42,
+    "category": 4,
+    "geo_altitude": 7505.7,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685119536,
+    "latitude": 46.5122,
+    "longitude": 8.2993,
+    "on_ground": false,
+    "origin_country": "Austria",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1685119535,
+    "true_track": 155.58,
+    "velocity": 209.05,
+    "vertical_rate": -4.55,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 93,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFPG",
+    "estDepartureAirportHorizDistance": 7466,
+    "estDepartureAirportVertDistance": 726,
+    "firstSeen": 1685117166,
+    "lastSeen": 1685119569
+}

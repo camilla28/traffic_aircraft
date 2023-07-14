@@ -1,0 +1,144 @@
+{
+    "callsign": "FYL21CP ",
+    "endTime": "2023/05/26-11:12:35",
+    "icao24": "39984f",
+    "path": [
+        [
+            1685109090,
+            48.2195,
+            6.5446,
+            11887,
+            113,
+            false
+        ],
+        [
+            1685109133,
+            48.1896,
+            6.6468,
+            11887,
+            114,
+            false
+        ],
+        [
+            1685109201,
+            48.1421,
+            6.8063,
+            12192,
+            112,
+            false
+        ],
+        [
+            1685109252,
+            48.1073,
+            6.9292,
+            12496,
+            114,
+            false
+        ],
+        [
+            1685109261,
+            48.1003,
+            6.9506,
+            12496,
+            117,
+            false
+        ],
+        [
+            1685109271,
+            48.0918,
+            6.9737,
+            12496,
+            120,
+            false
+        ],
+        [
+            1685109280,
+            48.0824,
+            6.9962,
+            12496,
+            123,
+            false
+        ],
+        [
+            1685109290,
+            48.0721,
+            7.0182,
+            12496,
+            126,
+            false
+        ],
+        [
+            1685109455,
+            47.8919,
+            7.3774,
+            12496,
+            126,
+            false
+        ],
+        [
+            1685109580,
+            47.7541,
+            7.649,
+            12496,
+            126,
+            false
+        ],
+        [
+            1685109603,
+            47.7286,
+            7.6991,
+            12496,
+            127,
+            false
+        ],
+        [
+            1685110355,
+            46.8812,
+            9.3092,
+            12496,
+            128,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-10:51:30",
+    "baro_altitude": 12496.8,
+    "category": 0,
+    "geo_altitude": 12809.22,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685110263,
+    "latitude": 46.9858,
+    "longitude": 9.1156,
+    "on_ground": false,
+    "origin_country": "France",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1685110263,
+    "true_track": 128.05,
+    "velocity": 204.48,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFSE",
+    "estDepartureAirportHorizDistance": 5673,
+    "estDepartureAirportVertDistance": 11600,
+    "firstSeen": 1685109090,
+    "lastSeen": 1685110355
+}

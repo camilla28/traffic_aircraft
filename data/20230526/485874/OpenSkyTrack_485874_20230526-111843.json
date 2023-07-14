@@ -1,0 +1,112 @@
+{
+    "callsign": "KLM76R  ",
+    "endTime": "2023/05/26-11:18:30",
+    "icao24": "485874",
+    "path": [
+        [
+            1685110447,
+            47.6282,
+            7.503,
+            304,
+            335,
+            false
+        ],
+        [
+            1685110558,
+            47.6606,
+            7.4818,
+            609,
+            335,
+            false
+        ],
+        [
+            1685110600,
+            47.6823,
+            7.4673,
+            914,
+            335,
+            false
+        ],
+        [
+            1685110650,
+            47.69,
+            7.4622,
+            1219,
+            336,
+            false
+        ],
+        [
+            1685110664,
+            47.6777,
+            7.4703,
+            914,
+            336,
+            false
+        ],
+        [
+            1685110693,
+            47.6931,
+            7.4601,
+            1219,
+            336,
+            false
+        ],
+        [
+            1685110706,
+            47.6791,
+            7.4693,
+            914,
+            335,
+            false
+        ],
+        [
+            1685110710,
+            47.6941,
+            7.4596,
+            1219,
+            335,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-11:14:07",
+    "baro_altitude": 1318.26,
+    "category": 4,
+    "geo_altitude": 1478.28,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685110657,
+    "latitude": 47.69,
+    "longitude": 7.4622,
+    "on_ground": false,
+    "origin_country": "Kingdom of the Netherlands",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1685110650,
+    "true_track": 335.8,
+    "velocity": 111.68,
+    "vertical_rate": 16.91,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 127,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSZM",
+    "estDepartureAirportHorizDistance": 4675,
+    "estDepartureAirportVertDistance": 271,
+    "firstSeen": 1685110447,
+    "lastSeen": 1685110710
+}

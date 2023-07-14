@@ -1,0 +1,128 @@
+{
+    "callsign": "SEMBJ   ",
+    "endTime": "2023/05/26-11:10:49",
+    "icao24": "4ab44a",
+    "path": [
+        [
+            1685107710,
+            48.7133,
+            8.6083,
+            4572,
+            185,
+            false
+        ],
+        [
+            1685108372,
+            48.5464,
+            8.5798,
+            4572,
+            186,
+            false
+        ],
+        [
+            1685108632,
+            47.6113,
+            8.449,
+            4572,
+            174,
+            false
+        ],
+        [
+            1685109390,
+            46.7458,
+            8.5748,
+            4572,
+            173,
+            false
+        ],
+        [
+            1685109401,
+            46.7376,
+            8.576,
+            4267,
+            174,
+            false
+        ],
+        [
+            1685109981,
+            46.3423,
+            8.6317,
+            4572,
+            175,
+            false
+        ],
+        [
+            1685110093,
+            46.1914,
+            8.6499,
+            3962,
+            180,
+            false
+        ],
+        [
+            1685110099,
+            46.1869,
+            8.6498,
+            3962,
+            180,
+            false
+        ],
+        [
+            1685110159,
+            46.1321,
+            8.6483,
+            3657,
+            180,
+            false
+        ],
+        [
+            1685110249,
+            46.0602,
+            8.6439,
+            3352,
+            180,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-10:28:30",
+    "baro_altitude": 3352.8,
+    "category": 2,
+    "geo_altitude": 3528.06,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685110249,
+    "latitude": 46.0602,
+    "longitude": 8.6439,
+    "on_ground": false,
+    "origin_country": "Sweden",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7000",
+    "time_position": 1685110249,
+    "true_track": 180.9,
+    "velocity": 97.76,
+    "vertical_rate": -2.6,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1685107710,
+    "lastSeen": 1685110249
+}

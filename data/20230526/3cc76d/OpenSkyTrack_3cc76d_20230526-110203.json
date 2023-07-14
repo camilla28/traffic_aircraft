@@ -1,0 +1,136 @@
+{
+    "callsign": "ATL61D  ",
+    "endTime": "2023/05/26-11:01:52",
+    "icao24": "3cc76d",
+    "path": [
+        [
+            1685109090,
+            48.6389,
+            6.9762,
+            11887,
+            177,
+            false
+        ],
+        [
+            1685109192,
+            48.4397,
+            6.9898,
+            11887,
+            179,
+            false
+        ],
+        [
+            1685109202,
+            48.4204,
+            6.9883,
+            11887,
+            185,
+            false
+        ],
+        [
+            1685109211,
+            48.4037,
+            6.9849,
+            11887,
+            189,
+            false
+        ],
+        [
+            1685109222,
+            48.382,
+            6.9787,
+            11887,
+            191,
+            false
+        ],
+        [
+            1685109281,
+            48.2708,
+            6.9395,
+            11887,
+            192,
+            false
+        ],
+        [
+            1685109290,
+            48.2527,
+            6.933,
+            11887,
+            195,
+            false
+        ],
+        [
+            1685109300,
+            48.2345,
+            6.9247,
+            11887,
+            198,
+            false
+        ],
+        [
+            1685109310,
+            48.2154,
+            6.9144,
+            11887,
+            200,
+            false
+        ],
+        [
+            1685109635,
+            47.6182,
+            6.5597,
+            11887,
+            201,
+            false
+        ],
+        [
+            1685109712,
+            47.4785,
+            6.4783,
+            11887,
+            201,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-10:51:30",
+    "baro_altitude": 11887.2,
+    "category": 1,
+    "geo_altitude": 12214.86,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685109653,
+    "latitude": 47.5857,
+    "longitude": 6.5409,
+    "on_ground": false,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1123",
+    "time_position": 1685109653,
+    "true_track": 201.32,
+    "velocity": 216.48,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFGT",
+    "estDepartureAirportHorizDistance": 11376,
+    "estDepartureAirportVertDistance": 11621,
+    "firstSeen": 1685109090,
+    "lastSeen": 1685109712
+}

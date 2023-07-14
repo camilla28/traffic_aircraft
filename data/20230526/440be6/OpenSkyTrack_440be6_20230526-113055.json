@@ -1,0 +1,112 @@
+{
+    "callsign": "IJM925  ",
+    "endTime": "2023/05/26-11:30:40",
+    "icao24": "440be6",
+    "path": [
+        [
+            1685111356,
+            47.4566,
+            8.5672,
+            304,
+            97,
+            false
+        ],
+        [
+            1685111377,
+            47.4546,
+            8.5908,
+            609,
+            97,
+            false
+        ],
+        [
+            1685111388,
+            47.4535,
+            8.6038,
+            914,
+            97,
+            false
+        ],
+        [
+            1685111400,
+            47.4534,
+            8.6169,
+            914,
+            82,
+            false
+        ],
+        [
+            1685111411,
+            47.4556,
+            8.6296,
+            1219,
+            73,
+            false
+        ],
+        [
+            1685111422,
+            47.4579,
+            8.643,
+            1219,
+            77,
+            false
+        ],
+        [
+            1685111433,
+            47.4595,
+            8.6564,
+            1524,
+            81,
+            false
+        ],
+        [
+            1685111440,
+            47.4603,
+            8.6656,
+            1524,
+            83,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-11:29:16",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685111332,
+    "latitude": 47.4586,
+    "longitude": 8.5429,
+    "on_ground": true,
+    "origin_country": "Austria",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3025",
+    "time_position": 1685111330,
+    "true_track": 95.62,
+    "velocity": 51.44,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 129,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSZH",
+    "estDepartureAirportHorizDistance": 1016,
+    "estDepartureAirportVertDistance": 101,
+    "firstSeen": 1685111356,
+    "lastSeen": 1685111440
+}

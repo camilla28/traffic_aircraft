@@ -1,0 +1,104 @@
+{
+    "callsign": "FSF273T ",
+    "endTime": "2023/05/26-13:38:38",
+    "icao24": "460cb6",
+    "path": [
+        [
+            1685119056,
+            46.8625,
+            6.9495,
+            609,
+            70,
+            false
+        ],
+        [
+            1685119062,
+            46.8631,
+            6.9541,
+            609,
+            83,
+            false
+        ],
+        [
+            1685119070,
+            46.8628,
+            6.962,
+            609,
+            98,
+            false
+        ],
+        [
+            1685119086,
+            46.8626,
+            6.9639,
+            609,
+            99,
+            false
+        ],
+        [
+            1685119099,
+            46.8559,
+            6.9889,
+            914,
+            115,
+            false
+        ],
+        [
+            1685119112,
+            46.8518,
+            7.001,
+            914,
+            116,
+            false
+        ],
+        [
+            1685119118,
+            46.8503,
+            7.0055,
+            1219,
+            116,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-13:37:36",
+    "baro_altitude": 693.42,
+    "category": 0,
+    "geo_altitude": 822.96,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685119046,
+    "latitude": 46.8596,
+    "longitude": 6.9425,
+    "on_ground": false,
+    "origin_country": "Finland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1685119046,
+    "true_track": 51.41,
+    "velocity": 65.16,
+    "vertical_rate": 5.85,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 114,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSMP",
+    "estDepartureAirportHorizDistance": 3043,
+    "estDepartureAirportVertDistance": 307,
+    "firstSeen": 1685119056,
+    "lastSeen": 1685119118
+}

@@ -1,0 +1,128 @@
+{
+    "callsign": "TRA48P  ",
+    "endTime": "2023/05/26-13:56:37",
+    "icao24": "48520b",
+    "path": [
+        [
+            1685118431,
+            43.7535,
+            6.9892,
+            5486,
+            349,
+            false
+        ],
+        [
+            1685118431,
+            43.7535,
+            6.9892,
+            5486,
+            349,
+            false
+        ],
+        [
+            1685118533,
+            43.9283,
+            6.9451,
+            4267,
+            349,
+            false
+        ],
+        [
+            1685118955,
+            44.7606,
+            6.7963,
+            11277,
+            353,
+            false
+        ],
+        [
+            1685119038,
+            44.93,
+            6.7595,
+            11582,
+            350,
+            false
+        ],
+        [
+            1685119038,
+            44.93,
+            6.7595,
+            11582,
+            350,
+            false
+        ],
+        [
+            1685119329,
+            45.5093,
+            6.5951,
+            12192,
+            347,
+            false
+        ],
+        [
+            1685120052,
+            46.9471,
+            6.1596,
+            12192,
+            348,
+            false
+        ],
+        [
+            1685120062,
+            46.968,
+            6.1563,
+            12192,
+            355,
+            false
+        ],
+        [
+            1685120197,
+            47.2382,
+            6.1283,
+            12192,
+            355,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-13:27:11",
+    "baro_altitude": 12192,
+    "category": 4,
+    "geo_altitude": 12504.42,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685120043,
+    "latitude": 46.9295,
+    "longitude": 6.1642,
+    "on_ground": false,
+    "origin_country": "Kingdom of the Netherlands",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1685120043,
+    "true_track": 348.02,
+    "velocity": 225.61,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1685118431,
+    "lastSeen": 1685120197
+}

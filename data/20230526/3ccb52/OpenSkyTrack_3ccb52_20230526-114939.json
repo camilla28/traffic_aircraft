@@ -1,0 +1,136 @@
+{
+    "callsign": "DWW042  ",
+    "endTime": "2023/05/26-11:49:32",
+    "icao24": "3ccb52",
+    "path": [
+        [
+            1685111310,
+            44.8366,
+            9.5883,
+            10363,
+            299,
+            false
+        ],
+        [
+            1685111356,
+            44.8826,
+            9.473,
+            10363,
+            299,
+            false
+        ],
+        [
+            1685111418,
+            44.9445,
+            9.3244,
+            10668,
+            300,
+            false
+        ],
+        [
+            1685111456,
+            44.9827,
+            9.2327,
+            10972,
+            300,
+            false
+        ],
+        [
+            1685111512,
+            45.0392,
+            9.0915,
+            11277,
+            299,
+            false
+        ],
+        [
+            1685111553,
+            45.0816,
+            8.986,
+            11582,
+            299,
+            false
+        ],
+        [
+            1685111606,
+            45.1415,
+            8.8611,
+            11582,
+            312,
+            false
+        ],
+        [
+            1685111606,
+            45.1415,
+            8.8611,
+            11582,
+            312,
+            false
+        ],
+        [
+            1685111667,
+            45.2246,
+            8.7315,
+            11887,
+            312,
+            false
+        ],
+        [
+            1685112563,
+            46.4001,
+            6.8384,
+            12192,
+            310,
+            false
+        ],
+        [
+            1685112572,
+            46.4131,
+            6.8166,
+            12192,
+            310,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-11:28:30",
+    "baro_altitude": 12192,
+    "category": 0,
+    "geo_altitude": 12496.8,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685112418,
+    "latitude": 46.2125,
+    "longitude": 7.1494,
+    "on_ground": false,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5704",
+    "time_position": 1685112418,
+    "true_track": 311.17,
+    "velocity": 218.02,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LIMS",
+    "estDepartureAirportHorizDistance": 76886,
+    "estDepartureAirportVertDistance": 10224,
+    "firstSeen": 1685111310,
+    "lastSeen": 1685112572
+}

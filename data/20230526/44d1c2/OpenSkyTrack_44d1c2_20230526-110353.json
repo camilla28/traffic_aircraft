@@ -1,0 +1,112 @@
+{
+    "callsign": "JAF59B  ",
+    "endTime": "2023/05/26-11:03:47",
+    "icao24": "44d1c2",
+    "path": [
+        [
+            1685108372,
+            50.4234,
+            5.5025,
+            7315,
+            149,
+            false
+        ],
+        [
+            1685108621,
+            48.2721,
+            7.279,
+            11277,
+            150,
+            false
+        ],
+        [
+            1685109110,
+            47.1293,
+            8.9546,
+            11277,
+            130,
+            false
+        ],
+        [
+            1685109558,
+            46.548,
+            9.9289,
+            11277,
+            131,
+            false
+        ],
+        [
+            1685109569,
+            46.5332,
+            9.9501,
+            11277,
+            137,
+            false
+        ],
+        [
+            1685109580,
+            46.5163,
+            9.9688,
+            11277,
+            144,
+            false
+        ],
+        [
+            1685109590,
+            46.498,
+            9.9855,
+            11277,
+            148,
+            false
+        ],
+        [
+            1685109827,
+            46.0916,
+            10.3356,
+            11277,
+            149,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-10:39:32",
+    "baro_altitude": 11277.6,
+    "category": 0,
+    "geo_altitude": 11590.02,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685109653,
+    "latitude": 46.39,
+    "longitude": 10.0792,
+    "on_ground": false,
+    "origin_country": "Belgium",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0113",
+    "time_position": 1685109653,
+    "true_track": 149.22,
+    "velocity": 222.16,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1685108372,
+    "lastSeen": 1685109827
+}

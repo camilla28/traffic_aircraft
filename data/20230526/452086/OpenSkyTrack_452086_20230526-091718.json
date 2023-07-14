@@ -1,0 +1,144 @@
+{
+    "callsign": "BGH7701 ",
+    "endTime": "2023/05/26-09:17:12",
+    "icao24": "452086",
+    "path": [
+        [
+            1685103345,
+            42.6973,
+            23.4007,
+            609,
+            274,
+            false
+        ],
+        [
+            1685103369,
+            42.6987,
+            23.3773,
+            914,
+            276,
+            false
+        ],
+        [
+            1685103374,
+            42.6993,
+            23.3732,
+            1219,
+            283,
+            false
+        ],
+        [
+            1685103377,
+            42.7,
+            23.37,
+            1219,
+            289,
+            false
+        ],
+        [
+            1685103380,
+            42.701,
+            23.3671,
+            1219,
+            297,
+            false
+        ],
+        [
+            1685103385,
+            42.7026,
+            23.3634,
+            1219,
+            303,
+            false
+        ],
+        [
+            1685103385,
+            42.7026,
+            23.3634,
+            1219,
+            328,
+            false
+        ],
+        [
+            1685103401,
+            42.7116,
+            23.3539,
+            1524,
+            334,
+            false
+        ],
+        [
+            1685103406,
+            42.7151,
+            23.3525,
+            1524,
+            347,
+            false
+        ],
+        [
+            1685103410,
+            42.7178,
+            23.3518,
+            1524,
+            350,
+            false
+        ],
+        [
+            1685103419,
+            42.7255,
+            23.3503,
+            1524,
+            352,
+            false
+        ],
+        [
+            1685103432,
+            42.7369,
+            23.3487,
+            1524,
+            354,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-09:15:45",
+    "baro_altitude": 1257.3,
+    "category": 0,
+    "geo_altitude": 1318.26,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685103377,
+    "latitude": 42.6999,
+    "longitude": 23.3704,
+    "on_ground": false,
+    "origin_country": "Bulgaria",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2263",
+    "time_position": 1685103377,
+    "true_track": 288.08,
+    "velocity": 79.55,
+    "vertical_rate": 12.68,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 34,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LBSF",
+    "estDepartureAirportHorizDistance": 336,
+    "estDepartureAirportVertDistance": 337,
+    "firstSeen": 1685103345,
+    "lastSeen": 1685103432
+}

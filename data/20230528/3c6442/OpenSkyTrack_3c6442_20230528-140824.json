@@ -1,0 +1,104 @@
+{
+    "callsign": "DLH8MP  ",
+    "endTime": "2023/05/28-14:06:53",
+    "icao24": "3c6442",
+    "path": [
+        [
+            1685291974,
+            49.9549,
+            8.5287,
+            609,
+            176,
+            false
+        ],
+        [
+            1685292390,
+            49.3727,
+            8.5327,
+            3962,
+            180,
+            false
+        ],
+        [
+            1685292390,
+            49.3727,
+            8.5327,
+            3962,
+            180,
+            false
+        ],
+        [
+            1685292719,
+            48.6628,
+            8.5232,
+            6400,
+            180,
+            false
+        ],
+        [
+            1685292826,
+            48.5584,
+            8.5218,
+            6705,
+            180,
+            false
+        ],
+        [
+            1685293613,
+            47.5912,
+            8.3866,
+            1219,
+            136,
+            false
+        ],
+        [
+            1685293613,
+            47.5912,
+            8.3866,
+            1219,
+            136,
+            false
+        ]
+    ],
+    "startTime": "2023/05/28-13:39:34",
+    "baro_altitude": 1272.54,
+    "category": 1,
+    "geo_altitude": 1379.22,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685293613,
+    "latitude": 47.5912,
+    "longitude": 8.3866,
+    "on_ground": false,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1685293613,
+    "true_track": 136.93,
+    "velocity": 86.63,
+    "vertical_rate": -4.55,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 148,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDFE",
+    "estDepartureAirportHorizDistance": 3675,
+    "estDepartureAirportVertDistance": 622,
+    "firstSeen": 1685291974,
+    "lastSeen": 1685293613
+}

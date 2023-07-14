@@ -1,0 +1,144 @@
+{
+    "callsign": "CRL906  ",
+    "endTime": "2023/05/26-13:46:59",
+    "icao24": "39c940",
+    "path": [
+        [
+            1685116683,
+            48.7533,
+            2.5735,
+            1219,
+            90,
+            false
+        ],
+        [
+            1685116683,
+            48.7533,
+            2.5735,
+            1219,
+            90,
+            false
+        ],
+        [
+            1685116813,
+            48.7717,
+            2.9216,
+            2743,
+            83,
+            false
+        ],
+        [
+            1685117002,
+            48.8132,
+            3.2901,
+            2743,
+            79,
+            false
+        ],
+        [
+            1685117002,
+            48.8132,
+            3.2901,
+            2743,
+            79,
+            false
+        ],
+        [
+            1685117162,
+            48.8183,
+            3.447,
+            2743,
+            95,
+            false
+        ],
+        [
+            1685117204,
+            48.8169,
+            3.4691,
+            2743,
+            95,
+            false
+        ],
+        [
+            1685117743,
+            48.7831,
+            3.9838,
+            4267,
+            90,
+            false
+        ],
+        [
+            1685119059,
+            47.6207,
+            8.003,
+            6705,
+            109,
+            false
+        ],
+        [
+            1685119059,
+            47.6207,
+            8.003,
+            6705,
+            109,
+            false
+        ],
+        [
+            1685119458,
+            46.7314,
+            10.1031,
+            10668,
+            121,
+            false
+        ],
+        [
+            1685119619,
+            46.5478,
+            10.5302,
+            10668,
+            122,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-12:58:03",
+    "baro_altitude": 10668,
+    "category": 0,
+    "geo_altitude": 10995.66,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685119535,
+    "latitude": 46.6432,
+    "longitude": 10.3092,
+    "on_ground": false,
+    "origin_country": "France",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7673",
+    "time_position": 1685119535,
+    "true_track": 121.99,
+    "velocity": 240.81,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 88,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFPL",
+    "estDepartureAirportHorizDistance": 8451,
+    "estDepartureAirportVertDistance": 1361,
+    "firstSeen": 1685116683,
+    "lastSeen": 1685119619
+}

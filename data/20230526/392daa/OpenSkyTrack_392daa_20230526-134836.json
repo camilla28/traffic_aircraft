@@ -1,0 +1,136 @@
+{
+    "callsign": "TJT47BM ",
+    "endTime": "2023/05/26-13:48:29",
+    "icao24": "392daa",
+    "path": [
+        [
+            1685117019,
+            45.6906,
+            5.3179,
+            3048,
+            129,
+            false
+        ],
+        [
+            1685117165,
+            45.6676,
+            5.4057,
+            3657,
+            112,
+            false
+        ],
+        [
+            1685117204,
+            45.6641,
+            5.4175,
+            3657,
+            113,
+            false
+        ],
+        [
+            1685117748,
+            45.6392,
+            5.6965,
+            5181,
+            65,
+            false
+        ],
+        [
+            1685119059,
+            46.8452,
+            7.614,
+            6400,
+            47,
+            false
+        ],
+        [
+            1685119059,
+            46.8452,
+            7.614,
+            6400,
+            47,
+            false
+        ],
+        [
+            1685119450,
+            47.5797,
+            8.5796,
+            6096,
+            40,
+            false
+        ],
+        [
+            1685119523,
+            47.6536,
+            8.6723,
+            6096,
+            40,
+            false
+        ],
+        [
+            1685119610,
+            47.7421,
+            8.7843,
+            5791,
+            40,
+            false
+        ],
+        [
+            1685119690,
+            47.8241,
+            8.8888,
+            5486,
+            40,
+            false
+        ],
+        [
+            1685119709,
+            47.8439,
+            8.914,
+            5181,
+            40,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-13:03:39",
+    "baro_altitude": 6073.14,
+    "category": 1,
+    "geo_altitude": 6370.32,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685119536,
+    "latitude": 47.6668,
+    "longitude": 8.689,
+    "on_ground": false,
+    "origin_country": "France",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "4074",
+    "time_position": 1685119536,
+    "true_track": 40.43,
+    "velocity": 150.71,
+    "vertical_rate": -3.58,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 7,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFHI",
+    "estDepartureAirportHorizDistance": 10549,
+    "estDepartureAirportVertDistance": 2848,
+    "firstSeen": 1685117019,
+    "lastSeen": 1685119709
+}

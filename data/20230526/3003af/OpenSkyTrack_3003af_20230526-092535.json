@@ -1,0 +1,152 @@
+{
+    "callsign": "DLA91Y  ",
+    "endTime": "2023/05/26-09:25:31",
+    "icao24": "3003af",
+    "path": [
+        [
+            1685103779,
+            49.9994,
+            8.5261,
+            0,
+            180,
+            false
+        ],
+        [
+            1685103787,
+            49.9932,
+            8.5263,
+            0,
+            178,
+            false
+        ],
+        [
+            1685103793,
+            49.9888,
+            8.5265,
+            0,
+            177,
+            false
+        ],
+        [
+            1685103809,
+            49.977,
+            8.5266,
+            304,
+            180,
+            false
+        ],
+        [
+            1685103815,
+            49.9729,
+            8.5269,
+            304,
+            172,
+            false
+        ],
+        [
+            1685103821,
+            49.968,
+            8.5293,
+            304,
+            152,
+            false
+        ],
+        [
+            1685103825,
+            49.965,
+            8.5325,
+            304,
+            138,
+            false
+        ],
+        [
+            1685103830,
+            49.9622,
+            8.5375,
+            304,
+            125,
+            false
+        ],
+        [
+            1685103836,
+            49.9598,
+            8.5439,
+            304,
+            118,
+            false
+        ],
+        [
+            1685103841,
+            49.9575,
+            8.5507,
+            304,
+            116,
+            false
+        ],
+        [
+            1685103868,
+            49.9457,
+            8.5844,
+            609,
+            119,
+            false
+        ],
+        [
+            1685103909,
+            49.9252,
+            8.6415,
+            914,
+            119,
+            false
+        ],
+        [
+            1685103931,
+            49.912,
+            8.6783,
+            1219,
+            119,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-09:22:59",
+    "baro_altitude": null,
+    "category": 4,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685103359,
+    "latitude": 50.0373,
+    "longitude": 98.5871,
+    "on_ground": true,
+    "origin_country": "Italy",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1685103359,
+    "true_track": 250.31,
+    "velocity": 14.4,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 149,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDDF",
+    "estDepartureAirportHorizDistance": 4924,
+    "estDepartureAirportVertDistance": 27,
+    "firstSeen": 1685103779,
+    "lastSeen": 1685103931
+}

@@ -1,0 +1,208 @@
+{
+    "callsign": "BCS136  ",
+    "endTime": "2023/06/01-20:02:00",
+    "icao24": "346489",
+    "path": [
+        [
+            1685658183,
+            51.4116,
+            12.2118,
+            304,
+            264,
+            false
+        ],
+        [
+            1685658205,
+            51.4113,
+            12.1835,
+            304,
+            269,
+            false
+        ],
+        [
+            1685658220,
+            51.4108,
+            12.1637,
+            609,
+            266,
+            false
+        ],
+        [
+            1685658244,
+            51.4088,
+            12.1304,
+            914,
+            264,
+            false
+        ],
+        [
+            1685658289,
+            51.4053,
+            12.0637,
+            1219,
+            265,
+            false
+        ],
+        [
+            1685658304,
+            51.4041,
+            12.0383,
+            1524,
+            265,
+            false
+        ],
+        [
+            1685658330,
+            51.4016,
+            11.9901,
+            1828,
+            264,
+            false
+        ],
+        [
+            1685658482,
+            51.2598,
+            11.7568,
+            3352,
+            219,
+            false
+        ],
+        [
+            1685659065,
+            50.3171,
+            10.7841,
+            8534,
+            211,
+            false
+        ],
+        [
+            1685659078,
+            50.2922,
+            10.7608,
+            8534,
+            210,
+            false
+        ],
+        [
+            1685659250,
+            49.981,
+            10.4736,
+            8839,
+            208,
+            false
+        ],
+        [
+            1685659810,
+            48.9477,
+            9.6166,
+            8839,
+            208,
+            false
+        ],
+        [
+            1685659817,
+            48.9352,
+            9.6065,
+            8534,
+            208,
+            false
+        ],
+        [
+            1685659944,
+            48.7064,
+            9.423,
+            8839,
+            207,
+            false
+        ],
+        [
+            1685659951,
+            48.6925,
+            9.4129,
+            8839,
+            204,
+            false
+        ],
+        [
+            1685659959,
+            48.6784,
+            9.404,
+            8839,
+            201,
+            false
+        ],
+        [
+            1685659966,
+            48.664,
+            9.3962,
+            8839,
+            198,
+            false
+        ],
+        [
+            1685659973,
+            48.6506,
+            9.3899,
+            8839,
+            196,
+            false
+        ],
+        [
+            1685659980,
+            48.6363,
+            9.3842,
+            8839,
+            193,
+            false
+        ],
+        [
+            1685660520,
+            47.5726,
+            8.9987,
+            8839,
+            193,
+            false
+        ]
+    ],
+    "startTime": "2023/06/01-19:23:03",
+    "baro_altitude": 8839.2,
+    "category": 0,
+    "geo_altitude": 9083.04,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685660524,
+    "latitude": 47.563,
+    "longitude": 8.9952,
+    "on_ground": false,
+    "origin_country": "Spain",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1685660524,
+    "true_track": 193.56,
+    "velocity": 225.97,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 115,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDDP",
+    "estDepartureAirportHorizDistance": 1454,
+    "estDepartureAirportVertDistance": 178,
+    "firstSeen": 1685658183,
+    "lastSeen": 1685660520
+}

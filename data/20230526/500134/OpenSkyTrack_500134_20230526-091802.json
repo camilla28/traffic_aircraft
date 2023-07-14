@@ -1,0 +1,184 @@
+{
+    "callsign": "T7SSB   ",
+    "endTime": "2023/05/26-09:17:55",
+    "icao24": "500134",
+    "path": [
+        [
+            1685103091,
+            24.9116,
+            55.135,
+            304,
+            301,
+            false
+        ],
+        [
+            1685103118,
+            24.9249,
+            55.1108,
+            609,
+            301,
+            false
+        ],
+        [
+            1685103154,
+            24.9439,
+            55.0761,
+            914,
+            300,
+            false
+        ],
+        [
+            1685103188,
+            24.9619,
+            55.0433,
+            1219,
+            301,
+            false
+        ],
+        [
+            1685103208,
+            24.9727,
+            55.0238,
+            1524,
+            301,
+            false
+        ],
+        [
+            1685103231,
+            24.9868,
+            54.9983,
+            1828,
+            301,
+            false
+        ],
+        [
+            1685103258,
+            25.0031,
+            54.9689,
+            2133,
+            301,
+            false
+        ],
+        [
+            1685103277,
+            25.0157,
+            54.9459,
+            2438,
+            301,
+            false
+        ],
+        [
+            1685103296,
+            25.029,
+            54.9218,
+            2743,
+            301,
+            false
+        ],
+        [
+            1685103319,
+            25.0439,
+            54.8947,
+            3048,
+            301,
+            false
+        ],
+        [
+            1685103338,
+            25.058,
+            54.8692,
+            3352,
+            301,
+            false
+        ],
+        [
+            1685103370,
+            25.0811,
+            54.8271,
+            3657,
+            300,
+            false
+        ],
+        [
+            1685103394,
+            25.1,
+            54.7923,
+            3962,
+            298,
+            false
+        ],
+        [
+            1685103397,
+            25.103,
+            54.7862,
+            3962,
+            297,
+            false
+        ],
+        [
+            1685103423,
+            25.1203,
+            54.7463,
+            4267,
+            294,
+            false
+        ],
+        [
+            1685103451,
+            25.1403,
+            54.6992,
+            4572,
+            294,
+            false
+        ],
+        [
+            1685103475,
+            25.1568,
+            54.6598,
+            4876,
+            294,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-09:11:31",
+    "baro_altitude": 4023.36,
+    "category": 4,
+    "geo_altitude": 4251.96,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685103376,
+    "latitude": 25.0862,
+    "longitude": 54.8178,
+    "on_ground": false,
+    "origin_country": "San Marino",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1685103376,
+    "true_track": 300.96,
+    "velocity": 167.98,
+    "vertical_rate": 12.35,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 21,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "OMDW",
+    "estDepartureAirportHorizDistance": 2841,
+    "estDepartureAirportVertDistance": 567,
+    "firstSeen": 1685103091,
+    "lastSeen": 1685103475
+}

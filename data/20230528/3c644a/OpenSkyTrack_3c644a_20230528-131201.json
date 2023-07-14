@@ -1,0 +1,168 @@
+{
+    "callsign": "DLH5K   ",
+    "endTime": "2023/05/28-13:11:50",
+    "icao24": "3c644a",
+    "path": [
+        [
+            1685290045,
+            46.2403,
+            6.1122,
+            304,
+            45,
+            false
+        ],
+        [
+            1685290058,
+            46.2469,
+            6.122,
+            304,
+            46,
+            false
+        ],
+        [
+            1685290080,
+            46.2579,
+            6.1382,
+            609,
+            45,
+            false
+        ],
+        [
+            1685290105,
+            46.2705,
+            6.1564,
+            914,
+            44,
+            false
+        ],
+        [
+            1685290119,
+            46.2779,
+            6.1671,
+            1219,
+            44,
+            false
+        ],
+        [
+            1685290155,
+            46.2976,
+            6.1944,
+            1524,
+            44,
+            false
+        ],
+        [
+            1685290183,
+            46.3159,
+            6.2204,
+            1828,
+            45,
+            false
+        ],
+        [
+            1685290190,
+            46.321,
+            6.228,
+            2133,
+            45,
+            false
+        ],
+        [
+            1685290197,
+            46.3266,
+            6.2372,
+            2133,
+            51,
+            false
+        ],
+        [
+            1685290203,
+            46.3303,
+            6.2455,
+            2133,
+            58,
+            false
+        ],
+        [
+            1685290212,
+            46.335,
+            6.2581,
+            2133,
+            62,
+            false
+        ],
+        [
+            1685290225,
+            46.3428,
+            6.2803,
+            2438,
+            63,
+            false
+        ],
+        [
+            1685290247,
+            46.3558,
+            6.3165,
+            2743,
+            62,
+            false
+        ],
+        [
+            1685290273,
+            46.3724,
+            6.3629,
+            3048,
+            62,
+            false
+        ],
+        [
+            1685290310,
+            46.3988,
+            6.4366,
+            3352,
+            62,
+            false
+        ]
+    ],
+    "startTime": "2023/05/28-13:07:25",
+    "baro_altitude": null,
+    "category": 1,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685289660,
+    "latitude": 46.2308,
+    "longitude": 6.1054,
+    "on_ground": true,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1685289653,
+    "true_track": 225,
+    "velocity": 1.29,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 103,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSGG",
+    "estDepartureAirportHorizDistance": 254,
+    "estDepartureAirportVertDistance": 18,
+    "firstSeen": 1685290045,
+    "lastSeen": 1685290310
+}

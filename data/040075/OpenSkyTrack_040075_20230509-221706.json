@@ -1,0 +1,80 @@
+{
+    "callsign": "ETH500  ",
+    "endTime": "2023/05/09-22:17:05",
+    "icao24": "040075",
+    "path": [
+        [
+            1683678915,
+            35.4361,
+            25.4349,
+            10972,
+            321,
+            false
+        ],
+        [
+            1683679809,
+            36.933,
+            23.9215,
+            10972,
+            320,
+            false
+        ],
+        [
+            1683680706,
+            38.39,
+            22.3694,
+            10972,
+            319,
+            false
+        ],
+        [
+            1683681425,
+            39.5116,
+            21.1151,
+            10972,
+            318,
+            false
+        ]
+    ],
+    "startTime": "2023/05/09-21:35:15",
+    "baro_altitude": 10972.8,
+    "category": 1,
+    "geo_altitude": 11201.4,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1683680091,
+    "latitude": 37.4001,
+    "longitude": 23.4329,
+    "on_ground": false,
+    "origin_country": "Ethiopia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2043",
+    "time_position": 1683680091,
+    "true_track": 319.88,
+    "velocity": 239.5,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1683678915,
+    "lastSeen": 1683681425
+}

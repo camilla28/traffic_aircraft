@@ -1,0 +1,152 @@
+{
+    "callsign": "BAW720T ",
+    "endTime": "2023/05/29-18:31:23",
+    "icao24": "400935",
+    "path": [
+        [
+            1685393523,
+            47.2728,
+            8.8818,
+            2133,
+            147,
+            false
+        ],
+        [
+            1685393657,
+            47.2483,
+            8.8249,
+            6096,
+            117,
+            false
+        ],
+        [
+            1685393657,
+            47.2483,
+            8.8249,
+            6096,
+            117,
+            false
+        ],
+        [
+            1685393920,
+            47.786,
+            8.7043,
+            5486,
+            148,
+            false
+        ],
+        [
+            1685394035,
+            47.7292,
+            8.7731,
+            5486,
+            148,
+            false
+        ],
+        [
+            1685394053,
+            47.9598,
+            8.4983,
+            6096,
+            148,
+            false
+        ],
+        [
+            1685394682,
+            47.3845,
+            8.7931,
+            2438,
+            147,
+            false
+        ],
+        [
+            1685394927,
+            47.3882,
+            8.5962,
+            609,
+            335,
+            false
+        ],
+        [
+            1685395127,
+            47.461,
+            8.5514,
+            3657,
+            269,
+            false
+        ],
+        [
+            1685395292,
+            47.7295,
+            8.5862,
+            3657,
+            148,
+            false
+        ],
+        [
+            1685395292,
+            47.7295,
+            8.5862,
+            3657,
+            148,
+            false
+        ],
+        [
+            1685395843,
+            47.4137,
+            8.7681,
+            2743,
+            148,
+            false
+        ],
+        [
+            1685395883,
+            47.4123,
+            8.769,
+            6400,
+            148,
+            false
+        ]
+    ],
+    "startTime": "2023/05/29-17:52:03",
+    "baro_altitude": 6400.8,
+    "category": 1,
+    "geo_altitude": 3009.9,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685395886,
+    "latitude": 47.4123,
+    "longitude": 8.769,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5230",
+    "time_position": 1685395883,
+    "true_track": 148.32,
+    "velocity": 175.32,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 104,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSPV",
+    "estDepartureAirportHorizDistance": 12928,
+    "estDepartureAirportVertDistance": 1802,
+    "firstSeen": 1685393523,
+    "lastSeen": 1685395883
+}

@@ -1,0 +1,120 @@
+{
+    "callsign": "RYR1778 ",
+    "endTime": "2023/05/26-11:10:45",
+    "icao24": "4d2240",
+    "path": [
+        [
+            1685107710,
+            54.0198,
+            13.0707,
+            10972,
+            202,
+            false
+        ],
+        [
+            1685108357,
+            53.5322,
+            12.7566,
+            11582,
+            200,
+            false
+        ],
+        [
+            1685108632,
+            51.3438,
+            11.4368,
+            11582,
+            199,
+            false
+        ],
+        [
+            1685109100,
+            49.883,
+            10.2561,
+            11582,
+            207,
+            false
+        ],
+        [
+            1685109359,
+            49.4159,
+            9.8812,
+            11582,
+            207,
+            false
+        ],
+        [
+            1685109444,
+            49.2605,
+            9.7605,
+            11887,
+            207,
+            false
+        ],
+        [
+            1685109455,
+            49.2404,
+            9.7484,
+            11887,
+            201,
+            false
+        ],
+        [
+            1685109746,
+            48.6805,
+            9.4147,
+            11887,
+            201,
+            false
+        ],
+        [
+            1685110245,
+            47.7389,
+            8.887,
+            11887,
+            200,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-10:28:30",
+    "baro_altitude": 11887.2,
+    "category": 0,
+    "geo_altitude": 12207.24,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685110249,
+    "latitude": 47.7389,
+    "longitude": 8.887,
+    "on_ground": false,
+    "origin_country": "Malta",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1685110245,
+    "true_track": 200.72,
+    "velocity": 228.26,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDUW",
+    "estDepartureAirportHorizDistance": 11069,
+    "estDepartureAirportVertDistance": 11254,
+    "firstSeen": 1685107710,
+    "lastSeen": 1685110245
+}

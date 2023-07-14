@@ -1,0 +1,136 @@
+{
+    "callsign": "SWR1MA  ",
+    "endTime": "2023/05/29-18:25:18",
+    "icao24": "4b0291",
+    "path": [
+        [
+            1685394748,
+            47.4358,
+            8.3892,
+            3352,
+            166,
+            false
+        ],
+        [
+            1685394872,
+            47.2443,
+            8.4528,
+            4572,
+            168,
+            false
+        ],
+        [
+            1685394894,
+            47.208,
+            8.4574,
+            4876,
+            178,
+            false
+        ],
+        [
+            1685394903,
+            47.1932,
+            8.4578,
+            4876,
+            179,
+            false
+        ],
+        [
+            1685394931,
+            47.1438,
+            8.4593,
+            5181,
+            178,
+            false
+        ],
+        [
+            1685394967,
+            47.0815,
+            8.4614,
+            5486,
+            178,
+            false
+        ],
+        [
+            1685395002,
+            47.0202,
+            8.4636,
+            5791,
+            178,
+            false
+        ],
+        [
+            1685395062,
+            46.9149,
+            8.4674,
+            6096,
+            178,
+            false
+        ],
+        [
+            1685395342,
+            46.4351,
+            8.4842,
+            6400,
+            178,
+            false
+        ],
+        [
+            1685395402,
+            46.3311,
+            8.4878,
+            6096,
+            178,
+            false
+        ],
+        [
+            1685395518,
+            46.1396,
+            8.4945,
+            5791,
+            177,
+            false
+        ]
+    ],
+    "startTime": "2023/05/29-18:12:28",
+    "baro_altitude": 5791.2,
+    "category": 0,
+    "geo_altitude": 6019.8,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685395493,
+    "latitude": 46.1816,
+    "longitude": 8.493,
+    "on_ground": false,
+    "origin_country": "Switzerland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1685395492,
+    "true_track": 178.55,
+    "velocity": 183.2,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 2,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSZF",
+    "estDepartureAirportHorizDistance": 12570,
+    "estDepartureAirportVertDistance": 3147,
+    "firstSeen": 1685394748,
+    "lastSeen": 1685395518
+}

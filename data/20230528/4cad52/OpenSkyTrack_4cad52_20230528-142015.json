@@ -1,0 +1,120 @@
+{
+    "callsign": "ITY573  ",
+    "endTime": "2023/05/28-14:20:08",
+    "icao24": "4cad52",
+    "path": [
+        [
+            1685294315,
+            47.4571,
+            8.5636,
+            304,
+            275,
+            false
+        ],
+        [
+            1685294342,
+            47.459,
+            8.538,
+            304,
+            275,
+            false
+        ],
+        [
+            1685294359,
+            47.4598,
+            8.5184,
+            609,
+            273,
+            false
+        ],
+        [
+            1685294367,
+            47.4602,
+            8.51,
+            914,
+            274,
+            false
+        ],
+        [
+            1685294382,
+            47.4615,
+            8.4929,
+            914,
+            276,
+            false
+        ],
+        [
+            1685294389,
+            47.4618,
+            8.4856,
+            914,
+            268,
+            false
+        ],
+        [
+            1685294396,
+            47.461,
+            8.4783,
+            1219,
+            255,
+            false
+        ],
+        [
+            1685294401,
+            47.4594,
+            8.4722,
+            1219,
+            243,
+            false
+        ],
+        [
+            1685294408,
+            47.4562,
+            8.4657,
+            1219,
+            227,
+            false
+        ]
+    ],
+    "startTime": "2023/05/28-14:18:35",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685294245,
+    "latitude": 47.4558,
+    "longitude": 8.57,
+    "on_ground": true,
+    "origin_country": "Ireland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1685294244,
+    "true_track": 53.44,
+    "velocity": 3.86,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 129,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSZH",
+    "estDepartureAirportHorizDistance": 900,
+    "estDepartureAirportVertDistance": 20,
+    "firstSeen": 1685294315,
+    "lastSeen": 1685294401
+}

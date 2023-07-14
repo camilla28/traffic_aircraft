@@ -1,0 +1,128 @@
+{
+    "callsign": "OAW1025 ",
+    "endTime": "2023/05/26-13:55:04",
+    "icao24": "4b028d",
+    "path": [
+        [
+            1685119936,
+            46.1721,
+            7.1988,
+            3048,
+            235,
+            false
+        ],
+        [
+            1685119979,
+            46.1228,
+            7.0974,
+            4572,
+            234,
+            false
+        ],
+        [
+            1685120030,
+            46.0932,
+            7.0201,
+            4876,
+            234,
+            false
+        ],
+        [
+            1685120041,
+            46.095,
+            7.002,
+            4876,
+            292,
+            false
+        ],
+        [
+            1685120052,
+            46.1017,
+            6.9825,
+            4876,
+            305,
+            false
+        ],
+        [
+            1685120060,
+            46.1076,
+            6.973,
+            4876,
+            317,
+            false
+        ],
+        [
+            1685120072,
+            46.1187,
+            6.9623,
+            4876,
+            333,
+            false
+        ],
+        [
+            1685120081,
+            46.1271,
+            6.958,
+            4876,
+            343,
+            false
+        ],
+        [
+            1685120090,
+            46.1337,
+            6.9564,
+            5181,
+            343,
+            false
+        ],
+        [
+            1685120104,
+            46.1413,
+            6.9563,
+            5181,
+            3,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-13:52:16",
+    "baro_altitude": 4975.86,
+    "category": 0,
+    "geo_altitude": 5196.84,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685120042,
+    "latitude": 46.0971,
+    "longitude": 6.9938,
+    "on_ground": false,
+    "origin_country": "Switzerland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1685120042,
+    "true_track": 292.9,
+    "velocity": 169.21,
+    "vertical_rate": 7.8,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 7,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSGS",
+    "estDepartureAirportHorizDistance": 32581,
+    "estDepartureAirportVertDistance": 2724,
+    "firstSeen": 1685119936,
+    "lastSeen": 1685120104
+}

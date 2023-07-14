@@ -1,0 +1,144 @@
+{
+    "callsign": "KAF3208 ",
+    "endTime": "2023/05/26-09:22:28",
+    "icao24": "7061f5",
+    "path": [
+        [
+            1685101192,
+            24.6182,
+            46.4345,
+            7620,
+            24,
+            false
+        ],
+        [
+            1685101257,
+            24.7045,
+            46.4769,
+            7620,
+            24,
+            false
+        ],
+        [
+            1685101300,
+            24.7626,
+            46.5056,
+            7315,
+            24,
+            false
+        ],
+        [
+            1685101498,
+            25.0259,
+            46.6375,
+            7620,
+            24,
+            false
+        ],
+        [
+            1685103239,
+            27.462,
+            47.8635,
+            7620,
+            15,
+            false
+        ],
+        [
+            1685103307,
+            27.5638,
+            47.8928,
+            7620,
+            14,
+            false
+        ],
+        [
+            1685103467,
+            27.8064,
+            47.9643,
+            7315,
+            14,
+            false
+        ],
+        [
+            1685103534,
+            27.9126,
+            47.9956,
+            7010,
+            14,
+            false
+        ],
+        [
+            1685103592,
+            28.0035,
+            48.022,
+            6705,
+            14,
+            false
+        ],
+        [
+            1685103630,
+            28.0609,
+            48.0388,
+            6400,
+            14,
+            false
+        ],
+        [
+            1685103715,
+            28.1902,
+            48.0768,
+            6096,
+            14,
+            false
+        ],
+        [
+            1685103748,
+            28.2413,
+            48.0922,
+            5791,
+            14,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-08:39:52",
+    "baro_altitude": 7620,
+    "category": 1,
+    "geo_altitude": 8008.62,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685103327,
+    "latitude": 27.5638,
+    "longitude": 47.8928,
+    "on_ground": false,
+    "origin_country": "Kuwait",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1685103307,
+    "true_track": 14.87,
+    "velocity": 172.45,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1685101192,
+    "lastSeen": 1685103748
+}

@@ -1,0 +1,104 @@
+{
+    "callsign": "BRU966  ",
+    "endTime": "2023/05/26-09:25:47",
+    "icao24": "510043",
+    "path": [
+        [
+            1685103087,
+            56.834,
+            58.1052,
+            9753,
+            273,
+            false
+        ],
+        [
+            1685103131,
+            56.8388,
+            57.9578,
+            9753,
+            273,
+            false
+        ],
+        [
+            1685103175,
+            56.8431,
+            57.8053,
+            10058,
+            272,
+            false
+        ],
+        [
+            1685103231,
+            56.847,
+            57.6185,
+            10363,
+            272,
+            false
+        ],
+        [
+            1685103304,
+            56.8526,
+            57.3742,
+            10668,
+            272,
+            false
+        ],
+        [
+            1685103746,
+            56.8797,
+            55.8899,
+            10972,
+            270,
+            false
+        ],
+        [
+            1685103947,
+            56.8702,
+            55.2078,
+            10972,
+            268,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-09:11:27",
+    "baro_altitude": 10972.8,
+    "category": 1,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685103370,
+    "latitude": 56.858,
+    "longitude": 57.156,
+    "on_ground": false,
+    "origin_country": "Belarus",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1685103370,
+    "true_track": 273.17,
+    "velocity": 204.55,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1685103087,
+    "lastSeen": 1685103947
+}

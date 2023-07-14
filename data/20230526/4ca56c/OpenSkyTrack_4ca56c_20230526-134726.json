@@ -1,0 +1,120 @@
+{
+    "callsign": "RYR80EE ",
+    "endTime": "2023/05/26-13:47:18",
+    "icao24": "4ca56c",
+    "path": [
+        [
+            1685116683,
+            50.8961,
+            7.1063,
+            304,
+            318,
+            false
+        ],
+        [
+            1685116683,
+            50.8961,
+            7.1063,
+            304,
+            318,
+            false
+        ],
+        [
+            1685117168,
+            50.836,
+            6.0865,
+            6400,
+            265,
+            false
+        ],
+        [
+            1685117208,
+            50.8348,
+            6.0624,
+            6705,
+            265,
+            false
+        ],
+        [
+            1685117753,
+            50.5078,
+            5.9564,
+            8534,
+            161,
+            false
+        ],
+        [
+            1685119059,
+            49.6741,
+            6.3781,
+            11277,
+            162,
+            false
+        ],
+        [
+            1685119059,
+            49.6741,
+            6.3781,
+            11277,
+            162,
+            false
+        ],
+        [
+            1685119450,
+            46.0228,
+            6.155,
+            11277,
+            192,
+            false
+        ],
+        [
+            1685119638,
+            45.6499,
+            6.0316,
+            11277,
+            193,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-12:58:03",
+    "baro_altitude": 11277.6,
+    "category": 1,
+    "geo_altitude": 11590.02,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685119536,
+    "latitude": 45.8532,
+    "longitude": 6.0996,
+    "on_ground": false,
+    "origin_country": "Ireland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "4113",
+    "time_position": 1685119535,
+    "true_track": 193.06,
+    "velocity": 227.62,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 134,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDDK",
+    "estDepartureAirportHorizDistance": 4219,
+    "estDepartureAirportVertDistance": 418,
+    "firstSeen": 1685116683,
+    "lastSeen": 1685119638
+}

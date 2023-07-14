@@ -1,0 +1,80 @@
+{
+    "callsign": "IGO6977 ",
+    "endTime": "2023/05/09-22:43:06",
+    "icao24": "8014c8",
+    "path": [
+        [
+            1683682251,
+            24.0895,
+            74.7125,
+            10972,
+            200,
+            false
+        ],
+        [
+            1683682333,
+            23.9366,
+            74.6515,
+            10972,
+            200,
+            false
+        ],
+        [
+            1683682371,
+            23.8676,
+            74.6238,
+            10668,
+            200,
+            false
+        ],
+        [
+            1683682986,
+            22.6967,
+            74.1596,
+            10972,
+            199,
+            false
+        ]
+    ],
+    "startTime": "2023/05/09-22:30:51",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": 11620.5,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1683682986,
+    "latitude": 22.6967,
+    "longitude": 74.1596,
+    "on_ground": false,
+    "origin_country": "India",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1683682986,
+    "true_track": 199.95,
+    "velocity": 227.67,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1683682251,
+    "lastSeen": 1683682986
+}

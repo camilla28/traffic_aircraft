@@ -1,0 +1,112 @@
+{
+    "callsign": "ENT54SW ",
+    "endTime": "2023/05/26-11:02:15",
+    "icao24": "4891b2",
+    "path": [
+        [
+            1685108356,
+            44.4509,
+            13.3561,
+            8839,
+            281,
+            false
+        ],
+        [
+            1685108627,
+            45.1071,
+            10.07,
+            11582,
+            290,
+            false
+        ],
+        [
+            1685109134,
+            45.7201,
+            7.6638,
+            11582,
+            289,
+            false
+        ],
+        [
+            1685109144,
+            45.7282,
+            7.6345,
+            11582,
+            293,
+            false
+        ],
+        [
+            1685109152,
+            45.7362,
+            7.6117,
+            11582,
+            298,
+            false
+        ],
+        [
+            1685109163,
+            45.7475,
+            7.5852,
+            11582,
+            303,
+            false
+        ],
+        [
+            1685109172,
+            45.7592,
+            7.5625,
+            11582,
+            308,
+            false
+        ],
+        [
+            1685109735,
+            46.523,
+            6.2463,
+            11582,
+            309,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-10:39:16",
+    "baro_altitude": 11582.4,
+    "category": 1,
+    "geo_altitude": 11910.06,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685109653,
+    "latitude": 46.4125,
+    "longitude": 6.4399,
+    "on_ground": false,
+    "origin_country": "Poland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1685109653,
+    "true_track": 309.69,
+    "velocity": 236,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1685108356,
+    "lastSeen": 1685109735
+}
