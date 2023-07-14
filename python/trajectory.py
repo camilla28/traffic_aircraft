@@ -223,7 +223,7 @@ class Trajectory:
                             lat_diff = waypoint[1] - last_waypoint[1]
                             long_diff = waypoint[2] - last_waypoint[2]
                             d_distante = self.__distance_on_geoid(last_waypoint[1], last_waypoint[2], waypoint[1], waypoint[2])
-                            speed = d_distante/time_diff
+                            speed = d_distante/time_diff #[m/s]
                             waypoint.append(speed)
 
                             # Calculate vertical rate
@@ -242,6 +242,7 @@ class Trajectory:
             
         with open(data_path + "\\" + self.datestr + "_sorted.json", "w") as outfile:
             json.dump(data_dict_sorted, outfile)
+        return data_dict_sorted
 
 
     '''
@@ -295,8 +296,9 @@ class Trajectory:
     '''
         Treta data 
     '''
-    def treat_data(self):
+    def treat_data(self, type='vector'):
         self.__get_state_from_files()
-        self.__update_speed()
-        data = self.__get_data_dict()
+        data = self.__update_speed()
+        if type == 'vector':
+            data = self.__get_data_dict()
         return data
