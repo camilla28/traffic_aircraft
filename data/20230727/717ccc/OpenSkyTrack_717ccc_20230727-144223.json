@@ -1,0 +1,120 @@
+{
+    "callsign": "KNE255  ",
+    "endTime": "2023/07/27-14:14:31",
+    "icao24": "717ccc",
+    "path": [
+        [
+            1690477961,
+            24.864,
+            46.7531,
+            1219,
+            205,
+            false
+        ],
+        [
+            1690477970,
+            24.8546,
+            46.7438,
+            1219,
+            229,
+            false
+        ],
+        [
+            1690477982,
+            24.8481,
+            46.7188,
+            1524,
+            267,
+            false
+        ],
+        [
+            1690477992,
+            24.8517,
+            46.7005,
+            1524,
+            288,
+            false
+        ],
+        [
+            1690478000,
+            24.8584,
+            46.6813,
+            1524,
+            290,
+            false
+        ],
+        [
+            1690478010,
+            24.8667,
+            46.6566,
+            1828,
+            289,
+            false
+        ],
+        [
+            1690478041,
+            24.8839,
+            46.6036,
+            2133,
+            289,
+            false
+        ],
+        [
+            1690478062,
+            24.8933,
+            46.5746,
+            2438,
+            289,
+            false
+        ],
+        [
+            1690478071,
+            24.898,
+            46.5601,
+            2743,
+            289,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-14:12:41",
+    "baro_altitude": 10378.44,
+    "category": 0,
+    "geo_altitude": 11155.68,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 26.5521,
+    "longitude": 50.9811,
+    "on_ground": false,
+    "origin_country": "Saudi Arabia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0560",
+    "time_position": 1690469106,
+    "true_track": 289.45,
+    "velocity": 248.78,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 11,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "OERK",
+    "estDepartureAirportHorizDistance": 140837,
+    "estDepartureAirportVertDistance": 716,
+    "firstSeen": 1690477961,
+    "lastSeen": 1690478071
+}

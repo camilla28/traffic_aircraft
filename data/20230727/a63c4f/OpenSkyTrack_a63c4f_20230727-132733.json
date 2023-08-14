@@ -1,0 +1,112 @@
+{
+    "callsign": "N5000G  ",
+    "endTime": "2023/07/27-13:27:32",
+    "icao24": "a63c4f",
+    "path": [
+        [
+            1690475180,
+            40.0051,
+            -112.5037,
+            1828,
+            271,
+            false
+        ],
+        [
+            1690475191,
+            40.0054,
+            -112.509,
+            1828,
+            276,
+            false
+        ],
+        [
+            1690475202,
+            40.0058,
+            -112.5138,
+            1828,
+            276,
+            false
+        ],
+        [
+            1690475212,
+            40.0061,
+            -112.518,
+            2133,
+            278,
+            false
+        ],
+        [
+            1690475222,
+            40.0065,
+            -112.5215,
+            2133,
+            270,
+            false
+        ],
+        [
+            1690475232,
+            40.0065,
+            -112.525,
+            2133,
+            272,
+            false
+        ],
+        [
+            1690475242,
+            40.0067,
+            -112.5289,
+            2133,
+            274,
+            false
+        ],
+        [
+            1690475252,
+            40.0068,
+            -112.5327,
+            2133,
+            269,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-13:26:20",
+    "baro_altitude": 1493.52,
+    "category": 0,
+    "geo_altitude": 1508.76,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 40.6052,
+    "longitude": -111.924,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469109,
+    "true_track": 217.09,
+    "velocity": 52.89,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 49,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KDPG",
+    "estDepartureAirportHorizDistance": 43013,
+    "estDepartureAirportVertDistance": 686,
+    "firstSeen": 1690475180,
+    "lastSeen": 1690475242
+}

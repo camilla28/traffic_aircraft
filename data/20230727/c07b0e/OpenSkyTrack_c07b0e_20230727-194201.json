@@ -1,0 +1,72 @@
+{
+    "callsign": "CGUPP   ",
+    "endTime": "2023/07/27-18:50:06",
+    "icao24": "c07b0e",
+    "path": [
+        [
+            1690494428,
+            49.1115,
+            -81.5191,
+            3657,
+            358,
+            false
+        ],
+        [
+            1690494500,
+            49.1701,
+            -81.5212,
+            3657,
+            358,
+            false
+        ],
+        [
+            1690494606,
+            49.2622,
+            -81.5262,
+            3962,
+            359,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-18:47:08",
+    "baro_altitude": 4000.5,
+    "category": 0,
+    "geo_altitude": 4099.56,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690494599,
+    "latitude": 49.2558,
+    "longitude": -81.5262,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690494599,
+    "true_track": 359.71,
+    "velocity": 102.89,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1690494428,
+    "lastSeen": 1690494606
+}

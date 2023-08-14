@@ -1,0 +1,120 @@
+{
+    "callsign": "N978WC  ",
+    "endTime": "2023/07/27-12:29:28",
+    "icao24": "ada354",
+    "path": [
+        [
+            1690471351,
+            37.3764,
+            -120.5164,
+            304,
+            141,
+            false
+        ],
+        [
+            1690471351,
+            37.3764,
+            -120.5164,
+            304,
+            323,
+            false
+        ],
+        [
+            1690471651,
+            37.3872,
+            -120.575,
+            0,
+            332,
+            false
+        ],
+        [
+            1690471651,
+            37.3872,
+            -120.575,
+            0,
+            332,
+            false
+        ],
+        [
+            1690471692,
+            37.3969,
+            -120.5745,
+            0,
+            35,
+            false
+        ],
+        [
+            1690471692,
+            37.3969,
+            -120.5745,
+            0,
+            35,
+            false
+        ],
+        [
+            1690471732,
+            37.4033,
+            -120.5646,
+            304,
+            52,
+            false
+        ],
+        [
+            1690471768,
+            37.4071,
+            -120.5548,
+            304,
+            53,
+            false
+        ],
+        [
+            1690471768,
+            37.4071,
+            -120.5548,
+            304,
+            141,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-12:22:31",
+    "baro_altitude": 1127.76,
+    "category": 0,
+    "geo_altitude": 1120.14,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469074,
+    "latitude": 37.5431,
+    "longitude": -120.393,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469074,
+    "true_track": 228.7,
+    "velocity": 50.67,
+    "vertical_rate": -12.03,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 208,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KMER",
+    "estDepartureAirportHorizDistance": 4579,
+    "estDepartureAirportVertDistance": 277,
+    "firstSeen": 1690471351,
+    "lastSeen": 1690471768
+}

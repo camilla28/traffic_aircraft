@@ -1,0 +1,152 @@
+{
+    "callsign": "RYR5VW  ",
+    "endTime": "2023/07/27-15:04:50",
+    "icao24": "4d2347",
+    "path": [
+        [
+            1690480955,
+            44.538,
+            11.351,
+            609,
+            27,
+            false
+        ],
+        [
+            1690480968,
+            44.5472,
+            11.3567,
+            609,
+            22,
+            false
+        ],
+        [
+            1690480975,
+            44.5521,
+            11.3598,
+            914,
+            24,
+            false
+        ],
+        [
+            1690480987,
+            44.5596,
+            11.3689,
+            914,
+            53,
+            false
+        ],
+        [
+            1690480993,
+            44.5619,
+            11.3764,
+            914,
+            75,
+            false
+        ],
+        [
+            1690481005,
+            44.5619,
+            11.3905,
+            914,
+            98,
+            false
+        ],
+        [
+            1690481012,
+            44.5593,
+            11.3993,
+            914,
+            102,
+            false
+        ],
+        [
+            1690481023,
+            44.5542,
+            11.4125,
+            1219,
+            118,
+            false
+        ],
+        [
+            1690481040,
+            44.5452,
+            11.4359,
+            1219,
+            117,
+            false
+        ],
+        [
+            1690481052,
+            44.5395,
+            11.4516,
+            1524,
+            52,
+            false
+        ],
+        [
+            1690481062,
+            44.5344,
+            11.4663,
+            1524,
+            44,
+            false
+        ],
+        [
+            1690481071,
+            44.5304,
+            11.4784,
+            1828,
+            114,
+            false
+        ],
+        [
+            1690481090,
+            44.5216,
+            11.5049,
+            1828,
+            114,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-15:02:35",
+    "baro_altitude": 678.18,
+    "category": 0,
+    "geo_altitude": 769.62,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 41.3545,
+    "longitude": 2.2468,
+    "on_ground": false,
+    "origin_country": "Malta",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1737",
+    "time_position": 1690469109,
+    "true_track": 245.56,
+    "velocity": 87.02,
+    "vertical_rate": -4.55,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 45,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LIPE",
+    "estDepartureAirportHorizDistance": 4441,
+    "estDepartureAirportVertDistance": 709,
+    "firstSeen": 1690480955,
+    "lastSeen": 1690481090
+}

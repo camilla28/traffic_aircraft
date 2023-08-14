@@ -1,0 +1,112 @@
+{
+    "callsign": "ASI670  ",
+    "endTime": "2023/07/27-11:50:24",
+    "icao24": "a6eb93",
+    "path": [
+        [
+            1690469070,
+            30.556,
+            -97.459,
+            304,
+            348,
+            false
+        ],
+        [
+            1690469070,
+            30.556,
+            -97.459,
+            304,
+            348,
+            false
+        ],
+        [
+            1690469386,
+            30.5562,
+            -97.4566,
+            304,
+            294,
+            false
+        ],
+        [
+            1690469393,
+            30.5567,
+            -97.4576,
+            304,
+            307,
+            false
+        ],
+        [
+            1690469406,
+            30.5586,
+            -97.4596,
+            304,
+            327,
+            false
+        ],
+        [
+            1690469412,
+            30.5598,
+            -97.4602,
+            304,
+            334,
+            false
+        ],
+        [
+            1690469424,
+            30.5619,
+            -97.4608,
+            304,
+            349,
+            false
+        ],
+        [
+            1690469424,
+            30.5619,
+            -97.4608,
+            304,
+            349,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:44:30",
+    "baro_altitude": 457.2,
+    "category": 2,
+    "geo_altitude": 464.82,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469070,
+    "latitude": 30.556,
+    "longitude": -97.459,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469070,
+    "true_track": 348.79,
+    "velocity": 58.21,
+    "vertical_rate": -2.28,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 479,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KT74",
+    "estDepartureAirportHorizDistance": 2355,
+    "estDepartureAirportVertDistance": 274,
+    "firstSeen": 1690469070,
+    "lastSeen": 1690469424
+}

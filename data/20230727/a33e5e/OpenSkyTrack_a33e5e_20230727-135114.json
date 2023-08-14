@@ -1,0 +1,128 @@
+{
+    "callsign": "EDV5419 ",
+    "endTime": "2023/07/27-13:51:08",
+    "icao24": "a33e5e",
+    "path": [
+        [
+            1690476520,
+            38.028,
+            -78.267,
+            2438,
+            99,
+            false
+        ],
+        [
+            1690476556,
+            38.0208,
+            -78.2111,
+            2743,
+            99,
+            false
+        ],
+        [
+            1690476576,
+            38.0166,
+            -78.1792,
+            3048,
+            99,
+            false
+        ],
+        [
+            1690476588,
+            38.0147,
+            -78.1596,
+            3048,
+            93,
+            false
+        ],
+        [
+            1690476599,
+            38.0148,
+            -78.1422,
+            3352,
+            96,
+            false
+        ],
+        [
+            1690476610,
+            38.0159,
+            -78.1217,
+            3352,
+            90,
+            false
+        ],
+        [
+            1690476620,
+            38.0168,
+            -78.104,
+            3352,
+            85,
+            false
+        ],
+        [
+            1690476631,
+            38.018,
+            -78.0837,
+            3352,
+            85,
+            false
+        ],
+        [
+            1690476657,
+            38.0208,
+            -78.0369,
+            3657,
+            85,
+            false
+        ],
+        [
+            1690476668,
+            38.022,
+            -78.0177,
+            3962,
+            85,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-13:48:40",
+    "baro_altitude": 8839.2,
+    "category": 1,
+    "geo_altitude": 9372.6,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 35.5844,
+    "longitude": -81.2679,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469109,
+    "true_track": 40.68,
+    "velocity": 255.73,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 16,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "VA19",
+    "estDepartureAirportHorizDistance": 41327,
+    "estDepartureAirportVertDistance": 2547,
+    "firstSeen": 1690476520,
+    "lastSeen": 1690476668
+}

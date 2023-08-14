@@ -1,0 +1,72 @@
+{
+    "callsign": "UAE88   ",
+    "endTime": "2023/07/27-11:13:10",
+    "icao24": "8963f3",
+    "path": [
+        [
+            1690467032,
+            47.463,
+            8.5447,
+            304,
+            154,
+            false
+        ],
+        [
+            1690467162,
+            47.4378,
+            8.5622,
+            304,
+            155,
+            false
+        ],
+        [
+            1690467190,
+            47.4324,
+            8.5658,
+            609,
+            153,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:10:32",
+    "baro_altitude": 563.88,
+    "category": 6,
+    "geo_altitude": 601.98,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690467142,
+    "latitude": 47.4412,
+    "longitude": 8.5599,
+    "on_ground": false,
+    "origin_country": "United Arab Emirates",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3003",
+    "time_position": 1690467142,
+    "true_track": 155.53,
+    "velocity": 88.17,
+    "vertical_rate": 4.88,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 129,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSZH",
+    "estDepartureAirportHorizDistance": 614,
+    "estDepartureAirportVertDistance": 2,
+    "firstSeen": 1690467032,
+    "lastSeen": 1690467190
+}

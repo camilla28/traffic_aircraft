@@ -1,0 +1,96 @@
+{
+    "callsign": null,
+    "endTime": "2023/07/27-11:29:27",
+    "icao24": "4b28d9",
+    "path": [
+        [
+            1690468052,
+            47.3435,
+            8.1187,
+            1219,
+            -149,
+            false
+        ],
+        [
+            1690468090,
+            47.3319,
+            8.1086,
+            1219,
+            -150,
+            false
+        ],
+        [
+            1690468135,
+            47.318,
+            8.0969,
+            1219,
+            -149,
+            false
+        ],
+        [
+            1690468143,
+            47.3171,
+            8.0927,
+            1219,
+            -92,
+            false
+        ],
+        [
+            1690468156,
+            47.3207,
+            8.0891,
+            1219,
+            -2,
+            false
+        ],
+        [
+            1690468167,
+            47.3257,
+            8.0925,
+            1219,
+            32,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:27:32",
+    "baro_altitude": 1463.04,
+    "category": 0,
+    "geo_altitude": 1588,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690468148,
+    "latitude": 47.3178,
+    "longitude": 8.0908,
+    "on_ground": false,
+    "origin_country": "Switzerland",
+    "position_source": 3,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7000",
+    "time_position": 1690468148,
+    "true_track": -64.03,
+    "velocity": 38.74,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 125,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSPN",
+    "estDepartureAirportHorizDistance": 13392,
+    "estDepartureAirportVertDistance": 977,
+    "firstSeen": 1690468052,
+    "lastSeen": 1690468167
+}

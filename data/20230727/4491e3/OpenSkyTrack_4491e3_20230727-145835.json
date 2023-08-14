@@ -1,0 +1,80 @@
+{
+    "callsign": "OODOC   ",
+    "endTime": "2023/07/27-14:58:32",
+    "icao24": "4491e3",
+    "path": [
+        [
+            1690480652,
+            60.1146,
+            11.3006,
+            4572,
+            168,
+            false
+        ],
+        [
+            1690480661,
+            60.0998,
+            11.3069,
+            4572,
+            167,
+            false
+        ],
+        [
+            1690480682,
+            60.0675,
+            11.3208,
+            4876,
+            167,
+            false
+        ],
+        [
+            1690480712,
+            60.0178,
+            11.3424,
+            5181,
+            168,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-14:57:32",
+    "baro_altitude": 7840.98,
+    "category": 0,
+    "geo_altitude": 7955.28,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 50.5484,
+    "longitude": 21.1138,
+    "on_ground": false,
+    "origin_country": "Belgium",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3715",
+    "time_position": 1690469109,
+    "true_track": 335.71,
+    "velocity": 180.05,
+    "vertical_rate": 13,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "ENGM",
+    "estDepartureAirportHorizDistance": 13919,
+    "estDepartureAirportVertDistance": 4509,
+    "firstSeen": 1690480652,
+    "lastSeen": 1690480702
+}

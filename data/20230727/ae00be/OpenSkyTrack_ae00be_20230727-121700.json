@@ -1,0 +1,136 @@
+{
+    "callsign": "JS22    ",
+    "endTime": "2023/07/27-11:52:31",
+    "icao24": "ae00be",
+    "path": [
+        [
+            1690468607,
+            34.066,
+            -88.4795,
+            3962,
+            158,
+            false
+        ],
+        [
+            1690468607,
+            34.066,
+            -88.4795,
+            3962,
+            160,
+            false
+        ],
+        [
+            1690468690,
+            33.998,
+            -88.4813,
+            3962,
+            338,
+            false
+        ],
+        [
+            1690468690,
+            33.998,
+            -88.4813,
+            3962,
+            297,
+            false
+        ],
+        [
+            1690468998,
+            34.2463,
+            -88.6088,
+            4572,
+            116,
+            false
+        ],
+        [
+            1690469004,
+            34.2403,
+            -88.5971,
+            4572,
+            116,
+            false
+        ],
+        [
+            1690469004,
+            34.2403,
+            -88.5971,
+            4572,
+            161,
+            false
+        ],
+        [
+            1690469147,
+            34.2521,
+            -88.6034,
+            3352,
+            301,
+            false
+        ],
+        [
+            1690469147,
+            34.2521,
+            -88.6034,
+            3352,
+            139,
+            false
+        ],
+        [
+            1690469551,
+            34.0568,
+            -88.4473,
+            3962,
+            306,
+            false
+        ],
+        [
+            1690469551,
+            34.0568,
+            -88.4473,
+            3962,
+            306,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:36:47",
+    "baro_altitude": 4693.92,
+    "category": 0,
+    "geo_altitude": 4968.24,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469012,
+    "latitude": 34.2403,
+    "longitude": -88.5971,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469004,
+    "true_track": 161.78,
+    "velocity": 220.43,
+    "vertical_rate": 2.28,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "MS63",
+    "estDepartureAirportHorizDistance": 10062,
+    "estDepartureAirportVertDistance": 3907,
+    "firstSeen": 1690468607,
+    "lastSeen": 1690469551
+}

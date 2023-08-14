@@ -1,0 +1,72 @@
+{
+    "callsign": "EZY73AQ ",
+    "endTime": "2023/07/24-14:33:45",
+    "icao24": "40690a",
+    "path": [
+        [
+            1690219988,
+            46.2336,
+            6.1023,
+            304,
+            225,
+            false
+        ],
+        [
+            1690220006,
+            46.225,
+            6.0895,
+            609,
+            225,
+            false
+        ],
+        [
+            1690220025,
+            46.217,
+            6.0776,
+            914,
+            226,
+            false
+        ]
+    ],
+    "startTime": "2023/07/24-14:33:08",
+    "baro_altitude": 929.64,
+    "category": 1,
+    "geo_altitude": 967.74,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690220013,
+    "latitude": 46.222,
+    "longitude": 6.0852,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690220013,
+    "true_track": 226.01,
+    "velocity": 82.22,
+    "vertical_rate": 14.31,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 102,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSGG",
+    "estDepartureAirportHorizDistance": 497,
+    "estDepartureAirportVertDistance": 133,
+    "firstSeen": 1690219988,
+    "lastSeen": 1690220025
+}

@@ -1,0 +1,72 @@
+{
+    "callsign": "N43CU   ",
+    "endTime": "2023/07/27-18:50:00",
+    "icao24": "a5210a",
+    "path": [
+        [
+            1690494584,
+            34.219,
+            -118.49,
+            0,
+            175,
+            false
+        ],
+        [
+            1690494600,
+            34.2168,
+            -118.4898,
+            0,
+            175,
+            false
+        ],
+        [
+            1690494600,
+            34.2168,
+            -118.4898,
+            0,
+            171,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-18:49:44",
+    "baro_altitude": 259.08,
+    "category": 0,
+    "geo_altitude": 228.6,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690494595,
+    "latitude": 34.2175,
+    "longitude": -118.4898,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690494595,
+    "true_track": 175.1,
+    "velocity": 18.07,
+    "vertical_rate": -1.95,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 134,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KVNY",
+    "estDepartureAirportHorizDistance": 1019,
+    "estDepartureAirportVertDistance": 29,
+    "firstSeen": 1690494584,
+    "lastSeen": 1690494600
+}

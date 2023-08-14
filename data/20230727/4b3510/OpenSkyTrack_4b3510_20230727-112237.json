@@ -1,0 +1,160 @@
+{
+    "callsign": "HBUCM   ",
+    "endTime": "2023/07/27-11:22:26",
+    "icao24": "4b3510",
+    "path": [
+        [
+            1690467580,
+            46.9588,
+            8.2977,
+            914,
+            13,
+            false
+        ],
+        [
+            1690467587,
+            46.9614,
+            8.2986,
+            914,
+            12,
+            false
+        ],
+        [
+            1690467627,
+            46.9733,
+            8.3025,
+            1219,
+            11,
+            false
+        ],
+        [
+            1690467654,
+            46.9897,
+            8.3056,
+            1219,
+            0,
+            false
+        ],
+        [
+            1690467663,
+            46.9934,
+            8.3056,
+            1524,
+            358,
+            false
+        ],
+        [
+            1690467670,
+            46.9963,
+            8.3055,
+            1524,
+            358,
+            false
+        ],
+        [
+            1690467681,
+            47.0007,
+            8.3055,
+            1524,
+            0,
+            false
+        ],
+        [
+            1690467690,
+            47.0041,
+            8.3052,
+            1524,
+            356,
+            false
+        ],
+        [
+            1690467699,
+            47.0079,
+            8.3046,
+            1524,
+            352,
+            false
+        ],
+        [
+            1690467709,
+            47.0118,
+            8.3038,
+            1524,
+            348,
+            false
+        ],
+        [
+            1690467718,
+            47.0153,
+            8.3024,
+            1524,
+            343,
+            false
+        ],
+        [
+            1690467727,
+            47.019,
+            8.3009,
+            1524,
+            345,
+            false
+        ],
+        [
+            1690467737,
+            47.0229,
+            8.2993,
+            1524,
+            358,
+            false
+        ],
+        [
+            1690467746,
+            47.0264,
+            8.2975,
+            1524,
+            339,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:19:40",
+    "baro_altitude": 1325.88,
+    "category": 2,
+    "geo_altitude": 1386.84,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690467627,
+    "latitude": 46.9733,
+    "longitude": 8.3025,
+    "on_ground": false,
+    "origin_country": "Switzerland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690467627,
+    "true_track": 11.44,
+    "velocity": 44.09,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 115,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSMA",
+    "estDepartureAirportHorizDistance": 1905,
+    "estDepartureAirportVertDistance": 713,
+    "firstSeen": 1690467580,
+    "lastSeen": 1690467746
+}

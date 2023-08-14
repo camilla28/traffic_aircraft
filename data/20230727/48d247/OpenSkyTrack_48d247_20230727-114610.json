@@ -1,0 +1,112 @@
+{
+    "callsign": "SPWTH   ",
+    "endTime": "2023/07/27-11:46:04",
+    "icao24": "48d247",
+    "path": [
+        [
+            1690469084,
+            46.9911,
+            4.8862,
+            304,
+            198,
+            false
+        ],
+        [
+            1690469103,
+            46.9848,
+            4.8834,
+            304,
+            198,
+            false
+        ],
+        [
+            1690469113,
+            46.9813,
+            4.8813,
+            304,
+            205,
+            false
+        ],
+        [
+            1690469123,
+            46.9781,
+            4.8791,
+            304,
+            195,
+            false
+        ],
+        [
+            1690469134,
+            46.9738,
+            4.8797,
+            304,
+            163,
+            false
+        ],
+        [
+            1690469145,
+            46.9711,
+            4.8856,
+            304,
+            104,
+            false
+        ],
+        [
+            1690469155,
+            46.9706,
+            4.8924,
+            609,
+            93,
+            false
+        ],
+        [
+            1690469164,
+            46.9712,
+            4.8991,
+            609,
+            75,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:44:44",
+    "baro_altitude": 457.2,
+    "category": 2,
+    "geo_altitude": 502.92,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469108,
+    "latitude": 46.9831,
+    "longitude": 4.8824,
+    "on_ground": false,
+    "origin_country": "Poland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469108,
+    "true_track": 200.3,
+    "velocity": 40.04,
+    "vertical_rate": 2.6,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 92,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFGF",
+    "estDepartureAirportHorizDistance": 1701,
+    "estDepartureAirportVertDistance": 181,
+    "firstSeen": 1690469084,
+    "lastSeen": 1690469164
+}

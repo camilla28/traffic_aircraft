@@ -1,0 +1,136 @@
+{
+    "callsign": "AFR17HM ",
+    "endTime": "2023/07/24-15:18:49",
+    "icao24": "3986e8",
+    "path": [
+        [
+            1690222591,
+            47.6047,
+            7.5189,
+            304,
+            154,
+            false
+        ],
+        [
+            1690222626,
+            47.5825,
+            7.5346,
+            304,
+            154,
+            false
+        ],
+        [
+            1690222633,
+            47.578,
+            7.5378,
+            609,
+            154,
+            false
+        ],
+        [
+            1690222643,
+            47.5714,
+            7.542,
+            609,
+            164,
+            false
+        ],
+        [
+            1690222652,
+            47.5647,
+            7.5417,
+            914,
+            199,
+            false
+        ],
+        [
+            1690222659,
+            47.5608,
+            7.5377,
+            914,
+            226,
+            false
+        ],
+        [
+            1690222670,
+            47.5572,
+            7.5289,
+            914,
+            244,
+            false
+        ],
+        [
+            1690222679,
+            47.5549,
+            7.5206,
+            1219,
+            249,
+            false
+        ],
+        [
+            1690222686,
+            47.5533,
+            7.5135,
+            1219,
+            252,
+            false
+        ],
+        [
+            1690222712,
+            47.5469,
+            7.4842,
+            1219,
+            251,
+            false
+        ],
+        [
+            1690222729,
+            47.5416,
+            7.4616,
+            1524,
+            250,
+            false
+        ]
+    ],
+    "startTime": "2023/07/24-15:16:31",
+    "baro_altitude": 914.4,
+    "category": 1,
+    "geo_altitude": 944.88,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690222650,
+    "latitude": 47.5664,
+    "longitude": 7.5424,
+    "on_ground": false,
+    "origin_country": "France",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690222650,
+    "true_track": 186.8,
+    "velocity": 78.23,
+    "vertical_rate": 11.7,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 129,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSZM",
+    "estDepartureAirportHorizDistance": 1880,
+    "estDepartureAirportVertDistance": 42,
+    "firstSeen": 1690222591,
+    "lastSeen": 1690222729
+}

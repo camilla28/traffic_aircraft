@@ -1,0 +1,136 @@
+{
+    "callsign": "RS422   ",
+    "endTime": "2023/07/27-11:58:03",
+    "icao24": "c08100",
+    "path": [
+        [
+            1690469104,
+            53.3443,
+            -105.6474,
+            1828,
+            6,
+            false
+        ],
+        [
+            1690469116,
+            53.3535,
+            -105.6456,
+            1828,
+            6,
+            false
+        ],
+        [
+            1690469201,
+            53.4208,
+            -105.6328,
+            2133,
+            7,
+            false
+        ],
+        [
+            1690469256,
+            53.468,
+            -105.6225,
+            2438,
+            7,
+            false
+        ],
+        [
+            1690469311,
+            53.5161,
+            -105.6124,
+            2743,
+            7,
+            false
+        ],
+        [
+            1690469368,
+            53.5656,
+            -105.6024,
+            3048,
+            6,
+            false
+        ],
+        [
+            1690469424,
+            53.6151,
+            -105.5932,
+            3352,
+            6,
+            false
+        ],
+        [
+            1690469482,
+            53.6644,
+            -105.583,
+            3657,
+            7,
+            false
+        ],
+        [
+            1690469554,
+            53.7281,
+            -105.5694,
+            3962,
+            7,
+            false
+        ],
+        [
+            1690469756,
+            53.9491,
+            -105.5244,
+            4267,
+            6,
+            false
+        ],
+        [
+            1690469883,
+            54.1029,
+            -105.4919,
+            3962,
+            6,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:45:04",
+    "baro_altitude": 1889.76,
+    "category": 0,
+    "geo_altitude": 1851.66,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 53.3481,
+    "longitude": -105.6467,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469109,
+    "true_track": 6.49,
+    "velocity": 86.47,
+    "vertical_rate": 5.85,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 29,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "CYPA",
+    "estDepartureAirportHorizDistance": 14550,
+    "estDepartureAirportVertDistance": 1431,
+    "firstSeen": 1690469104,
+    "lastSeen": 1690469883
+}

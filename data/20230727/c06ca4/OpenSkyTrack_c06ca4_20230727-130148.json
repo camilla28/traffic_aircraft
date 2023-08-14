@@ -1,0 +1,96 @@
+{
+    "callsign": "CGPDR   ",
+    "endTime": "2023/07/27-13:01:42",
+    "icao24": "c06ca4",
+    "path": [
+        [
+            1690472237,
+            45.1287,
+            -92.018,
+            1828,
+            293,
+            false
+        ],
+        [
+            1690472253,
+            45.1335,
+            -92.0335,
+            1828,
+            293,
+            false
+        ],
+        [
+            1690472503,
+            45.2113,
+            -92.2867,
+            1524,
+            293,
+            false
+        ],
+        [
+            1690473379,
+            45.4631,
+            -93.1238,
+            1219,
+            292,
+            false
+        ],
+        [
+            1690473672,
+            45.5448,
+            -93.4008,
+            1219,
+            292,
+            false
+        ],
+        [
+            1690473702,
+            45.552,
+            -93.4255,
+            1524,
+            292,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-12:37:17",
+    "baro_altitude": 1722.12,
+    "category": 0,
+    "geo_altitude": 1760.22,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 44.1753,
+    "longitude": -89.1038,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469107,
+    "true_track": 295.93,
+    "velocity": 62.35,
+    "vertical_rate": 3.25,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 229,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "6WI0",
+    "estDepartureAirportHorizDistance": 6013,
+    "estDepartureAirportVertDistance": 1531,
+    "firstSeen": 1690472237,
+    "lastSeen": 1690473702
+}

@@ -1,0 +1,136 @@
+{
+    "callsign": "DIXMA   ",
+    "endTime": "2023/07/24-13:22:35",
+    "icao24": "3e553c",
+    "path": [
+        [
+            1690215464,
+            46.0111,
+            8.9136,
+            304,
+            15,
+            false
+        ],
+        [
+            1690215474,
+            46.0161,
+            8.9157,
+            304,
+            18,
+            false
+        ],
+        [
+            1690215481,
+            46.0183,
+            8.9169,
+            304,
+            20,
+            false
+        ],
+        [
+            1690215492,
+            46.0246,
+            8.9202,
+            609,
+            20,
+            false
+        ],
+        [
+            1690215501,
+            46.0291,
+            8.9223,
+            609,
+            16,
+            false
+        ],
+        [
+            1690215518,
+            46.0376,
+            8.926,
+            609,
+            16,
+            false
+        ],
+        [
+            1690215547,
+            46.0514,
+            8.9316,
+            914,
+            16,
+            false
+        ],
+        [
+            1690215591,
+            46.0748,
+            8.9411,
+            1219,
+            16,
+            false
+        ],
+        [
+            1690215630,
+            46.0984,
+            8.9511,
+            1524,
+            16,
+            false
+        ],
+        [
+            1690215713,
+            46.1201,
+            8.9602,
+            1828,
+            16,
+            false
+        ],
+        [
+            1690215755,
+            46.1241,
+            8.9618,
+            2133,
+            16,
+            false
+        ]
+    ],
+    "startTime": "2023/07/24-13:17:44",
+    "baro_altitude": 2095.5,
+    "category": 0,
+    "geo_altitude": 2209.8,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690215707,
+    "latitude": 46.1185,
+    "longitude": 8.9594,
+    "on_ground": false,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690215707,
+    "true_track": 15.78,
+    "velocity": 73.77,
+    "vertical_rate": 10.73,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 81,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSZA",
+    "estDepartureAirportHorizDistance": 767,
+    "estDepartureAirportVertDistance": 117,
+    "firstSeen": 1690215464,
+    "lastSeen": 1690215755
+}

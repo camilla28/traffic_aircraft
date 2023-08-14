@@ -1,0 +1,160 @@
+{
+    "callsign": "ISR886  ",
+    "endTime": "2023/07/27-14:05:12",
+    "icao24": "49d00d",
+    "path": [
+        [
+            1690476903,
+            41.6105,
+            41.5989,
+            0,
+            310,
+            false
+        ],
+        [
+            1690476933,
+            41.6257,
+            41.5755,
+            0,
+            311,
+            false
+        ],
+        [
+            1690476952,
+            41.636,
+            41.5597,
+            304,
+            311,
+            false
+        ],
+        [
+            1690476962,
+            41.6418,
+            41.5504,
+            304,
+            303,
+            false
+        ],
+        [
+            1690476972,
+            41.6454,
+            41.5398,
+            304,
+            288,
+            false
+        ],
+        [
+            1690476982,
+            41.6467,
+            41.5285,
+            609,
+            273,
+            false
+        ],
+        [
+            1690477031,
+            41.6483,
+            41.4607,
+            609,
+            271,
+            false
+        ],
+        [
+            1690477080,
+            41.6503,
+            41.3815,
+            914,
+            271,
+            false
+        ],
+        [
+            1690477107,
+            41.6511,
+            41.3359,
+            1219,
+            271,
+            false
+        ],
+        [
+            1690477157,
+            41.652,
+            41.283,
+            1524,
+            271,
+            false
+        ],
+        [
+            1690477288,
+            41.6533,
+            41.226,
+            1828,
+            272,
+            false
+        ],
+        [
+            1690477337,
+            41.6537,
+            41.2128,
+            2133,
+            271,
+            false
+        ],
+        [
+            1690477391,
+            41.6224,
+            40.8495,
+            3962,
+            260,
+            false
+        ],
+        [
+            1690477512,
+            41.6192,
+            40.8246,
+            3962,
+            259,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-13:55:03",
+    "baro_altitude": 9654.54,
+    "category": 1,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469104,
+    "latitude": 32.0281,
+    "longitude": 34.61,
+    "on_ground": false,
+    "origin_country": "Czech Republic",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1163",
+    "time_position": 1690467126,
+    "true_track": 272.81,
+    "velocity": 136.49,
+    "vertical_rate": 11.7,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 8,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "UGSB",
+    "estDepartureAirportHorizDistance": 454,
+    "estDepartureAirportVertDistance": 67,
+    "firstSeen": 1690476903,
+    "lastSeen": 1690477512
+}

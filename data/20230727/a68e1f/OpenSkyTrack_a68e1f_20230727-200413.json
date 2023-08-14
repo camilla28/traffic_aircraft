@@ -1,0 +1,128 @@
+{
+    "callsign": "N521RC  ",
+    "endTime": "2023/07/27-19:55:01",
+    "icao24": "a68e1f",
+    "path": [
+        [
+            1690498045,
+            32.2974,
+            -90.0646,
+            0,
+            146,
+            false
+        ],
+        [
+            1690498051,
+            32.2958,
+            -90.0633,
+            0,
+            147,
+            false
+        ],
+        [
+            1690498075,
+            32.2896,
+            -90.0586,
+            304,
+            146,
+            false
+        ],
+        [
+            1690498106,
+            32.2785,
+            -90.0496,
+            304,
+            143,
+            false
+        ],
+        [
+            1690498143,
+            32.2633,
+            -90.0361,
+            304,
+            144,
+            false
+        ],
+        [
+            1690498150,
+            32.2602,
+            -90.0336,
+            304,
+            147,
+            false
+        ],
+        [
+            1690498158,
+            32.2565,
+            -90.0311,
+            304,
+            150,
+            false
+        ],
+        [
+            1690498169,
+            32.2514,
+            -90.0276,
+            304,
+            149,
+            false
+        ],
+        [
+            1690498181,
+            32.2462,
+            -90.0238,
+            304,
+            145,
+            false
+        ],
+        [
+            1690498501,
+            32.0984,
+            -89.9065,
+            304,
+            146,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-19:47:25",
+    "baro_altitude": 99.06,
+    "category": 8,
+    "geo_altitude": 121.92,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690494397,
+    "latitude": 32.3127,
+    "longitude": -90.0742,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690494397,
+    "true_track": 102.17,
+    "velocity": 26.84,
+    "vertical_rate": -3.25,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 232,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KJAN",
+    "estDepartureAirportHorizDistance": 1781,
+    "estDepartureAirportVertDistance": 130,
+    "firstSeen": 1690498045,
+    "lastSeen": 1690498501
+}

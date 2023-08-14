@@ -1,0 +1,80 @@
+{
+    "callsign": "KNE405  ",
+    "endTime": "2023/07/27-11:40:08",
+    "icao24": "4d2379",
+    "path": [
+        [
+            1690468522,
+            24.8951,
+            46.7754,
+            9144,
+            243,
+            false
+        ],
+        [
+            1690468576,
+            24.8399,
+            46.6518,
+            9144,
+            244,
+            false
+        ],
+        [
+            1690468634,
+            24.7808,
+            46.5162,
+            8839,
+            244,
+            false
+        ],
+        [
+            1690468808,
+            24.603,
+            46.1098,
+            9144,
+            244,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:35:22",
+    "baro_altitude": 9144,
+    "category": 0,
+    "geo_altitude": 9845.04,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690468817,
+    "latitude": 24.603,
+    "longitude": 46.1098,
+    "on_ground": false,
+    "origin_country": "Malta",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690468808,
+    "true_track": 244.34,
+    "velocity": 262.54,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "OERK",
+    "estDepartureAirportHorizDistance": 69469,
+    "estDepartureAirportVertDistance": 8519,
+    "firstSeen": 1690468522,
+    "lastSeen": 1690468808
+}

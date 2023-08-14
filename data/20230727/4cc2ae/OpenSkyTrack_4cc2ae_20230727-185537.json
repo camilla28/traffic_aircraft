@@ -1,0 +1,104 @@
+{
+    "callsign": "ICE623  ",
+    "endTime": "2023/07/27-18:55:29",
+    "icao24": "4cc2ae",
+    "path": [
+        [
+            1690491856,
+            52.7475,
+            -64.4154,
+            10363,
+            215,
+            false
+        ],
+        [
+            1690492745,
+            51.365,
+            -65.9583,
+            10363,
+            213,
+            false
+        ],
+        [
+            1690493636,
+            49.9346,
+            -67.4389,
+            10363,
+            212,
+            false
+        ],
+        [
+            1690493733,
+            49.7461,
+            -67.626,
+            10363,
+            212,
+            false
+        ],
+        [
+            1690494415,
+            48.6444,
+            -68.7631,
+            10363,
+            215,
+            false
+        ],
+        [
+            1690494741,
+            48.134,
+            -69.3135,
+            10363,
+            214,
+            false
+        ],
+        [
+            1690494929,
+            47.8154,
+            -69.6195,
+            10363,
+            212,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-18:04:16",
+    "baro_altitude": 10363.2,
+    "category": 1,
+    "geo_altitude": 10774.68,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690494596,
+    "latitude": 48.363,
+    "longitude": -69.0684,
+    "on_ground": false,
+    "origin_country": "Iceland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0713",
+    "time_position": 1690494596,
+    "true_track": 215.62,
+    "velocity": 216.43,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1690491856,
+    "lastSeen": 1690494929
+}

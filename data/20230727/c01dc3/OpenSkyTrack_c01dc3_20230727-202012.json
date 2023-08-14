@@ -1,0 +1,184 @@
+{
+    "callsign": "CFLHA   ",
+    "endTime": "2023/07/27-20:20:02",
+    "icao24": "c01dc3",
+    "path": [
+        [
+            1690499172,
+            49.3083,
+            -123.1216,
+            0,
+            307,
+            false
+        ],
+        [
+            1690499183,
+            49.3113,
+            -123.1277,
+            0,
+            304,
+            false
+        ],
+        [
+            1690499190,
+            49.3132,
+            -123.1323,
+            0,
+            301,
+            false
+        ],
+        [
+            1690499197,
+            49.3147,
+            -123.1365,
+            0,
+            292,
+            false
+        ],
+        [
+            1690499204,
+            49.3161,
+            -123.1422,
+            0,
+            288,
+            false
+        ],
+        [
+            1690499212,
+            49.3174,
+            -123.148,
+            0,
+            287,
+            false
+        ],
+        [
+            1690499228,
+            49.3199,
+            -123.1601,
+            304,
+            285,
+            false
+        ],
+        [
+            1690499228,
+            49.3199,
+            -123.1601,
+            304,
+            277,
+            false
+        ],
+        [
+            1690499280,
+            49.3244,
+            -123.2017,
+            304,
+            277,
+            false
+        ],
+        [
+            1690499319,
+            49.3267,
+            -123.2341,
+            609,
+            275,
+            false
+        ],
+        [
+            1690499345,
+            49.328,
+            -123.2588,
+            609,
+            274,
+            false
+        ],
+        [
+            1690499345,
+            49.328,
+            -123.2588,
+            609,
+            297,
+            false
+        ],
+        [
+            1690499425,
+            49.3488,
+            -123.3375,
+            609,
+            298,
+            false
+        ],
+        [
+            1690499425,
+            49.3488,
+            -123.3375,
+            609,
+            287,
+            false
+        ],
+        [
+            1690499665,
+            49.4009,
+            -123.5844,
+            609,
+            286,
+            false
+        ],
+        [
+            1690499672,
+            49.4023,
+            -123.5922,
+            609,
+            283,
+            false
+        ],
+        [
+            1690500002,
+            49.4537,
+            -123.9442,
+            609,
+            282,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-20:06:12",
+    "baro_altitude": -7.62,
+    "category": 2,
+    "geo_altitude": 7.62,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690494324,
+    "latitude": 49.2941,
+    "longitude": -123.0974,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1220",
+    "time_position": 1690494311,
+    "true_track": 261.14,
+    "velocity": 40.09,
+    "vertical_rate": -1.95,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 100,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "CYVR",
+    "estDepartureAirportHorizDistance": 13565,
+    "estDepartureAirportVertDistance": 94,
+    "firstSeen": 1690499172,
+    "lastSeen": 1690500002
+}

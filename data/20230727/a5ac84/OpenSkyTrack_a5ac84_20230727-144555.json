@@ -1,0 +1,80 @@
+{
+    "callsign": "N465DL  ",
+    "endTime": "2023/07/27-14:45:44",
+    "icao24": "a5ac84",
+    "path": [
+        [
+            1690479893,
+            30.9617,
+            -92.6072,
+            1219,
+            242,
+            false
+        ],
+        [
+            1690479916,
+            30.9521,
+            -92.6313,
+            1219,
+            243,
+            false
+        ],
+        [
+            1690479937,
+            30.9404,
+            -92.6558,
+            1219,
+            242,
+            false
+        ],
+        [
+            1690479944,
+            30.9364,
+            -92.664,
+            1219,
+            239,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-14:44:53",
+    "baro_altitude": 2804.16,
+    "category": 2,
+    "geo_altitude": 2987.04,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469092,
+    "latitude": 30.6056,
+    "longitude": -94.9024,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "6510",
+    "time_position": 1690469090,
+    "true_track": 92.43,
+    "velocity": 84.96,
+    "vertical_rate": -0.98,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 234,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "11LS",
+    "estDepartureAirportHorizDistance": 1654,
+    "estDepartureAirportVertDistance": 1304,
+    "firstSeen": 1690479893,
+    "lastSeen": 1690479944
+}

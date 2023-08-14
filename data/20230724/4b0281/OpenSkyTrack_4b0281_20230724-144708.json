@@ -1,0 +1,72 @@
+{
+    "callsign": "EZS76FH ",
+    "endTime": "2023/07/24-14:47:04",
+    "icao24": "4b0281",
+    "path": [
+        [
+            1690220794,
+            46.2381,
+            6.109,
+            304,
+            225,
+            false
+        ],
+        [
+            1690220805,
+            46.2325,
+            6.1011,
+            304,
+            224,
+            false
+        ],
+        [
+            1690220824,
+            46.2225,
+            6.0864,
+            609,
+            225,
+            false
+        ]
+    ],
+    "startTime": "2023/07/24-14:46:34",
+    "baro_altitude": 655.32,
+    "category": 0,
+    "geo_altitude": 670.56,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690220809,
+    "latitude": 46.2304,
+    "longitude": 6.098,
+    "on_ground": false,
+    "origin_country": "Switzerland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690220808,
+    "true_track": 224.75,
+    "velocity": 84.03,
+    "vertical_rate": 16.26,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 102,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSGG",
+    "estDepartureAirportHorizDistance": 565,
+    "estDepartureAirportVertDistance": 27,
+    "firstSeen": 1690220794,
+    "lastSeen": 1690220815
+}

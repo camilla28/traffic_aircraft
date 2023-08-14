@@ -1,0 +1,120 @@
+{
+    "callsign": "N738ZC  ",
+    "endTime": "2023/07/27-11:28:18",
+    "icao24": "a9eb05",
+    "path": [
+        [
+            1690467902,
+            31.4611,
+            -84.7924,
+            1219,
+            103,
+            false
+        ],
+        [
+            1690467909,
+            31.4606,
+            -84.79,
+            1219,
+            105,
+            false
+        ],
+        [
+            1690467909,
+            31.4606,
+            -84.79,
+            1219,
+            107,
+            false
+        ],
+        [
+            1690467927,
+            31.4594,
+            -84.7861,
+            1219,
+            112,
+            false
+        ],
+        [
+            1690467946,
+            31.4586,
+            -84.7836,
+            1219,
+            113,
+            false
+        ],
+        [
+            1690467946,
+            31.4586,
+            -84.7836,
+            1219,
+            100,
+            false
+        ],
+        [
+            1690468063,
+            31.4569,
+            -84.7746,
+            1219,
+            102,
+            false
+        ],
+        [
+            1690468098,
+            31.4565,
+            -84.7724,
+            1219,
+            100,
+            false
+        ],
+        [
+            1690468098,
+            31.4565,
+            -84.7724,
+            1219,
+            118,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:25:02",
+    "baro_altitude": 1455.42,
+    "category": 0,
+    "geo_altitude": 1508.76,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469108,
+    "latitude": 31.4565,
+    "longitude": -84.7724,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690468098,
+    "true_track": 43.12,
+    "velocity": 44.4,
+    "vertical_rate": -0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 266,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "GA22",
+    "estDepartureAirportHorizDistance": 8664,
+    "estDepartureAirportVertDistance": 1394,
+    "firstSeen": 1690467902,
+    "lastSeen": 1690468098
+}

@@ -1,0 +1,104 @@
+{
+    "callsign": "AAR742  ",
+    "endTime": "2023/07/27-15:30:58",
+    "icao24": "71be40",
+    "path": [
+        [
+            1690482593,
+            13.6101,
+            100.7397,
+            304,
+            195,
+            false
+        ],
+        [
+            1690482602,
+            13.6037,
+            100.738,
+            304,
+            194,
+            false
+        ],
+        [
+            1690482612,
+            13.5956,
+            100.7359,
+            609,
+            194,
+            false
+        ],
+        [
+            1690482620,
+            13.5895,
+            100.7337,
+            609,
+            205,
+            false
+        ],
+        [
+            1690482627,
+            13.585,
+            100.7306,
+            609,
+            221,
+            false
+        ],
+        [
+            1690482639,
+            13.5783,
+            100.7243,
+            609,
+            224,
+            false
+        ],
+        [
+            1690482658,
+            13.568,
+            100.714,
+            914,
+            224,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-15:29:53",
+    "baro_altitude": 11582.4,
+    "category": 6,
+    "geo_altitude": 12382.5,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469082,
+    "latitude": 19.5342,
+    "longitude": 103.6946,
+    "on_ground": false,
+    "origin_country": "Republic of Korea",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469082,
+    "true_track": 216.41,
+    "velocity": 258.26,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 14,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "VTBS",
+    "estDepartureAirportHorizDistance": 7916,
+    "estDepartureAirportVertDistance": 524,
+    "firstSeen": 1690482593,
+    "lastSeen": 1690482658
+}

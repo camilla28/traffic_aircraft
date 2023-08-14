@@ -1,0 +1,80 @@
+{
+    "callsign": "N407GP  ",
+    "endTime": "2023/07/27-13:21:34",
+    "icao24": "a4c746",
+    "path": [
+        [
+            1690474872,
+            38.2201,
+            -120.7945,
+            304,
+            243,
+            false
+        ],
+        [
+            1690474881,
+            38.2188,
+            -120.7973,
+            304,
+            237,
+            false
+        ],
+        [
+            1690474892,
+            38.2174,
+            -120.8001,
+            304,
+            236,
+            false
+        ],
+        [
+            1690474894,
+            38.2171,
+            -120.8008,
+            304,
+            234,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-13:21:12",
+    "baro_altitude": 327.66,
+    "category": 8,
+    "geo_altitude": 304.8,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469108,
+    "latitude": 38.2396,
+    "longitude": -120.9866,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469107,
+    "true_track": 85.32,
+    "velocity": 56.78,
+    "vertical_rate": 0.98,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 225,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "CA19",
+    "estDepartureAirportHorizDistance": 12472,
+    "estDepartureAirportVertDistance": 291,
+    "firstSeen": 1690474872,
+    "lastSeen": 1690474894
+}

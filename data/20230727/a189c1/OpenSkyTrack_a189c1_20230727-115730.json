@@ -1,0 +1,104 @@
+{
+    "callsign": "N199BP  ",
+    "endTime": "2023/07/27-11:57:30",
+    "icao24": "a189c1",
+    "path": [
+        [
+            1690469756,
+            33.6271,
+            -111.9057,
+            304,
+            44,
+            false
+        ],
+        [
+            1690469766,
+            33.6325,
+            -111.8995,
+            609,
+            43,
+            false
+        ],
+        [
+            1690469774,
+            33.6384,
+            -111.8946,
+            609,
+            27,
+            false
+        ],
+        [
+            1690469784,
+            33.647,
+            -111.8929,
+            609,
+            358,
+            false
+        ],
+        [
+            1690469793,
+            33.6553,
+            -111.8952,
+            914,
+            343,
+            false
+        ],
+        [
+            1690469822,
+            33.6823,
+            -111.9049,
+            914,
+            342,
+            false
+        ],
+        [
+            1690469850,
+            33.7089,
+            -111.9151,
+            1219,
+            342,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:55:56",
+    "baro_altitude": null,
+    "category": 2,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690468869,
+    "latitude": 33.6158,
+    "longitude": -111.9198,
+    "on_ground": true,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690468869,
+    "true_track": 225,
+    "velocity": 3.34,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 118,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KSDL",
+    "estDepartureAirportHorizDistance": 462,
+    "estDepartureAirportVertDistance": 73,
+    "firstSeen": 1690469756,
+    "lastSeen": 1690469839
+}

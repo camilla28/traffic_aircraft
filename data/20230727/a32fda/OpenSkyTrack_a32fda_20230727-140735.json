@@ -1,0 +1,104 @@
+{
+    "callsign": "N304TC  ",
+    "endTime": "2023/07/27-14:07:31",
+    "icao24": "a32fda",
+    "path": [
+        [
+            1690477550,
+            36.0964,
+            -86.7574,
+            1219,
+            256,
+            false
+        ],
+        [
+            1690477561,
+            36.0963,
+            -86.7581,
+            1219,
+            256,
+            false
+        ],
+        [
+            1690477608,
+            36.0742,
+            -86.8707,
+            2743,
+            265,
+            false
+        ],
+        [
+            1690477618,
+            36.0748,
+            -86.883,
+            2743,
+            276,
+            false
+        ],
+        [
+            1690477628,
+            36.079,
+            -86.8955,
+            3048,
+            296,
+            false
+        ],
+        [
+            1690477641,
+            36.0875,
+            -86.9104,
+            3048,
+            306,
+            false
+        ],
+        [
+            1690477651,
+            36.0943,
+            -86.9215,
+            3352,
+            306,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-14:05:50",
+    "baro_altitude": 12192,
+    "category": 2,
+    "geo_altitude": 12801.6,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 40.0399,
+    "longitude": -86.3402,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7043",
+    "time_position": 1690469108,
+    "true_track": 185.43,
+    "velocity": 217.56,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 217,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KBNA",
+    "estDepartureAirportHorizDistance": 7772,
+    "estDepartureAirportVertDistance": 1257,
+    "firstSeen": 1690477550,
+    "lastSeen": 1690477641
+}

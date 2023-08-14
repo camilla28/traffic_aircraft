@@ -1,0 +1,72 @@
+{
+    "callsign": "SWR2TZ  ",
+    "endTime": "2023/07/27-10:50:13",
+    "icao24": "4b194a",
+    "path": [
+        [
+            1690465765,
+            47.4587,
+            8.542,
+            304,
+            276,
+            false
+        ],
+        [
+            1690465785,
+            47.4605,
+            8.5204,
+            609,
+            276,
+            false
+        ],
+        [
+            1690465813,
+            47.4633,
+            8.4874,
+            914,
+            276,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-10:49:25",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690465599,
+    "latitude": 47.4557,
+    "longitude": 8.5679,
+    "on_ground": true,
+    "origin_country": "Switzerland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3074",
+    "time_position": 1690465599,
+    "true_track": 95.62,
+    "velocity": 11.32,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 129,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSZH",
+    "estDepartureAirportHorizDistance": 715,
+    "estDepartureAirportVertDistance": 63,
+    "firstSeen": 1690465765,
+    "lastSeen": 1690465813
+}

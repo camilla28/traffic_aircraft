@@ -1,0 +1,112 @@
+{
+    "callsign": "PBD515  ",
+    "endTime": "2023/07/27-19:32:32",
+    "icao24": "151e0e",
+    "path": [
+        [
+            1690493754,
+            59.5975,
+            38.3447,
+            11277,
+            96,
+            false
+        ],
+        [
+            1690494486,
+            59.4269,
+            41.4962,
+            11277,
+            96,
+            false
+        ],
+        [
+            1690495379,
+            59.1855,
+            45.2506,
+            11277,
+            98,
+            false
+        ],
+        [
+            1690495387,
+            59.1819,
+            45.2913,
+            11277,
+            100,
+            false
+        ],
+        [
+            1690495787,
+            59.083,
+            46.1727,
+            11277,
+            102,
+            false
+        ],
+        [
+            1690496672,
+            58.5775,
+            50.4767,
+            11277,
+            103,
+            false
+        ],
+        [
+            1690496967,
+            58.4177,
+            51.6443,
+            11277,
+            103,
+            false
+        ],
+        [
+            1690497152,
+            58.3398,
+            52.3805,
+            11277,
+            101,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-18:35:54",
+    "baro_altitude": 11277.6,
+    "category": 0,
+    "geo_altitude": 11605.26,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690494486,
+    "latitude": 59.4269,
+    "longitude": 41.4962,
+    "on_ground": false,
+    "origin_country": "Russian Federation",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690494486,
+    "true_track": 95.47,
+    "velocity": 242.89,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1690493754,
+    "lastSeen": 1690497152
+}

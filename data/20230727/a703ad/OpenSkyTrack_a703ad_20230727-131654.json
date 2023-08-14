@@ -1,0 +1,152 @@
+{
+    "callsign": "N551FP  ",
+    "endTime": "2023/07/27-13:16:49",
+    "icao24": "a703ad",
+    "path": [
+        [
+            1690473858,
+            29.1805,
+            -81.058,
+            0,
+            66,
+            false
+        ],
+        [
+            1690474000,
+            29.1868,
+            -81.0423,
+            0,
+            63,
+            false
+        ],
+        [
+            1690474047,
+            29.1871,
+            -81.0415,
+            0,
+            61,
+            false
+        ],
+        [
+            1690474188,
+            29.1877,
+            -81.0402,
+            0,
+            59,
+            false
+        ],
+        [
+            1690474309,
+            29.5318,
+            -81.4122,
+            3352,
+            306,
+            false
+        ],
+        [
+            1690474325,
+            29.5426,
+            -81.4225,
+            3352,
+            325,
+            false
+        ],
+        [
+            1690474335,
+            29.5513,
+            -81.4268,
+            3352,
+            340,
+            false
+        ],
+        [
+            1690474343,
+            29.5581,
+            -81.4292,
+            3657,
+            342,
+            false
+        ],
+        [
+            1690474357,
+            29.5719,
+            -81.4326,
+            3657,
+            346,
+            false
+        ],
+        [
+            1690474366,
+            29.5796,
+            -81.4339,
+            3657,
+            349,
+            false
+        ],
+        [
+            1690474379,
+            29.592,
+            -81.4357,
+            3962,
+            353,
+            false
+        ],
+        [
+            1690474411,
+            29.6202,
+            -81.4388,
+            3962,
+            354,
+            false
+        ],
+        [
+            1690474609,
+            29.8285,
+            -81.4589,
+            4267,
+            355,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-13:04:18",
+    "baro_altitude": 853.44,
+    "category": 0,
+    "geo_altitude": 937.26,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 29.1303,
+    "longitude": -81.3265,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3360",
+    "time_position": 1690469104,
+    "true_track": 146.13,
+    "velocity": 88.61,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 265,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KDAB",
+    "estDepartureAirportHorizDistance": 207,
+    "estDepartureAirportVertDistance": 20,
+    "firstSeen": 1690473858,
+    "lastSeen": 1690474609
+}

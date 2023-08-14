@@ -1,0 +1,80 @@
+{
+    "callsign": "PSC5821 ",
+    "endTime": "2023/07/27-11:57:06",
+    "icao24": "c07071",
+    "path": [
+        [
+            1690468793,
+            47.4726,
+            -63.2804,
+            5181,
+            272,
+            false
+        ],
+        [
+            1690468802,
+            47.4729,
+            -63.2917,
+            5181,
+            272,
+            false
+        ],
+        [
+            1690469690,
+            47.4965,
+            -64.4851,
+            5791,
+            271,
+            false
+        ],
+        [
+            1690469826,
+            47.4993,
+            -64.6791,
+            5791,
+            271,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:39:53",
+    "baro_altitude": 5951.22,
+    "category": 0,
+    "geo_altitude": 6134.1,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469104,
+    "latitude": 47.481,
+    "longitude": -63.6396,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469080,
+    "true_track": 271.86,
+    "velocity": 95.22,
+    "vertical_rate": 1.63,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1690468793,
+    "lastSeen": 1690469826
+}

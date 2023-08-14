@@ -1,0 +1,96 @@
+{
+    "callsign": "SKW3453 ",
+    "endTime": "2023/07/27-12:01:32",
+    "icao24": "a163c2",
+    "path": [
+        [
+            1690469535,
+            37.3712,
+            -121.9359,
+            0,
+            258,
+            false
+        ],
+        [
+            1690469544,
+            37.3727,
+            -121.9375,
+            0,
+            319,
+            false
+        ],
+        [
+            1690469600,
+            37.3785,
+            -121.9437,
+            0,
+            319,
+            false
+        ],
+        [
+            1690470039,
+            37.3866,
+            -121.9526,
+            304,
+            319,
+            false
+        ],
+        [
+            1690470080,
+            37.3541,
+            -121.9173,
+            0,
+            319,
+            false
+        ],
+        [
+            1690470092,
+            37.3869,
+            -121.953,
+            304,
+            319,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:52:15",
+    "baro_altitude": null,
+    "category": 4,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469108,
+    "latitude": 37.364,
+    "longitude": -121.9266,
+    "on_ground": true,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469108,
+    "true_track": 137.81,
+    "velocity": 5.92,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 171,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KSJC",
+    "estDepartureAirportHorizDistance": 1083,
+    "estDepartureAirportVertDistance": 103,
+    "firstSeen": 1690469535,
+    "lastSeen": 1690470092
+}

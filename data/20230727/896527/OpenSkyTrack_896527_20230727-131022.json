@@ -1,0 +1,80 @@
+{
+    "callsign": "EFC16T  ",
+    "endTime": "2023/07/27-13:07:57",
+    "icao24": "896527",
+    "path": [
+        [
+            1690473765,
+            24.402,
+            55.4081,
+            914,
+            305,
+            false
+        ],
+        [
+            1690474002,
+            24.4806,
+            55.2891,
+            914,
+            305,
+            false
+        ],
+        [
+            1690474061,
+            24.4917,
+            55.2849,
+            914,
+            5,
+            false
+        ],
+        [
+            1690474077,
+            24.4932,
+            55.2852,
+            914,
+            5,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-13:02:45",
+    "baro_altitude": 1950.72,
+    "category": 0,
+    "geo_altitude": 1958.34,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469081,
+    "latitude": 24.2853,
+    "longitude": 55.3263,
+    "on_ground": false,
+    "origin_country": "United Arab Emirates",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469081,
+    "true_track": 281.82,
+    "velocity": 67.8,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 19,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "OMAL",
+    "estDepartureAirportHorizDistance": 25660,
+    "estDepartureAirportVertDistance": 916,
+    "firstSeen": 1690473765,
+    "lastSeen": 1690474077
+}

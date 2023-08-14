@@ -1,0 +1,184 @@
+{
+    "callsign": "ASI357  ",
+    "endTime": "2023/07/27-14:10:33",
+    "icao24": "acb5a9",
+    "path": [
+        [
+            1690477549,
+            33.688,
+            -112.0749,
+            304,
+            86,
+            false
+        ],
+        [
+            1690477565,
+            33.6882,
+            -112.0684,
+            304,
+            89,
+            false
+        ],
+        [
+            1690477578,
+            33.6879,
+            -112.0629,
+            304,
+            97,
+            false
+        ],
+        [
+            1690477587,
+            33.6866,
+            -112.0597,
+            304,
+            137,
+            false
+        ],
+        [
+            1690477597,
+            33.6833,
+            -112.0584,
+            609,
+            180,
+            false
+        ],
+        [
+            1690477608,
+            33.6795,
+            -112.0586,
+            609,
+            183,
+            false
+        ],
+        [
+            1690477661,
+            33.6609,
+            -112.0596,
+            609,
+            183,
+            false
+        ],
+        [
+            1690477672,
+            33.6573,
+            -112.0597,
+            609,
+            180,
+            false
+        ],
+        [
+            1690477711,
+            33.6435,
+            -112.0595,
+            609,
+            182,
+            false
+        ],
+        [
+            1690477720,
+            33.6401,
+            -112.0598,
+            609,
+            183,
+            false
+        ],
+        [
+            1690477731,
+            33.6361,
+            -112.0604,
+            609,
+            190,
+            false
+        ],
+        [
+            1690477741,
+            33.6323,
+            -112.0612,
+            609,
+            188,
+            false
+        ],
+        [
+            1690477751,
+            33.629,
+            -112.0618,
+            914,
+            189,
+            false
+        ],
+        [
+            1690477761,
+            33.6254,
+            -112.0623,
+            914,
+            184,
+            false
+        ],
+        [
+            1690477791,
+            33.6144,
+            -112.0633,
+            914,
+            184,
+            false
+        ],
+        [
+            1690477802,
+            33.6101,
+            -112.0632,
+            914,
+            177,
+            false
+        ],
+        [
+            1690477833,
+            33.5991,
+            -112.0623,
+            914,
+            175,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-14:05:49",
+    "baro_altitude": 1158.24,
+    "category": 2,
+    "geo_altitude": 1188.72,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469038,
+    "latitude": 32.8606,
+    "longitude": -111.9223,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469028,
+    "true_track": 243.16,
+    "velocity": 47.85,
+    "vertical_rate": 0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 116,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KDVT",
+    "estDepartureAirportHorizDistance": 431,
+    "estDepartureAirportVertDistance": 67,
+    "firstSeen": 1690477549,
+    "lastSeen": 1690477833
+}

@@ -1,0 +1,72 @@
+{
+    "callsign": "QFA708  ",
+    "endTime": "2023/07/27-20:15:11",
+    "icao24": "7c7800",
+    "path": [
+        [
+            1690499650,
+            -27.3855,
+            153.1053,
+            0,
+            207,
+            false
+        ],
+        [
+            1690499672,
+            -27.4015,
+            153.096,
+            0,
+            207,
+            false
+        ],
+        [
+            1690499711,
+            -27.4348,
+            153.0771,
+            304,
+            206,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-20:14:10",
+    "baro_altitude": 7924.8,
+    "category": 1,
+    "geo_altitude": 8397.24,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690494599,
+    "latitude": -28.3626,
+    "longitude": 153.0712,
+    "on_ground": false,
+    "origin_country": "Australia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1534",
+    "time_position": 1690494599,
+    "true_track": 101.25,
+    "velocity": 205.62,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 46,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "YBBN",
+    "estDepartureAirportHorizDistance": 859,
+    "estDepartureAirportVertDistance": 3,
+    "firstSeen": 1690499650,
+    "lastSeen": 1690499711
+}

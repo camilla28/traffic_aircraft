@@ -1,0 +1,144 @@
+{
+    "callsign": "HBPRC   ",
+    "endTime": "2023/07/27-10:47:31",
+    "icao24": "4b2958",
+    "path": [
+        [
+            1690465294,
+            46.0962,
+            8.9212,
+            1219,
+            184,
+            false
+        ],
+        [
+            1690465323,
+            46.0785,
+            8.9194,
+            1219,
+            183,
+            false
+        ],
+        [
+            1690465380,
+            46.0445,
+            8.9162,
+            1524,
+            183,
+            false
+        ],
+        [
+            1690465449,
+            46.0084,
+            8.9126,
+            1828,
+            184,
+            false
+        ],
+        [
+            1690465458,
+            46.0038,
+            8.9111,
+            1828,
+            197,
+            false
+        ],
+        [
+            1690465468,
+            45.9984,
+            8.9092,
+            2133,
+            185,
+            false
+        ],
+        [
+            1690465477,
+            45.9928,
+            8.9084,
+            2133,
+            190,
+            false
+        ],
+        [
+            1690465488,
+            45.9868,
+            8.9058,
+            2133,
+            198,
+            false
+        ],
+        [
+            1690465535,
+            45.9591,
+            8.8929,
+            2133,
+            200,
+            false
+        ],
+        [
+            1690465545,
+            45.9541,
+            8.8889,
+            2438,
+            215,
+            false
+        ],
+        [
+            1690465622,
+            45.9132,
+            8.8471,
+            2438,
+            215,
+            false
+        ],
+        [
+            1690465651,
+            45.8977,
+            8.8313,
+            2743,
+            215,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-10:41:34",
+    "baro_altitude": 2674.62,
+    "category": 0,
+    "geo_altitude": 2819.4,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690465615,
+    "latitude": 45.9169,
+    "longitude": 8.8509,
+    "on_ground": false,
+    "origin_country": "Switzerland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690465615,
+    "true_track": 215.26,
+    "velocity": 73.08,
+    "vertical_rate": 3.58,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 83,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSZL",
+    "estDepartureAirportHorizDistance": 7931,
+    "estDepartureAirportVertDistance": 1226,
+    "firstSeen": 1690465294,
+    "lastSeen": 1690465651
+}

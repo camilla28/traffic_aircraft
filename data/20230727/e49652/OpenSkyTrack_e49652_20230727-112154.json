@@ -1,0 +1,128 @@
+{
+    "callsign": "PSBFD   ",
+    "endTime": "2023/07/27-11:21:49",
+    "icao24": "e49652",
+    "path": [
+        [
+            1690467609,
+            47.4583,
+            8.5469,
+            609,
+            275,
+            false
+        ],
+        [
+            1690467619,
+            47.459,
+            8.5367,
+            609,
+            275,
+            false
+        ],
+        [
+            1690467637,
+            47.4602,
+            8.5176,
+            914,
+            276,
+            false
+        ],
+        [
+            1690467647,
+            47.4609,
+            8.5084,
+            1219,
+            276,
+            false
+        ],
+        [
+            1690467664,
+            47.4622,
+            8.492,
+            1524,
+            276,
+            false
+        ],
+        [
+            1690467673,
+            47.4625,
+            8.4831,
+            1828,
+            265,
+            false
+        ],
+        [
+            1690467682,
+            47.4612,
+            8.4745,
+            1828,
+            248,
+            false
+        ],
+        [
+            1690467691,
+            47.4573,
+            8.465,
+            1828,
+            230,
+            false
+        ],
+        [
+            1690467700,
+            47.4514,
+            8.4572,
+            2133,
+            217,
+            false
+        ],
+        [
+            1690467709,
+            47.4442,
+            8.4492,
+            1524,
+            216,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:20:09",
+    "baro_altitude": 1417.32,
+    "category": 0,
+    "geo_altitude": 1508.76,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690467648,
+    "latitude": 47.461,
+    "longitude": 8.5074,
+    "on_ground": false,
+    "origin_country": "Brazil",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1690467648,
+    "true_track": 276.66,
+    "velocity": 70.96,
+    "vertical_rate": 19.18,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 129,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSZH",
+    "estDepartureAirportHorizDistance": 867,
+    "estDepartureAirportVertDistance": 185,
+    "firstSeen": 1690467609,
+    "lastSeen": 1690467709
+}

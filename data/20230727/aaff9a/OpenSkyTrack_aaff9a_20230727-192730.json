@@ -1,0 +1,224 @@
+{
+    "callsign": "VTE3922 ",
+    "endTime": "2023/07/27-19:27:23",
+    "icao24": "aaff9a",
+    "path": [
+        [
+            1690494211,
+            40.5467,
+            -76.5552,
+            4876,
+            281,
+            false
+        ],
+        [
+            1690494260,
+            40.5468,
+            -76.556,
+            4876,
+            281,
+            false
+        ],
+        [
+            1690496133,
+            40.2607,
+            -78.0925,
+            2438,
+            87,
+            false
+        ],
+        [
+            1690496154,
+            40.2621,
+            -78.0528,
+            2743,
+            87,
+            false
+        ],
+        [
+            1690496171,
+            40.2633,
+            -78.0229,
+            3048,
+            87,
+            false
+        ],
+        [
+            1690496232,
+            40.2686,
+            -77.9016,
+            3352,
+            86,
+            false
+        ],
+        [
+            1690496262,
+            40.2713,
+            -77.8371,
+            3657,
+            86,
+            false
+        ],
+        [
+            1690496282,
+            40.2734,
+            -77.7911,
+            3962,
+            86,
+            false
+        ],
+        [
+            1690496431,
+            40.2874,
+            -77.4518,
+            5181,
+            87,
+            false
+        ],
+        [
+            1690496476,
+            40.2915,
+            -77.349,
+            5486,
+            86,
+            false
+        ],
+        [
+            1690496545,
+            40.2982,
+            -77.1745,
+            5791,
+            86,
+            false
+        ],
+        [
+            1690496571,
+            40.3009,
+            -77.1039,
+            5486,
+            87,
+            false
+        ],
+        [
+            1690496597,
+            40.2954,
+            -77.0333,
+            5486,
+            103,
+            false
+        ],
+        [
+            1690496613,
+            40.2867,
+            -76.992,
+            5486,
+            106,
+            false
+        ],
+        [
+            1690496631,
+            40.2756,
+            -76.9459,
+            5486,
+            108,
+            false
+        ],
+        [
+            1690496649,
+            40.2645,
+            -76.9016,
+            5181,
+            108,
+            false
+        ],
+        [
+            1690496672,
+            40.2503,
+            -76.8425,
+            5181,
+            102,
+            false
+        ],
+        [
+            1690496699,
+            40.2491,
+            -76.7736,
+            4876,
+            90,
+            false
+        ],
+        [
+            1690496709,
+            40.2491,
+            -76.7461,
+            4876,
+            89,
+            false
+        ],
+        [
+            1690496727,
+            40.2494,
+            -76.6986,
+            4572,
+            89,
+            false
+        ],
+        [
+            1690496759,
+            40.2499,
+            -76.6178,
+            4267,
+            89,
+            false
+        ],
+        [
+            1690496843,
+            40.2537,
+            -76.4157,
+            3962,
+            88,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-18:43:31",
+    "baro_altitude": 5173.98,
+    "category": 3,
+    "geo_altitude": 5455.92,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690494290,
+    "latitude": 40.5468,
+    "longitude": -76.556,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690494260,
+    "true_track": 281.8,
+    "velocity": 188.67,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 3,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "PS20",
+    "estDepartureAirportHorizDistance": 7235,
+    "estDepartureAirportVertDistance": 4991,
+    "firstSeen": 1690494211,
+    "lastSeen": 1690496843
+}

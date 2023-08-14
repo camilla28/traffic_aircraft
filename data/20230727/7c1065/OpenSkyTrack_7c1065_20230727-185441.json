@@ -1,0 +1,128 @@
+{
+    "callsign": "DIV     ",
+    "endTime": "2023/07/27-18:54:40",
+    "icao24": "7c1065",
+    "path": [
+        [
+            1690494584,
+            -27.0354,
+            152.5657,
+            914,
+            356,
+            false
+        ],
+        [
+            1690494698,
+            -26.9721,
+            152.561,
+            914,
+            355,
+            false
+        ],
+        [
+            1690494707,
+            -26.9661,
+            152.56,
+            914,
+            340,
+            false
+        ],
+        [
+            1690494711,
+            -26.9642,
+            152.5588,
+            914,
+            327,
+            false
+        ],
+        [
+            1690494725,
+            -26.9589,
+            152.5538,
+            914,
+            327,
+            false
+        ],
+        [
+            1690494783,
+            -26.9407,
+            152.5351,
+            1219,
+            313,
+            false
+        ],
+        [
+            1690494792,
+            -26.9382,
+            152.5321,
+            1219,
+            311,
+            false
+        ],
+        [
+            1690494822,
+            -26.9282,
+            152.5186,
+            1219,
+            313,
+            false
+        ],
+        [
+            1690494831,
+            -26.9259,
+            152.5161,
+            1219,
+            319,
+            false
+        ],
+        [
+            1690494880,
+            -26.9037,
+            152.4948,
+            1219,
+            318,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-18:49:44",
+    "baro_altitude": 937.26,
+    "category": 2,
+    "geo_altitude": 1097.28,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690494598,
+    "latitude": -27.0287,
+    "longitude": 152.5652,
+    "on_ground": false,
+    "origin_country": "Australia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690494598,
+    "true_track": 356.09,
+    "velocity": 60.33,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 49,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "YWSG",
+    "estDepartureAirportHorizDistance": 12608,
+    "estDepartureAirportVertDistance": 918,
+    "firstSeen": 1690494584,
+    "lastSeen": 1690494880
+}

@@ -26,7 +26,8 @@ class Trajectory:
     '''
     def __get_states(self):
          # bbox = (min latitude, max latitude, min longitude, max longitude)
-        states = self.api.get_states(bbox=(45.8389, 47.8229, 5.9962, 10.5226))
+        states = self.api.get_states()
+        #states = self.api.get_states(bbox=(45.8389, 47.8229, 5.9962, 10.5226))
         #states = api.get_states(bbox=(-20, 60, 20, 100))
 
         for s in states.states:

@@ -1,0 +1,80 @@
+{
+    "callsign": "CHXE5   ",
+    "endTime": "2023/07/27-13:13:41",
+    "icao24": "3e0fe6",
+    "path": [
+        [
+            1690473829,
+            54.7898,
+            9.4194,
+            0,
+            259,
+            false
+        ],
+        [
+            1690473839,
+            54.7892,
+            9.4138,
+            0,
+            257,
+            false
+        ],
+        [
+            1690473859,
+            54.7874,
+            9.4001,
+            0,
+            258,
+            false
+        ],
+        [
+            1690474421,
+            54.7269,
+            8.8772,
+            304,
+            258,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-13:03:49",
+    "baro_altitude": 304.8,
+    "category": 0,
+    "geo_altitude": 266.7,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 54.7728,
+    "longitude": 9.2861,
+    "on_ground": false,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469108,
+    "true_track": 67.93,
+    "velocity": 61.62,
+    "vertical_rate": 0.98,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 74,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDXF",
+    "estDepartureAirportHorizDistance": 3440,
+    "estDepartureAirportVertDistance": 181,
+    "firstSeen": 1690473829,
+    "lastSeen": 1690474421
+}

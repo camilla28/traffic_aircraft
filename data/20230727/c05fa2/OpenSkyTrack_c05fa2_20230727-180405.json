@@ -1,0 +1,104 @@
+{
+    "callsign": "KFA1554 ",
+    "endTime": "2023/07/27-18:04:00",
+    "icao24": "c05fa2",
+    "path": [
+        [
+            1690491398,
+            50.1971,
+            -117.6632,
+            10972,
+            81,
+            false
+        ],
+        [
+            1690491406,
+            50.1996,
+            -117.6368,
+            10972,
+            81,
+            false
+        ],
+        [
+            1690491455,
+            50.2142,
+            -117.4784,
+            11277,
+            81,
+            false
+        ],
+        [
+            1690491498,
+            50.2271,
+            -117.335,
+            11582,
+            82,
+            false
+        ],
+        [
+            1690491565,
+            50.2472,
+            -117.1079,
+            11887,
+            81,
+            false
+        ],
+        [
+            1690491574,
+            50.2507,
+            -117.0782,
+            11887,
+            78,
+            false
+        ],
+        [
+            1690491840,
+            50.3785,
+            -116.1832,
+            11887,
+            77,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-17:56:38",
+    "baro_altitude": 12192,
+    "category": 0,
+    "geo_altitude": 12420.6,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690468798,
+    "latitude": 51.5736,
+    "longitude": -125.1227,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0733",
+    "time_position": 1690468798,
+    "true_track": 321.24,
+    "velocity": 234.2,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "CAQ5",
+    "estDepartureAirportHorizDistance": 260037,
+    "estDepartureAirportVertDistance": 10686,
+    "firstSeen": 1690491398,
+    "lastSeen": 1690491840
+}

@@ -1,0 +1,120 @@
+{
+    "callsign": "VLG8MA  ",
+    "endTime": "2023/07/27-15:29:00",
+    "icao24": "342398",
+    "path": [
+        [
+            1690482365,
+            39.5445,
+            2.7054,
+            304,
+            237,
+            false
+        ],
+        [
+            1690482384,
+            39.5367,
+            2.6898,
+            304,
+            237,
+            false
+        ],
+        [
+            1690482394,
+            39.5324,
+            2.6807,
+            304,
+            240,
+            false
+        ],
+        [
+            1690482431,
+            39.5139,
+            2.6395,
+            609,
+            238,
+            false
+        ],
+        [
+            1690482458,
+            39.4957,
+            2.6024,
+            914,
+            237,
+            false
+        ],
+        [
+            1690482468,
+            39.4891,
+            2.5893,
+            1219,
+            237,
+            false
+        ],
+        [
+            1690482487,
+            39.4766,
+            2.5645,
+            1524,
+            236,
+            false
+        ],
+        [
+            1690482522,
+            39.4524,
+            2.517,
+            1828,
+            236,
+            false
+        ],
+        [
+            1690482540,
+            39.44,
+            2.4929,
+            2133,
+            236,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-15:26:05",
+    "baro_altitude": 0,
+    "category": 1,
+    "geo_altitude": 60.96,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690468806,
+    "latitude": 41.301,
+    "longitude": 2.09,
+    "on_ground": false,
+    "origin_country": "Spain",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2053",
+    "time_position": 1690468806,
+    "true_track": 245.22,
+    "velocity": 51.56,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 5,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LEPA",
+    "estDepartureAirportHorizDistance": 2364,
+    "estDepartureAirportVertDistance": 319,
+    "firstSeen": 1690482365,
+    "lastSeen": 1690482540
+}

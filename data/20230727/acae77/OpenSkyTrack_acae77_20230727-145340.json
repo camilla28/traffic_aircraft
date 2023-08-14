@@ -1,0 +1,136 @@
+{
+    "callsign": "N340DA  ",
+    "endTime": "2023/07/27-14:53:34",
+    "icao24": "acae77",
+    "path": [
+        [
+            1690478776,
+            37.6319,
+            -95.5491,
+            1524,
+            213,
+            false
+        ],
+        [
+            1690478884,
+            37.5779,
+            -95.5943,
+            1524,
+            213,
+            false
+        ],
+        [
+            1690479024,
+            37.5038,
+            -95.656,
+            1828,
+            213,
+            false
+        ],
+        [
+            1690479193,
+            37.4112,
+            -95.7331,
+            2133,
+            213,
+            false
+        ],
+        [
+            1690479287,
+            37.3816,
+            -95.7577,
+            2438,
+            213,
+            false
+        ],
+        [
+            1690479845,
+            37.0242,
+            -96.0526,
+            3048,
+            213,
+            false
+        ],
+        [
+            1690479917,
+            36.9784,
+            -96.0902,
+            3352,
+            213,
+            false
+        ],
+        [
+            1690479928,
+            36.9715,
+            -96.0951,
+            3352,
+            205,
+            false
+        ],
+        [
+            1690479938,
+            36.9643,
+            -96.099,
+            3352,
+            202,
+            false
+        ],
+        [
+            1690480175,
+            36.7962,
+            -96.1817,
+            3352,
+            201,
+            false
+        ],
+        [
+            1690480414,
+            36.6255,
+            -96.2672,
+            3657,
+            202,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-14:26:16",
+    "baro_altitude": 4846.32,
+    "category": 2,
+    "geo_altitude": 5257.8,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 42.3509,
+    "longitude": -91.193,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469108,
+    "true_track": 217.05,
+    "velocity": 97.33,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 330,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KCNU",
+    "estDepartureAirportHorizDistance": 6763,
+    "estDepartureAirportVertDistance": 1249,
+    "firstSeen": 1690478776,
+    "lastSeen": 1690480414
+}

@@ -1,0 +1,72 @@
+{
+    "callsign": "CSN6935 ",
+    "endTime": "2023/07/27-11:40:17",
+    "icao24": "780098",
+    "path": [
+        [
+            1690468612,
+            22.6231,
+            108.1872,
+            10058,
+            311,
+            false
+        ],
+        [
+            1690468659,
+            22.694,
+            108.1058,
+            10058,
+            313,
+            false
+        ],
+        [
+            1690468817,
+            22.9303,
+            107.835,
+            10363,
+            313,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:36:52",
+    "baro_altitude": 10393.68,
+    "category": 1,
+    "geo_altitude": 11117.58,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690468817,
+    "latitude": 22.9303,
+    "longitude": 107.835,
+    "on_ground": false,
+    "origin_country": "China",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690468817,
+    "true_track": 313.2,
+    "velocity": 242.75,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "ZGNN",
+    "estDepartureAirportHorizDistance": 388008,
+    "estDepartureAirportVertDistance": 10013,
+    "firstSeen": 1690468612,
+    "lastSeen": 1690468817
+}

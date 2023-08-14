@@ -1,0 +1,272 @@
+{
+    "callsign": "SWR46N  ",
+    "endTime": "2023/07/24-13:22:16",
+    "icao24": "4b028f",
+    "path": [
+        [
+            1690215280,
+            47.4568,
+            8.5669,
+            304,
+            275,
+            false
+        ],
+        [
+            1690215316,
+            47.4589,
+            8.5365,
+            304,
+            275,
+            false
+        ],
+        [
+            1690215334,
+            47.4602,
+            8.5197,
+            609,
+            274,
+            false
+        ],
+        [
+            1690215363,
+            47.4621,
+            8.4943,
+            914,
+            277,
+            false
+        ],
+        [
+            1690215372,
+            47.4623,
+            8.4865,
+            1219,
+            262,
+            false
+        ],
+        [
+            1690215382,
+            47.4602,
+            8.4788,
+            1219,
+            233,
+            false
+        ],
+        [
+            1690215390,
+            47.4562,
+            8.4741,
+            1219,
+            212,
+            false
+        ],
+        [
+            1690215400,
+            47.4509,
+            8.4694,
+            1524,
+            212,
+            false
+        ],
+        [
+            1690215409,
+            47.4466,
+            8.4641,
+            1524,
+            227,
+            false
+        ],
+        [
+            1690215417,
+            47.4433,
+            8.4581,
+            1524,
+            232,
+            false
+        ],
+        [
+            1690215429,
+            47.4381,
+            8.4474,
+            1524,
+            235,
+            false
+        ],
+        [
+            1690215464,
+            47.4183,
+            8.4052,
+            1828,
+            234,
+            false
+        ],
+        [
+            1690215482,
+            47.4062,
+            8.38,
+            2133,
+            234,
+            false
+        ],
+        [
+            1690215492,
+            47.3999,
+            8.3668,
+            2438,
+            235,
+            false
+        ],
+        [
+            1690215501,
+            47.3947,
+            8.3549,
+            2743,
+            240,
+            false
+        ],
+        [
+            1690215518,
+            47.387,
+            8.3282,
+            3048,
+            253,
+            false
+        ],
+        [
+            1690215527,
+            47.3847,
+            8.3135,
+            3048,
+            258,
+            false
+        ],
+        [
+            1690215536,
+            47.3824,
+            8.2953,
+            3048,
+            259,
+            false
+        ],
+        [
+            1690215545,
+            47.3808,
+            8.2778,
+            3352,
+            264,
+            false
+        ],
+        [
+            1690215554,
+            47.3802,
+            8.2607,
+            3352,
+            269,
+            false
+        ],
+        [
+            1690215563,
+            47.3806,
+            8.2428,
+            3352,
+            274,
+            false
+        ],
+        [
+            1690215590,
+            47.3836,
+            8.1876,
+            3657,
+            274,
+            false
+        ],
+        [
+            1690215608,
+            47.3859,
+            8.1405,
+            3962,
+            274,
+            false
+        ],
+        [
+            1690215638,
+            47.389,
+            8.0803,
+            4267,
+            275,
+            false
+        ],
+        [
+            1690215647,
+            47.3907,
+            8.0609,
+            4267,
+            277,
+            false
+        ],
+        [
+            1690215667,
+            47.3932,
+            8.04,
+            4572,
+            279,
+            false
+        ],
+        [
+            1690215692,
+            47.3966,
+            8.0144,
+            4876,
+            281,
+            false
+        ],
+        [
+            1690215736,
+            47.4004,
+            7.988,
+            5181,
+            282,
+            false
+        ]
+    ],
+    "startTime": "2023/07/24-13:14:40",
+    "baro_altitude": 5288.28,
+    "category": 0,
+    "geo_altitude": 5501.64,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690215707,
+    "latitude": 47.398,
+    "longitude": 8.0037,
+    "on_ground": false,
+    "origin_country": "Switzerland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3063",
+    "time_position": 1690215707,
+    "true_track": 282.09,
+    "velocity": 162.05,
+    "vertical_rate": 24.71,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 129,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSZH",
+    "estDepartureAirportHorizDistance": 1591,
+    "estDepartureAirportVertDistance": 33,
+    "firstSeen": 1690215280,
+    "lastSeen": 1690215736
+}

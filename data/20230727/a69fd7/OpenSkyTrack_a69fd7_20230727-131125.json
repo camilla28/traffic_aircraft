@@ -1,0 +1,96 @@
+{
+    "callsign": "GJS4380 ",
+    "endTime": "2023/07/27-13:11:20",
+    "icao24": "a69fd7",
+    "path": [
+        [
+            1690473999,
+            43.4457,
+            -84.3602,
+            2743,
+            232,
+            false
+        ],
+        [
+            1690473999,
+            43.4457,
+            -84.3602,
+            2743,
+            231,
+            false
+        ],
+        [
+            1690474083,
+            43.3727,
+            -84.4887,
+            3657,
+            231,
+            false
+        ],
+        [
+            1690474225,
+            43.2281,
+            -84.7414,
+            4876,
+            231,
+            false
+        ],
+        [
+            1690474251,
+            43.2017,
+            -84.7871,
+            5181,
+            231,
+            false
+        ],
+        [
+            1690474280,
+            43.1693,
+            -84.8429,
+            5486,
+            231,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-13:06:39",
+    "baro_altitude": 5166.36,
+    "category": 0,
+    "geo_altitude": 5433.06,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 42.9126,
+    "longitude": -87.0915,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "6533",
+    "time_position": 1690469108,
+    "true_track": 70.98,
+    "velocity": 175.22,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "MI55",
+    "estDepartureAirportHorizDistance": 4969,
+    "estDepartureAirportVertDistance": 2719,
+    "firstSeen": 1690473999,
+    "lastSeen": 1690474280
+}

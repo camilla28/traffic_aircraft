@@ -1,0 +1,144 @@
+{
+    "callsign": "N222LD  ",
+    "endTime": "2023/07/27-13:02:52",
+    "icao24": "a1e96d",
+    "path": [
+        [
+            1690468465,
+            33.6871,
+            -85.617,
+            2438,
+            151,
+            false
+        ],
+        [
+            1690469241,
+            33.2333,
+            -85.3239,
+            2438,
+            151,
+            false
+        ],
+        [
+            1690469499,
+            33.0595,
+            -85.212,
+            2438,
+            149,
+            false
+        ],
+        [
+            1690469499,
+            33.0595,
+            -85.212,
+            2438,
+            108,
+            false
+        ],
+        [
+            1690470336,
+            32.888,
+            -84.5943,
+            2438,
+            107,
+            false
+        ],
+        [
+            1690470349,
+            32.8891,
+            -84.5983,
+            2438,
+            105,
+            false
+        ],
+        [
+            1690470362,
+            32.8861,
+            -84.578,
+            2438,
+            85,
+            false
+        ],
+        [
+            1690470435,
+            32.8878,
+            -84.5446,
+            2438,
+            87,
+            false
+        ],
+        [
+            1690471306,
+            32.9005,
+            -83.8232,
+            2438,
+            89,
+            false
+        ],
+        [
+            1690472177,
+            32.9088,
+            -83.1347,
+            2438,
+            89,
+            false
+        ],
+        [
+            1690473075,
+            32.9135,
+            -82.4161,
+            2438,
+            89,
+            false
+        ],
+        [
+            1690473772,
+            32.9142,
+            -81.849,
+            2438,
+            90,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:34:25",
+    "baro_altitude": 2712.72,
+    "category": 0,
+    "geo_altitude": 2872.74,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469108,
+    "latitude": 33.3391,
+    "longitude": -85.3923,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469050,
+    "true_track": 151.36,
+    "velocity": 76.2,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 10,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "AL09",
+    "estDepartureAirportHorizDistance": 94144,
+    "estDepartureAirportVertDistance": 1983,
+    "firstSeen": 1690468465,
+    "lastSeen": 1690473772
+}

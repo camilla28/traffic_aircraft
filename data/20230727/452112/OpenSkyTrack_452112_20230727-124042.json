@@ -1,0 +1,120 @@
+{
+    "callsign": "BCS7061 ",
+    "endTime": "2023/07/27-12:40:32",
+    "icao24": "452112",
+    "path": [
+        [
+            1690468832,
+            34.8842,
+            33.6341,
+            0,
+            135,
+            false
+        ],
+        [
+            1690468832,
+            34.8842,
+            33.6341,
+            0,
+            135,
+            false
+        ],
+        [
+            1690468832,
+            34.8842,
+            33.6341,
+            6705,
+            135,
+            false
+        ],
+        [
+            1690469925,
+            34.6935,
+            31.8146,
+            9753,
+            280,
+            false
+        ],
+        [
+            1690469953,
+            34.704,
+            31.7463,
+            9753,
+            280,
+            false
+        ],
+        [
+            1690470000,
+            34.7207,
+            31.6359,
+            10058,
+            280,
+            false
+        ],
+        [
+            1690471384,
+            35.5803,
+            28.6556,
+            11582,
+            299,
+            false
+        ],
+        [
+            1690472256,
+            36.3647,
+            26.8584,
+            11582,
+            297,
+            false
+        ],
+        [
+            1690472432,
+            36.5224,
+            26.4841,
+            11582,
+            297,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:40:32",
+    "baro_altitude": 144.78,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469106,
+    "latitude": 34.8842,
+    "longitude": 33.6341,
+    "on_ground": false,
+    "origin_country": "Bulgaria",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7363",
+    "time_position": 1690468832,
+    "true_track": 135,
+    "velocity": 0,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 5,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LCLK",
+    "estDepartureAirportHorizDistance": 1319,
+    "estDepartureAirportVertDistance": 81,
+    "firstSeen": 1690468832,
+    "lastSeen": 1690472432
+}

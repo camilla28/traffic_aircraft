@@ -1,0 +1,112 @@
+{
+    "callsign": null,
+    "endTime": "2023/07/27-10:44:20",
+    "icao24": "4b4333",
+    "path": [
+        [
+            1690465106,
+            47.2938,
+            7.6187,
+            1219,
+            81,
+            false
+        ],
+        [
+            1690465106,
+            47.2938,
+            7.6187,
+            914,
+            -121,
+            false
+        ],
+        [
+            1690465440,
+            47.3214,
+            7.6897,
+            914,
+            -113,
+            false
+        ],
+        [
+            1690465449,
+            47.3202,
+            7.6855,
+            914,
+            -109,
+            false
+        ],
+        [
+            1690465457,
+            47.3194,
+            7.6819,
+            914,
+            -109,
+            false
+        ],
+        [
+            1690465460,
+            47.3193,
+            7.6811,
+            914,
+            -106,
+            false
+        ],
+        [
+            1690465460,
+            47.3193,
+            7.6811,
+            914,
+            -106,
+            false
+        ],
+        [
+            1690465460,
+            47.3193,
+            7.6811,
+            609,
+            -106,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-10:38:26",
+    "baro_altitude": 876.3,
+    "category": 0,
+    "geo_altitude": 1040,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690465522,
+    "latitude": 47.3193,
+    "longitude": 7.6811,
+    "on_ground": false,
+    "origin_country": "Switzerland",
+    "position_source": 3,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7000",
+    "time_position": 1690465460,
+    "true_track": -106.19,
+    "velocity": 29.89,
+    "vertical_rate": 1,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 120,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSPL",
+    "estDepartureAirportHorizDistance": 15431,
+    "estDepartureAirportVertDistance": 762,
+    "firstSeen": 1690465106,
+    "lastSeen": 1690465460
+}

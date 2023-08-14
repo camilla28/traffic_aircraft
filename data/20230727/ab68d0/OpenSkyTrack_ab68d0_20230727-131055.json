@@ -1,0 +1,136 @@
+{
+    "callsign": "SKW4036 ",
+    "endTime": "2023/07/27-13:10:51",
+    "icao24": "ab68d0",
+    "path": [
+        [
+            1690474028,
+            44.3386,
+            -88.1567,
+            1828,
+            104,
+            false
+        ],
+        [
+            1690474036,
+            44.3364,
+            -88.1404,
+            2133,
+            100,
+            false
+        ],
+        [
+            1690474047,
+            44.3338,
+            -88.1209,
+            2133,
+            100,
+            false
+        ],
+        [
+            1690474078,
+            44.3251,
+            -88.0619,
+            2438,
+            102,
+            false
+        ],
+        [
+            1690474088,
+            44.3216,
+            -88.0412,
+            2743,
+            104,
+            false
+        ],
+        [
+            1690474098,
+            44.3178,
+            -88.0221,
+            2743,
+            105,
+            false
+        ],
+        [
+            1690474140,
+            44.3007,
+            -87.9352,
+            3048,
+            106,
+            false
+        ],
+        [
+            1690474160,
+            44.2915,
+            -87.8907,
+            3352,
+            105,
+            false
+        ],
+        [
+            1690474190,
+            44.2787,
+            -87.8248,
+            3657,
+            105,
+            false
+        ],
+        [
+            1690474212,
+            44.2685,
+            -87.7747,
+            3962,
+            105,
+            false
+        ],
+        [
+            1690474251,
+            44.2499,
+            -87.6827,
+            4267,
+            105,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-13:07:08",
+    "baro_altitude": 1402.08,
+    "category": 0,
+    "geo_altitude": 1440.18,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469102,
+    "latitude": 44.5835,
+    "longitude": -87.8538,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469102,
+    "true_track": 279.35,
+    "velocity": 132.95,
+    "vertical_rate": -12.35,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 281,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "9WS2",
+    "estDepartureAirportHorizDistance": 3583,
+    "estDepartureAirportVertDistance": 1827,
+    "firstSeen": 1690474028,
+    "lastSeen": 1690474251
+}

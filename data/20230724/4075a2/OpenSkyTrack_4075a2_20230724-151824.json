@@ -1,0 +1,120 @@
+{
+    "callsign": "CFE1MB  ",
+    "endTime": "2023/07/24-15:18:15",
+    "icao24": "4075a2",
+    "path": [
+        [
+            1690222591,
+            47.4576,
+            8.5564,
+            304,
+            275,
+            false
+        ],
+        [
+            1690222608,
+            47.4588,
+            8.5389,
+            304,
+            275,
+            false
+        ],
+        [
+            1690222626,
+            47.4601,
+            8.5204,
+            609,
+            275,
+            false
+        ],
+        [
+            1690222652,
+            47.4619,
+            8.4947,
+            914,
+            276,
+            false
+        ],
+        [
+            1690222660,
+            47.4625,
+            8.4872,
+            1219,
+            276,
+            false
+        ],
+        [
+            1690222670,
+            47.4623,
+            8.4784,
+            1219,
+            255,
+            false
+        ],
+        [
+            1690222678,
+            47.4605,
+            8.4705,
+            1219,
+            250,
+            false
+        ],
+        [
+            1690222686,
+            47.4587,
+            8.4633,
+            1524,
+            249,
+            false
+        ],
+        [
+            1690222695,
+            47.4564,
+            8.4551,
+            1524,
+            240,
+            false
+        ]
+    ],
+    "startTime": "2023/07/24-15:16:31",
+    "baro_altitude": 1143,
+    "category": 4,
+    "geo_altitude": 1188.72,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690222650,
+    "latitude": 47.4618,
+    "longitude": 8.4974,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3042",
+    "time_position": 1690222650,
+    "true_track": 276.12,
+    "velocity": 72.43,
+    "vertical_rate": 12.68,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 129,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSZH",
+    "estDepartureAirportHorizDistance": 1459,
+    "estDepartureAirportVertDistance": 33,
+    "firstSeen": 1690222591,
+    "lastSeen": 1690222695
+}

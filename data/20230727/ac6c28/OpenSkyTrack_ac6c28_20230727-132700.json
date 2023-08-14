@@ -1,0 +1,72 @@
+{
+    "callsign": null,
+    "endTime": "2023/07/27-13:26:38",
+    "icao24": "ac6c28",
+    "path": [
+        [
+            1690475188,
+            30.527,
+            -81.6303,
+            609,
+            41,
+            false
+        ],
+        [
+            1690475198,
+            30.5361,
+            -81.6249,
+            609,
+            19,
+            false
+        ],
+        [
+            1690475198,
+            30.5361,
+            -81.6249,
+            609,
+            8,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-13:26:28",
+    "baro_altitude": 10721.34,
+    "category": 3,
+    "geo_altitude": 11376.66,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 34.1988,
+    "longitude": -85.2939,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469108,
+    "true_track": 140.06,
+    "velocity": 230.8,
+    "vertical_rate": 4.88,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 240,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KJAX",
+    "estDepartureAirportHorizDistance": 5840,
+    "estDepartureAirportVertDistance": 752,
+    "firstSeen": 1690475188,
+    "lastSeen": 1690475198
+}

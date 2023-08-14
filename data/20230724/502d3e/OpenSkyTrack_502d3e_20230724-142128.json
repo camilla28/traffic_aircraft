@@ -1,0 +1,112 @@
+{
+    "callsign": "SWR3AG  ",
+    "endTime": "2023/07/24-14:21:22",
+    "icao24": "502d3e",
+    "path": [
+        [
+            1690218352,
+            47.4526,
+            8.558,
+            304,
+            275,
+            false
+        ],
+        [
+            1690218992,
+            47.4557,
+            8.5699,
+            304,
+            95,
+            false
+        ],
+        [
+            1690219005,
+            47.456,
+            8.5702,
+            304,
+            15,
+            false
+        ],
+        [
+            1690219085,
+            47.4567,
+            8.5697,
+            304,
+            272,
+            false
+        ],
+        [
+            1690219132,
+            47.4567,
+            8.5697,
+            304,
+            0,
+            false
+        ],
+        [
+            1690219265,
+            47.458,
+            8.5509,
+            304,
+            276,
+            false
+        ],
+        [
+            1690219274,
+            47.4587,
+            8.5418,
+            304,
+            276,
+            false
+        ],
+        [
+            1690219282,
+            47.4594,
+            8.5342,
+            609,
+            277,
+            false
+        ]
+    ],
+    "startTime": "2023/07/24-14:05:52",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690219229,
+    "latitude": 47.4567,
+    "longitude": 8.5697,
+    "on_ground": true,
+    "origin_country": "Latvia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1690219200,
+    "true_track": 270,
+    "velocity": 2.06,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 129,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSZH",
+    "estDepartureAirportHorizDistance": 1500,
+    "estDepartureAirportVertDistance": 25,
+    "firstSeen": 1690218352,
+    "lastSeen": 1690219274
+}

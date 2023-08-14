@@ -1,0 +1,120 @@
+{
+    "callsign": "STGRY53 ",
+    "endTime": "2023/07/27-12:03:04",
+    "icao24": "ae14b4",
+    "path": [
+        [
+            1690469631,
+            28.445,
+            -96.4945,
+            1828,
+            15,
+            false
+        ],
+        [
+            1690469637,
+            28.4481,
+            -96.4936,
+            1828,
+            15,
+            false
+        ],
+        [
+            1690469637,
+            28.4481,
+            -96.4936,
+            1828,
+            120,
+            false
+        ],
+        [
+            1690470119,
+            28.2433,
+            -96.5235,
+            2133,
+            216,
+            false
+        ],
+        [
+            1690470119,
+            28.2433,
+            -96.5235,
+            2133,
+            216,
+            false
+        ],
+        [
+            1690470148,
+            28.2361,
+            -96.54,
+            2133,
+            259,
+            false
+        ],
+        [
+            1690470148,
+            28.2361,
+            -96.54,
+            2133,
+            259,
+            false
+        ],
+        [
+            1690470179,
+            28.2617,
+            -96.5473,
+            2133,
+            12,
+            false
+        ],
+        [
+            1690470184,
+            28.2648,
+            -96.5465,
+            2133,
+            12,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:53:51",
+    "baro_altitude": 1844.04,
+    "category": 0,
+    "geo_altitude": 1965.96,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690468854,
+    "latitude": 28.331,
+    "longitude": -96.3561,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690468854,
+    "true_track": 324.03,
+    "velocity": 71.83,
+    "vertical_rate": 9.1,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 221,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "XS46",
+    "estDepartureAirportHorizDistance": 5348,
+    "estDepartureAirportVertDistance": 1971,
+    "firstSeen": 1690469631,
+    "lastSeen": 1690470184
+}

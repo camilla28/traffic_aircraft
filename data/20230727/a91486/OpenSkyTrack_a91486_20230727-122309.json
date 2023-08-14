@@ -1,0 +1,72 @@
+{
+    "callsign": "N68402  ",
+    "endTime": "2023/07/27-12:23:04",
+    "icao24": "a91486",
+    "path": [
+        [
+            1690471364,
+            27.9657,
+            -81.7968,
+            304,
+            281,
+            false
+        ],
+        [
+            1690471374,
+            27.9663,
+            -81.801,
+            304,
+            278,
+            false
+        ],
+        [
+            1690471384,
+            27.9668,
+            -81.805,
+            304,
+            278,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-12:22:44",
+    "baro_altitude": null,
+    "category": 2,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690468807,
+    "latitude": null,
+    "longitude": null,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": null,
+    "true_track": 83.56,
+    "velocity": 32.1,
+    "vertical_rate": 0.98,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 300,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KBOW",
+    "estDepartureAirportHorizDistance": 2625,
+    "estDepartureAirportVertDistance": 388,
+    "firstSeen": 1690471364,
+    "lastSeen": 1690471374
+}

@@ -1,0 +1,296 @@
+{
+    "callsign": "RYR42NK ",
+    "endTime": "2023/07/27-13:28:29",
+    "icao24": "4ca737",
+    "path": [
+        [
+            1690474713,
+            55.5825,
+            12.5883,
+            304,
+            221,
+            false
+        ],
+        [
+            1690474721,
+            55.5776,
+            12.5807,
+            304,
+            220,
+            false
+        ],
+        [
+            1690474733,
+            55.5692,
+            12.5678,
+            609,
+            221,
+            false
+        ],
+        [
+            1690474742,
+            55.5635,
+            12.558,
+            609,
+            228,
+            false
+        ],
+        [
+            1690474752,
+            55.5573,
+            12.5437,
+            609,
+            235,
+            false
+        ],
+        [
+            1690474763,
+            55.5519,
+            12.526,
+            914,
+            244,
+            false
+        ],
+        [
+            1690474774,
+            55.5473,
+            12.5078,
+            914,
+            246,
+            false
+        ],
+        [
+            1690474784,
+            55.5425,
+            12.4914,
+            914,
+            239,
+            false
+        ],
+        [
+            1690474824,
+            55.5172,
+            12.4188,
+            1219,
+            238,
+            false
+        ],
+        [
+            1690474853,
+            55.4958,
+            12.3577,
+            1524,
+            238,
+            false
+        ],
+        [
+            1690474872,
+            55.4804,
+            12.3144,
+            1828,
+            237,
+            false
+        ],
+        [
+            1690474892,
+            55.4644,
+            12.2695,
+            2133,
+            237,
+            false
+        ],
+        [
+            1690474912,
+            55.4479,
+            12.223,
+            2438,
+            237,
+            false
+        ],
+        [
+            1690474932,
+            55.4317,
+            12.1771,
+            2743,
+            238,
+            false
+        ],
+        [
+            1690474961,
+            55.4054,
+            12.103,
+            3048,
+            238,
+            false
+        ],
+        [
+            1690474982,
+            55.3868,
+            12.0506,
+            3352,
+            237,
+            false
+        ],
+        [
+            1690475001,
+            55.3696,
+            12.0026,
+            3657,
+            237,
+            false
+        ],
+        [
+            1690475012,
+            55.36,
+            11.9758,
+            3962,
+            237,
+            false
+        ],
+        [
+            1690475022,
+            55.3496,
+            11.9499,
+            3962,
+            232,
+            false
+        ],
+        [
+            1690475032,
+            55.3384,
+            11.9263,
+            4267,
+            228,
+            false
+        ],
+        [
+            1690475042,
+            55.3271,
+            11.9039,
+            4267,
+            228,
+            false
+        ],
+        [
+            1690475071,
+            55.2922,
+            11.8341,
+            4572,
+            228,
+            false
+        ],
+        [
+            1690475101,
+            55.2567,
+            11.7633,
+            4876,
+            228,
+            false
+        ],
+        [
+            1690475122,
+            55.2308,
+            11.7116,
+            5181,
+            228,
+            false
+        ],
+        [
+            1690475150,
+            55.1971,
+            11.6443,
+            5486,
+            228,
+            false
+        ],
+        [
+            1690475170,
+            55.1724,
+            11.5949,
+            5791,
+            228,
+            false
+        ],
+        [
+            1690475201,
+            55.1331,
+            11.5168,
+            6096,
+            228,
+            false
+        ],
+        [
+            1690475231,
+            55.0952,
+            11.4415,
+            6400,
+            228,
+            false
+        ],
+        [
+            1690475262,
+            55.0562,
+            11.3644,
+            6705,
+            228,
+            false
+        ],
+        [
+            1690475300,
+            55.0069,
+            11.2673,
+            7010,
+            228,
+            false
+        ],
+        [
+            1690475309,
+            54.9943,
+            11.2427,
+            7315,
+            228,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-13:18:33",
+    "baro_altitude": 11277.6,
+    "category": 1,
+    "geo_altitude": 11567.16,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 52.4555,
+    "longitude": 5.8539,
+    "on_ground": false,
+    "origin_country": "Ireland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2334",
+    "time_position": 1690469109,
+    "true_track": 43.22,
+    "velocity": 257.67,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 50,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EKCH",
+    "estDepartureAirportHorizDistance": 5177,
+    "estDepartureAirportVertDistance": 497,
+    "firstSeen": 1690474713,
+    "lastSeen": 1690475309
+}

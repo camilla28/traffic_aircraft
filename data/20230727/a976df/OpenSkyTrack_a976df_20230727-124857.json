@@ -1,0 +1,96 @@
+{
+    "callsign": "N709KA  ",
+    "endTime": "2023/07/27-12:48:53",
+    "icao24": "a976df",
+    "path": [
+        [
+            1690472840,
+            47.4234,
+            -122.8682,
+            0,
+            57,
+            false
+        ],
+        [
+            1690472849,
+            47.4261,
+            -122.8614,
+            0,
+            62,
+            false
+        ],
+        [
+            1690472859,
+            47.4284,
+            -122.8531,
+            0,
+            69,
+            false
+        ],
+        [
+            1690472878,
+            47.4319,
+            -122.8392,
+            304,
+            68,
+            false
+        ],
+        [
+            1690472888,
+            47.4339,
+            -122.8323,
+            304,
+            64,
+            false
+        ],
+        [
+            1690472933,
+            47.4408,
+            -122.812,
+            304,
+            62,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-12:47:20",
+    "baro_altitude": 457.2,
+    "category": 0,
+    "geo_altitude": 502.92,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 47.4518,
+    "longitude": -122.5463,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1200",
+    "time_position": 1690469108,
+    "true_track": 210.96,
+    "velocity": 59.99,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 195,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "WT77",
+    "estDepartureAirportHorizDistance": 9900,
+    "estDepartureAirportVertDistance": 227,
+    "firstSeen": 1690472840,
+    "lastSeen": 1690472933
+}

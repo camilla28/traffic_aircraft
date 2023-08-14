@@ -1,0 +1,72 @@
+{
+    "callsign": "JZA147  ",
+    "endTime": "2023/07/27-14:12:00",
+    "icao24": "c05f0f",
+    "path": [
+        [
+            1690477607,
+            48.7705,
+            -123.2205,
+            1219,
+            41,
+            false
+        ],
+        [
+            1690477647,
+            48.8022,
+            -123.1796,
+            1219,
+            38,
+            false
+        ],
+        [
+            1690477920,
+            48.9965,
+            -122.9438,
+            1219,
+            39,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-14:06:47",
+    "baro_altitude": 7620,
+    "category": 3,
+    "geo_altitude": 7810.5,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 50.4462,
+    "longitude": -123.5694,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469108,
+    "true_track": 189.4,
+    "velocity": 148.09,
+    "vertical_rate": 0.98,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 139,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "2WA3",
+    "estDepartureAirportHorizDistance": 9653,
+    "estDepartureAirportVertDistance": 1394,
+    "firstSeen": 1690477607,
+    "lastSeen": 1690477920
+}

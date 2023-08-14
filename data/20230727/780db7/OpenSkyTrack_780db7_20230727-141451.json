@@ -1,0 +1,128 @@
+{
+    "callsign": "CES5890 ",
+    "endTime": "2023/07/27-12:35:29",
+    "icao24": "780db7",
+    "path": [
+        [
+            1690468699,
+            22.0911,
+            113.3433,
+            1828,
+            256,
+            false
+        ],
+        [
+            1690468707,
+            22.0884,
+            113.3318,
+            1828,
+            255,
+            false
+        ],
+        [
+            1690468727,
+            22.0819,
+            113.3042,
+            2133,
+            255,
+            false
+        ],
+        [
+            1690468745,
+            22.076,
+            113.2794,
+            2438,
+            255,
+            false
+        ],
+        [
+            1690468771,
+            22.0671,
+            113.2422,
+            2743,
+            255,
+            false
+        ],
+        [
+            1690468801,
+            22.0563,
+            113.1973,
+            3048,
+            255,
+            false
+        ],
+        [
+            1690469466,
+            21.7232,
+            111.9817,
+            7924,
+            246,
+            false
+        ],
+        [
+            1690469466,
+            21.7232,
+            111.9817,
+            7924,
+            246,
+            false
+        ],
+        [
+            1690471461,
+            22.7155,
+            108.1336,
+            10363,
+            313,
+            false
+        ],
+        [
+            1690472129,
+            23.6949,
+            107.0042,
+            10363,
+            312,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:38:19",
+    "baro_altitude": 3322.32,
+    "category": 1,
+    "geo_altitude": 3345.18,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690468801,
+    "latitude": 22.0563,
+    "longitude": 113.1973,
+    "on_ground": false,
+    "origin_country": "China",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690468801,
+    "true_track": 255.37,
+    "velocity": 156.85,
+    "vertical_rate": 15.28,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 6,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "ZGSD",
+    "estDepartureAirportHorizDistance": 57695,
+    "estDepartureAirportVertDistance": 1981,
+    "firstSeen": 1690468699,
+    "lastSeen": 1690472129
+}

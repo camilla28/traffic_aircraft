@@ -1,0 +1,144 @@
+{
+    "callsign": "EZS72WA ",
+    "endTime": "2023/07/27-14:30:19",
+    "icao24": "4b1a5f",
+    "path": [
+        [
+            1690478748,
+            46.2376,
+            6.1084,
+            304,
+            225,
+            false
+        ],
+        [
+            1690478780,
+            46.2216,
+            6.0847,
+            609,
+            226,
+            false
+        ],
+        [
+            1690478812,
+            46.2057,
+            6.0609,
+            914,
+            226,
+            false
+        ],
+        [
+            1690478852,
+            46.1845,
+            6.0292,
+            1219,
+            225,
+            false
+        ],
+        [
+            1690478902,
+            46.1489,
+            5.9765,
+            1524,
+            225,
+            false
+        ],
+        [
+            1690478914,
+            46.1384,
+            5.9612,
+            1828,
+            225,
+            false
+        ],
+        [
+            1690478923,
+            46.1303,
+            5.9503,
+            1828,
+            219,
+            false
+        ],
+        [
+            1690478934,
+            46.1186,
+            5.9403,
+            2133,
+            203,
+            false
+        ],
+        [
+            1690478944,
+            46.1066,
+            5.936,
+            2438,
+            186,
+            false
+        ],
+        [
+            1690478954,
+            46.0931,
+            5.9364,
+            2438,
+            175,
+            false
+        ],
+        [
+            1690478977,
+            46.0628,
+            5.9405,
+            2743,
+            174,
+            false
+        ],
+        [
+            1690479019,
+            46.0055,
+            5.9465,
+            3048,
+            176,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-14:25:48",
+    "baro_altitude": 11590.02,
+    "category": 1,
+    "geo_altitude": 12092.94,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 43.0126,
+    "longitude": -2.2143,
+    "on_ground": false,
+    "origin_country": "Switzerland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "4703",
+    "time_position": 1690469109,
+    "true_track": 58.76,
+    "velocity": 253.92,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 102,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSGG",
+    "estDepartureAirportHorizDistance": 572,
+    "estDepartureAirportVertDistance": 27,
+    "firstSeen": 1690478748,
+    "lastSeen": 1690479019
+}

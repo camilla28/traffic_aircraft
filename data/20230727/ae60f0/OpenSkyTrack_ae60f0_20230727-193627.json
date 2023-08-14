@@ -1,0 +1,136 @@
+{
+    "callsign": "DG1     ",
+    "endTime": "2023/07/27-19:36:21",
+    "icao24": "ae60f0",
+    "path": [
+        [
+            1690497288,
+            32.6935,
+            -117.2191,
+            0,
+            190,
+            false
+        ],
+        [
+            1690497304,
+            32.6843,
+            -117.2203,
+            0,
+            188,
+            false
+        ],
+        [
+            1690497312,
+            32.6793,
+            -117.2212,
+            0,
+            188,
+            false
+        ],
+        [
+            1690497327,
+            32.6703,
+            -117.223,
+            304,
+            190,
+            false
+        ],
+        [
+            1690497336,
+            32.665,
+            -117.2243,
+            304,
+            192,
+            false
+        ],
+        [
+            1690497343,
+            32.6602,
+            -117.2259,
+            304,
+            199,
+            false
+        ],
+        [
+            1690497351,
+            32.6548,
+            -117.2291,
+            304,
+            212,
+            false
+        ],
+        [
+            1690497358,
+            32.6509,
+            -117.2325,
+            304,
+            220,
+            false
+        ],
+        [
+            1690497364,
+            32.6477,
+            -117.2364,
+            304,
+            228,
+            false
+        ],
+        [
+            1690497369,
+            32.6456,
+            -117.2398,
+            304,
+            244,
+            false
+        ],
+        [
+            1690497381,
+            32.6425,
+            -117.2502,
+            304,
+            257,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-19:34:48",
+    "baro_altitude": 121.92,
+    "category": 0,
+    "geo_altitude": 114.3,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690494598,
+    "latitude": 32.7129,
+    "longitude": -117.3792,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690494598,
+    "true_track": 165.09,
+    "velocity": 89.97,
+    "vertical_rate": 0.98,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 109,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KNZY",
+    "estDepartureAirportHorizDistance": 1615,
+    "estDepartureAirportVertDistance": 113,
+    "firstSeen": 1690497288,
+    "lastSeen": 1690497381
+}

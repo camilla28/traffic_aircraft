@@ -1,0 +1,112 @@
+{
+    "callsign": "THY91   ",
+    "endTime": "2023/07/27-11:49:03",
+    "icao24": "4bb149",
+    "path": [
+        [
+            1690469040,
+            37.5024,
+            126.1731,
+            1524,
+            248,
+            false
+        ],
+        [
+            1690469040,
+            37.5024,
+            126.1731,
+            1524,
+            248,
+            false
+        ],
+        [
+            1690469081,
+            37.4813,
+            126.1303,
+            1828,
+            248,
+            false
+        ],
+        [
+            1690469092,
+            37.4635,
+            126.0967,
+            2133,
+            236,
+            false
+        ],
+        [
+            1690469097,
+            37.4606,
+            126.0913,
+            2133,
+            236,
+            false
+        ],
+        [
+            1690469160,
+            37.4212,
+            126.0171,
+            2743,
+            236,
+            false
+        ],
+        [
+            1690469343,
+            37.4033,
+            125.6403,
+            4572,
+            268,
+            false
+        ],
+        [
+            1690469343,
+            37.4033,
+            125.6403,
+            4572,
+            268,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:44:00",
+    "baro_altitude": 2270.76,
+    "category": 6,
+    "geo_altitude": 2392.68,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469097,
+    "latitude": 37.4606,
+    "longitude": 126.0913,
+    "on_ground": false,
+    "origin_country": "Turkey",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469097,
+    "true_track": 235.91,
+    "velocity": 144.11,
+    "vertical_rate": 9.75,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 51,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "RKSI",
+    "estDepartureAirportHorizDistance": 24795,
+    "estDepartureAirportVertDistance": 1654,
+    "firstSeen": 1690469040,
+    "lastSeen": 1690469343
+}

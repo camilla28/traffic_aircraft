@@ -1,0 +1,72 @@
+{
+    "callsign": "SWR4SP  ",
+    "endTime": "2023/07/24-14:41:37",
+    "icao24": "4b19f5",
+    "path": [
+        [
+            1690220442,
+            47.4569,
+            8.5662,
+            304,
+            276,
+            false
+        ],
+        [
+            1690220479,
+            47.4594,
+            8.5325,
+            304,
+            276,
+            false
+        ],
+        [
+            1690220497,
+            47.4609,
+            8.5136,
+            609,
+            276,
+            false
+        ]
+    ],
+    "startTime": "2023/07/24-14:40:42",
+    "baro_altitude": null,
+    "category": 4,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690220338,
+    "latitude": 47.4566,
+    "longitude": 8.57,
+    "on_ground": true,
+    "origin_country": "Switzerland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690220338,
+    "true_track": 278.44,
+    "velocity": 1.8,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 129,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSZH",
+    "estDepartureAirportHorizDistance": 1548,
+    "estDepartureAirportVertDistance": 33,
+    "firstSeen": 1690220442,
+    "lastSeen": 1690220497
+}

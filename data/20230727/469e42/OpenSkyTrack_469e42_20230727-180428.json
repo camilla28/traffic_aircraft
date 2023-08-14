@@ -1,0 +1,112 @@
+{
+    "callsign": "SEH9AT  ",
+    "endTime": "2023/07/27-16:56:54",
+    "icao24": "469e42",
+    "path": [
+        [
+            1690486718,
+            36.2729,
+            24.727,
+            7924,
+            323,
+            false
+        ],
+        [
+            1690486871,
+            36.4689,
+            24.5487,
+            7924,
+            323,
+            false
+        ],
+        [
+            1690487019,
+            36.6331,
+            24.3984,
+            7620,
+            323,
+            false
+        ],
+        [
+            1690487062,
+            36.6655,
+            24.3685,
+            7315,
+            323,
+            false
+        ],
+        [
+            1690487133,
+            36.712,
+            24.3257,
+            7010,
+            323,
+            false
+        ],
+        [
+            1690487212,
+            36.7557,
+            24.2853,
+            6705,
+            323,
+            false
+        ],
+        [
+            1690487334,
+            36.7943,
+            24.2499,
+            6400,
+            323,
+            false
+        ],
+        [
+            1690487814,
+            36.809,
+            24.2365,
+            6096,
+            323,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-16:38:38",
+    "baro_altitude": 10668,
+    "category": 0,
+    "geo_altitude": 11170.92,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469108,
+    "latitude": 42.16,
+    "longitude": 19.7886,
+    "on_ground": false,
+    "origin_country": "Greece",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0642",
+    "time_position": 1690469104,
+    "true_track": 124.83,
+    "velocity": 280.14,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1690486718,
+    "lastSeen": 1690487814
+}

@@ -1,0 +1,80 @@
+{
+    "callsign": "N5681C  ",
+    "endTime": "2023/07/27-14:59:41",
+    "icao24": "a74720",
+    "path": [
+        [
+            1690480634,
+            34.2492,
+            -113.6188,
+            2438,
+            110,
+            false
+        ],
+        [
+            1690480654,
+            34.2452,
+            -113.6069,
+            2438,
+            112,
+            false
+        ],
+        [
+            1690480710,
+            34.2333,
+            -113.5729,
+            2438,
+            113,
+            false
+        ],
+        [
+            1690480781,
+            34.2179,
+            -113.5303,
+            2743,
+            113,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-14:57:14",
+    "baro_altitude": 2125.98,
+    "category": 0,
+    "geo_altitude": 2240.28,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469105,
+    "latitude": 32.1989,
+    "longitude": -111.4968,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469105,
+    "true_track": 278.31,
+    "velocity": 71.23,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 47,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "AZ01",
+    "estDepartureAirportHorizDistance": 51429,
+    "estDepartureAirportVertDistance": 1956,
+    "firstSeen": 1690480634,
+    "lastSeen": 1690480781
+}

@@ -1,0 +1,112 @@
+{
+    "callsign": "8AH     ",
+    "endTime": "2023/07/27-19:48:09",
+    "icao24": "7cac27",
+    "path": [
+        [
+            1690497773,
+            -31.8333,
+            152.5671,
+            609,
+            33,
+            false
+        ],
+        [
+            1690497822,
+            -31.8078,
+            152.5864,
+            609,
+            33,
+            false
+        ],
+        [
+            1690497861,
+            -31.7838,
+            152.6055,
+            609,
+            34,
+            false
+        ],
+        [
+            1690497901,
+            -31.7559,
+            152.6201,
+            609,
+            25,
+            false
+        ],
+        [
+            1690497914,
+            -31.7471,
+            152.6253,
+            609,
+            27,
+            false
+        ],
+        [
+            1690497934,
+            -31.7334,
+            152.6341,
+            609,
+            29,
+            false
+        ],
+        [
+            1690497999,
+            -31.6901,
+            152.6645,
+            609,
+            31,
+            false
+        ],
+        [
+            1690498089,
+            -31.632,
+            152.7079,
+            609,
+            32,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-19:42:53",
+    "baro_altitude": 678.18,
+    "category": 0,
+    "geo_altitude": 777.24,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690494598,
+    "latitude": -33.09,
+    "longitude": 151.6054,
+    "on_ground": false,
+    "origin_country": "Australia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1200",
+    "time_position": 1690494598,
+    "true_track": 30.45,
+    "velocity": 78.17,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 33,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "YTRE",
+    "estDepartureAirportHorizDistance": 7768,
+    "estDepartureAirportVertDistance": 613,
+    "firstSeen": 1690497773,
+    "lastSeen": 1690498082
+}

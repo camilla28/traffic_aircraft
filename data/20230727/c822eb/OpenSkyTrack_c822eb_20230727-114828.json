@@ -1,0 +1,160 @@
+{
+    "callsign": "TFR42   ",
+    "endTime": "2023/07/27-11:48:22",
+    "icao24": "c822eb",
+    "path": [
+        [
+            1690469155,
+            -27.3748,
+            153.1337,
+            0,
+            25,
+            false
+        ],
+        [
+            1690469164,
+            -27.37,
+            153.1371,
+            0,
+            38,
+            false
+        ],
+        [
+            1690469174,
+            -27.3657,
+            153.1448,
+            304,
+            70,
+            false
+        ],
+        [
+            1690469182,
+            -27.3648,
+            153.1529,
+            304,
+            88,
+            false
+        ],
+        [
+            1690469191,
+            -27.365,
+            153.1609,
+            304,
+            92,
+            false
+        ],
+        [
+            1690469201,
+            -27.3654,
+            153.1725,
+            609,
+            90,
+            false
+        ],
+        [
+            1690469209,
+            -27.3653,
+            153.1851,
+            609,
+            24,
+            false
+        ],
+        [
+            1690469237,
+            -27.3611,
+            153.2233,
+            1219,
+            81,
+            false
+        ],
+        [
+            1690469256,
+            -27.3579,
+            153.248,
+            1524,
+            82,
+            false
+        ],
+        [
+            1690469265,
+            -27.3563,
+            153.2609,
+            1828,
+            82,
+            false
+        ],
+        [
+            1690469274,
+            -27.3551,
+            153.2722,
+            1828,
+            92,
+            false
+        ],
+        [
+            1690469284,
+            -27.3555,
+            153.2858,
+            2133,
+            92,
+            false
+        ],
+        [
+            1690469293,
+            -27.3593,
+            153.2986,
+            2133,
+            114,
+            false
+        ],
+        [
+            1690469302,
+            -27.3654,
+            153.3095,
+            2438,
+            126,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:45:55",
+    "baro_altitude": null,
+    "category": 1,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469108,
+    "latitude": -27.4022,
+    "longitude": 153.1146,
+    "on_ground": true,
+    "origin_country": "New Zealand",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469067,
+    "true_track": 28.12,
+    "velocity": 25.72,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 45,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "YBBN",
+    "estDepartureAirportHorizDistance": 1688,
+    "estDepartureAirportVertDistance": 148,
+    "firstSeen": 1690469155,
+    "lastSeen": 1690469302
+}

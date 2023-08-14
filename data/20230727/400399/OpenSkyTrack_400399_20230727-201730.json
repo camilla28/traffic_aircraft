@@ -1,0 +1,72 @@
+{
+    "callsign": "IWY741  ",
+    "endTime": "2023/07/27-20:15:09",
+    "icao24": "400399",
+    "path": [
+        [
+            1690499588,
+            15.0929,
+            -60.9623,
+            4876,
+            144,
+            false
+        ],
+        [
+            1690499624,
+            15.0651,
+            -60.9417,
+            4876,
+            143,
+            false
+        ],
+        [
+            1690499709,
+            14.9902,
+            -60.886,
+            5181,
+            144,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-20:13:08",
+    "baro_altitude": 4732.02,
+    "category": 0,
+    "geo_altitude": 4968.24,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690494599,
+    "latitude": 13.6278,
+    "longitude": -59.8758,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1725",
+    "time_position": 1690494599,
+    "true_track": 324.4,
+    "velocity": 111.35,
+    "vertical_rate": 4.88,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1690499588,
+    "lastSeen": 1690499709
+}

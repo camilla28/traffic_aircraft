@@ -1,0 +1,80 @@
+{
+    "callsign": "N449SA  ",
+    "endTime": "2023/07/27-19:55:41",
+    "icao24": "a56d9d",
+    "path": [
+        [
+            1690498485,
+            38.8035,
+            -104.7159,
+            1524,
+            0,
+            false
+        ],
+        [
+            1690498501,
+            38.8153,
+            -104.7158,
+            1524,
+            0,
+            false
+        ],
+        [
+            1690498533,
+            38.8448,
+            -104.7156,
+            1828,
+            0,
+            false
+        ],
+        [
+            1690498541,
+            38.8532,
+            -104.7155,
+            2133,
+            0,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-19:54:45",
+    "baro_altitude": null,
+    "category": 3,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690494592,
+    "latitude": 38.8085,
+    "longitude": -104.7204,
+    "on_ground": true,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690494592,
+    "true_track": 180,
+    "velocity": 0,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 177,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KCOS",
+    "estDepartureAirportHorizDistance": 1319,
+    "estDepartureAirportVertDistance": 125,
+    "firstSeen": 1690498485,
+    "lastSeen": 1690498533
+}

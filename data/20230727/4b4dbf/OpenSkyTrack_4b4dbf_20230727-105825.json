@@ -1,0 +1,120 @@
+{
+    "callsign": null,
+    "endTime": "2023/07/27-10:51:05",
+    "icao24": "4b4dbf",
+    "path": [
+        [
+            1690465470,
+            47.09,
+            9.3546,
+            3352,
+            -67,
+            false
+        ],
+        [
+            1690465484,
+            47.0915,
+            9.3484,
+            3048,
+            -71,
+            false
+        ],
+        [
+            1690465484,
+            47.0915,
+            9.3484,
+            3048,
+            -71,
+            false
+        ],
+        [
+            1690465499,
+            47.0937,
+            9.3398,
+            2743,
+            -70,
+            false
+        ],
+        [
+            1690465499,
+            47.0937,
+            9.3398,
+            2438,
+            -70,
+            false
+        ],
+        [
+            1690465499,
+            47.0937,
+            9.3398,
+            3048,
+            -70,
+            false
+        ],
+        [
+            1690465865,
+            47.1279,
+            9.1078,
+            3048,
+            -94,
+            false
+        ],
+        [
+            1690465865,
+            47.1279,
+            9.1078,
+            914,
+            -94,
+            false
+        ],
+        [
+            1690465865,
+            47.1279,
+            9.1078,
+            3048,
+            -94,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-10:44:30",
+    "baro_altitude": 3314.7,
+    "category": 0,
+    "geo_altitude": 1250,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690466098,
+    "latitude": 47.1279,
+    "longitude": 9.1078,
+    "on_ground": false,
+    "origin_country": "Switzerland",
+    "position_source": 3,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7000",
+    "time_position": 1690465865,
+    "true_track": -94.67,
+    "velocity": 61.06,
+    "vertical_rate": -6,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSZE",
+    "estDepartureAirportHorizDistance": 25469,
+    "estDepartureAirportVertDistance": 2867,
+    "firstSeen": 1690465470,
+    "lastSeen": 1690465865
+}

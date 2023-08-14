@@ -1,0 +1,112 @@
+{
+    "callsign": "DKIOF   ",
+    "endTime": "2023/07/27-10:47:49",
+    "icao24": "3e7281",
+    "path": [
+        [
+            1690464787,
+            47.6819,
+            10.3202,
+            914,
+            null,
+            false
+        ],
+        [
+            1690464787,
+            47.6819,
+            10.3202,
+            914,
+            null,
+            false
+        ],
+        [
+            1690464787,
+            47.6819,
+            10.3202,
+            609,
+            null,
+            false
+        ],
+        [
+            1690465412,
+            47.6827,
+            10.3212,
+            609,
+            -136,
+            false
+        ],
+        [
+            1690465605,
+            47.6826,
+            10.3803,
+            609,
+            -9,
+            false
+        ],
+        [
+            1690465621,
+            47.6876,
+            10.379,
+            609,
+            -9,
+            false
+        ],
+        [
+            1690465669,
+            47.6992,
+            10.3713,
+            609,
+            -102,
+            false
+        ],
+        [
+            1690465669,
+            47.6992,
+            10.3713,
+            609,
+            -102,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-10:33:07",
+    "baro_altitude": 807.72,
+    "category": 2,
+    "geo_altitude": 1018,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690465614,
+    "latitude": 47.6854,
+    "longitude": 10.3795,
+    "on_ground": false,
+    "origin_country": "Germany",
+    "position_source": 3,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7000",
+    "time_position": 1690465614,
+    "true_track": -9.6,
+    "velocity": 35.27,
+    "vertical_rate": -1,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 114,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDMK",
+    "estDepartureAirportHorizDistance": 1738,
+    "estDepartureAirportVertDistance": 254,
+    "firstSeen": 1690464787,
+    "lastSeen": 1690465669
+}

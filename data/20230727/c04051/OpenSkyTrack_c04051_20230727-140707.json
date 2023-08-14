@@ -1,0 +1,72 @@
+{
+    "callsign": null,
+    "endTime": "2023/07/27-14:03:47",
+    "icao24": "c04051",
+    "path": [
+        [
+            1690477347,
+            50.2875,
+            -103.9276,
+            5486,
+            95,
+            false
+        ],
+        [
+            1690477347,
+            50.2875,
+            -103.9276,
+            5486,
+            95,
+            false
+        ],
+        [
+            1690477427,
+            50.2723,
+            -103.6696,
+            6400,
+            95,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-14:02:27",
+    "baro_altitude": 11574.78,
+    "category": 0,
+    "geo_altitude": 11910.06,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 49.7511,
+    "longitude": -97.0739,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469109,
+    "true_track": 281.86,
+    "velocity": 187.67,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1690477347,
+    "lastSeen": 1690477427
+}

@@ -1,0 +1,128 @@
+{
+    "callsign": "IGO5264 ",
+    "endTime": "2023/05/26-08:55:26",
+    "icao24": "8014e8",
+    "path": [
+        [
+            1685100416,
+            23.2497,
+            73.7694,
+            11277,
+            20,
+            false
+        ],
+        [
+            1685100614,
+            23.6486,
+            73.9282,
+            11277,
+            20,
+            false
+        ],
+        [
+            1685100745,
+            23.9118,
+            74.0335,
+            10972,
+            20,
+            false
+        ],
+        [
+            1685100876,
+            24.1735,
+            74.1386,
+            11277,
+            20,
+            false
+        ],
+        [
+            1685100887,
+            24.1948,
+            74.1473,
+            10972,
+            20,
+            false
+        ],
+        [
+            1685101026,
+            24.4792,
+            74.2539,
+            11277,
+            20,
+            false
+        ],
+        [
+            1685101779,
+            25.9855,
+            74.5745,
+            11277,
+            34,
+            false
+        ],
+        [
+            1685101916,
+            26.2322,
+            74.7642,
+            11277,
+            34,
+            false
+        ],
+        [
+            1685101978,
+            26.3438,
+            74.8503,
+            10972,
+            34,
+            false
+        ],
+        [
+            1685102126,
+            26.6103,
+            75.0568,
+            11277,
+            34,
+            false
+        ]
+    ],
+    "startTime": "2023/05/26-08:26:56",
+    "baro_altitude": 11285.22,
+    "category": 0,
+    "geo_altitude": 11849.1,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1685102080,
+    "latitude": 26.5265,
+    "longitude": 74.9918,
+    "on_ground": false,
+    "origin_country": "India",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1685102079,
+    "true_track": 34.9,
+    "velocity": 242.75,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1685100416,
+    "lastSeen": 1685102126
+}

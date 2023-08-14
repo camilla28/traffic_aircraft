@@ -1,0 +1,120 @@
+{
+    "callsign": "N201ZT  ",
+    "endTime": "2023/07/27-15:14:30",
+    "icao24": "a1980b",
+    "path": [
+        [
+            1690479296,
+            43.3327,
+            -96.7629,
+            2743,
+            255,
+            false
+        ],
+        [
+            1690479480,
+            43.3108,
+            -96.8883,
+            2743,
+            257,
+            false
+        ],
+        [
+            1690479591,
+            43.2972,
+            -96.9644,
+            3048,
+            255,
+            false
+        ],
+        [
+            1690479596,
+            43.2965,
+            -96.9681,
+            3048,
+            254,
+            false
+        ],
+        [
+            1690479615,
+            43.2936,
+            -96.9814,
+            3048,
+            253,
+            false
+        ],
+        [
+            1690479643,
+            43.2887,
+            -97.0031,
+            3048,
+            255,
+            false
+        ],
+        [
+            1690480268,
+            43.1895,
+            -97.5251,
+            3048,
+            255,
+            false
+        ],
+        [
+            1690481595,
+            42.9773,
+            -98.6154,
+            3048,
+            254,
+            false
+        ],
+        [
+            1690481670,
+            42.9653,
+            -98.6763,
+            3048,
+            254,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-14:34:56",
+    "baro_altitude": 1440.18,
+    "category": 2,
+    "geo_altitude": 1470.66,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469108,
+    "latitude": 43.7059,
+    "longitude": -90.6972,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469108,
+    "true_track": 257.16,
+    "velocity": 71.76,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KY14",
+    "estDepartureAirportHorizDistance": 14228,
+    "estDepartureAirportVertDistance": 2281,
+    "firstSeen": 1690479296,
+    "lastSeen": 1690481670
+}

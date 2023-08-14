@@ -1,0 +1,120 @@
+{
+    "callsign": "AAY271  ",
+    "endTime": "2023/07/27-18:07:36",
+    "icao24": "a36f90",
+    "path": [
+        [
+            1690491962,
+            48.7695,
+            -122.5402,
+            304,
+            199,
+            false
+        ],
+        [
+            1690491972,
+            48.7627,
+            -122.5443,
+            304,
+            202,
+            false
+        ],
+        [
+            1690491983,
+            48.7557,
+            -122.5488,
+            304,
+            202,
+            false
+        ],
+        [
+            1690491992,
+            48.7495,
+            -122.5528,
+            609,
+            202,
+            false
+        ],
+        [
+            1690492002,
+            48.7425,
+            -122.5575,
+            609,
+            207,
+            false
+        ],
+        [
+            1690492010,
+            48.7365,
+            -122.5632,
+            609,
+            213,
+            false
+        ],
+        [
+            1690492020,
+            48.7295,
+            -122.5702,
+            609,
+            214,
+            false
+        ],
+        [
+            1690492047,
+            48.7088,
+            -122.5923,
+            914,
+            215,
+            false
+        ],
+        [
+            1690492056,
+            48.7019,
+            -122.5998,
+            1219,
+            216,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-18:06:02",
+    "baro_altitude": 11269.98,
+    "category": 0,
+    "geo_altitude": 11666.22,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 44.2566,
+    "longitude": -121.6338,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5203",
+    "time_position": 1690469109,
+    "true_track": 170.72,
+    "velocity": 216.85,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 130,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KBLI",
+    "estDepartureAirportHorizDistance": 2596,
+    "estDepartureAirportVertDistance": 321,
+    "firstSeen": 1690491962,
+    "lastSeen": 1690492056
+}

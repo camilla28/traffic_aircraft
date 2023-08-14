@@ -1,0 +1,256 @@
+{
+    "callsign": "ASJ07RE ",
+    "endTime": "2023/07/27-13:09:11",
+    "icao24": "399224",
+    "path": [
+        [
+            1690473630,
+            48.9668,
+            2.4317,
+            0,
+            247,
+            false
+        ],
+        [
+            1690473643,
+            48.9641,
+            2.4215,
+            304,
+            248,
+            false
+        ],
+        [
+            1690473672,
+            48.9579,
+            2.399,
+            609,
+            246,
+            false
+        ],
+        [
+            1690473712,
+            48.9448,
+            2.3543,
+            914,
+            246,
+            false
+        ],
+        [
+            1690473724,
+            48.9397,
+            2.3397,
+            914,
+            237,
+            false
+        ],
+        [
+            1690473744,
+            48.9296,
+            2.316,
+            914,
+            237,
+            false
+        ],
+        [
+            1690473764,
+            48.9191,
+            2.2915,
+            1219,
+            236,
+            false
+        ],
+        [
+            1690473787,
+            48.9077,
+            2.2671,
+            1524,
+            234,
+            false
+        ],
+        [
+            1690473807,
+            48.8991,
+            2.248,
+            1828,
+            236,
+            false
+        ],
+        [
+            1690473818,
+            48.8948,
+            2.2382,
+            2133,
+            236,
+            false
+        ],
+        [
+            1690473839,
+            48.8868,
+            2.2194,
+            2438,
+            237,
+            false
+        ],
+        [
+            1690473849,
+            48.8823,
+            2.2108,
+            2438,
+            221,
+            false
+        ],
+        [
+            1690473859,
+            48.8763,
+            2.2058,
+            2743,
+            197,
+            false
+        ],
+        [
+            1690473869,
+            48.8685,
+            2.2055,
+            2743,
+            169,
+            false
+        ],
+        [
+            1690473878,
+            48.8614,
+            2.2099,
+            2743,
+            151,
+            false
+        ],
+        [
+            1690473898,
+            48.8459,
+            2.2223,
+            3048,
+            153,
+            false
+        ],
+        [
+            1690473908,
+            48.8379,
+            2.2283,
+            3048,
+            154,
+            false
+        ],
+        [
+            1690473938,
+            48.8146,
+            2.2453,
+            3352,
+            154,
+            false
+        ],
+        [
+            1690473957,
+            48.7986,
+            2.2571,
+            3657,
+            153,
+            false
+        ],
+        [
+            1690473996,
+            48.7675,
+            2.2801,
+            3962,
+            153,
+            false
+        ],
+        [
+            1690474027,
+            48.7436,
+            2.2978,
+            4267,
+            154,
+            false
+        ],
+        [
+            1690474047,
+            48.7273,
+            2.3097,
+            4572,
+            153,
+            false
+        ],
+        [
+            1690474058,
+            48.7188,
+            2.3167,
+            4572,
+            146,
+            false
+        ],
+        [
+            1690474088,
+            48.6946,
+            2.3398,
+            4876,
+            148,
+            false
+        ],
+        [
+            1690474119,
+            48.6694,
+            2.3631,
+            5181,
+            148,
+            false
+        ],
+        [
+            1690474151,
+            48.6435,
+            2.3873,
+            5486,
+            148,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-13:00:30",
+    "baro_altitude": 7795.26,
+    "category": 1,
+    "geo_altitude": 8191.5,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 46.6762,
+    "longitude": 4.7165,
+    "on_ground": false,
+    "origin_country": "France",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1690469108,
+    "true_track": 336.59,
+    "velocity": 146.31,
+    "vertical_rate": 3.9,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 87,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFPB",
+    "estDepartureAirportHorizDistance": 302,
+    "estDepartureAirportVertDistance": 223,
+    "firstSeen": 1690473630,
+    "lastSeen": 1690474151
+}

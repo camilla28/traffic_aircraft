@@ -1,0 +1,112 @@
+{
+    "callsign": "EXV821  ",
+    "endTime": "2023/07/27-11:46:13",
+    "icao24": "77181f",
+    "path": [
+        [
+            1690466509,
+            8.7942,
+            78.7393,
+            7924,
+            323,
+            false
+        ],
+        [
+            1690466575,
+            8.9012,
+            78.6593,
+            7924,
+            323,
+            false
+        ],
+        [
+            1690466684,
+            9.072,
+            78.5313,
+            8229,
+            323,
+            false
+        ],
+        [
+            1690466875,
+            9.247,
+            78.3999,
+            8534,
+            323,
+            false
+        ],
+        [
+            1690467549,
+            10.6326,
+            77.3112,
+            10058,
+            322,
+            false
+        ],
+        [
+            1690468446,
+            12.0998,
+            76.1447,
+            10363,
+            321,
+            false
+        ],
+        [
+            1690469126,
+            13.1431,
+            75.3051,
+            10363,
+            321,
+            false
+        ],
+        [
+            1690469173,
+            13.1963,
+            75.262,
+            10058,
+            321,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:01:49",
+    "baro_altitude": 10363.2,
+    "category": 0,
+    "geo_altitude": 11003.28,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469108,
+    "latitude": 13.1223,
+    "longitude": 75.3219,
+    "on_ground": false,
+    "origin_country": "Sri Lanka",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469108,
+    "true_track": 321.7,
+    "velocity": 230.75,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1690466509,
+    "lastSeen": 1690469173
+}
