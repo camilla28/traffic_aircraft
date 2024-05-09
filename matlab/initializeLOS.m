@@ -14,7 +14,7 @@ dt = 0.5; % sample time [min]
 
 
 
-Ns = 500;
+Ns = 2000;
 % Create Ns scenarios
 scen = cell(Ns,1);
 modelA = [];

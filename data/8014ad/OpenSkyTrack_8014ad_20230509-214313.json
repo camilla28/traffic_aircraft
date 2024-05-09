@@ -1,0 +1,104 @@
+{
+    "callsign": "IGO731  ",
+    "endTime": "2023/05/09-21:43:09",
+    "icao24": "8014ad",
+    "path": [
+        [
+            1683679241,
+            28.5657,
+            77.0913,
+            304,
+            283,
+            false
+        ],
+        [
+            1683679267,
+            28.57,
+            77.0699,
+            304,
+            283,
+            false
+        ],
+        [
+            1683679302,
+            28.5787,
+            77.0341,
+            609,
+            285,
+            false
+        ],
+        [
+            1683679328,
+            28.586,
+            77.0036,
+            914,
+            285,
+            false
+        ],
+        [
+            1683679340,
+            28.5897,
+            76.9879,
+            1219,
+            284,
+            false
+        ],
+        [
+            1683679358,
+            28.5949,
+            76.9654,
+            1524,
+            284,
+            false
+        ],
+        [
+            1683679389,
+            28.6041,
+            76.9252,
+            1828,
+            284,
+            false
+        ]
+    ],
+    "startTime": "2023/05/09-21:40:41",
+    "baro_altitude": 2118.36,
+    "category": 0,
+    "geo_altitude": 2125.98,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1683679392,
+    "latitude": 28.6048,
+    "longitude": 76.9222,
+    "on_ground": false,
+    "origin_country": "India",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1683679392,
+    "true_track": 284.37,
+    "velocity": 128.52,
+    "vertical_rate": 2.93,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 15,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "VIDP",
+    "estDepartureAirportHorizDistance": 639,
+    "estDepartureAirportVertDistance": 106,
+    "firstSeen": 1683679241,
+    "lastSeen": 1683679389
+}

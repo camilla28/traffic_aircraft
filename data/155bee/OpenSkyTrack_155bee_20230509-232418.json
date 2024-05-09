@@ -1,0 +1,88 @@
+{
+    "callsign": "LLM678  ",
+    "endTime": "2023/05/09-22:42:57",
+    "icao24": "155bee",
+    "path": [
+        [
+            1683674150,
+            44.1384,
+            43.702,
+            4572,
+            91,
+            false
+        ],
+        [
+            1683674150,
+            44.1384,
+            43.702,
+            4572,
+            91,
+            false
+        ],
+        [
+            1683674184,
+            44.1366,
+            43.7843,
+            4876,
+            91,
+            false
+        ],
+        [
+            1683682917,
+            56.679,
+            61.8425,
+            11277,
+            26,
+            false
+        ],
+        [
+            1683682977,
+            56.7943,
+            61.9493,
+            11277,
+            27,
+            false
+        ]
+    ],
+    "startTime": "2023/05/09-20:15:50",
+    "baro_altitude": 11277.6,
+    "category": 4,
+    "geo_altitude": 11178.54,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1683682977,
+    "latitude": 56.7943,
+    "longitude": 61.9493,
+    "on_ground": false,
+    "origin_country": "Russian Federation",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1683682977,
+    "true_track": 27.06,
+    "velocity": 240.89,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1683674150,
+    "lastSeen": 1683682977
+}

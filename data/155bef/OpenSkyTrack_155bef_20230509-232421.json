@@ -1,0 +1,128 @@
+{
+    "callsign": "LLM419  ",
+    "endTime": "2023/05/09-22:42:30",
+    "icao24": "155bef",
+    "path": [
+        [
+            1683679810,
+            57.0576,
+            44.8943,
+            10668,
+            73,
+            false
+        ],
+        [
+            1683680309,
+            57.3466,
+            46.7546,
+            10668,
+            71,
+            false
+        ],
+        [
+            1683680316,
+            57.3513,
+            46.7791,
+            10668,
+            69,
+            false
+        ],
+        [
+            1683680329,
+            57.3614,
+            46.8267,
+            10668,
+            67,
+            false
+        ],
+        [
+            1683680433,
+            57.4506,
+            47.2028,
+            10668,
+            66,
+            false
+        ],
+        [
+            1683680784,
+            57.743,
+            48.4879,
+            10972,
+            67,
+            false
+        ],
+        [
+            1683681548,
+            58.3376,
+            51.3769,
+            10668,
+            69,
+            false
+        ],
+        [
+            1683682251,
+            58.8278,
+            54.1436,
+            10668,
+            72,
+            false
+        ],
+        [
+            1683682933,
+            59.2504,
+            56.9417,
+            10668,
+            74,
+            false
+        ],
+        [
+            1683682950,
+            59.2604,
+            57.0144,
+            10668,
+            74,
+            false
+        ]
+    ],
+    "startTime": "2023/05/09-21:50:10",
+    "baro_altitude": 10668,
+    "category": 4,
+    "geo_altitude": 10492.74,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1683682950,
+    "latitude": 59.2604,
+    "longitude": 57.0144,
+    "on_ground": false,
+    "origin_country": "Russian Federation",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1683682950,
+    "true_track": 74.95,
+    "velocity": 247.71,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1683679810,
+    "lastSeen": 1683682950
+}
