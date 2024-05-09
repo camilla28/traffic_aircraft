@@ -1,0 +1,96 @@
+{
+    "callsign": "N946DS  ",
+    "endTime": "2023/07/27-14:13:02",
+    "icao24": "ad23ce",
+    "path": [
+        [
+            1690466682,
+            36.1002,
+            -76.5832,
+            2438,
+            20,
+            false
+        ],
+        [
+            1690467580,
+            36.6657,
+            -76.3233,
+            2438,
+            20,
+            false
+        ],
+        [
+            1690468455,
+            37.2193,
+            -76.0649,
+            2438,
+            20,
+            false
+        ],
+        [
+            1690468942,
+            37.5234,
+            -75.9212,
+            2438,
+            20,
+            false
+        ],
+        [
+            1690477671,
+            39.1551,
+            -74.6972,
+            1828,
+            49,
+            false
+        ],
+        [
+            1690477982,
+            39.3077,
+            -74.4671,
+            1828,
+            49,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:04:42",
+    "baro_altitude": 2705.1,
+    "category": 2,
+    "geo_altitude": 2857.5,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690468942,
+    "latitude": 37.5234,
+    "longitude": -75.9212,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690468942,
+    "true_track": 20.75,
+    "velocity": 72.62,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KEDE",
+    "estDepartureAirportHorizDistance": 8265,
+    "estDepartureAirportVertDistance": 2683,
+    "firstSeen": 1690466682,
+    "lastSeen": 1690477982
+}

@@ -1,0 +1,96 @@
+{
+    "callsign": "N585CH  ",
+    "endTime": "2023/07/27-20:19:40",
+    "icao24": "a788b5",
+    "path": [
+        [
+            1690498398,
+            38.9376,
+            -90.0133,
+            609,
+            47,
+            false
+        ],
+        [
+            1690498539,
+            38.9868,
+            -89.9426,
+            609,
+            48,
+            false
+        ],
+        [
+            1690498659,
+            39.028,
+            -89.8821,
+            914,
+            49,
+            false
+        ],
+        [
+            1690498774,
+            39.0665,
+            -89.8253,
+            1219,
+            48,
+            false
+        ],
+        [
+            1690499672,
+            39.4191,
+            -89.3036,
+            1524,
+            49,
+            false
+        ],
+        [
+            1690499980,
+            39.5395,
+            -89.1232,
+            1524,
+            49,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-19:53:18",
+    "baro_altitude": 312.42,
+    "category": 0,
+    "geo_altitude": 373.38,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690494345,
+    "latitude": 38.8633,
+    "longitude": -90.0718,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690494345,
+    "true_track": 34.46,
+    "velocity": 63.64,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 291,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KALN",
+    "estDepartureAirportHorizDistance": 5839,
+    "estDepartureAirportVertDistance": 504,
+    "firstSeen": 1690498398,
+    "lastSeen": 1690499980
+}

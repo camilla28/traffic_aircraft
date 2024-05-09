@@ -1,0 +1,144 @@
+{
+    "callsign": "VAR852  ",
+    "endTime": "2023/07/27-13:51:49",
+    "icao24": "abaf30",
+    "path": [
+        [
+            1690476545,
+            33.4212,
+            -112.3774,
+            304,
+            218,
+            false
+        ],
+        [
+            1690476567,
+            33.414,
+            -112.3841,
+            304,
+            217,
+            false
+        ],
+        [
+            1690476579,
+            33.4097,
+            -112.3876,
+            304,
+            211,
+            false
+        ],
+        [
+            1690476600,
+            33.4013,
+            -112.3938,
+            304,
+            211,
+            false
+        ],
+        [
+            1690476610,
+            33.3972,
+            -112.3972,
+            304,
+            215,
+            false
+        ],
+        [
+            1690476621,
+            33.3932,
+            -112.4012,
+            304,
+            231,
+            false
+        ],
+        [
+            1690476630,
+            33.3912,
+            -112.4057,
+            304,
+            249,
+            false
+        ],
+        [
+            1690476647,
+            33.3881,
+            -112.4149,
+            304,
+            246,
+            false
+        ],
+        [
+            1690476657,
+            33.3861,
+            -112.4201,
+            304,
+            242,
+            false
+        ],
+        [
+            1690476668,
+            33.3836,
+            -112.4258,
+            609,
+            242,
+            false
+        ],
+        [
+            1690476678,
+            33.3808,
+            -112.4317,
+            609,
+            238,
+            false
+        ],
+        [
+            1690476709,
+            33.3712,
+            -112.4504,
+            609,
+            239,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-13:49:05",
+    "baro_altitude": 563.88,
+    "category": 2,
+    "geo_altitude": 548.64,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469108,
+    "latitude": 33.4633,
+    "longitude": -112.6866,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469106,
+    "true_track": 358.81,
+    "velocity": 49.4,
+    "vertical_rate": 3.25,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 112,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KGYR",
+    "estDepartureAirportHorizDistance": 399,
+    "estDepartureAirportVertDistance": 40,
+    "firstSeen": 1690476545,
+    "lastSeen": 1690476709
+}

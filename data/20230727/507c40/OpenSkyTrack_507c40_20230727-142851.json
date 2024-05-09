@@ -1,0 +1,120 @@
+{
+    "callsign": "UZB613  ",
+    "endTime": "2023/07/27-11:53:00",
+    "icao24": "507c40",
+    "path": [
+        [
+            1690468725,
+            51.2498,
+            51.0402,
+            10972,
+            308,
+            false
+        ],
+        [
+            1690468887,
+            51.4482,
+            50.6351,
+            10972,
+            307,
+            false
+        ],
+        [
+            1690468910,
+            51.4759,
+            50.575,
+            10972,
+            305,
+            false
+        ],
+        [
+            1690468922,
+            51.4885,
+            50.5432,
+            10972,
+            301,
+            false
+        ],
+        [
+            1690468947,
+            51.5118,
+            50.4732,
+            10972,
+            299,
+            false
+        ],
+        [
+            1690468961,
+            51.5031,
+            50.5011,
+            10972,
+            298,
+            false
+        ],
+        [
+            1690468969,
+            51.5303,
+            50.4087,
+            10972,
+            296,
+            false
+        ],
+        [
+            1690469563,
+            51.7764,
+            49.5406,
+            10972,
+            293,
+            false
+        ],
+        [
+            1690469580,
+            51.7792,
+            49.531,
+            10972,
+            294,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:38:45",
+    "baro_altitude": 10972.8,
+    "category": 1,
+    "geo_altitude": 11445.24,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469108,
+    "latitude": 51.5913,
+    "longitude": 50.1968,
+    "on_ground": false,
+    "origin_country": "Uzbekistan",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469108,
+    "true_track": 294.61,
+    "velocity": 222.37,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1690468725,
+    "lastSeen": 1690469580
+}

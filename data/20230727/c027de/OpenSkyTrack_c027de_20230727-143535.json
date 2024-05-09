@@ -1,0 +1,288 @@
+{
+    "callsign": "CFPCN   ",
+    "endTime": "2023/07/27-13:51:55",
+    "icao24": "c027de",
+    "path": [
+        [
+            1690475345,
+            48.3755,
+            -89.3112,
+            0,
+            250,
+            false
+        ],
+        [
+            1690475366,
+            48.3724,
+            -89.3235,
+            0,
+            249,
+            false
+        ],
+        [
+            1690475376,
+            48.3709,
+            -89.3303,
+            304,
+            252,
+            false
+        ],
+        [
+            1690475414,
+            48.3645,
+            -89.3606,
+            304,
+            250,
+            false
+        ],
+        [
+            1690475433,
+            48.3608,
+            -89.3756,
+            609,
+            249,
+            false
+        ],
+        [
+            1690475444,
+            48.3583,
+            -89.3843,
+            609,
+            246,
+            false
+        ],
+        [
+            1690475454,
+            48.3564,
+            -89.3915,
+            609,
+            260,
+            false
+        ],
+        [
+            1690475462,
+            48.3566,
+            -89.3982,
+            914,
+            285,
+            false
+        ],
+        [
+            1690475473,
+            48.3601,
+            -89.4054,
+            914,
+            323,
+            false
+        ],
+        [
+            1690475484,
+            48.3651,
+            -89.4092,
+            914,
+            336,
+            false
+        ],
+        [
+            1690475491,
+            48.3689,
+            -89.4115,
+            914,
+            338,
+            false
+        ],
+        [
+            1690475543,
+            48.398,
+            -89.4276,
+            1219,
+            340,
+            false
+        ],
+        [
+            1690475580,
+            48.4173,
+            -89.4375,
+            1524,
+            342,
+            false
+        ],
+        [
+            1690475590,
+            48.4227,
+            -89.4388,
+            1828,
+            359,
+            false
+        ],
+        [
+            1690475635,
+            48.4484,
+            -89.4403,
+            1828,
+            357,
+            false
+        ],
+        [
+            1690475679,
+            48.4734,
+            -89.4422,
+            2133,
+            357,
+            false
+        ],
+        [
+            1690475721,
+            48.4957,
+            -89.444,
+            2438,
+            356,
+            false
+        ],
+        [
+            1690475773,
+            48.5228,
+            -89.446,
+            2743,
+            356,
+            false
+        ],
+        [
+            1690475827,
+            48.5507,
+            -89.4482,
+            3048,
+            356,
+            false
+        ],
+        [
+            1690475885,
+            48.5829,
+            -89.4505,
+            3352,
+            357,
+            false
+        ],
+        [
+            1690475947,
+            48.6207,
+            -89.4534,
+            3657,
+            357,
+            false
+        ],
+        [
+            1690476010,
+            48.6621,
+            -89.4565,
+            3962,
+            357,
+            false
+        ],
+        [
+            1690476063,
+            48.6958,
+            -89.4592,
+            4267,
+            357,
+            false
+        ],
+        [
+            1690476114,
+            48.7278,
+            -89.4616,
+            4572,
+            357,
+            false
+        ],
+        [
+            1690476172,
+            48.7651,
+            -89.4644,
+            4876,
+            357,
+            false
+        ],
+        [
+            1690476258,
+            48.8217,
+            -89.4689,
+            5181,
+            357,
+            false
+        ],
+        [
+            1690476400,
+            48.9174,
+            -89.4763,
+            5791,
+            356,
+            false
+        ],
+        [
+            1690476457,
+            48.9571,
+            -89.4792,
+            6096,
+            356,
+            false
+        ],
+        [
+            1690476585,
+            49.0325,
+            -89.4851,
+            6400,
+            356,
+            false
+        ],
+        [
+            1690476715,
+            49.1027,
+            -89.4906,
+            6705,
+            356,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-13:29:05",
+    "baro_altitude": 1234.44,
+    "category": 0,
+    "geo_altitude": 1226.82,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469108,
+    "latitude": 48.3229,
+    "longitude": -89.5334,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469108,
+    "true_track": 250.32,
+    "velocity": 82.5,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 9,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "CYQT",
+    "estDepartureAirportHorizDistance": 1238,
+    "estDepartureAirportVertDistance": 29,
+    "firstSeen": 1690475345,
+    "lastSeen": 1690476715
+}

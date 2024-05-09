@@ -1,0 +1,160 @@
+{
+    "callsign": "CRQ5742 ",
+    "endTime": "2023/07/27-12:03:12",
+    "icao24": "c07717",
+    "path": [
+        [
+            1690468922,
+            48.4019,
+            -78.7351,
+            2133,
+            18,
+            false
+        ],
+        [
+            1690468960,
+            48.4319,
+            -78.7196,
+            2133,
+            19,
+            false
+        ],
+        [
+            1690469027,
+            48.4853,
+            -78.6911,
+            2438,
+            19,
+            false
+        ],
+        [
+            1690469083,
+            48.5312,
+            -78.667,
+            2743,
+            19,
+            false
+        ],
+        [
+            1690469164,
+            48.5977,
+            -78.6322,
+            3048,
+            19,
+            false
+        ],
+        [
+            1690469237,
+            48.6598,
+            -78.5997,
+            3352,
+            19,
+            false
+        ],
+        [
+            1690469311,
+            48.7238,
+            -78.5661,
+            3657,
+            19,
+            false
+        ],
+        [
+            1690469396,
+            48.7983,
+            -78.5266,
+            3962,
+            18,
+            false
+        ],
+        [
+            1690469481,
+            48.8764,
+            -78.4859,
+            4267,
+            19,
+            false
+        ],
+        [
+            1690469573,
+            48.9622,
+            -78.4396,
+            4572,
+            19,
+            false
+        ],
+        [
+            1690469662,
+            49.0473,
+            -78.3952,
+            4876,
+            19,
+            false
+        ],
+        [
+            1690469765,
+            49.1481,
+            -78.3409,
+            5181,
+            19,
+            false
+        ],
+        [
+            1690469886,
+            49.267,
+            -78.2767,
+            5486,
+            19,
+            false
+        ],
+        [
+            1690470192,
+            49.5938,
+            -78.0996,
+            5791,
+            19,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:42:02",
+    "baro_altitude": 3108.96,
+    "category": 0,
+    "geo_altitude": 3147.06,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469108,
+    "latitude": 48.5514,
+    "longitude": -78.6563,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469108,
+    "true_track": 19.2,
+    "velocity": 96.97,
+    "vertical_rate": 4.55,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 10,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "CYUY",
+    "estDepartureAirportHorizDistance": 37430,
+    "estDepartureAirportVertDistance": 1931,
+    "firstSeen": 1690468922,
+    "lastSeen": 1690470192
+}

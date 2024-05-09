@@ -1,0 +1,144 @@
+{
+    "callsign": "NJE766G ",
+    "endTime": "2023/07/27-19:46:41",
+    "icao24": "490d02",
+    "path": [
+        [
+            1690497646,
+            37.4626,
+            25.3337,
+            914,
+            339,
+            false
+        ],
+        [
+            1690497661,
+            37.4732,
+            25.3288,
+            914,
+            340,
+            false
+        ],
+        [
+            1690497675,
+            37.483,
+            25.3244,
+            1219,
+            340,
+            false
+        ],
+        [
+            1690497697,
+            37.5011,
+            25.3164,
+            1524,
+            340,
+            false
+        ],
+        [
+            1690497734,
+            37.5209,
+            25.281,
+            1828,
+            275,
+            false
+        ],
+        [
+            1690497734,
+            37.5209,
+            25.281,
+            1828,
+            275,
+            false
+        ],
+        [
+            1690497803,
+            37.527,
+            25.1875,
+            2133,
+            274,
+            false
+        ],
+        [
+            1690497824,
+            37.5289,
+            25.1582,
+            2438,
+            274,
+            false
+        ],
+        [
+            1690497861,
+            37.5334,
+            25.0955,
+            2743,
+            275,
+            false
+        ],
+        [
+            1690497903,
+            37.541,
+            25.0206,
+            3048,
+            277,
+            false
+        ],
+        [
+            1690497963,
+            37.5524,
+            24.9134,
+            3352,
+            277,
+            false
+        ],
+        [
+            1690498001,
+            37.5594,
+            24.8444,
+            3657,
+            277,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-19:40:46",
+    "baro_altitude": 975.36,
+    "category": 3,
+    "geo_altitude": 1066.8,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690494493,
+    "latitude": 37.2498,
+    "longitude": 25.4721,
+    "on_ground": false,
+    "origin_country": "Portugal",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7345",
+    "time_position": 1690494493,
+    "true_track": 304.49,
+    "velocity": 111.73,
+    "vertical_rate": -9.1,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 21,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LGMK",
+    "estDepartureAirportHorizDistance": 3247,
+    "estDepartureAirportVertDistance": 867,
+    "firstSeen": 1690497646,
+    "lastSeen": 1690498001
+}

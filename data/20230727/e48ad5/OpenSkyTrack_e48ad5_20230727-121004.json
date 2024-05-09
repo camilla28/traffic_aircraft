@@ -1,0 +1,136 @@
+{
+    "callsign": "TAM3253 ",
+    "endTime": "2023/07/27-11:48:32",
+    "icao24": "e48ad5",
+    "path": [
+        [
+            1690468690,
+            -18.1658,
+            -41.9374,
+            10058,
+            219,
+            false
+        ],
+        [
+            1690468748,
+            -18.2524,
+            -42.0116,
+            10363,
+            219,
+            false
+        ],
+        [
+            1690468951,
+            -18.5572,
+            -42.2741,
+            10058,
+            219,
+            false
+        ],
+        [
+            1690469037,
+            -18.6873,
+            -42.3862,
+            10363,
+            219,
+            false
+        ],
+        [
+            1690469073,
+            -18.7422,
+            -42.4362,
+            10363,
+            224,
+            false
+        ],
+        [
+            1690469085,
+            -18.7571,
+            -42.4525,
+            10058,
+            226,
+            false
+        ],
+        [
+            1690469094,
+            -18.7696,
+            -42.4674,
+            10363,
+            229,
+            false
+        ],
+        [
+            1690469101,
+            -18.7776,
+            -42.4774,
+            10363,
+            230,
+            false
+        ],
+        [
+            1690469114,
+            -18.7927,
+            -42.498,
+            10058,
+            233,
+            false
+        ],
+        [
+            1690469128,
+            -18.8084,
+            -42.5212,
+            10058,
+            234,
+            false
+        ],
+        [
+            1690469312,
+            -19.0136,
+            -42.8217,
+            10363,
+            234,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:38:10",
+    "baro_altitude": 10363.2,
+    "category": 1,
+    "geo_altitude": 10934.7,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469105,
+    "latitude": -18.7824,
+    "longitude": -42.4838,
+    "on_ground": false,
+    "origin_country": "Brazil",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469105,
+    "true_track": 230.66,
+    "velocity": 210.19,
+    "vertical_rate": -0.98,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1690468690,
+    "lastSeen": 1690469312
+}

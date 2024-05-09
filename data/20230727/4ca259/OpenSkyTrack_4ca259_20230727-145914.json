@@ -1,0 +1,120 @@
+{
+    "callsign": "RYR1UY  ",
+    "endTime": "2023/07/27-14:59:09",
+    "icao24": "4ca259",
+    "path": [
+        [
+            1690479632,
+            38.0605,
+            -7.941,
+            8534,
+            24,
+            false
+        ],
+        [
+            1690479655,
+            38.0896,
+            -7.923,
+            8534,
+            26,
+            false
+        ],
+        [
+            1690479729,
+            38.2038,
+            -7.8529,
+            8839,
+            25,
+            false
+        ],
+        [
+            1690479770,
+            38.2701,
+            -7.8127,
+            9144,
+            25,
+            false
+        ],
+        [
+            1690479813,
+            38.3417,
+            -7.7691,
+            9448,
+            25,
+            false
+        ],
+        [
+            1690479864,
+            38.4198,
+            -7.7212,
+            9753,
+            25,
+            false
+        ],
+        [
+            1690479984,
+            38.5649,
+            -7.6318,
+            10058,
+            25,
+            false
+        ],
+        [
+            1690480731,
+            40.0922,
+            -6.639,
+            10363,
+            27,
+            false
+        ],
+        [
+            1690480749,
+            40.1213,
+            -6.6194,
+            10668,
+            27,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-14:40:32",
+    "baro_altitude": 11277.6,
+    "category": 1,
+    "geo_altitude": 11673.84,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 49.3246,
+    "longitude": -2.6487,
+    "on_ground": false,
+    "origin_country": "Ireland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2051",
+    "time_position": 1690469108,
+    "true_track": 204.01,
+    "velocity": 206.11,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LPBJ",
+    "estDepartureAirportHorizDistance": 2830,
+    "estDepartureAirportVertDistance": 8416,
+    "firstSeen": 1690479632,
+    "lastSeen": 1690480749
+}

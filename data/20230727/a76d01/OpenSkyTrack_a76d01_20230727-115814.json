@@ -1,0 +1,72 @@
+{
+    "callsign": "N578JZ  ",
+    "endTime": "2023/07/27-11:58:06",
+    "icao24": "a76d01",
+    "path": [
+        [
+            1690468932,
+            40.6467,
+            -123.2145,
+            5181,
+            117,
+            false
+        ],
+        [
+            1690469830,
+            40.1084,
+            -121.9296,
+            5181,
+            119,
+            false
+        ],
+        [
+            1690469886,
+            40.0743,
+            -121.8499,
+            5181,
+            119,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:42:12",
+    "baro_altitude": 5303.52,
+    "category": 2,
+    "geo_altitude": 5562.6,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469108,
+    "latitude": 40.5419,
+    "longitude": -122.9604,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469107,
+    "true_track": 118.34,
+    "velocity": 140.87,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KF62",
+    "estDepartureAirportHorizDistance": 11737,
+    "estDepartureAirportVertDistance": 4596,
+    "firstSeen": 1690468932,
+    "lastSeen": 1690469886
+}

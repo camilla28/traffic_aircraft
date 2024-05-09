@@ -1,0 +1,88 @@
+{
+    "callsign": "JZR532  ",
+    "endTime": "2023/07/27-20:18:34",
+    "icao24": "706132",
+    "path": [
+        [
+            1690499808,
+            23.8641,
+            90.2935,
+            2133,
+            289,
+            false
+        ],
+        [
+            1690499831,
+            23.8745,
+            90.2611,
+            2133,
+            288,
+            false
+        ],
+        [
+            1690499855,
+            23.8848,
+            90.2286,
+            2438,
+            289,
+            false
+        ],
+        [
+            1690499876,
+            23.8946,
+            90.1991,
+            2743,
+            289,
+            false
+        ],
+        [
+            1690499914,
+            23.9127,
+            90.1438,
+            3048,
+            289,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-20:16:48",
+    "baro_altitude": 1264.92,
+    "category": 0,
+    "geo_altitude": 1196.34,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690494511,
+    "latitude": 23.9281,
+    "longitude": 90.0962,
+    "on_ground": false,
+    "origin_country": "Kuwait",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1452",
+    "time_position": 1690494509,
+    "true_track": 109.52,
+    "velocity": 120.08,
+    "vertical_rate": -6.18,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 2,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "VGZR",
+    "estDepartureAirportHorizDistance": 9778,
+    "estDepartureAirportVertDistance": 2147,
+    "firstSeen": 1690499808,
+    "lastSeen": 1690499907
+}

@@ -1,0 +1,72 @@
+{
+    "callsign": "RYR18BW ",
+    "endTime": "2023/07/27-15:08:44",
+    "icao24": "4d21eb",
+    "path": [
+        [
+            1690480826,
+            40.1923,
+            9.8125,
+            8839,
+            40,
+            false
+        ],
+        [
+            1690480886,
+            40.2834,
+            9.9155,
+            8839,
+            40,
+            false
+        ],
+        [
+            1690481324,
+            40.9357,
+            10.6646,
+            9144,
+            41,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-15:00:26",
+    "baro_altitude": 10363.2,
+    "category": 0,
+    "geo_altitude": 10949.94,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 43.1493,
+    "longitude": 11.2983,
+    "on_ground": false,
+    "origin_country": "Malta",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5176",
+    "time_position": 1690469109,
+    "true_track": 11.58,
+    "velocity": 215.3,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1690480826,
+    "lastSeen": 1690481324
+}

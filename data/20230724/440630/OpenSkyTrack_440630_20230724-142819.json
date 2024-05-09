@@ -1,0 +1,88 @@
+{
+    "callsign": "EJU9042 ",
+    "endTime": "2023/07/24-14:28:05",
+    "icao24": "440630",
+    "path": [
+        [
+            1690219644,
+            47.544,
+            7.4658,
+            2743,
+            326,
+            false
+        ],
+        [
+            1690219644,
+            47.544,
+            7.4658,
+            2743,
+            326,
+            false
+        ],
+        [
+            1690219665,
+            47.5676,
+            7.4575,
+            3048,
+            1,
+            false
+        ],
+        [
+            1690219676,
+            47.5817,
+            7.4596,
+            3048,
+            7,
+            false
+        ],
+        [
+            1690219685,
+            47.5944,
+            7.4625,
+            3352,
+            9,
+            false
+        ]
+    ],
+    "startTime": "2023/07/24-14:27:24",
+    "baro_altitude": null,
+    "category": 1,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690219609,
+    "latitude": 47.6179,
+    "longitude": 7.511,
+    "on_ground": true,
+    "origin_country": "Austria",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690219609,
+    "true_track": 247.5,
+    "velocity": 7.72,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 12,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSZM",
+    "estDepartureAirportHorizDistance": 6889,
+    "estDepartureAirportVertDistance": 2503,
+    "firstSeen": 1690219644,
+    "lastSeen": 1690219685
+}

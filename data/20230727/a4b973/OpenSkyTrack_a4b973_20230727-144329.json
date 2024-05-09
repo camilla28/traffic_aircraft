@@ -1,0 +1,72 @@
+{
+    "callsign": "N403TD  ",
+    "endTime": "2023/07/27-14:43:22",
+    "icao24": "a4b973",
+    "path": [
+        [
+            1690479781,
+            40.7001,
+            -74.0086,
+            0,
+            165,
+            false
+        ],
+        [
+            1690479796,
+            40.6964,
+            -74.0075,
+            0,
+            174,
+            false
+        ],
+        [
+            1690479802,
+            40.6942,
+            -74.0076,
+            0,
+            183,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-14:43:01",
+    "baro_altitude": null,
+    "category": 8,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690468967,
+    "latitude": 40.7012,
+    "longitude": -74.0084,
+    "on_ground": true,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1200",
+    "time_position": 1690468967,
+    "true_track": 160.31,
+    "velocity": 0,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 313,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KEWR",
+    "estDepartureAirportHorizDistance": 13535,
+    "estDepartureAirportVertDistance": 9,
+    "firstSeen": 1690479781,
+    "lastSeen": 1690479796
+}

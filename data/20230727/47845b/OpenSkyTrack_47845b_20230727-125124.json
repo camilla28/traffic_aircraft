@@ -1,0 +1,144 @@
+{
+    "callsign": "MDT2    ",
+    "endTime": "2023/07/27-12:47:20",
+    "icao24": "47845b",
+    "path": [
+        [
+            1690471369,
+            57.2919,
+            11.1409,
+            1219,
+            334,
+            false
+        ],
+        [
+            1690471384,
+            57.301,
+            11.1328,
+            1219,
+            334,
+            false
+        ],
+        [
+            1690471492,
+            57.3678,
+            11.0741,
+            1524,
+            334,
+            false
+        ],
+        [
+            1690472212,
+            57.5951,
+            10.8723,
+            1828,
+            334,
+            false
+        ],
+        [
+            1690472299,
+            57.4861,
+            10.2703,
+            1524,
+            201,
+            false
+        ],
+        [
+            1690472376,
+            57.4276,
+            10.2279,
+            1524,
+            201,
+            false
+        ],
+        [
+            1690472443,
+            57.3754,
+            10.1901,
+            1219,
+            201,
+            false
+        ],
+        [
+            1690472453,
+            57.3684,
+            10.1844,
+            1219,
+            205,
+            false
+        ],
+        [
+            1690472494,
+            57.337,
+            10.1554,
+            1219,
+            206,
+            false
+        ],
+        [
+            1690472572,
+            57.2742,
+            10.096,
+            914,
+            207,
+            false
+        ],
+        [
+            1690472708,
+            57.2035,
+            10.0293,
+            609,
+            206,
+            false
+        ],
+        [
+            1690472840,
+            57.1634,
+            9.992,
+            304,
+            206,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-12:22:49",
+    "baro_altitude": 1287.78,
+    "category": 2,
+    "geo_altitude": 1272.54,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469108,
+    "latitude": 55.1501,
+    "longitude": 12.7218,
+    "on_ground": false,
+    "origin_country": "Norway",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7675",
+    "time_position": 1690469108,
+    "true_track": 270.52,
+    "velocity": 113.18,
+    "vertical_rate": 0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 42,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EKLS",
+    "estDepartureAirportHorizDistance": 8776,
+    "estDepartureAirportVertDistance": 1424,
+    "firstSeen": 1690471369,
+    "lastSeen": 1690472840
+}

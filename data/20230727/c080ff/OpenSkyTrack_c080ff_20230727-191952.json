@@ -1,0 +1,96 @@
+{
+    "callsign": "RS421   ",
+    "endTime": "2023/07/27-19:19:07",
+    "icao24": "c080ff",
+    "path": [
+        [
+            1690496208,
+            53.1413,
+            -105.666,
+            1524,
+            227,
+            false
+        ],
+        [
+            1690496262,
+            53.1083,
+            -105.7254,
+            1828,
+            226,
+            false
+        ],
+        [
+            1690496281,
+            53.0962,
+            -105.747,
+            2133,
+            227,
+            false
+        ],
+        [
+            1690496309,
+            53.0796,
+            -105.7774,
+            2438,
+            227,
+            false
+        ],
+        [
+            1690496326,
+            53.0686,
+            -105.7942,
+            2438,
+            214,
+            false
+        ],
+        [
+            1690496347,
+            53.052,
+            -105.8084,
+            2438,
+            203,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-19:16:48",
+    "baro_altitude": 2133.6,
+    "category": 0,
+    "geo_altitude": 2164.08,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690494332,
+    "latitude": 53.5347,
+    "longitude": -105.8969,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690494332,
+    "true_track": 192.99,
+    "velocity": 144.13,
+    "vertical_rate": -8.13,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 29,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "CYPA",
+    "estDepartureAirportHorizDistance": 8339,
+    "estDepartureAirportVertDistance": 1331,
+    "firstSeen": 1690496208,
+    "lastSeen": 1690496347
+}

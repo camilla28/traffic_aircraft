@@ -1,0 +1,160 @@
+{
+    "callsign": "SWA3134 ",
+    "endTime": "2023/07/27-13:22:11",
+    "icao24": "ac0b96",
+    "path": [
+        [
+            1690474421,
+            34.9646,
+            -100.97,
+            5181,
+            113,
+            false
+        ],
+        [
+            1690474433,
+            34.9559,
+            -100.9452,
+            5181,
+            113,
+            false
+        ],
+        [
+            1690474465,
+            34.9316,
+            -100.8764,
+            5486,
+            113,
+            false
+        ],
+        [
+            1690474486,
+            34.9169,
+            -100.8348,
+            5791,
+            113,
+            false
+        ],
+        [
+            1690474507,
+            34.9014,
+            -100.7905,
+            6096,
+            113,
+            false
+        ],
+        [
+            1690474548,
+            34.8715,
+            -100.706,
+            6400,
+            113,
+            false
+        ],
+        [
+            1690474579,
+            34.8483,
+            -100.6405,
+            6705,
+            113,
+            false
+        ],
+        [
+            1690474619,
+            34.8185,
+            -100.5568,
+            7010,
+            113,
+            false
+        ],
+        [
+            1690474692,
+            34.76,
+            -100.3933,
+            7315,
+            113,
+            false
+        ],
+        [
+            1690474733,
+            34.725,
+            -100.296,
+            7620,
+            113,
+            false
+        ],
+        [
+            1690474774,
+            34.6906,
+            -100.2001,
+            7924,
+            113,
+            false
+        ],
+        [
+            1690474824,
+            34.6472,
+            -100.0798,
+            8229,
+            113,
+            false
+        ],
+        [
+            1690474882,
+            34.5966,
+            -99.9402,
+            8534,
+            113,
+            false
+        ],
+        [
+            1690474931,
+            34.5537,
+            -99.8219,
+            8839,
+            113,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-13:13:41",
+    "baro_altitude": 5775.96,
+    "category": 0,
+    "geo_altitude": 6202.68,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690468833,
+    "latitude": 34.7515,
+    "longitude": -100.9367,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2213",
+    "time_position": 1690468833,
+    "true_track": 306.06,
+    "velocity": 196.64,
+    "vertical_rate": -10.73,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KE34",
+    "estDepartureAirportHorizDistance": 8540,
+    "estDepartureAirportVertDistance": 4455,
+    "firstSeen": 1690474421,
+    "lastSeen": 1690474931
+}

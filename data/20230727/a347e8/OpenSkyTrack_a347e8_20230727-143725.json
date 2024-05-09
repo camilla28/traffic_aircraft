@@ -1,0 +1,128 @@
+{
+    "callsign": "N310MD  ",
+    "endTime": "2023/07/27-14:32:33",
+    "icao24": "a347e8",
+    "path": [
+        [
+            1690478697,
+            39.6408,
+            -91.1614,
+            1828,
+            270,
+            false
+        ],
+        [
+            1690478746,
+            39.6416,
+            -91.206,
+            1828,
+            271,
+            false
+        ],
+        [
+            1690478765,
+            39.642,
+            -91.2256,
+            1524,
+            273,
+            false
+        ],
+        [
+            1690478765,
+            39.642,
+            -91.2256,
+            1524,
+            275,
+            false
+        ],
+        [
+            1690478948,
+            39.6495,
+            -91.4003,
+            1524,
+            268,
+            false
+        ],
+        [
+            1690479018,
+            39.6467,
+            -91.4691,
+            1524,
+            270,
+            false
+        ],
+        [
+            1690479026,
+            39.6468,
+            -91.4771,
+            1524,
+            272,
+            false
+        ],
+        [
+            1690479035,
+            39.6471,
+            -91.4857,
+            1524,
+            274,
+            false
+        ],
+        [
+            1690479035,
+            39.6471,
+            -91.4857,
+            1524,
+            267,
+            false
+        ],
+        [
+            1690479153,
+            39.6487,
+            -91.5897,
+            1828,
+            267,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-14:24:57",
+    "baro_altitude": 1828.8,
+    "category": 2,
+    "geo_altitude": 1866.9,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 44.7073,
+    "longitude": -92.6722,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469108,
+    "true_track": 167.4,
+    "velocity": 84.87,
+    "vertical_rate": -0.98,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 274,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "MO46",
+    "estDepartureAirportHorizDistance": 13424,
+    "estDepartureAirportVertDistance": 1703,
+    "firstSeen": 1690478697,
+    "lastSeen": 1690479153
+}

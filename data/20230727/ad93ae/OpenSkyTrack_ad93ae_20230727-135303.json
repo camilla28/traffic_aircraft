@@ -1,0 +1,104 @@
+{
+    "callsign": "N974NA  ",
+    "endTime": "2023/07/27-12:37:36",
+    "icao24": "ad93ae",
+    "path": [
+        [
+            1690468308,
+            44.2482,
+            -104.1446,
+            2743,
+            96,
+            false
+        ],
+        [
+            1690469200,
+            44.1701,
+            -103.1952,
+            2743,
+            96,
+            false
+        ],
+        [
+            1690470096,
+            44.0837,
+            -102.2484,
+            2743,
+            97,
+            false
+        ],
+        [
+            1690470819,
+            44.0092,
+            -101.4952,
+            2743,
+            96,
+            false
+        ],
+        [
+            1690471008,
+            43.9911,
+            -101.296,
+            2743,
+            96,
+            false
+        ],
+        [
+            1690471906,
+            43.886,
+            -100.3502,
+            2743,
+            98,
+            false
+        ],
+        [
+            1690472256,
+            43.8439,
+            -99.9794,
+            2743,
+            100,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:31:48",
+    "baro_altitude": 2895.6,
+    "category": 0,
+    "geo_altitude": 3032.76,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469108,
+    "latitude": 44.1786,
+    "longitude": -103.2928,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469108,
+    "true_track": 96.87,
+    "velocity": 86.02,
+    "vertical_rate": -0.98,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 52,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "SD90",
+    "estDepartureAirportHorizDistance": 38141,
+    "estDepartureAirportVertDistance": 1670,
+    "firstSeen": 1690468308,
+    "lastSeen": 1690472256
+}

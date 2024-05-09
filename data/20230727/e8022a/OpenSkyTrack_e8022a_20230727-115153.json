@@ -1,0 +1,112 @@
+{
+    "callsign": "LPE2698 ",
+    "endTime": "2023/07/27-11:46:22",
+    "icao24": "e8022a",
+    "path": [
+        [
+            1690466399,
+            -10.7248,
+            -77.6341,
+            9448,
+            350,
+            false
+        ],
+        [
+            1690466419,
+            -10.6969,
+            -77.6386,
+            9448,
+            350,
+            false
+        ],
+        [
+            1690467229,
+            -10.0029,
+            -77.7516,
+            9753,
+            350,
+            false
+        ],
+        [
+            1690467356,
+            -8.787,
+            -77.8922,
+            9753,
+            354,
+            false
+        ],
+        [
+            1690468068,
+            -8.0633,
+            -77.9557,
+            9753,
+            355,
+            false
+        ],
+        [
+            1690468273,
+            -6.8786,
+            -78.0563,
+            10363,
+            354,
+            false
+        ],
+        [
+            1690469168,
+            -5.1836,
+            -78.1992,
+            10363,
+            355,
+            false
+        ],
+        [
+            1690469182,
+            -5.1622,
+            -78.201,
+            10363,
+            354,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-10:59:59",
+    "baro_altitude": 10370.82,
+    "category": 1,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": -5.272,
+    "longitude": -78.1918,
+    "on_ground": false,
+    "origin_country": "Chile",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469108,
+    "true_track": 354.99,
+    "velocity": 235.49,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "SPBA",
+    "estDepartureAirportHorizDistance": 14971,
+    "estDepartureAirportVertDistance": 9582,
+    "firstSeen": 1690466399,
+    "lastSeen": 1690469182
+}

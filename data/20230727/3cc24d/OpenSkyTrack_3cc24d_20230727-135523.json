@@ -1,0 +1,72 @@
+{
+    "callsign": "DCAWR   ",
+    "endTime": "2023/07/27-12:09:58",
+    "icao24": "3cc24d",
+    "path": [
+        [
+            1690470475,
+            51.9752,
+            8.4119,
+            7315,
+            48,
+            false
+        ],
+        [
+            1690470475,
+            51.9752,
+            8.4119,
+            7315,
+            48,
+            false
+        ],
+        [
+            1690470598,
+            51.9986,
+            8.4546,
+            7010,
+            48,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-12:07:55",
+    "baro_altitude": 4556.76,
+    "category": 1,
+    "geo_altitude": 4648.2,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 52.2338,
+    "longitude": 8.8872,
+    "on_ground": false,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1690469109,
+    "true_track": 48.76,
+    "velocity": 194.31,
+    "vertical_rate": -13,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDLI",
+    "estDepartureAirportHorizDistance": 9156,
+    "estDepartureAirportVertDistance": 7206,
+    "firstSeen": 1690470475,
+    "lastSeen": 1690470598
+}

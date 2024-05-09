@@ -1,0 +1,120 @@
+{
+    "callsign": "N26MC   ",
+    "endTime": "2023/07/27-19:14:40",
+    "icao24": "a27dba",
+    "path": [
+        [
+            1690494144,
+            34.6326,
+            -82.8984,
+            609,
+            124,
+            false
+        ],
+        [
+            1690494192,
+            34.616,
+            -82.8698,
+            609,
+            125,
+            false
+        ],
+        [
+            1690494264,
+            34.5905,
+            -82.8263,
+            914,
+            125,
+            false
+        ],
+        [
+            1690494329,
+            34.5677,
+            -82.7873,
+            1219,
+            125,
+            false
+        ],
+        [
+            1690494395,
+            34.5443,
+            -82.7472,
+            1524,
+            125,
+            false
+        ],
+        [
+            1690494469,
+            34.5183,
+            -82.7028,
+            1828,
+            125,
+            false
+        ],
+        [
+            1690494542,
+            34.491,
+            -82.6564,
+            2133,
+            125,
+            false
+        ],
+        [
+            1690495296,
+            34.1597,
+            -82.0966,
+            2438,
+            125,
+            false
+        ],
+        [
+            1690496080,
+            33.8014,
+            -81.5004,
+            2438,
+            126,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-18:42:24",
+    "baro_altitude": 2674.62,
+    "category": 0,
+    "geo_altitude": 2857.5,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690494599,
+    "latitude": 34.47,
+    "longitude": -82.6208,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690494599,
+    "true_track": 125.63,
+    "velocity": 71.52,
+    "vertical_rate": 4.55,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 289,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KCEU",
+    "estDepartureAirportHorizDistance": 4675,
+    "estDepartureAirportVertDistance": 413,
+    "firstSeen": 1690494144,
+    "lastSeen": 1690496071
+}

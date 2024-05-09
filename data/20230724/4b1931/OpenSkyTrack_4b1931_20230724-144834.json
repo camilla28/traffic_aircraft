@@ -1,0 +1,160 @@
+{
+    "callsign": "CAZ901  ",
+    "endTime": "2023/07/24-14:48:24",
+    "icao24": "4b1931",
+    "path": [
+        [
+            1690220690,
+            47.4584,
+            8.5405,
+            609,
+            273,
+            false
+        ],
+        [
+            1690220700,
+            47.459,
+            8.5306,
+            914,
+            276,
+            false
+        ],
+        [
+            1690220709,
+            47.4598,
+            8.5202,
+            914,
+            276,
+            false
+        ],
+        [
+            1690220719,
+            47.4606,
+            8.5105,
+            1219,
+            276,
+            false
+        ],
+        [
+            1690220738,
+            47.4623,
+            8.4889,
+            1524,
+            277,
+            false
+        ],
+        [
+            1690220748,
+            47.4628,
+            8.4776,
+            1524,
+            266,
+            false
+        ],
+        [
+            1690220757,
+            47.4609,
+            8.4673,
+            1828,
+            246,
+            false
+        ],
+        [
+            1690220766,
+            47.4572,
+            8.4571,
+            1828,
+            240,
+            false
+        ],
+        [
+            1690220776,
+            47.453,
+            8.4457,
+            1828,
+            242,
+            false
+        ],
+        [
+            1690220795,
+            47.4439,
+            8.4202,
+            2133,
+            241,
+            false
+        ],
+        [
+            1690220805,
+            47.4389,
+            8.4065,
+            2438,
+            241,
+            false
+        ],
+        [
+            1690220824,
+            47.4289,
+            8.379,
+            2743,
+            242,
+            false
+        ],
+        [
+            1690220886,
+            47.3919,
+            8.2765,
+            3962,
+            241,
+            false
+        ],
+        [
+            1690220904,
+            47.38,
+            8.2437,
+            4267,
+            241,
+            false
+        ]
+    ],
+    "startTime": "2023/07/24-14:44:50",
+    "baro_altitude": 2628.9,
+    "category": 3,
+    "geo_altitude": 2727.96,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690220809,
+    "latitude": 47.437,
+    "longitude": 8.4013,
+    "on_ground": false,
+    "origin_country": "Switzerland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3031",
+    "time_position": 1690220809,
+    "true_track": 241.33,
+    "velocity": 125.47,
+    "vertical_rate": 22.76,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 129,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSZH",
+    "estDepartureAirportHorizDistance": 700,
+    "estDepartureAirportVertDistance": 292,
+    "firstSeen": 1690220690,
+    "lastSeen": 1690220904
+}

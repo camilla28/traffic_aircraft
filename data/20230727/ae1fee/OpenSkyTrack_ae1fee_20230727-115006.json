@@ -1,0 +1,96 @@
+{
+    "callsign": "MESSY77 ",
+    "endTime": "2023/07/27-11:49:56",
+    "icao24": "ae1fee",
+    "path": [
+        [
+            1690468630,
+            31.2874,
+            -86.5973,
+            609,
+            98,
+            false
+        ],
+        [
+            1690469316,
+            31.2408,
+            -86.2614,
+            609,
+            99,
+            false
+        ],
+        [
+            1690469328,
+            31.2392,
+            -86.2554,
+            609,
+            124,
+            false
+        ],
+        [
+            1690469337,
+            31.2371,
+            -86.2519,
+            609,
+            124,
+            false
+        ],
+        [
+            1690469349,
+            31.2341,
+            -86.2471,
+            609,
+            127,
+            false
+        ],
+        [
+            1690469396,
+            31.222,
+            -86.2293,
+            609,
+            128,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:37:10",
+    "baro_altitude": 853.44,
+    "category": 0,
+    "geo_altitude": 937.26,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 31.2556,
+    "longitude": -86.3671,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469108,
+    "true_track": 99.36,
+    "velocity": 47.45,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 197,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "K79J",
+    "estDepartureAirportHorizDistance": 19821,
+    "estDepartureAirportVertDistance": 758,
+    "firstSeen": 1690468630,
+    "lastSeen": 1690469368
+}

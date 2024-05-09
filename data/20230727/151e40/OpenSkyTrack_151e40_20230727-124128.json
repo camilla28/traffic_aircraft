@@ -1,0 +1,80 @@
+{
+    "callsign": "SDM6251 ",
+    "endTime": "2023/07/27-11:48:32",
+    "icao24": "151e40",
+    "path": [
+        [
+            1690468196,
+            63.1144,
+            57.4463,
+            10058,
+            69,
+            false
+        ],
+        [
+            1690468552,
+            63.3329,
+            58.7988,
+            10058,
+            70,
+            false
+        ],
+        [
+            1690468956,
+            63.6302,
+            61.3076,
+            10058,
+            78,
+            false
+        ],
+        [
+            1690469312,
+            63.7406,
+            62.5836,
+            10058,
+            79,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:29:56",
+    "baro_altitude": 10058.4,
+    "category": 0,
+    "geo_altitude": 10226.04,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469022,
+    "latitude": 63.6526,
+    "longitude": 61.5562,
+    "on_ground": false,
+    "origin_country": "Russian Federation",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469021,
+    "true_track": 78.63,
+    "velocity": 271.3,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1690468196,
+    "lastSeen": 1690469312
+}

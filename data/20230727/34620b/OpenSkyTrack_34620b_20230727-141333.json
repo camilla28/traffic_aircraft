@@ -1,0 +1,152 @@
+{
+    "callsign": "VLG4EG  ",
+    "endTime": "2023/07/27-14:13:29",
+    "icao24": "34620b",
+    "path": [
+        [
+            1690477833,
+            38.2797,
+            -0.542,
+            0,
+            102,
+            false
+        ],
+        [
+            1690477842,
+            38.2787,
+            -0.5364,
+            0,
+            102,
+            false
+        ],
+        [
+            1690477871,
+            38.2734,
+            -0.5051,
+            304,
+            101,
+            false
+        ],
+        [
+            1690477910,
+            38.2577,
+            -0.3983,
+            1219,
+            100,
+            false
+        ],
+        [
+            1690477930,
+            38.2508,
+            -0.3706,
+            1524,
+            100,
+            false
+        ],
+        [
+            1690477940,
+            38.2431,
+            -0.36,
+            1828,
+            138,
+            false
+        ],
+        [
+            1690477949,
+            38.2341,
+            -0.3535,
+            1828,
+            126,
+            false
+        ],
+        [
+            1690477961,
+            38.2349,
+            -0.354,
+            1828,
+            151,
+            false
+        ],
+        [
+            1690477966,
+            38.2151,
+            -0.3512,
+            2133,
+            175,
+            false
+        ],
+        [
+            1690477981,
+            38.2001,
+            -0.3602,
+            2133,
+            209,
+            false
+        ],
+        [
+            1690477992,
+            38.1929,
+            -0.3707,
+            2438,
+            234,
+            false
+        ],
+        [
+            1690478000,
+            38.1889,
+            -0.3821,
+            2438,
+            251,
+            false
+        ],
+        [
+            1690478009,
+            38.1874,
+            -0.3954,
+            2438,
+            271,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-14:10:33",
+    "baro_altitude": 11285.22,
+    "category": 0,
+    "geo_altitude": 11803.38,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 44.6694,
+    "longitude": 0.5701,
+    "on_ground": false,
+    "origin_country": "Spain",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7710",
+    "time_position": 1690469109,
+    "true_track": 179.59,
+    "velocity": 213.5,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 11,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LEAL",
+    "estDepartureAirportHorizDistance": 814,
+    "estDepartureAirportVertDistance": 162,
+    "firstSeen": 1690477833,
+    "lastSeen": 1690478000
+}

@@ -1,0 +1,136 @@
+{
+    "callsign": "VOI1036 ",
+    "endTime": "2023/07/27-11:41:08",
+    "icao24": "0d0cb1",
+    "path": [
+        [
+            1690468633,
+            19.8776,
+            -99.2245,
+            3657,
+            174,
+            false
+        ],
+        [
+            1690468708,
+            19.7912,
+            -99.2159,
+            3352,
+            174,
+            false
+        ],
+        [
+            1690468756,
+            19.7434,
+            -99.2109,
+            3048,
+            174,
+            false
+        ],
+        [
+            1690468802,
+            19.697,
+            -99.2058,
+            2743,
+            173,
+            false
+        ],
+        [
+            1690468821,
+            19.6786,
+            -99.2038,
+            2438,
+            174,
+            false
+        ],
+        [
+            1690468830,
+            19.6698,
+            -99.2016,
+            2438,
+            159,
+            false
+        ],
+        [
+            1690468839,
+            19.6621,
+            -99.1965,
+            2438,
+            142,
+            false
+        ],
+        [
+            1690468851,
+            19.6558,
+            -99.186,
+            2438,
+            142,
+            false
+        ],
+        [
+            1690468861,
+            19.6541,
+            -99.1762,
+            2438,
+            97,
+            false
+        ],
+        [
+            1690468868,
+            19.6532,
+            -99.1689,
+            2438,
+            96,
+            false
+        ],
+        [
+            1690468868,
+            19.6532,
+            -99.1689,
+            2438,
+            105,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:37:13",
+    "baro_altitude": 2659.38,
+    "category": 0,
+    "geo_altitude": 2834.64,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690468877,
+    "latitude": 19.6532,
+    "longitude": -99.1689,
+    "on_ground": false,
+    "origin_country": "Mexico",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690468868,
+    "true_track": 105.8,
+    "velocity": 109.6,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 10,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "MMSM",
+    "estDepartureAirportHorizDistance": 141543,
+    "estDepartureAirportVertDistance": 1464,
+    "firstSeen": 1690468633,
+    "lastSeen": 1690468868
+}

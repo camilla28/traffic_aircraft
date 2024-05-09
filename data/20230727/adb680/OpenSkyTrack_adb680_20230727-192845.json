@@ -1,0 +1,80 @@
+{
+    "callsign": null,
+    "endTime": "2023/07/27-18:47:54",
+    "icao24": "adb680",
+    "path": [
+        [
+            1690494395,
+            27.7017,
+            -77.5591,
+            8839,
+            351,
+            false
+        ],
+        [
+            1690494395,
+            27.7017,
+            -77.5591,
+            8839,
+            351,
+            false
+        ],
+        [
+            1690494474,
+            27.8603,
+            -77.5863,
+            9144,
+            351,
+            false
+        ],
+        [
+            1690494474,
+            27.8603,
+            -77.5863,
+            9144,
+            357,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-18:46:35",
+    "baro_altitude": 9265.92,
+    "category": 0,
+    "geo_altitude": 9890.76,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690494477,
+    "latitude": 27.8603,
+    "longitude": -77.5863,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690494474,
+    "true_track": 351.34,
+    "velocity": 218.56,
+    "vertical_rate": 12.68,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1690494395,
+    "lastSeen": 1690494474
+}

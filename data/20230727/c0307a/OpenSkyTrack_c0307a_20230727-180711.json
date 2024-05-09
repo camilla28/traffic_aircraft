@@ -1,0 +1,112 @@
+{
+    "callsign": "ACA344  ",
+    "endTime": "2023/07/27-18:06:56",
+    "icao24": "c0307a",
+    "path": [
+        [
+            1690491952,
+            49.1556,
+            -123.3841,
+            1219,
+            181,
+            false
+        ],
+        [
+            1690491960,
+            49.1467,
+            -123.3832,
+            1219,
+            168,
+            false
+        ],
+        [
+            1690491963,
+            49.1441,
+            -123.3823,
+            1219,
+            163,
+            false
+        ],
+        [
+            1690491981,
+            49.129,
+            -123.3734,
+            1524,
+            163,
+            false
+        ],
+        [
+            1690491992,
+            49.1184,
+            -123.3665,
+            1524,
+            156,
+            false
+        ],
+        [
+            1690491992,
+            49.1184,
+            -123.3665,
+            1524,
+            156,
+            false
+        ],
+        [
+            1690492011,
+            49.1002,
+            -123.3528,
+            1828,
+            144,
+            false
+        ],
+        [
+            1690492016,
+            49.091,
+            -123.3382,
+            1828,
+            117,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-18:05:52",
+    "baro_altitude": 4564.38,
+    "category": 4,
+    "geo_altitude": 4739.64,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 44.083,
+    "longitude": -80.4231,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0522",
+    "time_position": 1690469109,
+    "true_track": 313.44,
+    "velocity": 200.51,
+    "vertical_rate": 5.53,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 102,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "CYVR",
+    "estDepartureAirportHorizDistance": 15022,
+    "estDepartureAirportVertDistance": 1260,
+    "firstSeen": 1690491952,
+    "lastSeen": 1690492016
+}

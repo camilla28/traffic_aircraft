@@ -84,7 +84,17 @@ class Trajectory_Prediction:
                     new_time = waypoint[0]+delta_t
                     print(new_time, new_waypoint)
                     waypoint_predict.append(new_time)
+                    waypoint_predict.append(new_waypoint[0])
+                    waypoint_predict.append(new_waypoint[1])
+                    waypoint_predict.append(new_waypoint[2])
+                    waypoint_predict.append(track)
+                    waypoint_predict.append(waypoint[5])  
+                    waypoint_predict.append(vel_xy) 
+                    waypoint_predict.append(vel_z)
+                    data_predict[icao].append(waypoint_predict)
+                else:
+                    data_predict[icao].append(waypoint)
 
                 index = index + 1
 
-            data_predict[icao].append(waypoint_predict)
+        return data_predict

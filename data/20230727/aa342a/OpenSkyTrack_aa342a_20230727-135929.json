@@ -1,0 +1,72 @@
+{
+    "callsign": "N757BG  ",
+    "endTime": "2023/07/27-13:59:23",
+    "icao24": "aa342a",
+    "path": [
+        [
+            1690477048,
+            41.6237,
+            -85.989,
+            2133,
+            277,
+            false
+        ],
+        [
+            1690477140,
+            41.6315,
+            -86.0657,
+            2133,
+            277,
+            false
+        ],
+        [
+            1690477163,
+            41.6331,
+            -86.0831,
+            2438,
+            276,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-13:57:28",
+    "baro_altitude": 2415.54,
+    "category": 2,
+    "geo_altitude": 2499.36,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 41.0159,
+    "longitude": -80.1648,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469109,
+    "true_track": 205.17,
+    "velocity": 56.84,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 3,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "II74",
+    "estDepartureAirportHorizDistance": 9171,
+    "estDepartureAirportVertDistance": 2156,
+    "firstSeen": 1690477048,
+    "lastSeen": 1690477163
+}

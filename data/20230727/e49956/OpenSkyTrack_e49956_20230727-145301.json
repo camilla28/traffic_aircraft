@@ -1,0 +1,96 @@
+{
+    "callsign": "GLO7631 ",
+    "endTime": "2023/07/27-13:35:33",
+    "icao24": "e49956",
+    "path": [
+        [
+            1690475625,
+            -34.2305,
+            -55.3394,
+            6705,
+            40,
+            false
+        ],
+        [
+            1690475634,
+            -34.2164,
+            -55.3249,
+            6705,
+            40,
+            false
+        ],
+        [
+            1690475667,
+            -34.1667,
+            -55.2734,
+            7010,
+            40,
+            false
+        ],
+        [
+            1690475699,
+            -34.1165,
+            -55.2215,
+            7315,
+            40,
+            false
+        ],
+        [
+            1690475721,
+            -34.0823,
+            -55.1864,
+            7620,
+            40,
+            false
+        ],
+        [
+            1690475733,
+            -34.0641,
+            -55.1676,
+            7924,
+            40,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-13:33:45",
+    "baro_altitude": 8260.08,
+    "category": 0,
+    "geo_altitude": 8755.38,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469046,
+    "latitude": -33.6421,
+    "longitude": -55.2573,
+    "on_ground": false,
+    "origin_country": "Brazil",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469046,
+    "true_track": 215.21,
+    "velocity": 188.26,
+    "vertical_rate": -10.08,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "SUCL",
+    "estDepartureAirportHorizDistance": 10927,
+    "estDepartureAirportVertDistance": 6667,
+    "firstSeen": 1690475625,
+    "lastSeen": 1690475733
+}

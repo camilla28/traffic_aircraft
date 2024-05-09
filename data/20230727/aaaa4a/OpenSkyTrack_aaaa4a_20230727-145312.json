@@ -1,0 +1,344 @@
+{
+    "callsign": "SWA2828 ",
+    "endTime": "2023/07/27-14:53:06",
+    "icao24": "aaaa4a",
+    "path": [
+        [
+            1690479572,
+            44.8776,
+            -93.2396,
+            0,
+            169,
+            false
+        ],
+        [
+            1690479598,
+            44.86,
+            -93.2348,
+            304,
+            168,
+            false
+        ],
+        [
+            1690479620,
+            44.8435,
+            -93.2305,
+            609,
+            170,
+            false
+        ],
+        [
+            1690479633,
+            44.8327,
+            -93.2325,
+            609,
+            199,
+            false
+        ],
+        [
+            1690479644,
+            44.8236,
+            -93.2407,
+            609,
+            217,
+            false
+        ],
+        [
+            1690479668,
+            44.8042,
+            -93.2621,
+            914,
+            217,
+            false
+        ],
+        [
+            1690479689,
+            44.786,
+            -93.2828,
+            1219,
+            219,
+            false
+        ],
+        [
+            1690479699,
+            44.7759,
+            -93.2934,
+            1524,
+            219,
+            false
+        ],
+        [
+            1690479709,
+            44.7659,
+            -93.3019,
+            1524,
+            211,
+            false
+        ],
+        [
+            1690479720,
+            44.7545,
+            -93.3117,
+            1828,
+            211,
+            false
+        ],
+        [
+            1690479729,
+            44.7448,
+            -93.3202,
+            2133,
+            211,
+            false
+        ],
+        [
+            1690479739,
+            44.7345,
+            -93.3293,
+            1524,
+            212,
+            false
+        ],
+        [
+            1690479760,
+            44.7133,
+            -93.3483,
+            2133,
+            212,
+            false
+        ],
+        [
+            1690479814,
+            44.6528,
+            -93.4019,
+            3048,
+            212,
+            false
+        ],
+        [
+            1690479845,
+            44.6129,
+            -93.4376,
+            3352,
+            212,
+            false
+        ],
+        [
+            1690479864,
+            44.587,
+            -93.4607,
+            3657,
+            212,
+            false
+        ],
+        [
+            1690479884,
+            44.5586,
+            -93.486,
+            3962,
+            212,
+            false
+        ],
+        [
+            1690479905,
+            44.5289,
+            -93.5124,
+            4267,
+            212,
+            false
+        ],
+        [
+            1690479917,
+            44.5128,
+            -93.5267,
+            4572,
+            212,
+            false
+        ],
+        [
+            1690479927,
+            44.4977,
+            -93.5402,
+            3657,
+            212,
+            false
+        ],
+        [
+            1690479956,
+            44.4549,
+            -93.5779,
+            4876,
+            212,
+            false
+        ],
+        [
+            1690479966,
+            44.4407,
+            -93.5905,
+            5181,
+            212,
+            false
+        ],
+        [
+            1690479994,
+            44.3984,
+            -93.628,
+            5486,
+            212,
+            false
+        ],
+        [
+            1690480022,
+            44.3561,
+            -93.6652,
+            5791,
+            212,
+            false
+        ],
+        [
+            1690480041,
+            44.328,
+            -93.6901,
+            6096,
+            212,
+            false
+        ],
+        [
+            1690480069,
+            44.2847,
+            -93.7282,
+            6400,
+            212,
+            false
+        ],
+        [
+            1690480098,
+            44.2368,
+            -93.7697,
+            6705,
+            211,
+            false
+        ],
+        [
+            1690480117,
+            44.2072,
+            -93.7956,
+            7010,
+            212,
+            false
+        ],
+        [
+            1690480126,
+            44.1915,
+            -93.8087,
+            7315,
+            210,
+            false
+        ],
+        [
+            1690480146,
+            44.1587,
+            -93.8349,
+            7315,
+            209,
+            false
+        ],
+        [
+            1690480165,
+            44.1271,
+            -93.8603,
+            7620,
+            210,
+            false
+        ],
+        [
+            1690480204,
+            44.0631,
+            -93.9123,
+            7924,
+            210,
+            false
+        ],
+        [
+            1690480253,
+            43.9811,
+            -93.9772,
+            8229,
+            209,
+            false
+        ],
+        [
+            1690480301,
+            43.8963,
+            -94.0447,
+            8534,
+            209,
+            false
+        ],
+        [
+            1690480339,
+            43.8263,
+            -94.0996,
+            8839,
+            209,
+            false
+        ],
+        [
+            1690480368,
+            43.7747,
+            -94.1397,
+            9144,
+            209,
+            false
+        ],
+        [
+            1690480386,
+            43.7422,
+            -94.1651,
+            9448,
+            209,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-14:39:32",
+    "baro_altitude": null,
+    "category": 1,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469081,
+    "latitude": 41.7914,
+    "longitude": -87.7485,
+    "on_ground": true,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469081,
+    "true_track": 87.19,
+    "velocity": 9.26,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 251,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KMSP",
+    "estDepartureAirportHorizDistance": 1581,
+    "estDepartureAirportVertDistance": 25,
+    "firstSeen": 1690479572,
+    "lastSeen": 1690480386
+}

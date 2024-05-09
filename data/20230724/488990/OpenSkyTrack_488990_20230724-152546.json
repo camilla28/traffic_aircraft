@@ -1,0 +1,128 @@
+{
+    "callsign": "SPCMR   ",
+    "endTime": "2023/07/24-15:25:33",
+    "icao24": "488990",
+    "path": [
+        [
+            1690222530,
+            47.4123,
+            8.5548,
+            2743,
+            90,
+            false
+        ],
+        [
+            1690222575,
+            47.4124,
+            8.6243,
+            3048,
+            89,
+            false
+        ],
+        [
+            1690222644,
+            47.4126,
+            8.7252,
+            3352,
+            89,
+            false
+        ],
+        [
+            1690222737,
+            47.4127,
+            8.8887,
+            3657,
+            90,
+            false
+        ],
+        [
+            1690222772,
+            47.4126,
+            8.945,
+            3962,
+            90,
+            false
+        ],
+        [
+            1690222806,
+            47.4125,
+            8.9979,
+            4267,
+            90,
+            false
+        ],
+        [
+            1690222914,
+            47.412,
+            9.1485,
+            4572,
+            90,
+            false
+        ],
+        [
+            1690222992,
+            47.4117,
+            9.2344,
+            4876,
+            90,
+            false
+        ],
+        [
+            1690223008,
+            47.4116,
+            9.2492,
+            4572,
+            90,
+            false
+        ],
+        [
+            1690223133,
+            47.4114,
+            9.3112,
+            4876,
+            90,
+            false
+        ]
+    ],
+    "startTime": "2023/07/24-15:15:30",
+    "baro_altitude": 4876.8,
+    "category": 0,
+    "geo_altitude": 5052.06,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690223069,
+    "latitude": 47.4115,
+    "longitude": 9.2921,
+    "on_ground": false,
+    "origin_country": "Poland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1690223069,
+    "true_track": 90.38,
+    "velocity": 156.39,
+    "vertical_rate": 0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 7,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSZH",
+    "estDepartureAirportHorizDistance": 5843,
+    "estDepartureAirportVertDistance": 2524,
+    "firstSeen": 1690222530,
+    "lastSeen": 1690223133
+}

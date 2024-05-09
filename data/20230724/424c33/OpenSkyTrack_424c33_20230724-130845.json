@@ -1,0 +1,80 @@
+{
+    "callsign": "MICKY   ",
+    "endTime": "2023/07/24-13:07:40",
+    "icao24": "424c33",
+    "path": [
+        [
+            1690214824,
+            46.1883,
+            6.0356,
+            1524,
+            225,
+            false
+        ],
+        [
+            1690214832,
+            46.1814,
+            6.0255,
+            1828,
+            225,
+            false
+        ],
+        [
+            1690214851,
+            46.1666,
+            6.0035,
+            2133,
+            225,
+            false
+        ],
+        [
+            1690214860,
+            46.1591,
+            5.9924,
+            2438,
+            227,
+            false
+        ]
+    ],
+    "startTime": "2023/07/24-13:07:04",
+    "baro_altitude": 1836.42,
+    "category": 0,
+    "geo_altitude": 1882.14,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690214827,
+    "latitude": 46.1861,
+    "longitude": 6.0323,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690214827,
+    "true_track": 225.51,
+    "velocity": 123.32,
+    "vertical_rate": 19.18,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 100,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSGG",
+    "estDepartureAirportHorizDistance": 7407,
+    "estDepartureAirportVertDistance": 1353,
+    "firstSeen": 1690214824,
+    "lastSeen": 1690214860
+}

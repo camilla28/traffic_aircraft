@@ -1,0 +1,152 @@
+{
+    "callsign": "LNKTR   ",
+    "endTime": "2023/07/27-11:59:22",
+    "icao24": "4786d8",
+    "path": [
+        [
+            1690468626,
+            59.5566,
+            10.8201,
+            1219,
+            47,
+            false
+        ],
+        [
+            1690468891,
+            59.6667,
+            11.0411,
+            1219,
+            45,
+            false
+        ],
+        [
+            1690468891,
+            59.6667,
+            11.0411,
+            1219,
+            17,
+            false
+        ],
+        [
+            1690469425,
+            59.966,
+            11.24,
+            1219,
+            18,
+            false
+        ],
+        [
+            1690469490,
+            60.003,
+            11.2659,
+            1219,
+            20,
+            false
+        ],
+        [
+            1690469499,
+            60.0078,
+            11.2707,
+            1219,
+            32,
+            false
+        ],
+        [
+            1690469509,
+            60.0124,
+            11.277,
+            1219,
+            33,
+            false
+        ],
+        [
+            1690469783,
+            60.1453,
+            11.4622,
+            1219,
+            35,
+            false
+        ],
+        [
+            1690469793,
+            60.1502,
+            11.4685,
+            1219,
+            25,
+            false
+        ],
+        [
+            1690469801,
+            60.1552,
+            11.4714,
+            1219,
+            8,
+            false
+        ],
+        [
+            1690469816,
+            60.1639,
+            11.4734,
+            1219,
+            9,
+            false
+        ],
+        [
+            1690469823,
+            60.168,
+            11.475,
+            1219,
+            12,
+            false
+        ],
+        [
+            1690469962,
+            60.2485,
+            11.5103,
+            1219,
+            12,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:37:06",
+    "baro_altitude": 1341.12,
+    "category": 0,
+    "geo_altitude": 1249.68,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 59.7897,
+    "longitude": 11.1189,
+    "on_ground": false,
+    "origin_country": "Norway",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469109,
+    "true_track": 19,
+    "velocity": 66.38,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 22,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "ENSI",
+    "estDepartureAirportHorizDistance": 17076,
+    "estDepartureAirportVertDistance": 1234,
+    "firstSeen": 1690468626,
+    "lastSeen": 1690469962
+}

@@ -1,0 +1,72 @@
+{
+    "callsign": "EQX1065 ",
+    "endTime": "2023/07/27-18:49:04",
+    "icao24": "e840a6",
+    "path": [
+        [
+            1690493851,
+            -0.2301,
+            -78.6573,
+            5791,
+            35,
+            false
+        ],
+        [
+            1690494163,
+            -0.085,
+            -78.551,
+            5791,
+            37,
+            false
+        ],
+        [
+            1690494544,
+            -0.0736,
+            -78.5414,
+            5791,
+            39,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-18:37:31",
+    "baro_altitude": 5791.2,
+    "category": 0,
+    "geo_altitude": 6149.34,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690494544,
+    "latitude": -0.0736,
+    "longitude": -78.5414,
+    "on_ground": false,
+    "origin_country": "Ecuador",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690494544,
+    "true_track": 39.2,
+    "velocity": 154.67,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1690493851,
+    "lastSeen": 1690494544
+}

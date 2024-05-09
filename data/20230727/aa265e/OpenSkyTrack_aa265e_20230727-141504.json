@@ -1,0 +1,104 @@
+{
+    "callsign": "NDU753  ",
+    "endTime": "2023/07/27-14:14:56",
+    "icao24": "aa265e",
+    "path": [
+        [
+            1690477933,
+            32.9344,
+            -111.4709,
+            609,
+            50,
+            false
+        ],
+        [
+            1690477946,
+            32.9361,
+            -111.4682,
+            914,
+            50,
+            false
+        ],
+        [
+            1690477958,
+            32.9376,
+            -111.4657,
+            914,
+            57,
+            false
+        ],
+        [
+            1690477965,
+            32.9386,
+            -111.4638,
+            914,
+            54,
+            false
+        ],
+        [
+            1690477987,
+            32.9412,
+            -111.4595,
+            914,
+            52,
+            false
+        ],
+        [
+            1690478031,
+            32.9459,
+            -111.4525,
+            914,
+            50,
+            false
+        ],
+        [
+            1690478096,
+            32.9511,
+            -111.4449,
+            914,
+            53,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-14:12:13",
+    "baro_altitude": 419.1,
+    "category": 0,
+    "geo_altitude": 396.24,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690468908,
+    "latitude": 33.317,
+    "longitude": -111.6721,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690468908,
+    "true_track": 135,
+    "velocity": 33.47,
+    "vertical_rate": -2.28,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 120,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "37AZ",
+    "estDepartureAirportHorizDistance": 1137,
+    "estDepartureAirportVertDistance": 445,
+    "firstSeen": 1690477933,
+    "lastSeen": 1690478088
+}

@@ -1,0 +1,72 @@
+{
+    "callsign": "TAR903  ",
+    "endTime": "2023/07/27-13:21:52",
+    "icao24": "02a197",
+    "path": [
+        [
+            1690474882,
+            43.4111,
+            5.2403,
+            609,
+            146,
+            false
+        ],
+        [
+            1690474892,
+            43.4047,
+            5.2462,
+            609,
+            146,
+            false
+        ],
+        [
+            1690474912,
+            43.3922,
+            5.2575,
+            914,
+            146,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-13:21:22",
+    "baro_altitude": 982.98,
+    "category": 0,
+    "geo_altitude": 1082.04,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 43.2702,
+    "longitude": 5.3289,
+    "on_ground": false,
+    "origin_country": "Tunisia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1690469108,
+    "true_track": 358.75,
+    "velocity": 117.84,
+    "vertical_rate": -6.18,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 54,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFML",
+    "estDepartureAirportHorizDistance": 3322,
+    "estDepartureAirportVertDistance": 648,
+    "firstSeen": 1690474882,
+    "lastSeen": 1690474912
+}

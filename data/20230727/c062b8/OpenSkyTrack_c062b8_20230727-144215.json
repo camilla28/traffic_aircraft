@@ -1,0 +1,72 @@
+{
+    "callsign": "JZA581  ",
+    "endTime": "2023/07/27-14:42:09",
+    "icao24": "c062b8",
+    "path": [
+        [
+            1690479689,
+            45.4797,
+            -73.7124,
+            304,
+            42,
+            false
+        ],
+        [
+            1690479720,
+            45.4967,
+            -73.6894,
+            304,
+            43,
+            false
+        ],
+        [
+            1690479729,
+            45.5028,
+            -73.6812,
+            609,
+            43,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-14:41:29",
+    "baro_altitude": 2004.06,
+    "category": 1,
+    "geo_altitude": 2011.68,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 45.1809,
+    "longitude": -73.8513,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1433",
+    "time_position": 1690469108,
+    "true_track": 328.88,
+    "velocity": 133.4,
+    "vertical_rate": -7.8,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 126,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "CYUL",
+    "estDepartureAirportHorizDistance": 1958,
+    "estDepartureAirportVertDistance": 306,
+    "firstSeen": 1690479689,
+    "lastSeen": 1690479729
+}

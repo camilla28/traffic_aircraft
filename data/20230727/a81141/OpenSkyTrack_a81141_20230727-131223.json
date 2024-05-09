@@ -1,0 +1,80 @@
+{
+    "callsign": "KEN3232 ",
+    "endTime": "2023/07/27-13:12:16",
+    "icao24": "a81141",
+    "path": [
+        [
+            1690474287,
+            47.6478,
+            -122.3776,
+            304,
+            353,
+            false
+        ],
+        [
+            1690474312,
+            47.6579,
+            -122.3795,
+            304,
+            351,
+            false
+        ],
+        [
+            1690474325,
+            47.6721,
+            -122.3857,
+            609,
+            341,
+            false
+        ],
+        [
+            1690474336,
+            47.6783,
+            -122.3887,
+            609,
+            342,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-13:11:27",
+    "baro_altitude": 419.1,
+    "category": 0,
+    "geo_altitude": 441.96,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 48.5591,
+    "longitude": -122.9738,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690468964,
+    "true_track": 19.78,
+    "velocity": 75.99,
+    "vertical_rate": -0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 181,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KBFI",
+    "estDepartureAirportHorizDistance": 14242,
+    "estDepartureAirportVertDistance": 466,
+    "firstSeen": 1690474287,
+    "lastSeen": 1690474336
+}

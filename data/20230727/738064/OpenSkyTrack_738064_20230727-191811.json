@@ -1,0 +1,120 @@
+{
+    "callsign": "ELY2367 ",
+    "endTime": "2023/07/27-19:17:41",
+    "icao24": "738064",
+    "path": [
+        [
+            1690492811,
+            32.7166,
+            33.0755,
+            8229,
+            304,
+            false
+        ],
+        [
+            1690492842,
+            32.7546,
+            33.0109,
+            8534,
+            304,
+            false
+        ],
+        [
+            1690493771,
+            34.0798,
+            31.3957,
+            10363,
+            321,
+            false
+        ],
+        [
+            1690494388,
+            35.096,
+            30.4368,
+            10363,
+            320,
+            false
+        ],
+        [
+            1690494461,
+            35.2119,
+            30.3195,
+            10668,
+            320,
+            false
+        ],
+        [
+            1690495359,
+            36.3452,
+            29.147,
+            10972,
+            319,
+            false
+        ],
+        [
+            1690496170,
+            37.8218,
+            27.5587,
+            10972,
+            318,
+            false
+        ],
+        [
+            1690496187,
+            37.8481,
+            27.5298,
+            10668,
+            318,
+            false
+        ],
+        [
+            1690496261,
+            37.9602,
+            27.4056,
+            10972,
+            318,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-18:20:11",
+    "baro_altitude": 10972.8,
+    "category": 1,
+    "geo_altitude": 11658.6,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690494593,
+    "latitude": 35.2545,
+    "longitude": 30.2761,
+    "on_ground": false,
+    "origin_country": "Israel",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690494488,
+    "true_track": 319.98,
+    "velocity": 226.39,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1690492811,
+    "lastSeen": 1690496261
+}

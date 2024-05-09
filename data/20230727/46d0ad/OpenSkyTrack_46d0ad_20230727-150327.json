@@ -1,0 +1,120 @@
+{
+    "callsign": "SEH5TK  ",
+    "endTime": "2023/07/27-15:03:15",
+    "icao24": "46d0ad",
+    "path": [
+        [
+            1690480376,
+            38.0746,
+            24.2477,
+            1828,
+            81,
+            false
+        ],
+        [
+            1690480413,
+            38.0796,
+            24.2913,
+            1828,
+            81,
+            false
+        ],
+        [
+            1690480478,
+            38.0885,
+            24.3696,
+            2133,
+            81,
+            false
+        ],
+        [
+            1690480553,
+            38.0987,
+            24.4608,
+            2438,
+            82,
+            false
+        ],
+        [
+            1690480651,
+            38.1122,
+            24.582,
+            2743,
+            81,
+            false
+        ],
+        [
+            1690480740,
+            38.1249,
+            24.6955,
+            3048,
+            81,
+            false
+        ],
+        [
+            1690480835,
+            38.1384,
+            24.8189,
+            3352,
+            82,
+            false
+        ],
+        [
+            1690480977,
+            38.1589,
+            25.0092,
+            3657,
+            82,
+            false
+        ],
+        [
+            1690480995,
+            38.1616,
+            25.0343,
+            3962,
+            82,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-14:52:56",
+    "baro_altitude": 4876.8,
+    "category": 0,
+    "geo_altitude": 5128.26,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 38.1135,
+    "longitude": 22.5794,
+    "on_ground": false,
+    "origin_country": "Greece",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469109,
+    "true_track": 273.25,
+    "velocity": 118,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 16,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LGKN",
+    "estDepartureAirportHorizDistance": 25983,
+    "estDepartureAirportVertDistance": 1735,
+    "firstSeen": 1690480376,
+    "lastSeen": 1690480995
+}

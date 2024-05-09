@@ -1,0 +1,184 @@
+{
+    "callsign": "FIN8G   ",
+    "endTime": "2023/07/27-12:51:23",
+    "icao24": "4601f6",
+    "path": [
+        [
+            1690471493,
+            62.5463,
+            29.5103,
+            1828,
+            220,
+            false
+        ],
+        [
+            1690471534,
+            62.5202,
+            29.4617,
+            2133,
+            218,
+            false
+        ],
+        [
+            1690471578,
+            62.4914,
+            29.4089,
+            2438,
+            219,
+            false
+        ],
+        [
+            1690471618,
+            62.4649,
+            29.3614,
+            2743,
+            219,
+            false
+        ],
+        [
+            1690471665,
+            62.4329,
+            29.3039,
+            3048,
+            220,
+            false
+        ],
+        [
+            1690471704,
+            62.4058,
+            29.2555,
+            3352,
+            219,
+            false
+        ],
+        [
+            1690471753,
+            62.3721,
+            29.1955,
+            3657,
+            219,
+            false
+        ],
+        [
+            1690471801,
+            62.3381,
+            29.1356,
+            3962,
+            219,
+            false
+        ],
+        [
+            1690471859,
+            62.2965,
+            29.0623,
+            4267,
+            219,
+            false
+        ],
+        [
+            1690471917,
+            62.2547,
+            28.9886,
+            4572,
+            219,
+            false
+        ],
+        [
+            1690471977,
+            62.2105,
+            28.9109,
+            4876,
+            219,
+            false
+        ],
+        [
+            1690472049,
+            62.1581,
+            28.8198,
+            5181,
+            219,
+            false
+        ],
+        [
+            1690472820,
+            61.4626,
+            27.647,
+            5486,
+            220,
+            false
+        ],
+        [
+            1690472830,
+            61.454,
+            27.629,
+            5486,
+            228,
+            false
+        ],
+        [
+            1690472841,
+            61.4457,
+            27.6079,
+            5486,
+            232,
+            false
+        ],
+        [
+            1690472924,
+            61.3843,
+            27.4447,
+            5486,
+            229,
+            false
+        ],
+        [
+            1690473083,
+            61.2594,
+            27.1368,
+            5486,
+            229,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-12:24:53",
+    "baro_altitude": 2133.6,
+    "category": 0,
+    "geo_altitude": 2110.74,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469108,
+    "latitude": 62.457,
+    "longitude": 29.7375,
+    "on_ground": false,
+    "origin_country": "Finland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0425",
+    "time_position": 1690469108,
+    "true_track": 37.43,
+    "velocity": 137.98,
+    "vertical_rate": -14.96,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 11,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EFJO",
+    "estDepartureAirportHorizDistance": 13836,
+    "estDepartureAirportVertDistance": 1890,
+    "firstSeen": 1690471493,
+    "lastSeen": 1690473083
+}

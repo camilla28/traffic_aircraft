@@ -1,0 +1,88 @@
+{
+    "callsign": "EZS13LF ",
+    "endTime": "2023/07/27-10:57:24",
+    "icao24": "4b1a1f",
+    "path": [
+        [
+            1690466177,
+            47.6055,
+            7.5184,
+            0,
+            154,
+            false
+        ],
+        [
+            1690466204,
+            47.5858,
+            7.5317,
+            304,
+            155,
+            false
+        ],
+        [
+            1690466219,
+            47.5735,
+            7.5398,
+            609,
+            157,
+            false
+        ],
+        [
+            1690466235,
+            47.5595,
+            7.5454,
+            609,
+            175,
+            false
+        ],
+        [
+            1690466244,
+            47.5504,
+            7.5438,
+            609,
+            192,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-10:56:17",
+    "baro_altitude": null,
+    "category": 4,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690466138,
+    "latitude": 47.6174,
+    "longitude": 7.5101,
+    "on_ground": true,
+    "origin_country": "Switzerland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690466138,
+    "true_track": 168.75,
+    "velocity": 3.6,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 129,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSZM",
+    "estDepartureAirportHorizDistance": 2059,
+    "estDepartureAirportVertDistance": 12,
+    "firstSeen": 1690466177,
+    "lastSeen": 1690466244
+}

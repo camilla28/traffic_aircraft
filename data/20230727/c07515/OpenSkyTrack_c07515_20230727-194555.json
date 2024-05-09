@@ -1,0 +1,120 @@
+{
+    "callsign": "CGSIU   ",
+    "endTime": "2023/07/27-19:45:49",
+    "icao24": "c07515",
+    "path": [
+        [
+            1690492878,
+            46.6561,
+            -72.7251,
+            2438,
+            244,
+            false
+        ],
+        [
+            1690493762,
+            46.4134,
+            -73.4445,
+            2438,
+            243,
+            false
+        ],
+        [
+            1690494646,
+            46.191,
+            -74.0859,
+            2438,
+            243,
+            false
+        ],
+        [
+            1690495533,
+            45.9554,
+            -74.7498,
+            2438,
+            242,
+            false
+        ],
+        [
+            1690496431,
+            45.7093,
+            -75.4255,
+            2438,
+            242,
+            false
+        ],
+        [
+            1690497318,
+            45.5315,
+            -75.9037,
+            2438,
+            241,
+            false
+        ],
+        [
+            1690497555,
+            45.4004,
+            -76.2509,
+            2438,
+            240,
+            false
+        ],
+        [
+            1690497563,
+            45.3981,
+            -76.2565,
+            2438,
+            238,
+            false
+        ],
+        [
+            1690497949,
+            45.2783,
+            -76.5227,
+            2438,
+            237,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-18:21:18",
+    "baro_altitude": 2468.88,
+    "category": 0,
+    "geo_altitude": 2506.98,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690494540,
+    "latitude": 46.3773,
+    "longitude": -73.5501,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690494434,
+    "true_track": 243.23,
+    "velocity": 63.96,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 2,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "CSL3",
+    "estDepartureAirportHorizDistance": 8186,
+    "estDepartureAirportVertDistance": 2344,
+    "firstSeen": 1690492878,
+    "lastSeen": 1690497949
+}

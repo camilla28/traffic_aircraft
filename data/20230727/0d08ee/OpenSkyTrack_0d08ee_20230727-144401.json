@@ -1,0 +1,120 @@
+{
+    "callsign": "AMX783  ",
+    "endTime": "2023/07/27-14:43:54",
+    "icao24": "0d08ee",
+    "path": [
+        [
+            1690479708,
+            33.9382,
+            -118.3962,
+            0,
+            262,
+            false
+        ],
+        [
+            1690479749,
+            33.9347,
+            -118.4312,
+            0,
+            264,
+            false
+        ],
+        [
+            1690479760,
+            33.9337,
+            -118.4422,
+            304,
+            263,
+            false
+        ],
+        [
+            1690479770,
+            33.9323,
+            -118.4525,
+            304,
+            258,
+            false
+        ],
+        [
+            1690479786,
+            33.926,
+            -118.4684,
+            304,
+            259,
+            false
+        ],
+        [
+            1690479795,
+            33.9206,
+            -118.4764,
+            304,
+            248,
+            false
+        ],
+        [
+            1690479805,
+            33.915,
+            -118.4847,
+            304,
+            237,
+            false
+        ],
+        [
+            1690479815,
+            33.9093,
+            -118.4933,
+            609,
+            231,
+            false
+        ],
+        [
+            1690479834,
+            33.8973,
+            -118.511,
+            609,
+            231,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-14:41:48",
+    "baro_altitude": 11582.4,
+    "category": 1,
+    "geo_altitude": 12291.06,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 32.6315,
+    "longitude": -115.6135,
+    "on_ground": false,
+    "origin_country": "Mexico",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2671",
+    "time_position": 1690469109,
+    "true_track": 302.1,
+    "velocity": 231.38,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 133,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KLAX",
+    "estDepartureAirportHorizDistance": 1748,
+    "estDepartureAirportVertDistance": 7,
+    "firstSeen": 1690479708,
+    "lastSeen": 1690479834
+}

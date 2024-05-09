@@ -1,0 +1,136 @@
+{
+    "callsign": "AEE4FA  ",
+    "endTime": "2023/07/27-15:37:00",
+    "icao24": "4691c1",
+    "path": [
+        [
+            1690482856,
+            50.0041,
+            8.5262,
+            304,
+            178,
+            false
+        ],
+        [
+            1690482865,
+            49.9977,
+            8.5264,
+            304,
+            178,
+            false
+        ],
+        [
+            1690482892,
+            49.9799,
+            8.5265,
+            609,
+            180,
+            false
+        ],
+        [
+            1690482901,
+            49.9727,
+            8.5276,
+            609,
+            168,
+            false
+        ],
+        [
+            1690482912,
+            49.9643,
+            8.5341,
+            609,
+            145,
+            false
+        ],
+        [
+            1690482921,
+            49.958,
+            8.5456,
+            609,
+            124,
+            false
+        ],
+        [
+            1690482932,
+            49.9518,
+            8.5625,
+            914,
+            117,
+            false
+        ],
+        [
+            1690482962,
+            49.9343,
+            8.6148,
+            914,
+            118,
+            false
+        ],
+        [
+            1690482971,
+            49.928,
+            8.6327,
+            1219,
+            118,
+            false
+        ],
+        [
+            1690482981,
+            49.9214,
+            8.6514,
+            1524,
+            118,
+            false
+        ],
+        [
+            1690483020,
+            49.8956,
+            8.7241,
+            2133,
+            119,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-15:34:16",
+    "baro_altitude": 10355.58,
+    "category": 4,
+    "geo_altitude": 10957.56,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 40.1821,
+    "longitude": 18.2065,
+    "on_ground": false,
+    "origin_country": "Greece",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5535",
+    "time_position": 1690469109,
+    "true_track": 324.6,
+    "velocity": 205.12,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 149,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDDF",
+    "estDepartureAirportHorizDistance": 4544,
+    "estDepartureAirportVertDistance": 277,
+    "firstSeen": 1690482856,
+    "lastSeen": 1690483020
+}

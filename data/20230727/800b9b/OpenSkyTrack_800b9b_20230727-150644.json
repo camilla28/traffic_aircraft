@@ -1,0 +1,120 @@
+{
+    "callsign": "AXB3022 ",
+    "endTime": "2023/07/27-11:58:17",
+    "icao24": "800b9b",
+    "path": [
+        [
+            1690467399,
+            23.379,
+            48.4232,
+            11277,
+            95,
+            false
+        ],
+        [
+            1690467408,
+            23.3782,
+            48.4425,
+            11277,
+            95,
+            false
+        ],
+        [
+            1690467408,
+            23.3782,
+            48.4425,
+            11277,
+            92,
+            false
+        ],
+        [
+            1690468306,
+            23.2866,
+            50.417,
+            11277,
+            93,
+            false
+        ],
+        [
+            1690468567,
+            23.2685,
+            50.7523,
+            11277,
+            93,
+            false
+        ],
+        [
+            1690468567,
+            23.2685,
+            50.7523,
+            11277,
+            113,
+            false
+        ],
+        [
+            1690469426,
+            22.8845,
+            52.3377,
+            11277,
+            113,
+            false
+        ],
+        [
+            1690469897,
+            22.8389,
+            52.453,
+            11277,
+            112,
+            false
+        ],
+        [
+            1690469897,
+            22.8389,
+            52.453,
+            11277,
+            98,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:16:39",
+    "baro_altitude": 11277.6,
+    "category": 1,
+    "geo_altitude": 12092.94,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469087,
+    "latitude": 23.0404,
+    "longitude": 51.9404,
+    "on_ground": false,
+    "origin_country": "India",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469087,
+    "true_track": 112.87,
+    "velocity": 221.09,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1690467399,
+    "lastSeen": 1690469897
+}

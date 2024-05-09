@@ -1,0 +1,136 @@
+{
+    "callsign": "FHY768  ",
+    "endTime": "2023/07/27-13:31:02",
+    "icao24": "4b9907",
+    "path": [
+        [
+            1690475328,
+            51.1197,
+            16.7763,
+            914,
+            230,
+            false
+        ],
+        [
+            1690475333,
+            51.1164,
+            16.7714,
+            1219,
+            223,
+            false
+        ],
+        [
+            1690475344,
+            51.1087,
+            16.7648,
+            1219,
+            223,
+            false
+        ],
+        [
+            1690475364,
+            51.0902,
+            16.768,
+            1219,
+            153,
+            false
+        ],
+        [
+            1690475374,
+            51.0823,
+            16.7796,
+            1219,
+            126,
+            false
+        ],
+        [
+            1690475380,
+            51.0785,
+            16.789,
+            1219,
+            119,
+            false
+        ],
+        [
+            1690475406,
+            51.063,
+            16.8344,
+            1524,
+            118,
+            false
+        ],
+        [
+            1690475424,
+            51.0513,
+            16.8672,
+            1828,
+            119,
+            false
+        ],
+        [
+            1690475433,
+            51.0451,
+            16.884,
+            2133,
+            120,
+            false
+        ],
+        [
+            1690475443,
+            51.0388,
+            16.9011,
+            2438,
+            120,
+            false
+        ],
+        [
+            1690475462,
+            51.026,
+            16.9357,
+            2743,
+            120,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-13:28:48",
+    "baro_altitude": 6576.06,
+    "category": 0,
+    "geo_altitude": 6728.46,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 50.3673,
+    "longitude": 18.5691,
+    "on_ground": false,
+    "origin_country": "Turkey",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5301",
+    "time_position": 1690469108,
+    "true_track": 306.94,
+    "velocity": 178.92,
+    "vertical_rate": -10.4,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 65,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EPWR",
+    "estDepartureAirportHorizDistance": 7200,
+    "estDepartureAirportVertDistance": 1065,
+    "firstSeen": 1690475328,
+    "lastSeen": 1690475462
+}

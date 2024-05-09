@@ -1,0 +1,96 @@
+{
+    "callsign": "EJU82BT ",
+    "endTime": "2023/07/27-11:30:09",
+    "icao24": "440172",
+    "path": [
+        [
+            1690468146,
+            47.6784,
+            7.4354,
+            1219,
+            248,
+            false
+        ],
+        [
+            1690468157,
+            47.6712,
+            7.4225,
+            1524,
+            222,
+            false
+        ],
+        [
+            1690468168,
+            47.6603,
+            7.4134,
+            1524,
+            208,
+            false
+        ],
+        [
+            1690468179,
+            47.6485,
+            7.4034,
+            1828,
+            210,
+            false
+        ],
+        [
+            1690468197,
+            47.6275,
+            7.3848,
+            1828,
+            210,
+            false
+        ],
+        [
+            1690468209,
+            47.6153,
+            7.3742,
+            2133,
+            210,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:29:06",
+    "baro_altitude": 1531.62,
+    "category": 1,
+    "geo_altitude": 1615.44,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690468148,
+    "latitude": 47.6778,
+    "longitude": 7.4336,
+    "on_ground": false,
+    "origin_country": "Austria",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "6725",
+    "time_position": 1690468147,
+    "true_track": 246.53,
+    "velocity": 98.15,
+    "vertical_rate": 7.15,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 127,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFGB",
+    "estDepartureAirportHorizDistance": 7066,
+    "estDepartureAirportVertDistance": 1276,
+    "firstSeen": 1690468146,
+    "lastSeen": 1690468209
+}

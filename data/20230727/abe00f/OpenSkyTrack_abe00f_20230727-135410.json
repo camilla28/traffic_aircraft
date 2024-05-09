@@ -1,0 +1,112 @@
+{
+    "callsign": "SWA1473 ",
+    "endTime": "2023/07/27-13:53:58",
+    "icao24": "abe00f",
+    "path": [
+        [
+            1690476735,
+            36.0764,
+            -115.1277,
+            609,
+            270,
+            false
+        ],
+        [
+            1690476760,
+            36.0765,
+            -115.1615,
+            609,
+            270,
+            false
+        ],
+        [
+            1690476791,
+            36.0759,
+            -115.2137,
+            914,
+            269,
+            false
+        ],
+        [
+            1690476801,
+            36.0764,
+            -115.231,
+            1219,
+            268,
+            false
+        ],
+        [
+            1690476811,
+            36.0766,
+            -115.246,
+            1219,
+            272,
+            false
+        ],
+        [
+            1690476818,
+            36.0787,
+            -115.2611,
+            1219,
+            270,
+            false
+        ],
+        [
+            1690476831,
+            36.0932,
+            -115.2837,
+            1524,
+            270,
+            false
+        ],
+        [
+            1690476838,
+            36.1052,
+            -115.2913,
+            1828,
+            274,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-13:52:15",
+    "baro_altitude": 9448.8,
+    "category": 1,
+    "geo_altitude": 9997.44,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 39.2552,
+    "longitude": -112.3483,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469109,
+    "true_track": 201.26,
+    "velocity": 224.12,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 55,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KLAS",
+    "estDepartureAirportHorizDistance": 2225,
+    "estDepartureAirportVertDistance": 39,
+    "firstSeen": 1690476735,
+    "lastSeen": 1690476838
+}

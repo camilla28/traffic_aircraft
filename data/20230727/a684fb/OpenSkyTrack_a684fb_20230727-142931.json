@@ -1,0 +1,160 @@
+{
+    "callsign": "N519XR  ",
+    "endTime": "2023/07/27-14:29:26",
+    "icao24": "a684fb",
+    "path": [
+        [
+            1690478521,
+            29.9993,
+            -90.2467,
+            -304,
+            16,
+            false
+        ],
+        [
+            1690478540,
+            30.0163,
+            -90.2411,
+            0,
+            15,
+            false
+        ],
+        [
+            1690478561,
+            30.0393,
+            -90.2337,
+            304,
+            15,
+            false
+        ],
+        [
+            1690478749,
+            30.0471,
+            -90.428,
+            4267,
+            239,
+            false
+        ],
+        [
+            1690478759,
+            30.039,
+            -90.4437,
+            4572,
+            238,
+            false
+        ],
+        [
+            1690478781,
+            30.0212,
+            -90.4775,
+            4876,
+            239,
+            false
+        ],
+        [
+            1690478801,
+            30.0046,
+            -90.5101,
+            5181,
+            239,
+            false
+        ],
+        [
+            1690478822,
+            29.9874,
+            -90.5435,
+            5486,
+            239,
+            false
+        ],
+        [
+            1690478843,
+            29.9694,
+            -90.5777,
+            5791,
+            238,
+            false
+        ],
+        [
+            1690478862,
+            29.9523,
+            -90.6101,
+            6096,
+            238,
+            false
+        ],
+        [
+            1690478883,
+            29.9339,
+            -90.6456,
+            6400,
+            239,
+            false
+        ],
+        [
+            1690478924,
+            29.8973,
+            -90.7175,
+            6705,
+            239,
+            false
+        ],
+        [
+            1690478955,
+            29.8676,
+            -90.7749,
+            7010,
+            239,
+            false
+        ],
+        [
+            1690478966,
+            29.8569,
+            -90.7954,
+            7315,
+            239,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-14:22:01",
+    "baro_altitude": 12192,
+    "category": 0,
+    "geo_altitude": 12877.8,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469108,
+    "latitude": 28.3788,
+    "longitude": -86.9255,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1427",
+    "time_position": 1690469108,
+    "true_track": 288.28,
+    "velocity": 241.09,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 165,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KMSY",
+    "estDepartureAirportHorizDistance": 1029,
+    "estDepartureAirportVertDistance": 8,
+    "firstSeen": 1690478521,
+    "lastSeen": 1690478955
+}

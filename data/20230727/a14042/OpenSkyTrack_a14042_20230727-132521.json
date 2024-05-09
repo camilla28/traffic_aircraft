@@ -1,0 +1,128 @@
+{
+    "callsign": "KAP33   ",
+    "endTime": "2023/07/27-13:25:11",
+    "icao24": "a14042",
+    "path": [
+        [
+            1690474952,
+            42.3537,
+            -71.0176,
+            0,
+            206,
+            false
+        ],
+        [
+            1690474961,
+            42.3496,
+            -71.0205,
+            0,
+            208,
+            false
+        ],
+        [
+            1690474971,
+            42.3451,
+            -71.024,
+            0,
+            210,
+            false
+        ],
+        [
+            1690474982,
+            42.3404,
+            -71.0278,
+            0,
+            213,
+            false
+        ],
+        [
+            1690475022,
+            42.3234,
+            -71.0423,
+            304,
+            213,
+            false
+        ],
+        [
+            1690475052,
+            42.3116,
+            -71.0536,
+            304,
+            211,
+            false
+        ],
+        [
+            1690475062,
+            42.3071,
+            -71.0571,
+            304,
+            208,
+            false
+        ],
+        [
+            1690475081,
+            42.2987,
+            -71.063,
+            304,
+            207,
+            false
+        ],
+        [
+            1690475101,
+            42.2898,
+            -71.0691,
+            609,
+            207,
+            false
+        ],
+        [
+            1690475111,
+            42.2854,
+            -71.0716,
+            609,
+            192,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-13:22:32",
+    "baro_altitude": 1341.12,
+    "category": 0,
+    "geo_altitude": 1386.84,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 41.7737,
+    "longitude": -70.8721,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469104,
+    "true_track": 331.42,
+    "velocity": 91.39,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 195,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KBOS",
+    "estDepartureAirportHorizDistance": 1406,
+    "estDepartureAirportVertDistance": 176,
+    "firstSeen": 1690474952,
+    "lastSeen": 1690475111
+}

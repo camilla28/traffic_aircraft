@@ -1,0 +1,104 @@
+{
+    "callsign": "STT2032 ",
+    "endTime": "2023/07/27-18:47:34",
+    "icao24": "a4a533",
+    "path": [
+        [
+            1690493643,
+            21.2656,
+            -157.842,
+            1524,
+            142,
+            false
+        ],
+        [
+            1690493676,
+            21.2468,
+            -157.8264,
+            1524,
+            142,
+            false
+        ],
+        [
+            1690493687,
+            21.2418,
+            -157.8218,
+            1524,
+            132,
+            false
+        ],
+        [
+            1690493694,
+            21.2388,
+            -157.8173,
+            1828,
+            121,
+            false
+        ],
+        [
+            1690493731,
+            21.2269,
+            -157.7948,
+            1828,
+            119,
+            false
+        ],
+        [
+            1690493778,
+            21.2116,
+            -157.7665,
+            2133,
+            119,
+            false
+        ],
+        [
+            1690494454,
+            21.1055,
+            -157.57,
+            2438,
+            120,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-18:34:03",
+    "baro_altitude": 2689.86,
+    "category": 0,
+    "geo_altitude": 2903.22,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690494480,
+    "latitude": 21.1055,
+    "longitude": -157.57,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2367",
+    "time_position": 1690494454,
+    "true_track": 120.11,
+    "velocity": 130.24,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 18,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "PHNL",
+    "estDepartureAirportHorizDistance": 10205,
+    "estDepartureAirportVertDistance": 1520,
+    "firstSeen": 1690493643,
+    "lastSeen": 1690494454
+}

@@ -1,0 +1,184 @@
+{
+    "callsign": "DAH6406 ",
+    "endTime": "2023/07/27-18:46:41",
+    "icao24": "0a0077",
+    "path": [
+        [
+            1690493640,
+            35.6472,
+            -0.6474,
+            914,
+            81,
+            false
+        ],
+        [
+            1690493640,
+            35.6472,
+            -0.6474,
+            914,
+            81,
+            false
+        ],
+        [
+            1690493920,
+            35.693,
+            -0.1519,
+            3352,
+            97,
+            false
+        ],
+        [
+            1690493943,
+            35.6872,
+            -0.1008,
+            3657,
+            97,
+            false
+        ],
+        [
+            1690493977,
+            35.6786,
+            -0.0257,
+            3962,
+            98,
+            false
+        ],
+        [
+            1690493997,
+            35.6734,
+            0.0196,
+            4267,
+            98,
+            false
+        ],
+        [
+            1690494017,
+            35.6678,
+            0.0675,
+            4572,
+            98,
+            false
+        ],
+        [
+            1690494043,
+            35.6608,
+            0.1272,
+            4876,
+            98,
+            false
+        ],
+        [
+            1690494062,
+            35.6546,
+            0.1727,
+            5181,
+            103,
+            false
+        ],
+        [
+            1690494069,
+            35.6502,
+            0.1878,
+            5181,
+            112,
+            false
+        ],
+        [
+            1690494079,
+            35.6406,
+            0.2093,
+            5486,
+            122,
+            false
+        ],
+        [
+            1690494079,
+            35.6406,
+            0.2093,
+            5486,
+            122,
+            false
+        ],
+        [
+            1690494121,
+            35.5767,
+            0.2664,
+            5791,
+            152,
+            false
+        ],
+        [
+            1690494130,
+            35.5628,
+            0.2751,
+            5791,
+            152,
+            false
+        ],
+        [
+            1690494161,
+            35.5082,
+            0.309,
+            6096,
+            153,
+            false
+        ],
+        [
+            1690494169,
+            35.4928,
+            0.3186,
+            6400,
+            153,
+            false
+        ],
+        [
+            1690494401,
+            35.0551,
+            0.584,
+            8534,
+            153,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-18:34:00",
+    "baro_altitude": 8618.22,
+    "category": 1,
+    "geo_altitude": 6995.16,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690494401,
+    "latitude": 35.0551,
+    "longitude": 0.584,
+    "on_ground": false,
+    "origin_country": "Algeria",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690494401,
+    "true_track": 153.2,
+    "velocity": 221.33,
+    "vertical_rate": 9.43,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 9,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "DAOO",
+    "estDepartureAirportHorizDistance": 3517,
+    "estDepartureAirportVertDistance": 915,
+    "firstSeen": 1690493640,
+    "lastSeen": 1690494401
+}

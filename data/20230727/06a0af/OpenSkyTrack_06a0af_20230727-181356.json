@@ -1,0 +1,144 @@
+{
+    "callsign": "QTR389  ",
+    "endTime": "2023/07/27-14:26:12",
+    "icao24": "06a0af",
+    "path": [
+        [
+            1690477597,
+            25.4773,
+            51.5968,
+            1828,
+            31,
+            false
+        ],
+        [
+            1690477618,
+            25.4919,
+            51.6068,
+            1828,
+            31,
+            false
+        ],
+        [
+            1690477651,
+            25.5198,
+            51.6257,
+            2133,
+            31,
+            false
+        ],
+        [
+            1690477691,
+            25.5471,
+            51.6441,
+            2438,
+            31,
+            false
+        ],
+        [
+            1690477750,
+            25.5951,
+            51.6767,
+            2743,
+            31,
+            false
+        ],
+        [
+            1690477852,
+            25.6824,
+            51.7355,
+            3048,
+            29,
+            false
+        ],
+        [
+            1690477871,
+            25.6993,
+            51.7458,
+            3352,
+            27,
+            false
+        ],
+        [
+            1690478040,
+            25.8148,
+            51.8081,
+            3352,
+            25,
+            false
+        ],
+        [
+            1690478501,
+            25.9155,
+            51.8621,
+            3657,
+            25,
+            false
+        ],
+        [
+            1690478566,
+            27.1412,
+            52.2584,
+            7315,
+            3,
+            false
+        ],
+        [
+            1690478686,
+            27.3438,
+            52.2712,
+            7315,
+            3,
+            false
+        ],
+        [
+            1690478772,
+            27.4944,
+            52.2807,
+            7620,
+            3,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-14:06:37",
+    "baro_altitude": 906.78,
+    "category": 6,
+    "geo_altitude": 830.58,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690468944,
+    "latitude": 25.0759,
+    "longitude": 51.7821,
+    "on_ground": false,
+    "origin_country": "Qatar",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690468749,
+    "true_track": 247.5,
+    "velocity": 4.63,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 15,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "OTBK",
+    "estDepartureAirportHorizDistance": 18829,
+    "estDepartureAirportVertDistance": 1932,
+    "firstSeen": 1690477597,
+    "lastSeen": 1690478772
+}

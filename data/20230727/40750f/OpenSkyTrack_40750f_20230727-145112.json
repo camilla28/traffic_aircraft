@@ -1,0 +1,104 @@
+{
+    "callsign": "WUK68AZ ",
+    "endTime": "2023/07/27-14:51:03",
+    "icao24": "40750f",
+    "path": [
+        [
+            1690480182,
+            51.8739,
+            -0.3727,
+            0,
+            254,
+            false
+        ],
+        [
+            1690480204,
+            51.8702,
+            -0.3949,
+            304,
+            254,
+            false
+        ],
+        [
+            1690480214,
+            51.8683,
+            -0.4043,
+            609,
+            247,
+            false
+        ],
+        [
+            1690480224,
+            51.8642,
+            -0.4125,
+            609,
+            220,
+            false
+        ],
+        [
+            1690480233,
+            51.8593,
+            -0.418,
+            609,
+            212,
+            false
+        ],
+        [
+            1690480241,
+            51.8538,
+            -0.4234,
+            609,
+            210,
+            false
+        ],
+        [
+            1690480263,
+            51.838,
+            -0.4375,
+            609,
+            208,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-14:49:42",
+    "baro_altitude": 11590.02,
+    "category": 4,
+    "geo_altitude": 11932.92,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 49.576,
+    "longitude": 16.2273,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "4426",
+    "time_position": 1690469108,
+    "true_track": 285.15,
+    "velocity": 198.8,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 126,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EGGW",
+    "estDepartureAirportHorizDistance": 207,
+    "estDepartureAirportVertDistance": 91,
+    "firstSeen": 1690480182,
+    "lastSeen": 1690480263
+}

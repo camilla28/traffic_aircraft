@@ -1,0 +1,72 @@
+{
+    "callsign": "CGYPA   ",
+    "endTime": "2023/07/27-13:32:13",
+    "icao24": "c0858f",
+    "path": [
+        [
+            1690474397,
+            46.5593,
+            -65.7759,
+            6705,
+            303,
+            false
+        ],
+        [
+            1690475287,
+            47.074,
+            -66.9263,
+            6705,
+            303,
+            false
+        ],
+        [
+            1690475533,
+            47.2153,
+            -67.2483,
+            6705,
+            302,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-13:13:17",
+    "baro_altitude": 6385.56,
+    "category": 0,
+    "geo_altitude": 6659.88,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469108,
+    "latitude": 45.6741,
+    "longitude": -68.3461,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1072",
+    "time_position": 1690469108,
+    "true_track": 86.53,
+    "velocity": 153.07,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1690474397,
+    "lastSeen": 1690475533
+}

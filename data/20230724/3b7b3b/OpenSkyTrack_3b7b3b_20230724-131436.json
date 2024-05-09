@@ -1,0 +1,72 @@
+{
+    "callsign": "DRAGO741",
+    "endTime": "2023/07/24-13:12:33",
+    "icao24": "3b7b3b",
+    "path": [
+        [
+            1690215124,
+            46.0457,
+            6.7956,
+            1524,
+            212,
+            false
+        ],
+        [
+            1690215144,
+            46.0368,
+            6.7877,
+            1524,
+            213,
+            false
+        ],
+        [
+            1690215153,
+            46.0326,
+            6.7836,
+            1524,
+            215,
+            false
+        ]
+    ],
+    "startTime": "2023/07/24-13:12:04",
+    "baro_altitude": 1821.18,
+    "category": 0,
+    "geo_altitude": 1905,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690215153,
+    "latitude": 46.0326,
+    "longitude": 6.7836,
+    "on_ground": false,
+    "origin_country": "France",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690215153,
+    "true_track": 215.03,
+    "velocity": 60.94,
+    "vertical_rate": 2.93,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 101,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFHZ",
+    "estDepartureAirportHorizDistance": 16116,
+    "estDepartureAirportVertDistance": 1194,
+    "firstSeen": 1690215124,
+    "lastSeen": 1690215153
+}

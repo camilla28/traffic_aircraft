@@ -1,0 +1,80 @@
+{
+    "callsign": "N185AW  ",
+    "endTime": "2023/07/27-13:26:41",
+    "icao24": "a15354",
+    "path": [
+        [
+            1690473555,
+            40.2285,
+            -103.0308,
+            2743,
+            300,
+            false
+        ],
+        [
+            1690473653,
+            40.253,
+            -103.0836,
+            2743,
+            300,
+            false
+        ],
+        [
+            1690474548,
+            40.5126,
+            -103.6511,
+            3048,
+            301,
+            false
+        ],
+        [
+            1690475201,
+            40.7088,
+            -104.0863,
+            3048,
+            300,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-12:59:15",
+    "baro_altitude": 2545.08,
+    "category": 0,
+    "geo_altitude": 2644.14,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469008,
+    "latitude": 39.8758,
+    "longitude": -102.1036,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690468992,
+    "true_track": 295.91,
+    "velocity": 60.05,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 174,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KAKO",
+    "estDepartureAirportHorizDistance": 17738,
+    "estDepartureAirportVertDistance": 1413,
+    "firstSeen": 1690473555,
+    "lastSeen": 1690475201
+}

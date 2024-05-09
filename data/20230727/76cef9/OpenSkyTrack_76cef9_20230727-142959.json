@@ -1,0 +1,256 @@
+{
+    "callsign": "SIA968  ",
+    "endTime": "2023/07/27-11:54:22",
+    "icao24": "76cef9",
+    "path": [
+        [
+            1690467481,
+            1.3221,
+            103.9996,
+            0,
+            205,
+            false
+        ],
+        [
+            1690467516,
+            1.293,
+            103.9855,
+            304,
+            205,
+            false
+        ],
+        [
+            1690467530,
+            1.281,
+            103.9797,
+            609,
+            205,
+            false
+        ],
+        [
+            1690467539,
+            1.2691,
+            103.9753,
+            609,
+            196,
+            false
+        ],
+        [
+            1690467552,
+            1.2543,
+            103.9749,
+            914,
+            172,
+            false
+        ],
+        [
+            1690467563,
+            1.2444,
+            103.9782,
+            914,
+            157,
+            false
+        ],
+        [
+            1690467571,
+            1.2372,
+            103.982,
+            914,
+            151,
+            false
+        ],
+        [
+            1690467580,
+            1.2307,
+            103.9858,
+            1219,
+            148,
+            false
+        ],
+        [
+            1690467618,
+            1.2039,
+            104.0021,
+            1219,
+            149,
+            false
+        ],
+        [
+            1690467655,
+            1.1781,
+            104.0173,
+            1524,
+            149,
+            false
+        ],
+        [
+            1690467708,
+            1.1474,
+            104.0355,
+            1828,
+            149,
+            false
+        ],
+        [
+            1690467756,
+            1.1251,
+            104.0483,
+            2133,
+            149,
+            false
+        ],
+        [
+            1690467835,
+            1.0974,
+            104.0644,
+            2438,
+            149,
+            false
+        ],
+        [
+            1690468053,
+            1.086,
+            104.071,
+            2743,
+            149,
+            false
+        ],
+        [
+            1690468167,
+            0.3377,
+            104.5048,
+            8534,
+            149,
+            false
+        ],
+        [
+            1690468198,
+            0.2761,
+            104.5407,
+            8839,
+            149,
+            false
+        ],
+        [
+            1690468240,
+            0.1946,
+            104.5883,
+            9144,
+            149,
+            false
+        ],
+        [
+            1690468269,
+            0.1395,
+            104.6203,
+            9448,
+            149,
+            false
+        ],
+        [
+            1690468300,
+            0.0795,
+            104.6552,
+            9753,
+            149,
+            false
+        ],
+        [
+            1690468313,
+            0.055,
+            104.6695,
+            10058,
+            149,
+            false
+        ],
+        [
+            1690468359,
+            -0.0329,
+            104.7207,
+            10363,
+            149,
+            false
+        ],
+        [
+            1690468397,
+            -0.0952,
+            104.757,
+            10668,
+            149,
+            false
+        ],
+        [
+            1690468475,
+            -0.1809,
+            104.8069,
+            10972,
+            149,
+            false
+        ],
+        [
+            1690468712,
+            -0.2446,
+            104.8443,
+            11277,
+            149,
+            false
+        ],
+        [
+            1690468912,
+            -1.0418,
+            105.3799,
+            11277,
+            145,
+            false
+        ],
+        [
+            1690469662,
+            -1.7546,
+            105.8625,
+            11277,
+            145,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:18:01",
+    "baro_altitude": 11277.6,
+    "category": 1,
+    "geo_altitude": 12047.22,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469101,
+    "latitude": -1.2935,
+    "longitude": 105.5503,
+    "on_ground": false,
+    "origin_country": "Singapore",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "6421",
+    "time_position": 1690469096,
+    "true_track": 145.65,
+    "velocity": 246.14,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 19,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "WSAC",
+    "estDepartureAirportHorizDistance": 2541,
+    "estDepartureAirportVertDistance": 214,
+    "firstSeen": 1690467481,
+    "lastSeen": 1690469662
+}

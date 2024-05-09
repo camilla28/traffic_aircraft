@@ -1,0 +1,104 @@
+{
+    "callsign": "TAP15NC ",
+    "endTime": "2023/07/27-11:47:31",
+    "icao24": "4952c6",
+    "path": [
+        [
+            1690468868,
+            40.4595,
+            -3.55,
+            609,
+            142,
+            false
+        ],
+        [
+            1690468894,
+            40.4442,
+            -3.5347,
+            914,
+            142,
+            false
+        ],
+        [
+            1690468922,
+            40.4274,
+            -3.5176,
+            1219,
+            142,
+            false
+        ],
+        [
+            1690468951,
+            40.4084,
+            -3.4985,
+            1524,
+            142,
+            false
+        ],
+        [
+            1690469046,
+            40.325,
+            -3.4138,
+            1828,
+            142,
+            false
+        ],
+        [
+            1690469224,
+            40.1752,
+            -3.5256,
+            4267,
+            142,
+            false
+        ],
+        [
+            1690469251,
+            40.1646,
+            -3.5759,
+            4572,
+            254,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:41:08",
+    "baro_altitude": 2133.6,
+    "category": 0,
+    "geo_altitude": 2293.62,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469050,
+    "latitude": 40.325,
+    "longitude": -3.4138,
+    "on_ground": false,
+    "origin_country": "Portugal",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469046,
+    "true_track": 142.26,
+    "velocity": 129.45,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 30,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LEMD",
+    "estDepartureAirportHorizDistance": 1507,
+    "estDepartureAirportVertDistance": 213,
+    "firstSeen": 1690468868,
+    "lastSeen": 1690469251
+}

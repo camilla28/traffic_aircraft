@@ -1,0 +1,72 @@
+{
+    "callsign": null,
+    "endTime": "2023/07/27-14:58:13",
+    "icao24": "e497bb",
+    "path": [
+        [
+            1690480652,
+            -22.9368,
+            -42.0619,
+            304,
+            209,
+            false
+        ],
+        [
+            1690480682,
+            -22.9487,
+            -42.0691,
+            304,
+            211,
+            false
+        ],
+        [
+            1690480693,
+            -22.9532,
+            -42.0723,
+            304,
+            212,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-14:57:32",
+    "baro_altitude": 716.28,
+    "category": 0,
+    "geo_altitude": 800.1,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": -23.2115,
+    "longitude": -42.2468,
+    "on_ground": false,
+    "origin_country": "Brazil",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469109,
+    "true_track": 211.61,
+    "velocity": 78.53,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 31,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "SBCB",
+    "estDepartureAirportHorizDistance": 2235,
+    "estDepartureAirportVertDistance": 313,
+    "firstSeen": 1690480652,
+    "lastSeen": 1690480693
+}

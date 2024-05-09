@@ -1,0 +1,136 @@
+{
+    "callsign": "AAL2762 ",
+    "endTime": "2023/07/27-20:05:39",
+    "icao24": "a8c32a",
+    "path": [
+        [
+            1690498891,
+            36.0623,
+            -80.0407,
+            914,
+            235,
+            false
+        ],
+        [
+            1690498891,
+            36.0623,
+            -80.0407,
+            914,
+            232,
+            false
+        ],
+        [
+            1690498914,
+            36.046,
+            -80.0676,
+            1219,
+            232,
+            false
+        ],
+        [
+            1690498934,
+            36.0305,
+            -80.0926,
+            1524,
+            233,
+            false
+        ],
+        [
+            1690498956,
+            36.0139,
+            -80.1199,
+            1828,
+            233,
+            false
+        ],
+        [
+            1690498977,
+            35.9975,
+            -80.147,
+            2133,
+            233,
+            false
+        ],
+        [
+            1690499000,
+            35.9794,
+            -80.1769,
+            2438,
+            233,
+            false
+        ],
+        [
+            1690499022,
+            35.9614,
+            -80.2067,
+            2743,
+            233,
+            false
+        ],
+        [
+            1690499065,
+            35.924,
+            -80.2684,
+            3048,
+            233,
+            false
+        ],
+        [
+            1690499124,
+            35.8642,
+            -80.3669,
+            3352,
+            233,
+            false
+        ],
+        [
+            1690499139,
+            35.8476,
+            -80.3942,
+            3657,
+            233,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-20:01:31",
+    "baro_altitude": 830.58,
+    "category": 0,
+    "geo_altitude": 899.16,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690494508,
+    "latitude": 36.1897,
+    "longitude": -79.8187,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5206",
+    "time_position": 1690494508,
+    "true_track": 226.52,
+    "velocity": 95.7,
+    "vertical_rate": -1.95,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 316,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KGSO",
+    "estDepartureAirportHorizDistance": 10095,
+    "estDepartureAirportVertDistance": 769,
+    "firstSeen": 1690498891,
+    "lastSeen": 1690499139
+}

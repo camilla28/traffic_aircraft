@@ -1,0 +1,136 @@
+{
+    "callsign": "N699PF  ",
+    "endTime": "2023/07/27-13:23:31",
+    "icao24": "a94d70",
+    "path": [
+        [
+            1690471261,
+            39.7962,
+            -79.8439,
+            1524,
+            307,
+            false
+        ],
+        [
+            1690472155,
+            40.1664,
+            -80.4707,
+            1524,
+            307,
+            false
+        ],
+        [
+            1690472967,
+            40.4761,
+            -81.0049,
+            1524,
+            307,
+            false
+        ],
+        [
+            1690473859,
+            40.8496,
+            -81.6614,
+            1524,
+            306,
+            false
+        ],
+        [
+            1690474752,
+            41.2067,
+            -82.3026,
+            1524,
+            306,
+            false
+        ],
+        [
+            1690474902,
+            41.2672,
+            -82.4125,
+            1524,
+            306,
+            false
+        ],
+        [
+            1690474912,
+            41.2718,
+            -82.4198,
+            1524,
+            315,
+            false
+        ],
+        [
+            1690474921,
+            41.2769,
+            -82.4249,
+            1524,
+            330,
+            false
+        ],
+        [
+            1690474932,
+            41.2829,
+            -82.4294,
+            1524,
+            328,
+            false
+        ],
+        [
+            1690474942,
+            41.2891,
+            -82.4348,
+            1524,
+            325,
+            false
+        ],
+        [
+            1690475011,
+            41.3301,
+            -82.4713,
+            1524,
+            326,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-12:21:01",
+    "baro_altitude": 1805.94,
+    "category": 0,
+    "geo_altitude": 1889.76,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 38.9926,
+    "longitude": -78.4001,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0557",
+    "time_position": 1690469109,
+    "true_track": 307.8,
+    "velocity": 69.66,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 287,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "PN55",
+    "estDepartureAirportHorizDistance": 7021,
+    "estDepartureAirportVertDistance": 1403,
+    "firstSeen": 1690471261,
+    "lastSeen": 1690475011
+}

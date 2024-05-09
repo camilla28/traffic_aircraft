@@ -1,0 +1,120 @@
+{
+    "callsign": "N723ES  ",
+    "endTime": "2023/07/27-19:11:27",
+    "icao24": "a9af26",
+    "path": [
+        [
+            1690494491,
+            33.6731,
+            -101.6826,
+            1219,
+            81,
+            false
+        ],
+        [
+            1690494491,
+            33.6731,
+            -101.6826,
+            1219,
+            81,
+            false
+        ],
+        [
+            1690494646,
+            33.6868,
+            -101.5648,
+            1524,
+            81,
+            false
+        ],
+        [
+            1690494783,
+            33.7008,
+            -101.444,
+            1828,
+            82,
+            false
+        ],
+        [
+            1690494903,
+            33.7121,
+            -101.346,
+            2133,
+            82,
+            false
+        ],
+        [
+            1690495026,
+            33.7234,
+            -101.2445,
+            2438,
+            82,
+            false
+        ],
+        [
+            1690495146,
+            33.7349,
+            -101.1419,
+            2743,
+            82,
+            false
+        ],
+        [
+            1690495267,
+            33.7467,
+            -101.0364,
+            3048,
+            82,
+            false
+        ],
+        [
+            1690495887,
+            33.8135,
+            -100.4184,
+            3352,
+            82,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-18:48:11",
+    "baro_altitude": 1744.98,
+    "category": 0,
+    "geo_altitude": 1813.56,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690494598,
+    "latitude": 33.6825,
+    "longitude": -101.6032,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690494598,
+    "true_track": 82.23,
+    "velocity": 68.54,
+    "vertical_rate": 1.95,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 126,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "2TX6",
+    "estDepartureAirportHorizDistance": 1937,
+    "estDepartureAirportVertDistance": 510,
+    "firstSeen": 1690494491,
+    "lastSeen": 1690495887
+}

@@ -1,0 +1,80 @@
+{
+    "callsign": "UCA4302 ",
+    "endTime": "2023/07/27-14:55:44",
+    "icao24": "a05a48",
+    "path": [
+        [
+            1690480498,
+            37.153,
+            -108.0025,
+            3962,
+            18,
+            false
+        ],
+        [
+            1690480507,
+            37.1633,
+            -107.9963,
+            3962,
+            30,
+            false
+        ],
+        [
+            1690480517,
+            37.1744,
+            -107.9882,
+            3962,
+            29,
+            false
+        ],
+        [
+            1690480544,
+            37.2078,
+            -107.9662,
+            4267,
+            28,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-14:54:58",
+    "baro_altitude": null,
+    "category": 1,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469107,
+    "latitude": 39.8794,
+    "longitude": -104.687,
+    "on_ground": true,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469107,
+    "true_track": 165.94,
+    "velocity": 19.03,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 19,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "K00C",
+    "estDepartureAirportHorizDistance": 43392,
+    "estDepartureAirportVertDistance": 2077,
+    "firstSeen": 1690480498,
+    "lastSeen": 1690480544
+}

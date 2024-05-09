@@ -1,0 +1,72 @@
+{
+    "callsign": "LYBRA   ",
+    "endTime": "2023/07/27-14:47:20",
+    "icao24": "503e42",
+    "path": [
+        [
+            1690479127,
+            53.5958,
+            23.1091,
+            1828,
+            16,
+            false
+        ],
+        [
+            1690479550,
+            53.8479,
+            23.2347,
+            1828,
+            16,
+            false
+        ],
+        [
+            1690480040,
+            54.141,
+            23.3825,
+            1524,
+            16,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-14:32:07",
+    "baro_altitude": 1219.2,
+    "category": 0,
+    "geo_altitude": 1112.52,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469075,
+    "latitude": 47.9111,
+    "longitude": 19.1885,
+    "on_ground": false,
+    "origin_country": "Lithuania",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "4242",
+    "time_position": 1690469075,
+    "true_track": 33.21,
+    "velocity": 67.63,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 25,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EPSU",
+    "estDepartureAirportHorizDistance": 54794,
+    "estDepartureAirportVertDistance": 1705,
+    "firstSeen": 1690479127,
+    "lastSeen": 1690480040
+}

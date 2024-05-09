@@ -1,0 +1,72 @@
+{
+    "callsign": "AEE510  ",
+    "endTime": "2023/07/27-11:50:59",
+    "icao24": "46b82a",
+    "path": [
+        [
+            1690469424,
+            40.5145,
+            22.9726,
+            0,
+            346,
+            false
+        ],
+        [
+            1690469459,
+            40.5361,
+            22.966,
+            0,
+            345,
+            false
+        ],
+        [
+            1690469459,
+            40.5361,
+            22.966,
+            0,
+            331,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:50:24",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469108,
+    "latitude": 40.524,
+    "longitude": 22.9734,
+    "on_ground": true,
+    "origin_country": "Greece",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469108,
+    "true_track": 303.75,
+    "velocity": 2.83,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 22,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LGTS",
+    "estDepartureAirportHorizDistance": 600,
+    "estDepartureAirportVertDistance": 39,
+    "firstSeen": 1690469424,
+    "lastSeen": 1690469459
+}

@@ -1,0 +1,128 @@
+{
+    "callsign": "JSX221  ",
+    "endTime": "2023/07/27-13:14:30",
+    "icao24": "acc676",
+    "path": [
+        [
+            1690474291,
+            33.0166,
+            -96.7168,
+            2743,
+            347,
+            false
+        ],
+        [
+            1690474302,
+            33.0288,
+            -96.7207,
+            2743,
+            344,
+            false
+        ],
+        [
+            1690474312,
+            33.0399,
+            -96.7253,
+            2743,
+            340,
+            false
+        ],
+        [
+            1690474325,
+            33.0681,
+            -96.7491,
+            3048,
+            331,
+            false
+        ],
+        [
+            1690474332,
+            33.0745,
+            -96.7572,
+            3048,
+            325,
+            false
+        ],
+        [
+            1690474346,
+            33.0881,
+            -96.7751,
+            3048,
+            319,
+            false
+        ],
+        [
+            1690474357,
+            33.0995,
+            -96.7897,
+            3048,
+            313,
+            false
+        ],
+        [
+            1690474368,
+            33.1102,
+            -96.8037,
+            3048,
+            311,
+            false
+        ],
+        [
+            1690474422,
+            33.1672,
+            -96.8779,
+            3352,
+            312,
+            false
+        ],
+        [
+            1690474470,
+            33.2202,
+            -96.9471,
+            3657,
+            312,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-13:11:31",
+    "baro_altitude": 2705.1,
+    "category": 0,
+    "geo_altitude": 2903.22,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 32.3676,
+    "longitude": -96.3666,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "4016",
+    "time_position": 1690469106,
+    "true_track": 357.86,
+    "velocity": 151.35,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KF69",
+    "estDepartureAirportHorizDistance": 11324,
+    "estDepartureAirportVertDistance": 2531,
+    "firstSeen": 1690474291,
+    "lastSeen": 1690474470
+}

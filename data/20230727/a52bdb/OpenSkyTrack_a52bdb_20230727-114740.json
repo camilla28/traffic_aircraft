@@ -1,0 +1,120 @@
+{
+    "callsign": "N432PK  ",
+    "endTime": "2023/07/27-11:47:36",
+    "icao24": "a52bdb",
+    "path": [
+        [
+            1690468860,
+            32.826,
+            -96.8334,
+            304,
+            169,
+            false
+        ],
+        [
+            1690468878,
+            32.8114,
+            -96.8303,
+            304,
+            169,
+            false
+        ],
+        [
+            1690469015,
+            32.6861,
+            -96.7998,
+            609,
+            168,
+            false
+        ],
+        [
+            1690469047,
+            32.6591,
+            -96.7933,
+            914,
+            169,
+            false
+        ],
+        [
+            1690469067,
+            32.6438,
+            -96.7901,
+            1219,
+            170,
+            false
+        ],
+        [
+            1690469084,
+            32.6311,
+            -96.7914,
+            1219,
+            171,
+            false
+        ],
+        [
+            1690469094,
+            32.624,
+            -96.7939,
+            1524,
+            196,
+            false
+        ],
+        [
+            1690469209,
+            32.5118,
+            -96.8344,
+            1524,
+            196,
+            false
+        ],
+        [
+            1690469256,
+            32.4557,
+            -96.8545,
+            1828,
+            197,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:41:00",
+    "baro_altitude": 1676.4,
+    "category": 0,
+    "geo_altitude": 1783.08,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 32.6137,
+    "longitude": -96.7975,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469108,
+    "true_track": 196.13,
+    "velocity": 88.9,
+    "vertical_rate": 10.08,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 495,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KDAL",
+    "estDepartureAirportHorizDistance": 2833,
+    "estDepartureAirportVertDistance": 255,
+    "firstSeen": 1690468860,
+    "lastSeen": 1690469256
+}

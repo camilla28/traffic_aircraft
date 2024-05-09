@@ -1,0 +1,136 @@
+{
+    "callsign": "PGN41W  ",
+    "endTime": "2023/07/27-18:11:11",
+    "icao24": "a4d375",
+    "path": [
+        [
+            1690491797,
+            40.9501,
+            -72.303,
+            304,
+            259,
+            false
+        ],
+        [
+            1690491809,
+            40.9494,
+            -72.3088,
+            609,
+            261,
+            false
+        ],
+        [
+            1690491853,
+            40.9478,
+            -72.3303,
+            609,
+            270,
+            false
+        ],
+        [
+            1690491947,
+            40.9455,
+            -72.3922,
+            609,
+            268,
+            false
+        ],
+        [
+            1690492010,
+            40.9433,
+            -72.4392,
+            609,
+            266,
+            false
+        ],
+        [
+            1690492010,
+            40.9433,
+            -72.4392,
+            609,
+            272,
+            false
+        ],
+        [
+            1690492181,
+            40.947,
+            -72.5718,
+            609,
+            272,
+            false
+        ],
+        [
+            1690492192,
+            40.9473,
+            -72.5805,
+            609,
+            274,
+            false
+        ],
+        [
+            1690492192,
+            40.9473,
+            -72.5805,
+            609,
+            274,
+            false
+        ],
+        [
+            1690492206,
+            40.9493,
+            -72.5913,
+            609,
+            289,
+            false
+        ],
+        [
+            1690492271,
+            40.9632,
+            -72.6414,
+            609,
+            290,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-18:03:17",
+    "baro_altitude": 419.1,
+    "category": 2,
+    "geo_altitude": 419.1,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 40.8622,
+    "longitude": -73.6971,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469108,
+    "true_track": 211.81,
+    "velocity": 65.38,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 164,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KHTO",
+    "estDepartureAirportHorizDistance": 4431,
+    "estDepartureAirportVertDistance": 554,
+    "firstSeen": 1690491797,
+    "lastSeen": 1690492271
+}

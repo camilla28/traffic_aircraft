@@ -1,0 +1,120 @@
+{
+    "callsign": "C101    ",
+    "endTime": "2023/07/27-12:35:21",
+    "icao24": "ae10c1",
+    "path": [
+        [
+            1690472037,
+            41.6418,
+            -70.5359,
+            304,
+            211,
+            false
+        ],
+        [
+            1690472055,
+            41.6339,
+            -70.5421,
+            304,
+            210,
+            false
+        ],
+        [
+            1690472068,
+            41.6297,
+            -70.545,
+            304,
+            205,
+            false
+        ],
+        [
+            1690472074,
+            41.6288,
+            -70.5454,
+            304,
+            205,
+            false
+        ],
+        [
+            1690472081,
+            41.626,
+            -70.5465,
+            304,
+            193,
+            false
+        ],
+        [
+            1690472094,
+            41.6233,
+            -70.5469,
+            609,
+            185,
+            false
+        ],
+        [
+            1690472107,
+            41.621,
+            -70.5468,
+            609,
+            177,
+            false
+        ],
+        [
+            1690472112,
+            41.6191,
+            -70.5464,
+            609,
+            171,
+            false
+        ],
+        [
+            1690472121,
+            41.6172,
+            -70.5458,
+            609,
+            162,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-12:33:57",
+    "baro_altitude": 792.48,
+    "category": 4,
+    "geo_altitude": 830.58,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 41.7452,
+    "longitude": -70.2866,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "6513",
+    "time_position": 1690469109,
+    "true_track": 336.85,
+    "velocity": 85.05,
+    "vertical_rate": -4.23,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 126,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KFMH",
+    "estDepartureAirportHorizDistance": 2003,
+    "estDepartureAirportVertDistance": 485,
+    "firstSeen": 1690472037,
+    "lastSeen": 1690472112
+}

@@ -1,0 +1,144 @@
+{
+    "callsign": "SLEEP81 ",
+    "endTime": "2023/07/27-12:01:22",
+    "icao24": "adfcca",
+    "path": [
+        [
+            1690468457,
+            36.3834,
+            -97.0641,
+            1219,
+            179,
+            false
+        ],
+        [
+            1690468503,
+            36.3334,
+            -97.064,
+            1219,
+            180,
+            false
+        ],
+        [
+            1690468539,
+            36.2928,
+            -97.0647,
+            1524,
+            181,
+            false
+        ],
+        [
+            1690468577,
+            36.25,
+            -97.0667,
+            1828,
+            182,
+            false
+        ],
+        [
+            1690468587,
+            36.2385,
+            -97.0679,
+            2133,
+            186,
+            false
+        ],
+        [
+            1690468594,
+            36.2301,
+            -97.0704,
+            2133,
+            196,
+            false
+        ],
+        [
+            1690468613,
+            36.2098,
+            -97.0785,
+            2133,
+            197,
+            false
+        ],
+        [
+            1690468651,
+            36.1687,
+            -97.0948,
+            2438,
+            197,
+            false
+        ],
+        [
+            1690468680,
+            36.1372,
+            -97.1071,
+            2743,
+            197,
+            false
+        ],
+        [
+            1690469256,
+            35.4322,
+            -97.3769,
+            3048,
+            197,
+            false
+        ],
+        [
+            1690469265,
+            35.4195,
+            -97.3759,
+            3048,
+            173,
+            false
+        ],
+        [
+            1690470082,
+            34.7917,
+            -97.2669,
+            3048,
+            172,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:34:17",
+    "baro_altitude": 3314.7,
+    "category": 0,
+    "geo_altitude": 3535.68,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 35.6145,
+    "longitude": -97.3104,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469109,
+    "true_track": 197.53,
+    "velocity": 143.5,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 276,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KF22",
+    "estDepartureAirportHorizDistance": 19073,
+    "estDepartureAirportVertDistance": 913,
+    "firstSeen": 1690468457,
+    "lastSeen": 1690470082
+}

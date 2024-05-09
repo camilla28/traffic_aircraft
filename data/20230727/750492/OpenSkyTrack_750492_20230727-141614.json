@@ -1,0 +1,184 @@
+{
+    "callsign": "AXM131  ",
+    "endTime": "2023/07/27-11:48:07",
+    "icao24": "750492",
+    "path": [
+        [
+            1690468878,
+            22.3374,
+            114.0286,
+            1219,
+            78,
+            false
+        ],
+        [
+            1690468887,
+            22.3371,
+            114.0397,
+            1219,
+            97,
+            false
+        ],
+        [
+            1690468894,
+            22.3339,
+            114.0492,
+            1219,
+            115,
+            false
+        ],
+        [
+            1690468904,
+            22.3262,
+            114.0595,
+            1524,
+            135,
+            false
+        ],
+        [
+            1690468914,
+            22.3148,
+            114.0669,
+            1524,
+            155,
+            false
+        ],
+        [
+            1690468922,
+            22.3033,
+            114.0703,
+            1524,
+            165,
+            false
+        ],
+        [
+            1690468932,
+            22.2894,
+            114.0722,
+            1524,
+            174,
+            false
+        ],
+        [
+            1690468961,
+            22.2421,
+            114.0753,
+            1524,
+            175,
+            false
+        ],
+        [
+            1690469008,
+            22.1626,
+            114.0846,
+            1828,
+            176,
+            false
+        ],
+        [
+            1690469017,
+            22.1482,
+            114.0846,
+            1828,
+            182,
+            false
+        ],
+        [
+            1690469027,
+            22.1304,
+            114.0833,
+            1828,
+            183,
+            false
+        ],
+        [
+            1690469088,
+            22.0229,
+            114.0756,
+            2133,
+            183,
+            false
+        ],
+        [
+            1690469107,
+            21.9895,
+            114.0732,
+            2438,
+            183,
+            false
+        ],
+        [
+            1690469143,
+            21.9262,
+            114.0686,
+            2743,
+            184,
+            false
+        ],
+        [
+            1690469209,
+            21.8754,
+            114.0648,
+            3048,
+            183,
+            false
+        ],
+        [
+            1690469235,
+            21.7544,
+            114.0559,
+            3657,
+            183,
+            false
+        ],
+        [
+            1690469287,
+            21.6534,
+            114.0492,
+            4267,
+            183,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:41:18",
+    "baro_altitude": 2552.7,
+    "category": 0,
+    "geo_altitude": 2453.64,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469107,
+    "latitude": 21.9895,
+    "longitude": 114.0732,
+    "on_ground": false,
+    "origin_country": "Malaysia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469107,
+    "true_track": 183.75,
+    "velocity": 196.42,
+    "vertical_rate": 5.85,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 5,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "VHHH",
+    "estDepartureAirportHorizDistance": 11189,
+    "estDepartureAirportVertDistance": 1378,
+    "firstSeen": 1690468878,
+    "lastSeen": 1690469287
+}

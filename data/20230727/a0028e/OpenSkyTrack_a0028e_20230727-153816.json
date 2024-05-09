@@ -1,0 +1,136 @@
+{
+    "callsign": "N10CA   ",
+    "endTime": "2023/07/27-15:38:05",
+    "icao24": "a0028e",
+    "path": [
+        [
+            1690482106,
+            32.2404,
+            -89.03,
+            1219,
+            259,
+            false
+        ],
+        [
+            1690482165,
+            32.2328,
+            -89.0757,
+            1219,
+            259,
+            false
+        ],
+        [
+            1690482266,
+            32.2193,
+            -89.157,
+            1524,
+            258,
+            false
+        ],
+        [
+            1690482366,
+            32.2056,
+            -89.2394,
+            1828,
+            258,
+            false
+        ],
+        [
+            1690482468,
+            32.1908,
+            -89.3277,
+            2133,
+            258,
+            false
+        ],
+        [
+            1690482576,
+            32.1748,
+            -89.4228,
+            2438,
+            258,
+            false
+        ],
+        [
+            1690482686,
+            32.1577,
+            -89.5238,
+            2743,
+            258,
+            false
+        ],
+        [
+            1690482777,
+            32.1435,
+            -89.6079,
+            3048,
+            258,
+            false
+        ],
+        [
+            1690482891,
+            32.125,
+            -89.7163,
+            3352,
+            258,
+            false
+        ],
+        [
+            1690482990,
+            32.1088,
+            -89.8104,
+            3657,
+            258,
+            false
+        ],
+        [
+            1690483085,
+            32.0933,
+            -89.9011,
+            3962,
+            258,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-15:21:46",
+    "baro_altitude": 617.22,
+    "category": 0,
+    "geo_altitude": 678.18,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 33.9242,
+    "longitude": -80.3723,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469108,
+    "true_track": 215.69,
+    "velocity": 69.67,
+    "vertical_rate": 1.3,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 175,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "14MS",
+    "estDepartureAirportHorizDistance": 11725,
+    "estDepartureAirportVertDistance": 1226,
+    "firstSeen": 1690482106,
+    "lastSeen": 1690483085
+}

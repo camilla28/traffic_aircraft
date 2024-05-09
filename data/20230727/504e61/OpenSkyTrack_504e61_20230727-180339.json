@@ -1,0 +1,128 @@
+{
+    "callsign": "HYS486  ",
+    "endTime": "2023/07/27-18:03:35",
+    "icao24": "504e61",
+    "path": [
+        [
+            1690491708,
+            44.55,
+            11.2482,
+            304,
+            297,
+            false
+        ],
+        [
+            1690491717,
+            44.5529,
+            11.2403,
+            304,
+            297,
+            false
+        ],
+        [
+            1690491734,
+            44.5591,
+            11.224,
+            609,
+            297,
+            false
+        ],
+        [
+            1690491743,
+            44.5626,
+            11.2153,
+            609,
+            303,
+            false
+        ],
+        [
+            1690491756,
+            44.5699,
+            11.2079,
+            914,
+            341,
+            false
+        ],
+        [
+            1690491765,
+            44.5772,
+            11.207,
+            914,
+            6,
+            false
+        ],
+        [
+            1690491773,
+            44.5831,
+            11.2098,
+            914,
+            27,
+            false
+        ],
+        [
+            1690491781,
+            44.5883,
+            11.2153,
+            914,
+            45,
+            false
+        ],
+        [
+            1690491790,
+            44.5939,
+            11.224,
+            914,
+            49,
+            false
+        ],
+        [
+            1690491815,
+            44.6099,
+            11.251,
+            1219,
+            50,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-18:01:48",
+    "baro_altitude": 9974.58,
+    "category": 0,
+    "geo_altitude": 10393.68,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 45.7888,
+    "longitude": 15.3616,
+    "on_ground": false,
+    "origin_country": "Republic of Moldova",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0244",
+    "time_position": 1690469107,
+    "true_track": 80.78,
+    "velocity": 263.2,
+    "vertical_rate": 7.8,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 45,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LIPE",
+    "estDepartureAirportHorizDistance": 3063,
+    "estDepartureAirportVertDistance": 434,
+    "firstSeen": 1690491708,
+    "lastSeen": 1690491815
+}

@@ -1,0 +1,72 @@
+{
+    "callsign": "HBPKG   ",
+    "endTime": "2023/07/27-10:47:03",
+    "icao24": "4b28a6",
+    "path": [
+        [
+            1690465594,
+            47.1815,
+            7.7388,
+            304,
+            231,
+            false
+        ],
+        [
+            1690465614,
+            47.1778,
+            7.7318,
+            304,
+            230,
+            false
+        ],
+        [
+            1690465623,
+            47.176,
+            7.7283,
+            304,
+            237,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-10:46:34",
+    "baro_altitude": 563.88,
+    "category": 0,
+    "geo_altitude": 592,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690465616,
+    "latitude": 47.1774,
+    "longitude": 7.7311,
+    "on_ground": false,
+    "origin_country": "Switzerland",
+    "position_source": 3,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7000",
+    "time_position": 1690465616,
+    "true_track": -130.45,
+    "velocity": 35.28,
+    "vertical_rate": 1,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 119,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSPL",
+    "estDepartureAirportHorizDistance": 148,
+    "estDepartureAirportVertDistance": 30,
+    "firstSeen": 1690465594,
+    "lastSeen": 1690465623
+}

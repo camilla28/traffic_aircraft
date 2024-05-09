@@ -1,0 +1,128 @@
+{
+    "callsign": "KLM94Y  ",
+    "endTime": "2023/07/24-14:40:45",
+    "icao24": "484c50",
+    "path": [
+        [
+            1690220309,
+            47.4568,
+            8.5673,
+            304,
+            275,
+            false
+        ],
+        [
+            1690220338,
+            47.4585,
+            8.5433,
+            304,
+            275,
+            false
+        ],
+        [
+            1690220355,
+            47.4596,
+            8.5266,
+            609,
+            275,
+            false
+        ],
+        [
+            1690220382,
+            47.4613,
+            8.5027,
+            914,
+            275,
+            false
+        ],
+        [
+            1690220401,
+            47.4626,
+            8.4845,
+            1219,
+            275,
+            false
+        ],
+        [
+            1690220410,
+            47.4627,
+            8.4745,
+            1219,
+            263,
+            false
+        ],
+        [
+            1690220420,
+            47.46,
+            8.4626,
+            1219,
+            239,
+            false
+        ],
+        [
+            1690220428,
+            47.4555,
+            8.4545,
+            1219,
+            222,
+            false
+        ],
+        [
+            1690220437,
+            47.4484,
+            8.4471,
+            1524,
+            209,
+            false
+        ],
+        [
+            1690220445,
+            47.4412,
+            8.4416,
+            1524,
+            207,
+            false
+        ]
+    ],
+    "startTime": "2023/07/24-14:38:29",
+    "baro_altitude": 1303.02,
+    "category": 1,
+    "geo_altitude": 1356.36,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690220407,
+    "latitude": 47.4629,
+    "longitude": 8.4776,
+    "on_ground": false,
+    "origin_country": "Kingdom of the Netherlands",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1690220407,
+    "true_track": 271.36,
+    "velocity": 86.97,
+    "vertical_rate": 5.85,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 129,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSZH",
+    "estDepartureAirportHorizDistance": 1618,
+    "estDepartureAirportVertDistance": 33,
+    "firstSeen": 1690220309,
+    "lastSeen": 1690220445
+}

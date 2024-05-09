@@ -1,0 +1,104 @@
+{
+    "callsign": "DEGGO   ",
+    "endTime": "2023/07/27-11:32:10",
+    "icao24": "3d152a",
+    "path": [
+        [
+            1690468147,
+            47.6102,
+            9.5208,
+            2133,
+            348,
+            false
+        ],
+        [
+            1690468157,
+            47.617,
+            9.5188,
+            2133,
+            348,
+            false
+        ],
+        [
+            1690468167,
+            47.6224,
+            9.5172,
+            2438,
+            349,
+            false
+        ],
+        [
+            1690468178,
+            47.6292,
+            9.5154,
+            2133,
+            350,
+            false
+        ],
+        [
+            1690468259,
+            47.6818,
+            9.5012,
+            2438,
+            347,
+            false
+        ],
+        [
+            1690468280,
+            47.6935,
+            9.4974,
+            2438,
+            347,
+            false
+        ],
+        [
+            1690468330,
+            47.7209,
+            9.489,
+            2743,
+            348,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:29:07",
+    "baro_altitude": 2339.34,
+    "category": 0,
+    "geo_altitude": 2461.26,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690468148,
+    "latitude": 47.6104,
+    "longitude": 9.5208,
+    "on_ground": false,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7521",
+    "time_position": 1690468147,
+    "true_track": 348.48,
+    "velocity": 54.08,
+    "vertical_rate": 6.5,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 96,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDNY",
+    "estDepartureAirportHorizDistance": 6840,
+    "estDepartureAirportVertDistance": 1922,
+    "firstSeen": 1690468147,
+    "lastSeen": 1690468330
+}

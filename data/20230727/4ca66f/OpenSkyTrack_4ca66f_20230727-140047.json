@@ -1,0 +1,80 @@
+{
+    "callsign": "SAS92R  ",
+    "endTime": "2023/07/27-14:00:30",
+    "icao24": "4ca66f",
+    "path": [
+        [
+            1690477002,
+            60.2759,
+            5.2237,
+            304,
+            171,
+            false
+        ],
+        [
+            1690477123,
+            60.2628,
+            5.2279,
+            304,
+            170,
+            false
+        ],
+        [
+            1690477136,
+            60.2857,
+            5.2207,
+            0,
+            170,
+            false
+        ],
+        [
+            1690477230,
+            60.2607,
+            5.2286,
+            304,
+            170,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-13:56:42",
+    "baro_altitude": 4572,
+    "category": 4,
+    "geo_altitude": 4564.38,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 59.8555,
+    "longitude": 5.2167,
+    "on_ground": false,
+    "origin_country": "Ireland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5332",
+    "time_position": 1690469108,
+    "true_track": 172.17,
+    "velocity": 196.29,
+    "vertical_rate": 0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 8,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "ENBR",
+    "estDepartureAirportHorizDistance": 1958,
+    "estDepartureAirportVertDistance": 306,
+    "firstSeen": 1690477002,
+    "lastSeen": 1690477230
+}

@@ -1,0 +1,120 @@
+{
+    "callsign": "TRA8V   ",
+    "endTime": "2023/07/27-13:56:52",
+    "icao24": "48414d",
+    "path": [
+        [
+            1690476807,
+            36.4013,
+            28.0722,
+            0,
+            250,
+            false
+        ],
+        [
+            1690476820,
+            36.3992,
+            28.0658,
+            0,
+            249,
+            false
+        ],
+        [
+            1690476870,
+            36.3918,
+            28.0401,
+            304,
+            251,
+            false
+        ],
+        [
+            1690476889,
+            36.3892,
+            28.0302,
+            609,
+            251,
+            false
+        ],
+        [
+            1690476902,
+            36.388,
+            28.0237,
+            609,
+            261,
+            false
+        ],
+        [
+            1690476911,
+            36.3877,
+            28.0182,
+            609,
+            269,
+            false
+        ],
+        [
+            1690476920,
+            36.3877,
+            28.0135,
+            609,
+            270,
+            false
+        ],
+        [
+            1690476968,
+            36.3879,
+            27.987,
+            609,
+            269,
+            false
+        ],
+        [
+            1690477012,
+            36.3876,
+            27.9688,
+            914,
+            268,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-13:53:27",
+    "baro_altitude": 11894.82,
+    "category": 1,
+    "geo_altitude": 12390.12,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 41.2633,
+    "longitude": 22.8828,
+    "on_ground": false,
+    "origin_country": "Kingdom of the Netherlands",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0141",
+    "time_position": 1690469109,
+    "true_track": 153.43,
+    "velocity": 278.38,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 14,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LGRP",
+    "estDepartureAirportHorizDistance": 951,
+    "estDepartureAirportVertDistance": 147,
+    "firstSeen": 1690476807,
+    "lastSeen": 1690477012
+}

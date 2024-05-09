@@ -1,0 +1,80 @@
+{
+    "callsign": "SLI2032 ",
+    "endTime": "2023/07/27-18:56:03",
+    "icao24": "0d0ac1",
+    "path": [
+        [
+            1690494912,
+            19.4404,
+            -99.0677,
+            1828,
+            239,
+            false
+        ],
+        [
+            1690494937,
+            19.4316,
+            -99.0834,
+            1828,
+            239,
+            false
+        ],
+        [
+            1690494955,
+            19.4245,
+            -99.096,
+            2133,
+            240,
+            false
+        ],
+        [
+            1690494963,
+            19.4214,
+            -99.1019,
+            2438,
+            240,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-18:55:12",
+    "baro_altitude": null,
+    "category": 1,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690494583,
+    "latitude": 19.4435,
+    "longitude": -99.0645,
+    "on_ground": true,
+    "origin_country": "Mexico",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690494583,
+    "true_track": 59.06,
+    "velocity": 0,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 16,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "MMMX",
+    "estDepartureAirportHorizDistance": 914,
+    "estDepartureAirportVertDistance": 134,
+    "firstSeen": 1690494912,
+    "lastSeen": 1690494963
+}

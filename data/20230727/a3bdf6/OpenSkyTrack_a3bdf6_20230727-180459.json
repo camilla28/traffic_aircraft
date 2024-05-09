@@ -1,0 +1,160 @@
+{
+    "callsign": "N340GT  ",
+    "endTime": "2023/07/27-17:38:29",
+    "icao24": "a3bdf6",
+    "path": [
+        [
+            1690487898,
+            39.3585,
+            -104.6617,
+            3048,
+            109,
+            false
+        ],
+        [
+            1690487986,
+            39.3391,
+            -104.5921,
+            3048,
+            110,
+            false
+        ],
+        [
+            1690488124,
+            39.308,
+            -104.4794,
+            3352,
+            109,
+            false
+        ],
+        [
+            1690488200,
+            39.2897,
+            -104.4144,
+            3657,
+            110,
+            false
+        ],
+        [
+            1690488217,
+            39.29,
+            -104.4149,
+            3657,
+            125,
+            false
+        ],
+        [
+            1690488225,
+            39.2794,
+            -104.4059,
+            3657,
+            160,
+            false
+        ],
+        [
+            1690488256,
+            39.2654,
+            -104.4004,
+            3657,
+            163,
+            false
+        ],
+        [
+            1690488268,
+            39.26,
+            -104.3985,
+            3657,
+            163,
+            false
+        ],
+        [
+            1690488909,
+            39.1742,
+            -104.3664,
+            3962,
+            163,
+            false
+        ],
+        [
+            1690489000,
+            38.6731,
+            -104.0465,
+            6096,
+            145,
+            false
+        ],
+        [
+            1690489124,
+            38.5985,
+            -103.9812,
+            6096,
+            145,
+            false
+        ],
+        [
+            1690489367,
+            38.4697,
+            -103.8688,
+            6400,
+            145,
+            false
+        ],
+        [
+            1690490124,
+            38.3724,
+            -103.7842,
+            6705,
+            145,
+            false
+        ],
+        [
+            1690490309,
+            38.3717,
+            -103.7836,
+            6705,
+            146,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-16:58:18",
+    "baro_altitude": 3855.72,
+    "category": 2,
+    "geo_altitude": 4046.22,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 43.2166,
+    "longitude": -95.2083,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469109,
+    "true_track": 252.61,
+    "velocity": 89.49,
+    "vertical_rate": -1.63,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 178,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "43CO",
+    "estDepartureAirportHorizDistance": 989,
+    "estDepartureAirportVertDistance": 1059,
+    "firstSeen": 1690487898,
+    "lastSeen": 1690490309
+}

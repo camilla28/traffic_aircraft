@@ -1,0 +1,80 @@
+{
+    "callsign": "SWR4BT  ",
+    "endTime": "2023/07/24-14:47:48",
+    "icao24": "502d3f",
+    "path": [
+        [
+            1690220814,
+            47.4578,
+            8.5531,
+            304,
+            275,
+            false
+        ],
+        [
+            1690220823,
+            47.4586,
+            8.5436,
+            304,
+            277,
+            false
+        ],
+        [
+            1690220850,
+            47.4606,
+            8.5165,
+            609,
+            275,
+            false
+        ],
+        [
+            1690220868,
+            47.4619,
+            8.499,
+            914,
+            276,
+            false
+        ]
+    ],
+    "startTime": "2023/07/24-14:46:54",
+    "baro_altitude": 457.2,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690220807,
+    "latitude": 47.4574,
+    "longitude": 8.559,
+    "on_ground": false,
+    "origin_country": "Latvia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1690220807,
+    "true_track": 275.62,
+    "velocity": 8.75,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 129,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSZH",
+    "estDepartureAirportHorizDistance": 1194,
+    "estDepartureAirportVertDistance": 25,
+    "firstSeen": 1690220814,
+    "lastSeen": 1690220868
+}

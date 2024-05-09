@@ -1,0 +1,80 @@
+{
+    "callsign": "BBX618  ",
+    "endTime": "2023/07/27-14:55:20",
+    "icao24": "45a18d",
+    "path": [
+        [
+            1690480194,
+            55.6059,
+            6.8968,
+            1828,
+            89,
+            false
+        ],
+        [
+            1690480289,
+            55.6063,
+            6.9991,
+            1828,
+            91,
+            false
+        ],
+        [
+            1690480298,
+            55.606,
+            7.0085,
+            1828,
+            93,
+            false
+        ],
+        [
+            1690480520,
+            55.5984,
+            7.2426,
+            1828,
+            93,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-14:49:54",
+    "baro_altitude": 723.9,
+    "category": 8,
+    "geo_altitude": 693.42,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469108,
+    "latitude": 55.5287,
+    "longitude": 8.1856,
+    "on_ground": false,
+    "origin_country": "Denmark",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469105,
+    "true_track": 84.38,
+    "velocity": 68.24,
+    "vertical_rate": -1.63,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1690480194,
+    "lastSeen": 1690480520
+}

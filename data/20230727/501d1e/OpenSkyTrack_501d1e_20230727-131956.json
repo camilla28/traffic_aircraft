@@ -1,0 +1,120 @@
+{
+    "callsign": "CTN414  ",
+    "endTime": "2023/07/27-13:19:52",
+    "icao24": "501d1e",
+    "path": [
+        [
+            1690474660,
+            45.6634,
+            15.8819,
+            1828,
+            315,
+            false
+        ],
+        [
+            1690474671,
+            45.6744,
+            15.874,
+            2133,
+            326,
+            false
+        ],
+        [
+            1690474681,
+            45.6837,
+            15.8722,
+            2438,
+            351,
+            false
+        ],
+        [
+            1690474684,
+            45.6875,
+            15.8726,
+            2438,
+            16,
+            false
+        ],
+        [
+            1690474701,
+            45.7058,
+            15.8803,
+            2743,
+            19,
+            false
+        ],
+        [
+            1690474711,
+            45.7164,
+            15.8862,
+            2743,
+            22,
+            false
+        ],
+        [
+            1690474711,
+            45.7164,
+            15.8862,
+            2743,
+            22,
+            false
+        ],
+        [
+            1690474741,
+            45.7501,
+            15.9061,
+            3048,
+            22,
+            false
+        ],
+        [
+            1690474792,
+            45.8127,
+            15.9429,
+            3352,
+            22,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-13:17:40",
+    "baro_altitude": 6766.56,
+    "category": 1,
+    "geo_altitude": 8145.78,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469108,
+    "latitude": 44.6917,
+    "longitude": 16.3909,
+    "on_ground": false,
+    "origin_country": "Croatia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1690469108,
+    "true_track": 348.77,
+    "velocity": 206.12,
+    "vertical_rate": -10.08,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 37,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LDZL",
+    "estDepartureAirportHorizDistance": 12040,
+    "estDepartureAirportVertDistance": 2011,
+    "firstSeen": 1690474660,
+    "lastSeen": 1690474782
+}

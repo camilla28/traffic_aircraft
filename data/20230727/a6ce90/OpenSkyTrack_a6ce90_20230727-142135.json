@@ -1,0 +1,136 @@
+{
+    "callsign": "JIA9952 ",
+    "endTime": "2023/07/27-14:21:31",
+    "icao24": "a6ce90",
+    "path": [
+        [
+            1690478172,
+            44.3552,
+            -73.1325,
+            1828,
+            187,
+            false
+        ],
+        [
+            1690478198,
+            44.3235,
+            -73.1376,
+            2133,
+            186,
+            false
+        ],
+        [
+            1690478218,
+            44.2984,
+            -73.1413,
+            2438,
+            185,
+            false
+        ],
+        [
+            1690478235,
+            44.276,
+            -73.1447,
+            2743,
+            186,
+            false
+        ],
+        [
+            1690478254,
+            44.2509,
+            -73.1486,
+            3048,
+            186,
+            false
+        ],
+        [
+            1690478286,
+            44.2043,
+            -73.1565,
+            3352,
+            186,
+            false
+        ],
+        [
+            1690478326,
+            44.143,
+            -73.1661,
+            3657,
+            186,
+            false
+        ],
+        [
+            1690478346,
+            44.1108,
+            -73.171,
+            3962,
+            186,
+            false
+        ],
+        [
+            1690478376,
+            44.0622,
+            -73.1786,
+            4267,
+            186,
+            false
+        ],
+        [
+            1690478404,
+            44.0146,
+            -73.1861,
+            4572,
+            186,
+            false
+        ],
+        [
+            1690478491,
+            43.8666,
+            -73.2092,
+            4876,
+            186,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-14:16:12",
+    "baro_altitude": 9448.8,
+    "category": 0,
+    "geo_altitude": 9997.44,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 40.1705,
+    "longitude": -74.6676,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7017",
+    "time_position": 1690469109,
+    "true_track": 44.01,
+    "velocity": 252.49,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 185,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "42VT",
+    "estDepartureAirportHorizDistance": 2090,
+    "estDepartureAirportVertDistance": 1929,
+    "firstSeen": 1690478172,
+    "lastSeen": 1690478491
+}

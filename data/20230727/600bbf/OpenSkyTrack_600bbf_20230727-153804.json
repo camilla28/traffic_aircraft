@@ -1,0 +1,120 @@
+{
+    "callsign": "AHY182  ",
+    "endTime": "2023/07/27-12:07:21",
+    "icao24": "600bbf",
+    "path": [
+        [
+            1690468502,
+            47.1384,
+            51.6381,
+            10363,
+            184,
+            false
+        ],
+        [
+            1690469173,
+            45.7562,
+            51.4876,
+            10363,
+            186,
+            false
+        ],
+        [
+            1690469191,
+            45.7191,
+            51.4809,
+            10363,
+            188,
+            false
+        ],
+        [
+            1690469209,
+            45.6818,
+            51.4726,
+            10363,
+            190,
+            false
+        ],
+        [
+            1690469262,
+            45.5743,
+            51.4411,
+            10363,
+            192,
+            false
+        ],
+        [
+            1690470153,
+            43.7294,
+            50.8564,
+            10363,
+            192,
+            false
+        ],
+        [
+            1690470347,
+            43.3216,
+            50.7326,
+            10363,
+            192,
+            false
+        ],
+        [
+            1690470412,
+            43.185,
+            50.6916,
+            10058,
+            192,
+            false
+        ],
+        [
+            1690470441,
+            43.1235,
+            50.6731,
+            9753,
+            192,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:35:02",
+    "baro_altitude": 10378.44,
+    "category": 1,
+    "geo_altitude": 10858.5,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469108,
+    "latitude": 45.89,
+    "longitude": 51.5024,
+    "on_ground": false,
+    "origin_country": "Azerbaijan",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469108,
+    "true_track": 184.22,
+    "velocity": 230.58,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "UATG",
+    "estDepartureAirportHorizDistance": 170800,
+    "estDepartureAirportVertDistance": 10400,
+    "firstSeen": 1690468502,
+    "lastSeen": 1690470441
+}

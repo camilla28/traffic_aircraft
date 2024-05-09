@@ -1,0 +1,72 @@
+{
+    "callsign": "DLH6C   ",
+    "endTime": "2023/07/24-14:28:25",
+    "icao24": "3c66a9",
+    "path": [
+        [
+            1690219685,
+            47.4582,
+            8.547,
+            304,
+            275,
+            false
+        ],
+        [
+            1690219694,
+            47.459,
+            8.5367,
+            304,
+            275,
+            false
+        ],
+        [
+            1690219705,
+            47.4597,
+            8.5251,
+            609,
+            275,
+            false
+        ]
+    ],
+    "startTime": "2023/07/24-14:28:05",
+    "baro_altitude": null,
+    "category": 1,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690219624,
+    "latitude": 47.4562,
+    "longitude": 8.5702,
+    "on_ground": true,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1690219624,
+    "true_track": 8.44,
+    "velocity": 5.14,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 129,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSZH",
+    "estDepartureAirportHorizDistance": 978,
+    "estDepartureAirportVertDistance": 40,
+    "firstSeen": 1690219685,
+    "lastSeen": 1690219705
+}

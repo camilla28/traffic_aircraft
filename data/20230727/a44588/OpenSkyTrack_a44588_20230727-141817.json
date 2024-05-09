@@ -1,0 +1,144 @@
+{
+    "callsign": "UAL1822 ",
+    "endTime": "2023/07/27-14:18:02",
+    "icao24": "a44588",
+    "path": [
+        [
+            1690477719,
+            37.6469,
+            -122.3437,
+            304,
+            46,
+            false
+        ],
+        [
+            1690477731,
+            37.652,
+            -122.3347,
+            304,
+            54,
+            false
+        ],
+        [
+            1690477772,
+            37.6726,
+            -122.2988,
+            609,
+            53,
+            false
+        ],
+        [
+            1690477812,
+            37.6973,
+            -122.2545,
+            914,
+            56,
+            false
+        ],
+        [
+            1690477843,
+            37.7155,
+            -122.2195,
+            1219,
+            55,
+            false
+        ],
+        [
+            1690477882,
+            37.734,
+            -122.1841,
+            1524,
+            56,
+            false
+        ],
+        [
+            1690477960,
+            37.7672,
+            -122.1188,
+            1828,
+            56,
+            false
+        ],
+        [
+            1690478020,
+            37.7882,
+            -122.0785,
+            2133,
+            57,
+            false
+        ],
+        [
+            1690478110,
+            37.8093,
+            -122.0383,
+            2438,
+            57,
+            false
+        ],
+        [
+            1690478253,
+            37.817,
+            -122.0239,
+            2743,
+            57,
+            false
+        ],
+        [
+            1690478274,
+            37.7768,
+            -122.1002,
+            2133,
+            57,
+            false
+        ],
+        [
+            1690478282,
+            37.8174,
+            -122.0232,
+            2743,
+            57,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-14:08:39",
+    "baro_altitude": 10370.82,
+    "category": 4,
+    "geo_altitude": 10957.56,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469039,
+    "latitude": 38.4877,
+    "longitude": -115.419,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469028,
+    "true_track": 256,
+    "velocity": 223.22,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 168,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KSFO",
+    "estDepartureAirportHorizDistance": 56638,
+    "estDepartureAirportVertDistance": 415,
+    "firstSeen": 1690477719,
+    "lastSeen": 1690478282
+}

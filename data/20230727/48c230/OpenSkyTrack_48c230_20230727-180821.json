@@ -1,0 +1,80 @@
+{
+    "callsign": "RYS5066 ",
+    "endTime": "2023/07/27-18:08:11",
+    "icao24": "48c230",
+    "path": [
+        [
+            1690491972,
+            38.5573,
+            30.9836,
+            9753,
+            338,
+            false
+        ],
+        [
+            1690492029,
+            38.6667,
+            30.9309,
+            9753,
+            339,
+            false
+        ],
+        [
+            1690492059,
+            38.7241,
+            30.9036,
+            10058,
+            339,
+            false
+        ],
+        [
+            1690492091,
+            38.785,
+            30.8742,
+            10363,
+            339,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-18:06:12",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": 11468.1,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 46.3263,
+    "longitude": 11.9437,
+    "on_ground": false,
+    "origin_country": "Poland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0457",
+    "time_position": 1690469108,
+    "true_track": 49.57,
+    "velocity": 241.95,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1690491972,
+    "lastSeen": 1690492091
+}

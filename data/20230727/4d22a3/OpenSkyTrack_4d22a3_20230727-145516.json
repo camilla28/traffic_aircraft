@@ -1,0 +1,80 @@
+{
+    "callsign": "CAI31VL ",
+    "endTime": "2023/07/27-14:55:07",
+    "icao24": "4d22a3",
+    "path": [
+        [
+            1690480429,
+            38.2383,
+            30.7703,
+            9448,
+            342,
+            false
+        ],
+        [
+            1690480440,
+            38.26,
+            30.7615,
+            9448,
+            342,
+            false
+        ],
+        [
+            1690480498,
+            38.372,
+            30.7166,
+            9753,
+            342,
+            false
+        ],
+        [
+            1690480507,
+            38.3895,
+            30.7095,
+            10058,
+            342,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-14:53:49",
+    "baro_altitude": 11277.6,
+    "category": 0,
+    "geo_altitude": 11681.46,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469108,
+    "latitude": 43.7564,
+    "longitude": 21.4249,
+    "on_ground": false,
+    "origin_country": "Malta",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7667",
+    "time_position": 1690469108,
+    "true_track": 127.49,
+    "velocity": 286.56,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1690480429,
+    "lastSeen": 1690480507
+}

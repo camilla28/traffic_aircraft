@@ -1,0 +1,136 @@
+{
+    "callsign": "N924JB  ",
+    "endTime": "2023/07/27-12:06:29",
+    "icao24": "accdd0",
+    "path": [
+        [
+            1690467924,
+            34.7224,
+            -92.0229,
+            2438,
+            68,
+            false
+        ],
+        [
+            1690467924,
+            34.7224,
+            -92.0229,
+            2438,
+            68,
+            false
+        ],
+        [
+            1690468412,
+            34.8924,
+            -91.5035,
+            6096,
+            68,
+            false
+        ],
+        [
+            1690468483,
+            34.9187,
+            -91.4223,
+            6400,
+            68,
+            false
+        ],
+        [
+            1690468555,
+            34.9462,
+            -91.3374,
+            6705,
+            68,
+            false
+        ],
+        [
+            1690468589,
+            34.9588,
+            -91.2983,
+            7010,
+            68,
+            false
+        ],
+        [
+            1690468647,
+            34.9801,
+            -91.232,
+            7315,
+            68,
+            false
+        ],
+        [
+            1690468718,
+            35.0056,
+            -91.1524,
+            7620,
+            68,
+            false
+        ],
+        [
+            1690468793,
+            35.0325,
+            -91.0688,
+            7924,
+            68,
+            false
+        ],
+        [
+            1690469680,
+            35.4228,
+            -89.8236,
+            8229,
+            69,
+            false
+        ],
+        [
+            1690470389,
+            35.7358,
+            -88.7848,
+            8229,
+            69,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-11:25:24",
+    "baro_altitude": 8229.6,
+    "category": 2,
+    "geo_altitude": 8740.14,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 35.169,
+    "longitude": -90.6393,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1642",
+    "time_position": 1690469109,
+    "true_track": 68.95,
+    "velocity": 138.91,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 4,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "AR55",
+    "estDepartureAirportHorizDistance": 6443,
+    "estDepartureAirportVertDistance": 2521,
+    "firstSeen": 1690467924,
+    "lastSeen": 1690470389
+}

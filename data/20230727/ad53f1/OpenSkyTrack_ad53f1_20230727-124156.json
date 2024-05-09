@@ -1,0 +1,72 @@
+{
+    "callsign": "N958SB  ",
+    "endTime": "2023/07/27-12:41:37",
+    "icao24": "ad53f1",
+    "path": [
+        [
+            1690471368,
+            40.6799,
+            -94.5529,
+            1828,
+            230,
+            false
+        ],
+        [
+            1690472191,
+            40.5195,
+            -94.8052,
+            1828,
+            229,
+            false
+        ],
+        [
+            1690472497,
+            40.2216,
+            -95.2682,
+            1828,
+            229,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-12:22:48",
+    "baro_altitude": 1973.58,
+    "category": 2,
+    "geo_altitude": 2026.92,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469106,
+    "latitude": 41.6808,
+    "longitude": -92.9302,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469106,
+    "true_track": 231.4,
+    "velocity": 75.04,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 232,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "MO62",
+    "estDepartureAirportHorizDistance": 19051,
+    "estDepartureAirportVertDistance": 1623,
+    "firstSeen": 1690471368,
+    "lastSeen": 1690472497
+}

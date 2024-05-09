@@ -1,0 +1,112 @@
+{
+    "callsign": "N3373L  ",
+    "endTime": "2023/07/27-15:51:57",
+    "icao24": "a3b29c",
+    "path": [
+        [
+            1690479656,
+            42.8075,
+            -95.5022,
+            2438,
+            247,
+            false
+        ],
+        [
+            1690479719,
+            42.7978,
+            -95.5368,
+            2438,
+            249,
+            false
+        ],
+        [
+            1690480196,
+            42.7438,
+            -95.7298,
+            2438,
+            249,
+            false
+        ],
+        [
+            1690480965,
+            42.5988,
+            -96.2342,
+            2438,
+            248,
+            false
+        ],
+        [
+            1690481760,
+            42.4352,
+            -96.7941,
+            2438,
+            248,
+            false
+        ],
+        [
+            1690482301,
+            42.3679,
+            -97.0185,
+            2438,
+            249,
+            false
+        ],
+        [
+            1690483076,
+            42.1897,
+            -97.6105,
+            2438,
+            248,
+            false
+        ],
+        [
+            1690483917,
+            42.1352,
+            -97.7881,
+            2438,
+            247,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-14:40:56",
+    "baro_altitude": 1981.2,
+    "category": 2,
+    "geo_altitude": 2042.16,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 43.7639,
+    "longitude": -89.2693,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690469109,
+    "true_track": 260.79,
+    "velocity": 57.85,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KCKP",
+    "estDepartureAirportHorizDistance": 9847,
+    "estDepartureAirportVertDistance": 2232,
+    "firstSeen": 1690479656,
+    "lastSeen": 1690483917
+}

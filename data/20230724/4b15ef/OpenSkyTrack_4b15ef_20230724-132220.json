@@ -1,0 +1,136 @@
+{
+    "callsign": "EDW310B ",
+    "endTime": "2023/07/24-13:22:12",
+    "icao24": "4b15ef",
+    "path": [
+        [
+            1690215619,
+            47.4586,
+            8.5424,
+            304,
+            276,
+            false
+        ],
+        [
+            1690215639,
+            47.4603,
+            8.5202,
+            609,
+            277,
+            false
+        ],
+        [
+            1690215649,
+            47.4613,
+            8.5099,
+            914,
+            277,
+            false
+        ],
+        [
+            1690215668,
+            47.4628,
+            8.4912,
+            1219,
+            276,
+            false
+        ],
+        [
+            1690215677,
+            47.4632,
+            8.4825,
+            1219,
+            269,
+            false
+        ],
+        [
+            1690215688,
+            47.4609,
+            8.4734,
+            1524,
+            233,
+            false
+        ],
+        [
+            1690215697,
+            47.4565,
+            8.4683,
+            1524,
+            208,
+            false
+        ],
+        [
+            1690215705,
+            47.4507,
+            8.464,
+            1524,
+            206,
+            false
+        ],
+        [
+            1690215714,
+            47.4446,
+            8.4587,
+            1524,
+            215,
+            false
+        ],
+        [
+            1690215724,
+            47.4395,
+            8.451,
+            1524,
+            232,
+            false
+        ],
+        [
+            1690215732,
+            47.4353,
+            8.4424,
+            1524,
+            234,
+            false
+        ]
+    ],
+    "startTime": "2023/07/24-13:20:19",
+    "baro_altitude": 1676.4,
+    "category": 1,
+    "geo_altitude": 1729.74,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690215711,
+    "latitude": 47.4473,
+    "longitude": 8.4613,
+    "on_ground": false,
+    "origin_country": "Switzerland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3077",
+    "time_position": 1690215710,
+    "true_track": 209.15,
+    "velocity": 86.59,
+    "vertical_rate": 5.85,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 129,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSZH",
+    "estDepartureAirportHorizDistance": 744,
+    "estDepartureAirportVertDistance": 109,
+    "firstSeen": 1690215619,
+    "lastSeen": 1690215732
+}

@@ -1,0 +1,72 @@
+{
+    "callsign": "WML74   ",
+    "endTime": "2023/07/27-12:55:54",
+    "icao24": "a26e65",
+    "path": [
+        [
+            1690473313,
+            43.6537,
+            -70.4074,
+            914,
+            281,
+            false
+        ],
+        [
+            1690473339,
+            43.6583,
+            -70.4405,
+            1219,
+            280,
+            false
+        ],
+        [
+            1690473354,
+            43.6613,
+            -70.4644,
+            1524,
+            279,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-12:55:13",
+    "baro_altitude": 2202.18,
+    "category": 3,
+    "geo_altitude": 2278.38,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690469109,
+    "latitude": 43.5401,
+    "longitude": -70.5906,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2121",
+    "time_position": 1690469109,
+    "true_track": 84.82,
+    "velocity": 153.93,
+    "vertical_rate": -6.5,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 152,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "ME26",
+    "estDepartureAirportHorizDistance": 3353,
+    "estDepartureAirportVertDistance": 1078,
+    "firstSeen": 1690473313,
+    "lastSeen": 1690473354
+}

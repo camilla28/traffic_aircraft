@@ -1,0 +1,128 @@
+{
+    "callsign": "KAC616  ",
+    "endTime": "2023/07/27-13:14:55",
+    "icao24": "706027",
+    "path": [
+        [
+            1690473791,
+            26.2989,
+            50.6089,
+            609,
+            346,
+            false
+        ],
+        [
+            1690473820,
+            26.3202,
+            50.6036,
+            609,
+            347,
+            false
+        ],
+        [
+            1690473947,
+            26.4583,
+            50.5671,
+            1828,
+            343,
+            false
+        ],
+        [
+            1690474114,
+            26.5666,
+            50.5309,
+            1828,
+            343,
+            false
+        ],
+        [
+            1690474200,
+            26.5894,
+            50.5233,
+            2133,
+            343,
+            false
+        ],
+        [
+            1690474209,
+            26.5937,
+            50.5219,
+            2438,
+            343,
+            false
+        ],
+        [
+            1690474209,
+            26.5937,
+            50.5219,
+            2438,
+            319,
+            false
+        ],
+        [
+            1690474379,
+            26.9362,
+            50.23,
+            4572,
+            319,
+            false
+        ],
+        [
+            1690474395,
+            26.9561,
+            50.2111,
+            4876,
+            319,
+            false
+        ],
+        [
+            1690474495,
+            27.0816,
+            50.0915,
+            5486,
+            319,
+            false
+        ]
+    ],
+    "startTime": "2023/07/27-13:03:11",
+    "baro_altitude": 1363.98,
+    "category": 1,
+    "geo_altitude": 4259.58,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1690468921,
+    "latitude": 26.4712,
+    "longitude": 50.795,
+    "on_ground": false,
+    "origin_country": "Kuwait",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1690468921,
+    "true_track": 157.71,
+    "velocity": 157.34,
+    "vertical_rate": -6.5,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 15,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "OBBI",
+    "estDepartureAirportHorizDistance": 3885,
+    "estDepartureAirportVertDistance": 706,
+    "firstSeen": 1690473791,
+    "lastSeen": 1690474495
+}
