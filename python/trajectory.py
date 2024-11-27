@@ -11,8 +11,30 @@ import pandas as pd
 from datetime import datetime
 from statistics import mean, stdev
 from scipy.signal import butter,filtfilt
+from plot_4d_dimensions import PlotData
+from geopy import distance
+from weather import calc_speeds
 
+'''
+ICAO_LIST_TEST_1 = ['02a1b3','3c496e','4074b2', '4075fe', '4076cc', '40799c', '461e17', 'c0637c',
+                    '4692ce', '4951d6', '4b1939', '4bd183', '4cada7', '4cadf2', '4d21f2', '4d221f',
+                    '4d2248', '4d22b2', '4d23fd', '503cc0', '80139d', '801431', 'a014c9', 'a1e5f8',
+                    'a2401b', 'a264a4', 'a2919a', 'a3b4d6', 'a3b529', 'a41bb5', 'a4491c', 'a48dea',
+                    'a4dd35', 'a4e876', 'a50119', 'a55785', 'a5ea5c', 'a6b1a3', 'a74a5a', 'a8ab3c',
+                    'a8b760', 'a8c44b', 'aa76a8', 'aa777e', 'aa7fa1', 'aaaa64', 'ab3639', 'ab5f43',
+                    'ab73ca', 'ab84c9', 'ac15d1', 'ac3338', 'ac4dfb', 'acef2d', 'adbb39', 'c01dcb']
 
+'''
+
+#ICAO_LIST_TEST_1 = ['4951d6', '4b1939', '4d23fd']
+ICAO_LIST_TEST_1 = ['02a1b3', '461f64', '4b1939', '4cadbf', 'a6fea5']
+ICAO_LIST_TEST_2 = ['020140', '02a1b3']
+ICAO_LIST_TEST_3 = ['02a1b3']
+ICAO_LIST_TEST_4 = ['020140', '02a1b3', '010244','0180a4','02006e','020073', '020095', '020104', '020112','020124','02a260','06a09a']
+ICAO_LIST_TEST_5 = ['020095']
+ICAO_LIST_TEST_6 = ['02a1b3', '3c6542', 'a11fc7', 'a6b3b8']
+#ICAO_LIST_TEST_6 = ['a6b3b8']
+ICAO_LIST_TEST_7 = ['020124']
 
 
 class Trajectory:
@@ -21,7 +43,7 @@ class Trajectory:
         # OpenSkyApi credentials
         self.username = username
         self.password = password
-        self.api = OpenSkyApi(self.username, self.password)
+        self.api = OpenSkyApi(username=username, password=password)
         if datestr is None:
             self.datestr = time.strftime("%Y%m%d")
         else:
@@ -36,7 +58,7 @@ class Trajectory:
         states = self.api.get_states()
         #states = self.api.get_states(bbox=(45.8389, 47.8229, 5.9962, 10.5226))
         #states = api.get_states(bbox=(-20, 60, 20, 100))
-
+        print(states)
         for s in states.states:
             #print(states)
 
@@ -53,7 +75,8 @@ class Trajectory:
                 # if the demo_folder directory is not present 
                 # then create it.
                 os.makedirs("data\\"+datestr)
-                
+                print("Create folder")
+
             #icao24 = "4b1815"
             track = jsons.dump(self.api.get_track_by_aircraft(icao24))
 
@@ -62,8 +85,8 @@ class Trajectory:
                 flights = jsons.dump(self.api.get_flights_by_aircraft(icao24,int(track['startTime'])- 86400, int(track['endTime'])+86400))
                 
                 if flights != None:
-                    track['startTime'] = datetime.datetime.fromtimestamp(track['startTime']).strftime("%Y/%m/%d-%H:%M:%S")
-                    track['endTime'] = datetime.datetime.fromtimestamp(track['endTime']).strftime("%Y/%m/%d-%H:%M:%S")
+                    track['startTime'] = datetime.fromtimestamp(track['startTime']).strftime("%Y/%m/%d-%H:%M:%S")
+                    track['endTime'] = datetime.fromtimestamp(track['endTime']).strftime("%Y/%m/%d-%H:%M:%S")
 
                     state = jsons.dump(s)
                     merged_dict = track
@@ -83,6 +106,7 @@ class Trajectory:
                     timestr = time.strftime("%Y%m%d-%H%M%S")
                     with open("data\\"+datestr+"\\"+icao24+"\\OpenSkyTrack_"+icao24+"_"+timestr+".json", "w") as write_file:
                         json.dump(merged_dict, write_file, indent=4)
+                    print("Create file")
                 else:
                     print(icao24, "Sem dados de voo")
             else:
@@ -195,6 +219,36 @@ class Trajectory:
         # Distance in Metres
         return r * theta
 
+    def __remove_track_none(self, data_dict):
+        index = 0
+        remove_list = list()
+        for item in data_dict:
+            if item[4] == None:
+                remove_list.append(index)
+            index = index + 1
+        
+        remove_list.reverse()
+        for i in remove_list:
+            data_dict.remove(data_dict[i])
+
+        return data_dict
+
+    def __calc_speeds(self, waypoint, last_waypoint):
+
+        time_diff = waypoint[0] - last_waypoint[0]
+
+        last = (last_waypoint[1], last_waypoint[2])
+        actual = (waypoint[1], waypoint[2])
+        d_distante = distance.distance(last, actual).meters
+        speed = d_distante / time_diff #[m/s]
+        waypoint.append(speed)
+
+        # Calculate vertical rate
+        alt_diff = waypoint[3] - last_waypoint[3]
+        vertical_rate = alt_diff / time_diff
+        waypoint.append(vertical_rate)
+
+        return waypoint
 
     '''
         Update speed using waypoints of trajectory
@@ -212,44 +266,119 @@ class Trajectory:
                         
             data_dict = json.load(read_file)
             icao_list = list(data_dict.keys())
-
+            #icao = "3e7281"
+            
+            # icao_list = ['392aed', '151e2f', '406668', '4072ea', '471f74', '4ac9e3',
+            # '4bab52', '4bb275', '4cad49', 'a3a9ff', 'a79e31', 'abd8e4']
+            #icao_list = ['4072ea']
+            #icao_list = ['0180a8']
+            #icao_list = ['06a12f','5001db']
+            #icao_list = ['5001db']
             for icao in icao_list:
 
                 data_dict_sorted[icao] = sorted(data_dict[icao], key=self.__takeTime)
+                data_dict_sorted[icao] = self.__remove_track_none(data_dict_sorted[icao])
+                remove_list = list()
 
                 last_waypoint = data_dict_sorted[icao][0]
 
-                index = 0
+                index = 1
+                #print(icao)
 
-                for waypoint in data_dict_sorted[icao]:
-                    
-                    if index !=0:
+                # if index == len(data_dict_sorted[icao]):
+                #     if len(last_waypoint) < 7:
+                #         last_waypoint.append(0) # Coloca zero na velocidade no primeiro index
+                #         last_waypoint.append(0) # Coloca zero no vertical_rate no primeiro index
+                # else:
+
+                # for waypoint in data_dict_sorted[icao]:
+                while index < len(data_dict_sorted[icao]):
+
+                    waypoint = data_dict_sorted[icao][index]
+        
+                    if index != 0: 
                         # Return time difference (seconds)
                         time_diff = waypoint[0] - last_waypoint[0]
+
+                        if time_diff !=0: 
+
+                            if len(waypoint) < 7:
+                                waypoint = self.__calc_speeds(waypoint, last_waypoint)
+                            #waypoint = calc_speeds(waypoint)
+                            
+                            if index == 1:
+                                if len(last_waypoint) < 7:
+                                    last_waypoint.append(waypoint[6])  # Coloca a velocidade no primeiro index
+                                    last_waypoint.append(waypoint[7]) # Coloca o vertical_rate no primeiro index
+                                #last_waypoint = calc_speeds(last_waypoint)
+                            
+                            last_waypoint = waypoint
+                            index = index + 1
+
+                        else:
+                            data_dict_sorted[icao].remove(data_dict_sorted[icao][index])
+                                #remove_list.append(index)
+                            # if index == 1:
+                            #     if len(last_waypoint) < 7:
+                            #         last_waypoint.append(waypoint[6])  # Coloca a velocidade no primeiro index
+                            #         last_waypoint.append(waypoint[7]) # Coloca o vertical_rate no primeiro index
+                            #     #last_waypoint = calc_speeds(last_waypoint)
+                    
+                if index == 1:
+                    if len(last_waypoint) < 7:
+                        last_waypoint.append(0) # Coloca zero na velocidade no primeiro index
+                        last_waypoint.append(0) # Coloca zero no vertical_rate no primeiro index   
+                    # else:
+                    #     index = index + 1
+
+                    
                         
-                        if time_diff > 0 and len(waypoint) < 7:
+                #     else:
+                #         # Return time difference (seconds)
+                #         time_diff = data_dict_sorted[icao][index+1][0] - waypoint[0]
+                #         if time_diff != 0: 
+                #             if len(waypoint) < 7:
+                #                 waypoint = self.__calc_speeds(waypoint, data_dict_sorted[icao][index+1])
+                #             waypoint = calc_speeds(waypoint)
+                #         else:
+                #             remove_list.append(index)
 
-                            # Calculate speed
-                            lat_diff = waypoint[1] - last_waypoint[1]
-                            long_diff = waypoint[2] - last_waypoint[2]
-                            d_distante = self.__distance_on_geoid(last_waypoint[1], last_waypoint[2], waypoint[1], waypoint[2])
-                            speed = d_distante / time_diff #[m/s]
-                            waypoint.append(speed)
+                #     index = index + 1
 
-                            # Calculate vertical rate
-                            alt_diff = waypoint[3] - last_waypoint[3]
-                            vertical_rate = alt_diff / time_diff
-                            waypoint.append(vertical_rate)
-                        elif time_diff <= 0:
-                            waypoint.append(0) #speed = 0
-                            waypoint.append(0) #vertical_rate = 0
-                    else:
-                        waypoint.append(0) #speed = 0
-                        waypoint.append(0) #vertical_rate = 0
+                # remove_list.reverse()
+                # for i in remove_list:
+                #     data_dict_sorted[icao].remove(data_dict_sorted[icao][i])
 
-                    index = index + 1
-                    last_waypoint = waypoint
-            
+                        #if index !=0:    
+                            
+                            # Return time difference (seconds)
+                            #time_diff = waypoint[0] - last_waypoint[0]
+
+                            #if time_diff > 0 and len(waypoint) < 7:
+
+                                # Calculate speed
+                                # last = (last_waypoint[1], last_waypoint[2])
+                                # actual = (waypoint[1], waypoint[2])
+                                # d_distante = distance.distance(last, actual).meters
+                                # speed = d_distante / time_diff #[m/s]
+                                # waypoint.append(speed)
+
+                                # # Calculate vertical rate
+                                # alt_diff = waypoint[3] - last_waypoint[3]
+                                # vertical_rate = alt_diff / time_diff
+                                # waypoint.append(vertical_rate)
+                                
+                            # elif time_diff <= 0 and len(waypoint) < 7:
+                            #     waypoint.append(last_waypoint[6]) #Coloca a velocidade referente ao valor anterior
+                            #     waypoint.append(last_waypoint[7]) #Coloca o vertical_rate referente ao valor anterior
+
+                            # if index == 1 and len(last_waypoint) < 7: # Se o primeiro item não tiver velocidade
+                                # last_waypoint[6] = waypoint[6] # Coloca a velocidade no primeiro index
+                                # last_waypoint[7] = waypoint[7] # Coloca o vertical_rate no primeiro index
+                        # else:
+                        #     waypoint.append(0) #speed = 0
+                        #     waypoint.append(0) #vertical_rate = 0
+
         with open(data_path + "\\" + self.datestr + "_sorted.json", "w") as outfile:
             json.dump(data_dict_sorted, outfile)
         return data_dict_sorted
@@ -277,24 +406,46 @@ class Trajectory:
                 data[icao]['vel_z'] = list()
                 data[icao]['track'] = list()
                 data[icao]['t'] = list()
+                # data[icao]['mach'] = list()
+                # data[icao]['Vtas'] = list()
+                # data[icao]['Vtas_kts'] = list()
+                # data[icao]['Veas'] = list()
+                # data[icao]['Veas_kts'] = list()
+                # data[icao]['Vcas'] = list()
+                # data[icao]['Vcas_kts'] = list()
 
                 for waypoint in data_dict[icao]:
-                    data[icao]['t'].append(waypoint[0])
-                    data[icao]['lat'].append(waypoint[1])
-                    data[icao]['lon'].append(waypoint[2])
-                    data[icao]['alt'].append(waypoint[3])
-                    data[icao]['track'].append(waypoint[4])
-                    data[icao]['vel_xy'].append(waypoint[6])
-                    data[icao]['vel_z'].append(waypoint[7])
-        
+                    try:
+                        data[icao]['t'].append(waypoint[0])
+                        data[icao]['lat'].append(waypoint[1])
+                        data[icao]['lon'].append(waypoint[2])
+                        data[icao]['alt'].append(waypoint[3])
+                        data[icao]['track'].append(waypoint[4])
+                        data[icao]['vel_xy'].append(waypoint[6])
+                        data[icao]['vel_z'].append(waypoint[7])
+                        # data[icao]['mach'].append(waypoint[8]) #-  Mach Number
+                        # data[icao]['Vtas'].append(waypoint[9]) #-  Vtas/TAS True airspeed m/s
+                        # data[icao]['Vtas_kts'].append(waypoint[10]) #- Vtas/TAS True airspeed knots
+                        # data[icao]['Veas'].append(waypoint[11]) #- Veas/EAS Equivalent airspeed m/s
+                        # data[icao]['Veas_kts'].append(waypoint[12]) #- Veas/EAS Equivalent airspeed knots
+                        # data[icao]['Vcas'].append(waypoint[13]) #- Vcas/CAS Calibrated airspeed m/s
+                        # data[icao]['Vcas_kts'].append(waypoint[14]) #- Vcas/CAS Calibrated airspeed knots
+                    except Exception as inst:
+                        print(type(inst))    # the exception type
+                        print(inst.args)     # arguments stored in .args
+                        print(inst)          # __str__ allows args to be printed directly,
+
         return data
 
     '''
         Function to resample data into specific time step
     '''
     def __resample_data(self, data_dict):
+
         data = dict()
         icao_list = list(data_dict.keys())
+        #icao_list = ICAO_LIST_TEST_6
+
         for icao in icao_list:
             #data_dict[icao]['t'] =  pd.to_datetime(data_dict[icao]['t'])
             for i in np.arange(0, len(data_dict[icao]['t']), 1):
@@ -320,44 +471,75 @@ class Trajectory:
         return data
 
 
+    def __remove_samples_dict(self, airplane, index_init, index_end = None):
+
+        airplane_itens = list(airplane.keys())
+
+        if index_end == None:
+            for item in airplane_itens:
+                del airplane[item][index_init]
+        else:
+            for item in airplane_itens:
+                del airplane[item][index_init:index_end]
+
+        return airplane
+
+
     def __remove_take_off(self, airplane, lim=None):
-        alt = airplane.loc[:,"alt"]
+        
+        # Get altitute data
+        if isinstance(airplane, dict):
+            alt = airplane["alt"]
+        else:
+            alt = airplane.loc[:,"alt"]
+        
         window_init = 0 # A janela de take-off inicia no primeiro índice
         window_end = 0 # Inicialmente a janela de take-off acaba no primeiro índice também
         i = 1
+        
         if lim == None:
             lim = 10000
+        
         while i < len(alt) and alt[i] < lim:
             window_end = i 
             i = i+1   
-        #print("Remove Take-Off: ", window_init, window_end)
-        if window_init != window_end:
-            for i in sorted(range(window_init, window_end+1), reverse=True):
-                airplane = airplane.drop(index = airplane.index[i])
-            #for i in range(window_init, window_end):
-            #    airplane = airplane.drop([airplane.index[i]])
-            #    print(i, airplane.index[i], airplane)
+
+        if window_init < window_end:
+            #for i in sorted(range(window_init, window_end+1), reverse=True):
+            if isinstance(airplane, dict):
+                airplane = self.__remove_samples_dict(airplane, window_init, window_end+1)
+            else:                
+                airplane = airplane.drop(index = airplane.index[window_init:window_end+1])
+        
         return airplane
     
 
     def __remove_landing(self, airplane, lim = None):
-        alt = airplane.loc[:,"alt"]
+        
+        # Get altitute data
+        if isinstance(airplane, dict):
+            alt = airplane["alt"]
+        else:
+            alt = airplane.loc[:,"alt"]
+        
         window_end = len(alt) # 
         window_init = len(alt) # 
         i = window_init-1
+        
         if lim == None:
             lim = 10000
+
         while i > -1 and alt[i] < lim:
-            #print(i, alt[i])
             window_init = i 
-            i = i-1   
-        #print("Remove Landing: ", window_init, window_end)
+            i = i-1
+
         if window_init != window_end:
-            for i in sorted(range(window_init, window_end), reverse=True):
-                airplane = airplane.drop(index = airplane.index[i])
-            #for i in range(window_init, window_end):
-            #    airplane = airplane.drop([airplane.index[i]])
-            #    print(i, airplane.index[i], airplane)
+#            for i in sorted(range(window_init, window_end), reverse=True):
+            if isinstance(airplane, dict):
+                airplane = self.__remove_samples_dict(airplane, window_init, window_end)
+            else:                
+                airplane = airplane.drop(index = airplane.index[window_init:window_end])
+
         return airplane
 
 
@@ -366,58 +548,135 @@ class Trajectory:
     '''
     def __get_cruise_only(self, data_dict):
         icao_list = list(data_dict.keys()) #Esse é o certo
-        #icao_list = ['020140', '02a1b3']
-        #icao_list = ['02a1b3']
-        #icao_list = ['020140', '02a1b3', '010244','0180a4','02006e','020073', '020095', '020104', '020112','020124','02a260','06a09a']
-        #icao_list = ['020095']
+        #icao_list = ICAO_LIST_TEST_6
 
         for icao in icao_list:
             airplane = data_dict[icao]['filter']
+            
+            # Remove take off and landing (a media da altura dos voos)
+            if len(airplane.loc[:,"alt"]) > 0:
+                media = mean(airplane.loc[:,"alt"])
+                airplane = self.__remove_take_off(airplane, media)
+                airplane = self.__remove_landing(airplane, media)
+            else:
+                # Remove take off and landing (10000)
+                airplane = self.__remove_take_off(airplane, None)
+                airplane = self.__remove_landing(airplane, None)
+            
+            data_dict[icao]['cruise'] = airplane
+        
+        return data_dict
+
+
+    '''
+        Separate different flights from of one icao name into two data icaos
+    '''
+    def __separate_flights(self, data_dict):
+        icao_list = list(data_dict.keys()) #Esse é o certo
+        #icao_list = ICAO_LIST_TEST_6
+
+        data = dict()
+
+        for icao in icao_list:
+            airplane = data_dict[icao]
+            data[icao] = dict()
+            data[icao]['all'] = airplane
+
             # Remove take off and landing (10000)
             airplane = self.__remove_take_off(airplane, None)
             airplane = self.__remove_landing(airplane, None)
-            # Remove take off and landing (a media da altura dos voos)
-            #airplane = self.__remove_take_off(airplane, mean(airplane.loc[:,"alt"]))
-            #airplane = self.__remove_landing(airplane, mean(airplane.loc[:,"alt"]))
 
-            data_dict[icao]['cruise'] = airplane
-        return data_dict
-    
-    def butter_lowpass_filter(self, data):
-        # Filter requirements.
+            
+            # Get index of minimum altitude
+            #print(icao)
+            alt = airplane["alt"]
+            if len(alt) > 0:
+                alt_min = min(alt)
+                last_index = len(alt)-1
+                alt_min_index = alt.to_list().index(alt_min)
+                
+                if alt_min < 4000 and alt_min_index > 0 and alt_min_index < last_index:                
+
+                    airplane_itens = list(airplane.keys())
+                    
+                    new_data = dict()
+                    new_data["t"] = airplane.index[alt_min_index:last_index]
+                    for item in airplane_itens:
+                        new_data[item] = airplane.loc[:,item][alt_min_index:last_index]
+                        
+                    df = pd.DataFrame(new_data)
+                    df = df.set_index('t')
+
+                    data[icao+"_1"] = dict()
+                    data[icao+"_1"]['separate'] = df
+                    data[icao+"_1"]['all'] = df
+                
+                    update_data = dict()
+                    update_data["t"] = airplane.index[0:alt_min_index]
+                    for item in airplane_itens:
+                        update_data[item] = airplane.loc[:,item][0:alt_min_index]
+
+                    df = pd.DataFrame(update_data)
+                    df = df.set_index('t')
+                    data[icao]['separate'] = df
+                else:
+                    data[icao]['separate'] = airplane
+            else:
+                #data[icao]['separate'] = data[icao]['all'] 
+                data[icao]['separate'] = airplane
+        return data
+
+
+    '''
+        Use a butterfield filter low pass in samples 
+    '''
+    def butter_lowpass_filter(self, data_dict):
         
         order = 2      
         normal_cutoff = 0.13
+
         # Get the filter coefficients 
         b, a = butter(order, normal_cutoff, btype='low', analog=False)
 
-        data_dict = dict()
-        icao_list = list(data.keys())
-        #icao_list = ['020140', '02a1b3']
-        #icao_list = ['020140', '02a1b3', '010244','0180a4','02006e','020073', '020095', '020104', '020112','020124','02a260','06a09a']
-        for icao in icao_list:
-            airplane = data[icao]
-            if len(airplane.index) > 9: # Devido ao erro:ValueError: The length of the input vector x must be greater than padlen, which is 9
+        icao_list = list(data_dict.keys()) #Esse é o certo
+        #icao_list = ICAO_LIST_TEST_6
 
-                data_dict[icao] = dict()
-                data_dict[icao]['all'] = data[icao]
+        for icao in icao_list:
+            airplane = data_dict[icao]["separate"]
+
+            if len(airplane.index) > 9: # Devido ao erro:ValueError: The length of the input vector x must be greater than padlen, which is 9
 
                 data_filter = dict()
                 data_filter["t"] = airplane.index
-                
-                data_filter["alt"] = filtfilt(b, a, airplane.loc[:,"alt"])
-                data_filter["lon"] = filtfilt(b, a, airplane.loc[:,"lon"])
-                data_filter["lat"] = filtfilt(b, a, airplane.loc[:,"lat"])
-                data_filter["track"] = filtfilt(b, a, airplane.loc[:,"track"])
-                data_filter["vel_xy"] = filtfilt(b, a, airplane.loc[:,"vel_xy"])
-                data_filter["vel_z"] = filtfilt(b, a, airplane.loc[:,"vel_z"])
+
+                airplane_itens = list(airplane.keys())
+                for item in airplane_itens:
+                    data_filter[item] = filtfilt(b, a, airplane.loc[:,item])
                 
                 df = pd.DataFrame(data_filter)
                 df = df.set_index('t')
                 
                 data_dict[icao]['filter'] = df
-
+            else:
+                data_dict[icao]['filter'] = airplane
+            
         return data_dict
+
+
+    def __get_samples_above_3_only(self, data):
+        if len(data['filter'])>3:
+            return True
+        else:
+            return False
+
+    
+    def __remove_samples_above_3(self, data):
+        icao_list = list(data.keys()) 
+        
+        for icao in icao_list:
+            if len(data[icao]['filter']) < 4:
+                data.pop(icao)
+        return data
 
     '''
         Treat data 
@@ -436,12 +695,19 @@ class Trajectory:
 
         # Resample data to be always at same frequency
         data = self.__resample_data(data_dict)
+
+        # Separate flights of one airplane into two icao_data
+        data = self.__separate_flights(data)
         
         # Filter the data
         data = self.butter_lowpass_filter(data)
 
         # Remove take off and landing from data
         data = self.__get_cruise_only(data)
+
+        # Remove samples with length below 3
+        data = self.__remove_samples_above_3(data)
+
         return data
 
     '''
@@ -449,9 +715,10 @@ class Trajectory:
     '''
     def run_openskyapi_read(self):
         WAIT_TIME_SECONDS = 300 #5 minutes
-
+        print("Read first samples")
         self.__get_states()
  
         ticker = threading.Event()
+        print("Init loop")
         while not ticker.wait(WAIT_TIME_SECONDS):
             self.__get_states()
