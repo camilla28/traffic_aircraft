@@ -1,0 +1,80 @@
+{
+    "callsign": "N6078F  ",
+    "endTime": "2024/06/12-16:00:07",
+    "icao24": "a7e4b6",
+    "path": [
+        [
+            1718218787,
+            32.9852,
+            -111.9601,
+            609,
+            351,
+            false
+        ],
+        [
+            1718218795,
+            32.9884,
+            -111.9604,
+            609,
+            359,
+            false
+        ],
+        [
+            1718218805,
+            32.9924,
+            -111.9602,
+            609,
+            3,
+            false
+        ],
+        [
+            1718218807,
+            32.9935,
+            -111.9601,
+            609,
+            3,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-15:59:47",
+    "baro_altitude": 1661.16,
+    "category": 0,
+    "geo_altitude": 1699.26,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204680,
+    "latitude": 33.8299,
+    "longitude": -112.1417,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0341",
+    "time_position": 1718204673,
+    "true_track": 265.68,
+    "velocity": 54.69,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 112,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KA39",
+    "estDepartureAirportHorizDistance": 3834,
+    "estDepartureAirportVertDistance": 396,
+    "firstSeen": 1718218787,
+    "lastSeen": 1718218807
+}

@@ -1,0 +1,112 @@
+{
+    "callsign": "N4830P  ",
+    "endTime": "2024/06/12-14:25:51",
+    "icao24": "a5f624",
+    "path": [
+        [
+            1718213031,
+            44.263,
+            -88.533,
+            304,
+            299,
+            false
+        ],
+        [
+            1718213048,
+            44.266,
+            -88.5402,
+            304,
+            300,
+            false
+        ],
+        [
+            1718213057,
+            44.2669,
+            -88.544,
+            304,
+            278,
+            false
+        ],
+        [
+            1718213065,
+            44.2669,
+            -88.5475,
+            304,
+            263,
+            false
+        ],
+        [
+            1718213074,
+            44.2667,
+            -88.5511,
+            609,
+            267,
+            false
+        ],
+        [
+            1718213091,
+            44.2666,
+            -88.5581,
+            609,
+            268,
+            false
+        ],
+        [
+            1718213134,
+            44.2662,
+            -88.5761,
+            609,
+            267,
+            false
+        ],
+        [
+            1718213151,
+            44.2659,
+            -88.583,
+            609,
+            267,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-14:23:51",
+    "baro_altitude": 579.12,
+    "category": 0,
+    "geo_altitude": 541.02,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204650,
+    "latitude": 44.0686,
+    "longitude": -88.1735,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718204641,
+    "true_track": 66.88,
+    "velocity": 49.78,
+    "vertical_rate": 2.6,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 322,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KATW",
+    "estDepartureAirportHorizDistance": 909,
+    "estDepartureAirportVertDistance": 154,
+    "firstSeen": 1718213031,
+    "lastSeen": 1718213151
+}

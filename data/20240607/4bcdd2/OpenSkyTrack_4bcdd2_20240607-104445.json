@@ -1,0 +1,72 @@
+{
+    "callsign": "SXS9DG  ",
+    "endTime": "2024/06/07-10:44:50",
+    "icao24": "4bcdd2",
+    "path": [
+        [
+            1717767853,
+            46.2281,
+            6.0942,
+            304,
+            226,
+            false
+        ],
+        [
+            1717767872,
+            46.2185,
+            6.0796,
+            609,
+            227,
+            false
+        ],
+        [
+            1717767890,
+            46.2093,
+            6.0657,
+            914,
+            225,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-10:44:13",
+    "baro_altitude": 601.98,
+    "category": 0,
+    "geo_altitude": 716.28,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762945,
+    "latitude": 46.2779,
+    "longitude": 6.1674,
+    "on_ground": false,
+    "origin_country": "Turkey",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1717762945,
+    "true_track": 225.61,
+    "velocity": 68.39,
+    "vertical_rate": -2.93,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 102,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSGG",
+    "estDepartureAirportHorizDistance": 1280,
+    "estDepartureAirportVertDistance": 149,
+    "firstSeen": 1717767853,
+    "lastSeen": 1717767881
+}

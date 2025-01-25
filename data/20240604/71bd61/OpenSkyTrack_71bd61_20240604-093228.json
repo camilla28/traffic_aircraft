@@ -1,0 +1,120 @@
+{
+    "callsign": "JNA207  ",
+    "endTime": "2024/06/04-09:32:09",
+    "icao24": "71bd61",
+    "path": [
+        [
+            1717499054,
+            37.6529,
+            126.387,
+            1524,
+            71,
+            false
+        ],
+        [
+            1717499233,
+            37.6544,
+            126.3926,
+            1524,
+            71,
+            false
+        ],
+        [
+            1717499233,
+            37.6544,
+            126.3926,
+            1524,
+            78,
+            false
+        ],
+        [
+            1717500105,
+            36.3892,
+            135.3867,
+            10668,
+            78,
+            false
+        ],
+        [
+            1717500881,
+            36.3968,
+            135.434,
+            10668,
+            78,
+            false
+        ],
+        [
+            1717501768,
+            36.4048,
+            135.4839,
+            10668,
+            78,
+            false
+        ],
+        [
+            1717502263,
+            36.4088,
+            135.5086,
+            10668,
+            78,
+            false
+        ],
+        [
+            1717504009,
+            36.4264,
+            135.6179,
+            10668,
+            78,
+            false
+        ],
+        [
+            1717504329,
+            36.4295,
+            135.6375,
+            10668,
+            78,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:04:14",
+    "baro_altitude": 10668,
+    "category": 0,
+    "geo_altitude": 10858.5,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499979,
+    "latitude": 36.3881,
+    "longitude": 135.3799,
+    "on_ground": false,
+    "origin_country": "Republic of Korea",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "4335",
+    "time_position": 1717499979,
+    "true_track": 78.76,
+    "velocity": 240.22,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 56,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "RK25",
+    "estDepartureAirportHorizDistance": 16739,
+    "estDepartureAirportVertDistance": 1639,
+    "firstSeen": 1717499054,
+    "lastSeen": 1717504329
+}

@@ -1,0 +1,80 @@
+{
+    "callsign": "MXY547  ",
+    "endTime": "2024/06/04-09:55:59",
+    "icao24": "a1f00e",
+    "path": [
+        [
+            1717503582,
+            41.3585,
+            -78.733,
+            8534,
+            65,
+            false
+        ],
+        [
+            1717504459,
+            41.3695,
+            -78.7003,
+            8534,
+            65,
+            false
+        ],
+        [
+            1717505275,
+            41.3766,
+            -78.6793,
+            8534,
+            65,
+            false
+        ],
+        [
+            1717505759,
+            41.3834,
+            -78.6591,
+            8534,
+            65,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:19:42",
+    "baro_altitude": 8732.52,
+    "category": 0,
+    "geo_altitude": 9090.66,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504628,
+    "latitude": 41.3723,
+    "longitude": -78.6919,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504627,
+    "true_track": 65.88,
+    "velocity": 226.59,
+    "vertical_rate": 6.18,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717503582,
+    "lastSeen": 1717505759
+}

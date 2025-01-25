@@ -1,0 +1,120 @@
+{
+    "callsign": "N672CC  ",
+    "endTime": "2024/06/14-17:06:15",
+    "icao24": "a8e35b",
+    "path": [
+        [
+            1718395106,
+            32.2817,
+            -81.2706,
+            914,
+            195,
+            false
+        ],
+        [
+            1718395106,
+            32.2817,
+            -81.2706,
+            914,
+            181,
+            false
+        ],
+        [
+            1718395407,
+            32.1439,
+            -81.3012,
+            304,
+            167,
+            false
+        ],
+        [
+            1718395407,
+            32.1439,
+            -81.3012,
+            304,
+            135,
+            false
+        ],
+        [
+            1718395435,
+            32.134,
+            -81.2936,
+            304,
+            125,
+            false
+        ],
+        [
+            1718395437,
+            32.1334,
+            -81.2926,
+            304,
+            119,
+            false
+        ],
+        [
+            1718395437,
+            32.1334,
+            -81.2926,
+            304,
+            93,
+            false
+        ],
+        [
+            1718395538,
+            32.1291,
+            -81.2474,
+            0,
+            90,
+            false
+        ],
+        [
+            1718395575,
+            32.1289,
+            -81.2329,
+            0,
+            90,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-16:58:26",
+    "baro_altitude": 68.58,
+    "category": 0,
+    "geo_altitude": 53.34,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718395575,
+    "latitude": 32.1289,
+    "longitude": -81.2329,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718395575,
+    "true_track": 90.83,
+    "velocity": 35.5,
+    "vertical_rate": -1.63,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 158,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "2GA2",
+    "estDepartureAirportHorizDistance": 12589,
+    "estDepartureAirportVertDistance": 903,
+    "firstSeen": 1718395106,
+    "lastSeen": 1718395575
+}

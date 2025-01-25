@@ -1,0 +1,112 @@
+{
+    "callsign": "FPO7SN  ",
+    "endTime": "2024/06/04-10:06:50",
+    "icao24": "39a207",
+    "path": [
+        [
+            1717500968,
+            51.403,
+            -0.8177,
+            11277,
+            298,
+            false
+        ],
+        [
+            1717501809,
+            51.434,
+            -0.9082,
+            11277,
+            298,
+            false
+        ],
+        [
+            1717502554,
+            51.4411,
+            -0.9288,
+            11277,
+            298,
+            false
+        ],
+        [
+            1717503437,
+            51.4179,
+            -0.8612,
+            11277,
+            298,
+            false
+        ],
+        [
+            1717504333,
+            51.4484,
+            -0.9502,
+            11277,
+            298,
+            false
+        ],
+        [
+            1717505216,
+            51.4335,
+            -0.9067,
+            11277,
+            298,
+            false
+        ],
+        [
+            1717506097,
+            51.4567,
+            -0.9743,
+            11277,
+            298,
+            false
+        ],
+        [
+            1717506410,
+            51.4597,
+            -0.9833,
+            11277,
+            298,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:36:08",
+    "baro_altitude": 11567.16,
+    "category": 0,
+    "geo_altitude": 11818.62,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504712,
+    "latitude": 51.4533,
+    "longitude": -0.9644,
+    "on_ground": false,
+    "origin_country": "France",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0643",
+    "time_position": 1717504711,
+    "true_track": 298.76,
+    "velocity": 222.41,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 2,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EGLK",
+    "estDepartureAirportHorizDistance": 9213,
+    "estDepartureAirportVertDistance": 11468,
+    "firstSeen": 1717500968,
+    "lastSeen": 1717506410
+}

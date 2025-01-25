@@ -1,0 +1,128 @@
+{
+    "callsign": "BKN28   ",
+    "endTime": "2024/05/29-19:31:30",
+    "icao24": "a8353d",
+    "path": [
+        [
+            1717021670,
+            38.1773,
+            -92.5122,
+            914,
+            21,
+            false
+        ],
+        [
+            1717021696,
+            38.1864,
+            -92.5076,
+            914,
+            23,
+            false
+        ],
+        [
+            1717021711,
+            38.1913,
+            -92.5048,
+            1219,
+            21,
+            false
+        ],
+        [
+            1717021717,
+            38.1935,
+            -92.5038,
+            1219,
+            19,
+            false
+        ],
+        [
+            1717021742,
+            38.203,
+            -92.4995,
+            1219,
+            18,
+            false
+        ],
+        [
+            1717021763,
+            38.2106,
+            -92.4965,
+            1219,
+            16,
+            false
+        ],
+        [
+            1717021782,
+            38.2182,
+            -92.4937,
+            1219,
+            16,
+            false
+        ],
+        [
+            1717021789,
+            38.2213,
+            -92.4924,
+            1219,
+            20,
+            false
+        ],
+        [
+            1717021869,
+            38.2601,
+            -92.474,
+            1219,
+            22,
+            false
+        ],
+        [
+            1717021890,
+            38.2698,
+            -92.4685,
+            1219,
+            24,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-19:27:50",
+    "baro_altitude": 1729.74,
+    "category": 0,
+    "geo_altitude": 1813.56,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717016359,
+    "latitude": 38.1747,
+    "longitude": -91.6541,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717016359,
+    "true_track": 243.9,
+    "velocity": 57.29,
+    "vertical_rate": 0.98,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 256,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KAIZ",
+    "estDepartureAirportHorizDistance": 9583,
+    "estDepartureAirportVertDistance": 847,
+    "firstSeen": 1717021670,
+    "lastSeen": 1717021890
+}

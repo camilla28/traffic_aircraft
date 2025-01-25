@@ -1,0 +1,112 @@
+{
+    "callsign": "ASA223  ",
+    "endTime": "2024/06/04-08:49:44",
+    "icao24": "a6c311",
+    "path": [
+        [
+            1717496443,
+            49.9859,
+            -125.2367,
+            9753,
+            328,
+            false
+        ],
+        [
+            1717497314,
+            50.0299,
+            -125.2789,
+            9753,
+            328,
+            false
+        ],
+        [
+            1717498167,
+            50.0734,
+            -125.3207,
+            9753,
+            328,
+            false
+        ],
+        [
+            1717499013,
+            50.1069,
+            -125.353,
+            9753,
+            328,
+            false
+        ],
+        [
+            1717499912,
+            50.1624,
+            -125.4067,
+            9753,
+            328,
+            false
+        ],
+        [
+            1717500724,
+            50.204,
+            -125.4471,
+            9753,
+            328,
+            false
+        ],
+        [
+            1717501615,
+            50.2545,
+            -125.4962,
+            9753,
+            328,
+            false
+        ],
+        [
+            1717501784,
+            50.2669,
+            -125.5082,
+            9753,
+            328,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:20:43",
+    "baro_altitude": 9753.6,
+    "category": 0,
+    "geo_altitude": 9822.18,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499963,
+    "latitude": 50.1629,
+    "longitude": -125.4073,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499962,
+    "true_track": 328.01,
+    "velocity": 187.42,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "CYBL",
+    "estDepartureAirportHorizDistance": 4660,
+    "estDepartureAirportVertDistance": 9648,
+    "firstSeen": 1717496443,
+    "lastSeen": 1717501784
+}

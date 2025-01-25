@@ -1,0 +1,120 @@
+{
+    "callsign": "LTR931  ",
+    "endTime": "2024/05/29-11:49:00",
+    "icao24": "47aa2b",
+    "path": [
+        [
+            1716992838,
+            60.7452,
+            3.9605,
+            914,
+            129,
+            false
+        ],
+        [
+            1716993644,
+            60.5738,
+            4.3812,
+            914,
+            130,
+            false
+        ],
+        [
+            1716993660,
+            60.5702,
+            4.3897,
+            914,
+            128,
+            false
+        ],
+        [
+            1716993728,
+            60.5471,
+            4.4467,
+            914,
+            131,
+            false
+        ],
+        [
+            1716993745,
+            60.5399,
+            4.4633,
+            914,
+            130,
+            false
+        ],
+        [
+            1716993755,
+            60.5363,
+            4.4738,
+            914,
+            119,
+            false
+        ],
+        [
+            1716993762,
+            60.5346,
+            4.4817,
+            914,
+            110,
+            false
+        ],
+        [
+            1716993779,
+            60.5309,
+            4.5014,
+            914,
+            111,
+            false
+        ],
+        [
+            1716994140,
+            60.455,
+            4.9116,
+            609,
+            110,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-11:27:18",
+    "baro_altitude": 655.32,
+    "category": 0,
+    "geo_altitude": 662.94,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716991107,
+    "latitude": 60.6981,
+    "longitude": 4.0392,
+    "on_ground": false,
+    "origin_country": "Norway",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1716991107,
+    "true_track": 312.04,
+    "velocity": 77.59,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 5,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "ENBR",
+    "estDepartureAirportHorizDistance": 85351,
+    "estDepartureAirportVertDistance": 900,
+    "firstSeen": 1716992838,
+    "lastSeen": 1716994140
+}

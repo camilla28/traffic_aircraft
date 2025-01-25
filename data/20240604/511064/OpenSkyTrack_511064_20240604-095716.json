@@ -1,0 +1,128 @@
+{
+    "callsign": "SAS51T  ",
+    "endTime": "2024/06/04-09:57:14",
+    "icao24": "511064",
+    "path": [
+        [
+            1717502358,
+            59.4126,
+            25.086,
+            609,
+            268,
+            false
+        ],
+        [
+            1717503252,
+            59.4125,
+            25.0386,
+            609,
+            270,
+            false
+        ],
+        [
+            1717503476,
+            59.4125,
+            25.0283,
+            609,
+            271,
+            false
+        ],
+        [
+            1717504374,
+            59.4129,
+            24.9752,
+            304,
+            270,
+            false
+        ],
+        [
+            1717505268,
+            59.4129,
+            24.933,
+            304,
+            271,
+            false
+        ],
+        [
+            1717505367,
+            59.413,
+            24.9262,
+            304,
+            272,
+            false
+        ],
+        [
+            1717505403,
+            59.413,
+            24.9244,
+            0,
+            272,
+            false
+        ],
+        [
+            1717505433,
+            59.413,
+            24.9274,
+            304,
+            272,
+            false
+        ],
+        [
+            1717505716,
+            59.4131,
+            24.9147,
+            0,
+            270,
+            false
+        ],
+        [
+            1717505834,
+            59.413,
+            24.8999,
+            0,
+            270,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:59:18",
+    "baro_altitude": 403.86,
+    "category": 0,
+    "geo_altitude": 358.14,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504714,
+    "latitude": 59.4129,
+    "longitude": 24.9617,
+    "on_ground": false,
+    "origin_country": "Estonia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504714,
+    "true_track": 270,
+    "velocity": 66.36,
+    "vertical_rate": -3.25,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 25,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EETN",
+    "estDepartureAirportHorizDistance": 49202,
+    "estDepartureAirportVertDistance": 699,
+    "firstSeen": 1717502358,
+    "lastSeen": 1717505834
+}

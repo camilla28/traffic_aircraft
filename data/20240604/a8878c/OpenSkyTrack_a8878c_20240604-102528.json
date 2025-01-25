@@ -1,0 +1,120 @@
+{
+    "callsign": "KCR649  ",
+    "endTime": "2024/06/04-03:52:08",
+    "icao24": "a8878c",
+    "path": [
+        [
+            1717480994,
+            31.6621,
+            -91.2353,
+            3657,
+            243,
+            false
+        ],
+        [
+            1717481201,
+            31.6473,
+            -91.2679,
+            3657,
+            241,
+            false
+        ],
+        [
+            1717481388,
+            31.6447,
+            -91.2732,
+            3657,
+            239,
+            false
+        ],
+        [
+            1717481411,
+            31.6396,
+            -91.2832,
+            3657,
+            241,
+            false
+        ],
+        [
+            1717481711,
+            31.635,
+            -91.2937,
+            3657,
+            243,
+            false
+        ],
+        [
+            1717483361,
+            31.5983,
+            -91.3727,
+            3657,
+            239,
+            false
+        ],
+        [
+            1717483518,
+            31.5949,
+            -91.3802,
+            3657,
+            239,
+            false
+        ],
+        [
+            1717483518,
+            31.5949,
+            -91.3802,
+            3657,
+            242,
+            false
+        ],
+        [
+            1717483928,
+            31.5887,
+            -91.3956,
+            3657,
+            243,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-03:03:14",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504518,
+    "latitude": null,
+    "longitude": null,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": null,
+    "true_track": 253.41,
+    "velocity": 126.14,
+    "vertical_rate": -4.55,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KHEZ",
+    "estDepartureAirportHorizDistance": 7967,
+    "estDepartureAirportVertDistance": 3612,
+    "firstSeen": 1717480994,
+    "lastSeen": 1717483928
+}

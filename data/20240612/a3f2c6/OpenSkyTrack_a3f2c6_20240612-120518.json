@@ -1,0 +1,104 @@
+{
+    "callsign": "N3533U  ",
+    "endTime": "2024/06/12-12:05:23",
+    "icao24": "a3f2c6",
+    "path": [
+        [
+            1718204549,
+            41.7678,
+            -88.5001,
+            304,
+            206,
+            false
+        ],
+        [
+            1718204555,
+            41.766,
+            -88.5008,
+            304,
+            185,
+            false
+        ],
+        [
+            1718204565,
+            41.7624,
+            -88.5009,
+            304,
+            176,
+            false
+        ],
+        [
+            1718204575,
+            41.7589,
+            -88.5006,
+            609,
+            174,
+            false
+        ],
+        [
+            1718204628,
+            41.7386,
+            -88.4976,
+            609,
+            173,
+            false
+        ],
+        [
+            1718204646,
+            41.7316,
+            -88.497,
+            609,
+            175,
+            false
+        ],
+        [
+            1718204723,
+            41.7014,
+            -88.4934,
+            914,
+            174,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-12:02:29",
+    "baro_altitude": 944.88,
+    "category": 0,
+    "geo_altitude": 990.6,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204679,
+    "latitude": 41.7221,
+    "longitude": -88.4961,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718204672,
+    "true_track": 177.98,
+    "velocity": 43.75,
+    "vertical_rate": 3.9,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 519,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KARR",
+    "estDepartureAirportHorizDistance": 1839,
+    "estDepartureAirportVertDistance": 301,
+    "firstSeen": 1718204549,
+    "lastSeen": 1718204723
+}

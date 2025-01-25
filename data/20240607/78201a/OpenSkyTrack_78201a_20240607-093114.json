@@ -1,0 +1,72 @@
+{
+    "callsign": "CHH7271 ",
+    "endTime": "2024/06/07-05:20:50",
+    "icao24": "78201a",
+    "path": [
+        [
+            1717748293,
+            22.6436,
+            108.2163,
+            8229,
+            310,
+            false
+        ],
+        [
+            1717748300,
+            22.6534,
+            108.2042,
+            8229,
+            312,
+            false
+        ],
+        [
+            1717748450,
+            22.8774,
+            107.9483,
+            8229,
+            313,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-05:18:13",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762649,
+    "latitude": null,
+    "longitude": null,
+    "on_ground": false,
+    "origin_country": "China",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": null,
+    "true_track": 125.8,
+    "velocity": 236.58,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "ZGNN",
+    "estDepartureAirportHorizDistance": 11555,
+    "estDepartureAirportVertDistance": 8284,
+    "firstSeen": 1717748293,
+    "lastSeen": 1717748450
+}

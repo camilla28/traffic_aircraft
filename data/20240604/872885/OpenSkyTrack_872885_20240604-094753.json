@@ -1,0 +1,72 @@
+{
+    "callsign": "APJ63   ",
+    "endTime": "2024/06/04-09:40:58",
+    "icao24": "872885",
+    "path": [
+        [
+            1717503410,
+            25.1607,
+            121.5026,
+            10972,
+            228,
+            false
+        ],
+        [
+            1717504178,
+            25.1367,
+            121.4715,
+            10972,
+            230,
+            false
+        ],
+        [
+            1717504858,
+            25.1225,
+            121.4529,
+            10972,
+            230,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:16:50",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": 11750.04,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504710,
+    "latitude": 25.126,
+    "longitude": 121.4575,
+    "on_ground": false,
+    "origin_country": "Japan",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504674,
+    "true_track": 230.19,
+    "velocity": 225,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "RCSS",
+    "estDepartureAirportHorizDistance": 11842,
+    "estDepartureAirportVertDistance": 10974,
+    "firstSeen": 1717503410,
+    "lastSeen": 1717504858
+}

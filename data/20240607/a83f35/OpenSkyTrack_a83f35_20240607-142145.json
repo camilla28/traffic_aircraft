@@ -1,0 +1,112 @@
+{
+    "callsign": "N630RB  ",
+    "endTime": "2024/06/07-14:21:46",
+    "icao24": "a83f35",
+    "path": [
+        [
+            1717778912,
+            36.0443,
+            -79.4402,
+            304,
+            90,
+            false
+        ],
+        [
+            1717778950,
+            36.0434,
+            -79.4123,
+            304,
+            93,
+            false
+        ],
+        [
+            1717779401,
+            36.0294,
+            -79.084,
+            304,
+            95,
+            false
+        ],
+        [
+            1717779476,
+            36.0261,
+            -79.0292,
+            304,
+            94,
+            false
+        ],
+        [
+            1717779527,
+            36.0244,
+            -78.9927,
+            304,
+            92,
+            false
+        ],
+        [
+            1717779547,
+            36.0238,
+            -78.9764,
+            304,
+            93,
+            false
+        ],
+        [
+            1717780441,
+            35.9892,
+            -78.3127,
+            304,
+            93,
+            false
+        ],
+        [
+            1717780906,
+            35.9702,
+            -77.9562,
+            304,
+            94,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-13:48:32",
+    "baro_altitude": 365.76,
+    "category": 0,
+    "geo_altitude": 289.56,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717779799,
+    "latitude": 36.0142,
+    "longitude": -78.7977,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717779791,
+    "true_track": 92.68,
+    "velocity": 65.92,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 329,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KBUY",
+    "estDepartureAirportHorizDistance": 2269,
+    "estDepartureAirportVertDistance": 139,
+    "firstSeen": 1717778912,
+    "lastSeen": 1717780906
+}

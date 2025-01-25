@@ -1,0 +1,104 @@
+{
+    "callsign": "N616TS  ",
+    "endTime": "2024/06/04-10:20:33",
+    "icao24": "a806c2",
+    "path": [
+        [
+            1717502500,
+            -32.1102,
+            151.9823,
+            7010,
+            17,
+            false
+        ],
+        [
+            1717503323,
+            -32.1044,
+            151.9845,
+            7010,
+            17,
+            false
+        ],
+        [
+            1717504144,
+            -32.0962,
+            151.9876,
+            7010,
+            17,
+            false
+        ],
+        [
+            1717504996,
+            -32.0888,
+            151.9903,
+            7010,
+            17,
+            false
+        ],
+        [
+            1717505837,
+            -32.0813,
+            151.9931,
+            7010,
+            17,
+            false
+        ],
+        [
+            1717506649,
+            -32.0726,
+            151.9963,
+            7010,
+            17,
+            false
+        ],
+        [
+            1717507233,
+            -32.0657,
+            151.999,
+            7010,
+            19,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:01:40",
+    "baro_altitude": 7010.4,
+    "category": 0,
+    "geo_altitude": 7269.48,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504651,
+    "latitude": -32.0915,
+    "longitude": 151.9893,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504650,
+    "true_track": 17.47,
+    "velocity": 135.37,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "YGCR",
+    "estDepartureAirportHorizDistance": 108494,
+    "estDepartureAirportVertDistance": 7010,
+    "firstSeen": 1717502500,
+    "lastSeen": 1717507233
+}

@@ -1,0 +1,104 @@
+{
+    "callsign": "N557SA  ",
+    "endTime": "2024/06/14-13:09:02",
+    "icao24": "a71afd",
+    "path": [
+        [
+            1718380488,
+            36.8696,
+            -94.1098,
+            914,
+            257,
+            false
+        ],
+        [
+            1718380577,
+            36.8583,
+            -94.1744,
+            914,
+            257,
+            false
+        ],
+        [
+            1718380655,
+            36.8474,
+            -94.2343,
+            1219,
+            257,
+            false
+        ],
+        [
+            1718380665,
+            36.8458,
+            -94.2424,
+            1219,
+            251,
+            false
+        ],
+        [
+            1718380674,
+            36.8433,
+            -94.249,
+            1219,
+            240,
+            false
+        ],
+        [
+            1718380693,
+            36.8369,
+            -94.2629,
+            1219,
+            240,
+            false
+        ],
+        [
+            1718381342,
+            36.5865,
+            -94.8142,
+            1524,
+            240,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-12:54:48",
+    "baro_altitude": 1805.94,
+    "category": 0,
+    "geo_altitude": 1897.38,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718380974,
+    "latitude": 36.732,
+    "longitude": -94.4956,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718380974,
+    "true_track": 240.38,
+    "velocity": 90.55,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 288,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KHFJ",
+    "estDepartureAirportHorizDistance": 8840,
+    "estDepartureAirportVertDistance": 590,
+    "firstSeen": 1718380488,
+    "lastSeen": 1718381342
+}

@@ -1,0 +1,112 @@
+{
+    "callsign": "AAL2453 ",
+    "endTime": "2024/06/04-10:02:55",
+    "icao24": "a01fee",
+    "path": [
+        [
+            1717503653,
+            36.1018,
+            -114.9398,
+            9144,
+            48,
+            false
+        ],
+        [
+            1717504418,
+            36.1237,
+            -114.9082,
+            9144,
+            50,
+            false
+        ],
+        [
+            1717504433,
+            36.1272,
+            -114.903,
+            9448,
+            50,
+            false
+        ],
+        [
+            1717504445,
+            36.1237,
+            -114.9082,
+            9144,
+            50,
+            false
+        ],
+        [
+            1717504935,
+            36.1384,
+            -114.8852,
+            9448,
+            52,
+            false
+        ],
+        [
+            1717505495,
+            36.1525,
+            -114.8613,
+            9448,
+            54,
+            false
+        ],
+        [
+            1717505955,
+            36.1665,
+            -114.8351,
+            9448,
+            57,
+            false
+        ],
+        [
+            1717506175,
+            36.1717,
+            -114.8249,
+            9448,
+            58,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:20:53",
+    "baro_altitude": 9448.8,
+    "category": 1,
+    "geo_altitude": 9951.72,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504659,
+    "latitude": 36.1327,
+    "longitude": -114.8944,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2011",
+    "time_position": 1717504659,
+    "true_track": 51.62,
+    "velocity": 233.64,
+    "vertical_rate": 0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717503653,
+    "lastSeen": 1717506175
+}

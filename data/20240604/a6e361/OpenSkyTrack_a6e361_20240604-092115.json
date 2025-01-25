@@ -1,0 +1,104 @@
+{
+    "callsign": "DAL475  ",
+    "endTime": "2024/06/04-09:18:35",
+    "icao24": "a6e361",
+    "path": [
+        [
+            1717499152,
+            43.7354,
+            -107.3713,
+            9753,
+            248,
+            false
+        ],
+        [
+            1717500036,
+            43.7203,
+            -107.4239,
+            9753,
+            248,
+            false
+        ],
+        [
+            1717500342,
+            43.7139,
+            -107.4464,
+            9753,
+            248,
+            false
+        ],
+        [
+            1717501150,
+            43.7024,
+            -107.486,
+            9448,
+            248,
+            false
+        ],
+        [
+            1717501875,
+            43.6904,
+            -107.5273,
+            9448,
+            248,
+            false
+        ],
+        [
+            1717502759,
+            43.6757,
+            -107.5779,
+            9448,
+            248,
+            false
+        ],
+        [
+            1717503515,
+            43.6662,
+            -107.6106,
+            9448,
+            248,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:05:52",
+    "baro_altitude": 9753.6,
+    "category": 0,
+    "geo_altitude": 10058.4,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500036,
+    "latitude": 43.7203,
+    "longitude": -107.4239,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717500036,
+    "true_track": 248.41,
+    "velocity": 204.15,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "WY38",
+    "estDepartureAirportHorizDistance": 12814,
+    "estDepartureAirportVertDistance": 8152,
+    "firstSeen": 1717499152,
+    "lastSeen": 1717503515
+}

@@ -1,0 +1,80 @@
+{
+    "callsign": "TOM226  ",
+    "endTime": "2024/05/29-09:39:17",
+    "icao24": "407642",
+    "path": [
+        [
+            1716986292,
+            51.3828,
+            -2.7163,
+            0,
+            266,
+            false
+        ],
+        [
+            1716986314,
+            51.3818,
+            -2.7393,
+            0,
+            265,
+            false
+        ],
+        [
+            1716986342,
+            51.3809,
+            -2.7714,
+            304,
+            267,
+            false
+        ],
+        [
+            1716986357,
+            51.3806,
+            -2.7909,
+            609,
+            269,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-09:38:12",
+    "baro_altitude": 7124.7,
+    "category": 0,
+    "geo_altitude": 7208.52,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716978990,
+    "latitude": 51.3846,
+    "longitude": -0.2831,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1045",
+    "time_position": 1716978990,
+    "true_track": 287.02,
+    "velocity": 177.54,
+    "vertical_rate": -2.6,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 71,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EGGD",
+    "estDepartureAirportHorizDistance": 501,
+    "estDepartureAirportVertDistance": 23,
+    "firstSeen": 1716986292,
+    "lastSeen": 1716986357
+}

@@ -1,0 +1,112 @@
+{
+    "callsign": "KZR921  ",
+    "endTime": "2024/06/12-10:41:49",
+    "icao24": "4cac0e",
+    "path": [
+        [
+            1718199631,
+            45.0378,
+            33.966,
+            11582,
+            0,
+            false
+        ],
+        [
+            1718199680,
+            45.0375,
+            33.9661,
+            11582,
+            0,
+            false
+        ],
+        [
+            1718199696,
+            45.0375,
+            33.9661,
+            11582,
+            180,
+            false
+        ],
+        [
+            1718199708,
+            45.0389,
+            33.9647,
+            11582,
+            180,
+            false
+        ],
+        [
+            1718199709,
+            45.039,
+            33.9646,
+            11582,
+            339,
+            false
+        ],
+        [
+            1718199709,
+            45.039,
+            33.9646,
+            11582,
+            339,
+            false
+        ],
+        [
+            1718199709,
+            45.039,
+            33.9646,
+            11277,
+            339,
+            false
+        ],
+        [
+            1718199709,
+            45.039,
+            33.9646,
+            11582,
+            339,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-10:40:31",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": 11430,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194259,
+    "latitude": 41.3255,
+    "longitude": 42.682,
+    "on_ground": false,
+    "origin_country": "Ireland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3202",
+    "time_position": 1718194259,
+    "true_track": 262.22,
+    "velocity": 224.3,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "UKFF",
+    "estDepartureAirportHorizDistance": 1756,
+    "estDepartureAirportVertDistance": 11387,
+    "firstSeen": 1718199631,
+    "lastSeen": 1718199709
+}

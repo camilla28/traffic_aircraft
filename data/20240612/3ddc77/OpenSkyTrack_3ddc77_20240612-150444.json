@@ -1,0 +1,120 @@
+{
+    "callsign": "CHX81   ",
+    "endTime": "2024/06/12-15:03:24",
+    "icao24": "3ddc77",
+    "path": [
+        [
+            1718214961,
+            50.6994,
+            11.3248,
+            609,
+            348,
+            false
+        ],
+        [
+            1718215257,
+            50.8408,
+            11.2816,
+            609,
+            348,
+            false
+        ],
+        [
+            1718215366,
+            50.8884,
+            11.2666,
+            304,
+            347,
+            false
+        ],
+        [
+            1718215369,
+            50.8887,
+            11.2664,
+            304,
+            343,
+            false
+        ],
+        [
+            1718215379,
+            50.8892,
+            11.2663,
+            304,
+            343,
+            false
+        ],
+        [
+            1718215389,
+            50.8895,
+            11.2662,
+            304,
+            0,
+            false
+        ],
+        [
+            1718215398,
+            50.8898,
+            11.2662,
+            304,
+            0,
+            false
+        ],
+        [
+            1718215404,
+            50.8899,
+            11.2661,
+            304,
+            315,
+            false
+        ],
+        [
+            1718215404,
+            50.8899,
+            11.2661,
+            304,
+            315,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-14:56:01",
+    "baro_altitude": 563.88,
+    "category": 0,
+    "geo_altitude": 647.7,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204675,
+    "latitude": 50.9186,
+    "longitude": 11.0213,
+    "on_ground": false,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718204675,
+    "true_track": 99.88,
+    "velocity": 68.93,
+    "vertical_rate": -0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 121,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDOK",
+    "estDepartureAirportHorizDistance": 7322,
+    "estDepartureAirportVertDistance": 156,
+    "firstSeen": 1718214961,
+    "lastSeen": 1718215404
+}

@@ -1,0 +1,128 @@
+{
+    "callsign": "YLPAI   ",
+    "endTime": "2024/06/05-08:44:37",
+    "icao24": "502d2e",
+    "path": [
+        [
+            1717587757,
+            56.8858,
+            21.1773,
+            914,
+            201,
+            false
+        ],
+        [
+            1717587780,
+            56.8779,
+            21.169,
+            914,
+            201,
+            false
+        ],
+        [
+            1717587806,
+            56.8685,
+            21.1653,
+            914,
+            204,
+            false
+        ],
+        [
+            1717587815,
+            56.8654,
+            21.1626,
+            914,
+            205,
+            false
+        ],
+        [
+            1717587824,
+            56.8628,
+            21.1594,
+            914,
+            225,
+            false
+        ],
+        [
+            1717587824,
+            56.8628,
+            21.1594,
+            914,
+            212,
+            false
+        ],
+        [
+            1717587859,
+            56.8516,
+            21.1466,
+            609,
+            210,
+            false
+        ],
+        [
+            1717587868,
+            56.8484,
+            21.1433,
+            914,
+            209,
+            false
+        ],
+        [
+            1717587874,
+            56.8463,
+            21.1413,
+            914,
+            206,
+            false
+        ],
+        [
+            1717587877,
+            56.8453,
+            21.1403,
+            914,
+            206,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-08:42:37",
+    "baro_altitude": 1097.28,
+    "category": 0,
+    "geo_altitude": 1089.66,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717582850,
+    "latitude": 57.6557,
+    "longitude": 22.5354,
+    "on_ground": false,
+    "origin_country": "Latvia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717582849,
+    "true_track": 336.8,
+    "velocity": 58.77,
+    "vertical_rate": -2.28,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 12,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EVLA",
+    "estDepartureAirportHorizDistance": 41249,
+    "estDepartureAirportVertDistance": 947,
+    "firstSeen": 1717587757,
+    "lastSeen": 1717587877
+}

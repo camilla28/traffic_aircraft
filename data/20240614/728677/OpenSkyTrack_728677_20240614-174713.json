@@ -1,0 +1,120 @@
+{
+    "callsign": "IAW441  ",
+    "endTime": "2024/06/14-17:27:08",
+    "icao24": "728677",
+    "path": [
+        [
+            1718392280,
+            30.774,
+            47.5679,
+            10668,
+            137,
+            false
+        ],
+        [
+            1718392646,
+            30.1505,
+            48.2144,
+            10668,
+            139,
+            false
+        ],
+        [
+            1718392655,
+            30.1351,
+            48.2285,
+            10668,
+            142,
+            false
+        ],
+        [
+            1718392699,
+            30.0532,
+            48.2952,
+            10668,
+            144,
+            false
+        ],
+        [
+            1718393262,
+            29.0063,
+            49.1397,
+            10668,
+            145,
+            false
+        ],
+        [
+            1718393486,
+            28.6079,
+            49.4659,
+            10668,
+            130,
+            false
+        ],
+        [
+            1718393498,
+            28.5841,
+            49.5003,
+            10668,
+            130,
+            false
+        ],
+        [
+            1718396186,
+            25.5267,
+            55.2713,
+            11277,
+            110,
+            false
+        ],
+        [
+            1718396828,
+            25,
+            56.7582,
+            11277,
+            112,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-16:11:20",
+    "baro_altitude": 11277.6,
+    "category": 0,
+    "geo_altitude": 12009.12,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718396792,
+    "latitude": 25.0306,
+    "longitude": 56.6763,
+    "on_ground": false,
+    "origin_country": "Iraq",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718396792,
+    "true_track": 112.37,
+    "velocity": 248.68,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1718392280,
+    "lastSeen": 1718396828
+}

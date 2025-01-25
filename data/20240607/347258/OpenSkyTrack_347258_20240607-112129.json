@@ -1,0 +1,136 @@
+{
+    "callsign": "VOE1414 ",
+    "endTime": "2024/06/07-11:21:09",
+    "icao24": "347258",
+    "path": [
+        [
+            1717769891,
+            45.3938,
+            10.9692,
+            914,
+            134,
+            false
+        ],
+        [
+            1717769924,
+            45.3772,
+            10.9936,
+            914,
+            133,
+            false
+        ],
+        [
+            1717769949,
+            45.3711,
+            11.0027,
+            1219,
+            132,
+            false
+        ],
+        [
+            1717769960,
+            45.3605,
+            11.0163,
+            1219,
+            143,
+            false
+        ],
+        [
+            1717769966,
+            45.3329,
+            11.0254,
+            1219,
+            180,
+            false
+        ],
+        [
+            1717769973,
+            45.3298,
+            11.0246,
+            1524,
+            213,
+            false
+        ],
+        [
+            1717769985,
+            45.3124,
+            11.0111,
+            1524,
+            213,
+            false
+        ],
+        [
+            1717770012,
+            45.2922,
+            10.9901,
+            1828,
+            215,
+            false
+        ],
+        [
+            1717770022,
+            45.2743,
+            10.9724,
+            2133,
+            214,
+            false
+        ],
+        [
+            1717770032,
+            45.2638,
+            10.9623,
+            2438,
+            213,
+            false
+        ],
+        [
+            1717770069,
+            45.2298,
+            10.9313,
+            2743,
+            212,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-11:18:11",
+    "baro_altitude": 10668,
+    "category": 0,
+    "geo_altitude": 11056.62,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762945,
+    "latitude": 46.9592,
+    "longitude": 4.0416,
+    "on_ground": false,
+    "origin_country": "Spain",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7634",
+    "time_position": 1717762945,
+    "true_track": 124.8,
+    "velocity": 250.59,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 46,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LIPX",
+    "estDepartureAirportHorizDistance": 5778,
+    "estDepartureAirportVertDistance": 971,
+    "firstSeen": 1717769891,
+    "lastSeen": 1717770069
+}

@@ -1,0 +1,112 @@
+{
+    "callsign": "BGA114N ",
+    "endTime": "2024/06/04-09:52:59",
+    "icao24": "395d6d",
+    "path": [
+        [
+            1717502145,
+            44.939,
+            0.2779,
+            10058,
+            330,
+            false
+        ],
+        [
+            1717502579,
+            44.9677,
+            0.2551,
+            10058,
+            330,
+            false
+        ],
+        [
+            1717502580,
+            44.9684,
+            0.2546,
+            10363,
+            330,
+            false
+        ],
+        [
+            1717502707,
+            44.9315,
+            0.2839,
+            10058,
+            330,
+            false
+        ],
+        [
+            1717503595,
+            45.0482,
+            0.191,
+            10363,
+            330,
+            false
+        ],
+        [
+            1717504487,
+            45.0959,
+            0.1529,
+            10363,
+            330,
+            false
+        ],
+        [
+            1717505381,
+            45.1389,
+            0.1186,
+            10363,
+            330,
+            false
+        ],
+        [
+            1717505579,
+            45.142,
+            0.1161,
+            10363,
+            330,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:55:45",
+    "baro_altitude": 10363.2,
+    "category": 0,
+    "geo_altitude": 10660.38,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504713,
+    "latitude": 45.103,
+    "longitude": 0.1473,
+    "on_ground": false,
+    "origin_country": "France",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2335",
+    "time_position": 1717504713,
+    "true_track": 330.52,
+    "velocity": 190.28,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFDF",
+    "estDepartureAirportHorizDistance": 12399,
+    "estDepartureAirportVertDistance": 10239,
+    "firstSeen": 1717502145,
+    "lastSeen": 1717505579
+}

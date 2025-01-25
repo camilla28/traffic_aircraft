@@ -1,0 +1,160 @@
+{
+    "callsign": "AIC464  ",
+    "endTime": "2024/06/07-14:42:40",
+    "icao24": "801671",
+    "path": [
+        [
+            1717781423,
+            30.4399,
+            76.7297,
+            3352,
+            177,
+            false
+        ],
+        [
+            1717781465,
+            30.4171,
+            76.731,
+            3657,
+            177,
+            false
+        ],
+        [
+            1717781474,
+            30.3863,
+            76.7327,
+            3962,
+            177,
+            false
+        ],
+        [
+            1717781486,
+            30.3647,
+            76.7339,
+            4267,
+            177,
+            false
+        ],
+        [
+            1717781861,
+            29.7471,
+            76.7684,
+            6096,
+            177,
+            false
+        ],
+        [
+            1717781927,
+            29.6373,
+            76.7746,
+            5791,
+            177,
+            false
+        ],
+        [
+            1717782011,
+            29.5035,
+            76.7819,
+            5486,
+            177,
+            false
+        ],
+        [
+            1717782084,
+            29.3919,
+            76.7882,
+            5181,
+            177,
+            false
+        ],
+        [
+            1717782094,
+            29.3781,
+            76.7889,
+            4876,
+            176,
+            false
+        ],
+        [
+            1717782104,
+            29.3624,
+            76.7913,
+            4876,
+            168,
+            false
+        ],
+        [
+            1717782109,
+            29.355,
+            76.7936,
+            4876,
+            160,
+            false
+        ],
+        [
+            1717782121,
+            29.3386,
+            76.8034,
+            4876,
+            144,
+            false
+        ],
+        [
+            1717782131,
+            29.3264,
+            76.8145,
+            4876,
+            140,
+            false
+        ],
+        [
+            1717782160,
+            29.3167,
+            76.8237,
+            4876,
+            140,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-14:30:23",
+    "baro_altitude": 6096,
+    "category": 0,
+    "geo_altitude": 6377.94,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717781748,
+    "latitude": 29.9458,
+    "longitude": 76.7572,
+    "on_ground": false,
+    "origin_country": "India",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3433",
+    "time_position": 1717781748,
+    "true_track": 177.27,
+    "velocity": 194.17,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "VIAM",
+    "estDepartureAirportHorizDistance": 11603,
+    "estDepartureAirportVertDistance": 3319,
+    "firstSeen": 1717781423,
+    "lastSeen": 1717782160
+}

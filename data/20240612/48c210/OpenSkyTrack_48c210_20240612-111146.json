@@ -1,0 +1,80 @@
+{
+    "callsign": "SPRRR   ",
+    "endTime": "2024/06/12-09:08:02",
+    "icao24": "48c210",
+    "path": [
+        [
+            1718193866,
+            50.0771,
+            19.8026,
+            8229,
+            343,
+            false
+        ],
+        [
+            1718193991,
+            50.0771,
+            19.8026,
+            7924,
+            343,
+            false
+        ],
+        [
+            1718194082,
+            50.0771,
+            19.8025,
+            7620,
+            343,
+            false
+        ],
+        [
+            1718194082,
+            50.0771,
+            19.8025,
+            7315,
+            343,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-09:04:26",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194230,
+    "latitude": 50.0771,
+    "longitude": 19.8025,
+    "on_ground": true,
+    "origin_country": "Poland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0745",
+    "time_position": 1718194216,
+    "true_track": 343.12,
+    "velocity": 0,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EPKK",
+    "estDepartureAirportHorizDistance": 1268,
+    "estDepartureAirportVertDistance": 8255,
+    "firstSeen": 1718193866,
+    "lastSeen": 1718194082
+}

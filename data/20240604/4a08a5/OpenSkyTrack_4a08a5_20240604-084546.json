@@ -1,0 +1,80 @@
+{
+    "callsign": "HYS5283 ",
+    "endTime": "2024/06/04-08:45:43",
+    "icao24": "4a08a5",
+    "path": [
+        [
+            1717499556,
+            39.5706,
+            14.2457,
+            11277,
+            222,
+            false
+        ],
+        [
+            1717500411,
+            39.4924,
+            14.1514,
+            11277,
+            222,
+            false
+        ],
+        [
+            1717501236,
+            39.4411,
+            14.0898,
+            11277,
+            222,
+            false
+        ],
+        [
+            1717501543,
+            39.4267,
+            14.0724,
+            11277,
+            222,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:12:36",
+    "baro_altitude": 11277.6,
+    "category": 0,
+    "geo_altitude": 11681.46,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499963,
+    "latitude": 39.5548,
+    "longitude": 14.2267,
+    "on_ground": false,
+    "origin_country": "Romania",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499651,
+    "true_track": 223.07,
+    "velocity": 205.64,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717499556,
+    "lastSeen": 1717501543
+}

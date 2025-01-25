@@ -1,0 +1,136 @@
+{
+    "callsign": "UIT75C  ",
+    "endTime": "2024/06/05-08:49:10",
+    "icao24": "479ec3",
+    "path": [
+        [
+            1717587769,
+            61.4875,
+            22.0398,
+            1828,
+            351,
+            false
+        ],
+        [
+            1717587812,
+            61.5144,
+            22.0307,
+            1828,
+            350,
+            false
+        ],
+        [
+            1717587874,
+            61.5531,
+            22.0171,
+            2133,
+            350,
+            false
+        ],
+        [
+            1717587934,
+            61.5923,
+            22.0033,
+            2438,
+            350,
+            false
+        ],
+        [
+            1717587992,
+            61.6308,
+            21.9897,
+            2743,
+            350,
+            false
+        ],
+        [
+            1717588080,
+            61.7025,
+            21.9644,
+            3048,
+            350,
+            false
+        ],
+        [
+            1717588088,
+            61.7089,
+            21.9618,
+            3048,
+            345,
+            false
+        ],
+        [
+            1717588095,
+            61.7145,
+            21.9575,
+            3048,
+            334,
+            false
+        ],
+        [
+            1717588101,
+            61.7183,
+            21.9527,
+            3048,
+            326,
+            false
+        ],
+        [
+            1717588106,
+            61.7219,
+            21.9473,
+            3048,
+            323,
+            false
+        ],
+        [
+            1717588150,
+            61.7493,
+            21.9019,
+            3048,
+            321,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-08:42:49",
+    "baro_altitude": 2560.32,
+    "category": 0,
+    "geo_altitude": 2575.56,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717582709,
+    "latitude": 61.2819,
+    "longitude": 21.846,
+    "on_ground": false,
+    "origin_country": "Norway",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2542",
+    "time_position": 1717582709,
+    "true_track": 329.74,
+    "velocity": 92.91,
+    "vertical_rate": -3.9,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 18,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EFPO",
+    "estDepartureAirportHorizDistance": 3764,
+    "estDepartureAirportVertDistance": 1876,
+    "firstSeen": 1717587769,
+    "lastSeen": 1717588150
+}

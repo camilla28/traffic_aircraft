@@ -1,0 +1,80 @@
+{
+    "callsign": "ERU4    ",
+    "endTime": "2024/05/29-11:58:46",
+    "icao24": "a7d68f",
+    "path": [
+        [
+            1716994530,
+            34.4277,
+            -112.0611,
+            1828,
+            290,
+            false
+        ],
+        [
+            1716994530,
+            34.4277,
+            -112.0611,
+            1828,
+            305,
+            false
+        ],
+        [
+            1716994721,
+            34.4941,
+            -112.1354,
+            1828,
+            316,
+            false
+        ],
+        [
+            1716994726,
+            34.4984,
+            -112.1405,
+            1828,
+            316,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-11:55:30",
+    "baro_altitude": 2232.66,
+    "category": 0,
+    "geo_altitude": 2316.48,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716991104,
+    "latitude": 34.5269,
+    "longitude": -112.0626,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1716991104,
+    "true_track": 128.75,
+    "velocity": 50.13,
+    "vertical_rate": 0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 107,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "42AZ",
+    "estDepartureAirportHorizDistance": 797,
+    "estDepartureAirportVertDistance": 804,
+    "firstSeen": 1716994530,
+    "lastSeen": 1716994726
+}

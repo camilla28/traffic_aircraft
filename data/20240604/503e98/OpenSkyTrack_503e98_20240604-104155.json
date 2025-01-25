@@ -1,0 +1,104 @@
+{
+    "callsign": "GJT25H  ",
+    "endTime": "2024/06/04-10:41:47",
+    "icao24": "503e98",
+    "path": [
+        [
+            1717504219,
+            36.4688,
+            30.7339,
+            914,
+            7,
+            false
+        ],
+        [
+            1717505087,
+            36.4779,
+            30.7353,
+            914,
+            6,
+            false
+        ],
+        [
+            1717505973,
+            36.4905,
+            30.7371,
+            914,
+            6,
+            false
+        ],
+        [
+            1717506848,
+            36.5012,
+            30.7385,
+            914,
+            5,
+            false
+        ],
+        [
+            1717507599,
+            36.507,
+            30.7393,
+            914,
+            5,
+            false
+        ],
+        [
+            1717508213,
+            36.5144,
+            30.7402,
+            914,
+            5,
+            false
+        ],
+        [
+            1717508507,
+            36.5175,
+            30.7406,
+            914,
+            5,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:30:19",
+    "baro_altitude": 1120.14,
+    "category": 0,
+    "geo_altitude": 1196.34,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504568,
+    "latitude": 36.473,
+    "longitude": 30.7346,
+    "on_ground": false,
+    "origin_country": "Lithuania",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504568,
+    "true_track": 7.13,
+    "velocity": 103.69,
+    "vertical_rate": -0.98,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 8,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LTAI",
+    "estDepartureAirportHorizDistance": 48165,
+    "estDepartureAirportVertDistance": 1066,
+    "firstSeen": 1717504219,
+    "lastSeen": 1717508507
+}

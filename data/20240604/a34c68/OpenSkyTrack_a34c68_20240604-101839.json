@@ -1,0 +1,120 @@
+{
+    "callsign": "ENY3330 ",
+    "endTime": "2024/06/04-10:18:18",
+    "icao24": "a34c68",
+    "path": [
+        [
+            1717501107,
+            33.5679,
+            -99.2732,
+            9144,
+            307,
+            false
+        ],
+        [
+            1717501906,
+            33.6254,
+            -99.3562,
+            9144,
+            309,
+            false
+        ],
+        [
+            1717502657,
+            33.6377,
+            -99.3736,
+            9144,
+            309,
+            false
+        ],
+        [
+            1717503518,
+            33.6534,
+            -99.3961,
+            9144,
+            309,
+            false
+        ],
+        [
+            1717504409,
+            33.6703,
+            -99.4204,
+            9144,
+            309,
+            false
+        ],
+        [
+            1717505263,
+            33.6766,
+            -99.4294,
+            9144,
+            309,
+            false
+        ],
+        [
+            1717506090,
+            33.6913,
+            -99.4503,
+            9144,
+            309,
+            false
+        ],
+        [
+            1717506987,
+            33.711,
+            -99.4786,
+            9144,
+            309,
+            false
+        ],
+        [
+            1717507098,
+            33.7142,
+            -99.4833,
+            9144,
+            309,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:38:27",
+    "baro_altitude": 9144,
+    "category": 0,
+    "geo_altitude": 9570.72,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504410,
+    "latitude": 33.6703,
+    "longitude": -99.4204,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504409,
+    "true_track": 309.82,
+    "velocity": 221.71,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "TS20",
+    "estDepartureAirportHorizDistance": 14110,
+    "estDepartureAirportVertDistance": 8727,
+    "firstSeen": 1717501107,
+    "lastSeen": 1717507098
+}

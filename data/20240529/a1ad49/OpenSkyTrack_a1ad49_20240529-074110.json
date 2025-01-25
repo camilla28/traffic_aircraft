@@ -1,0 +1,136 @@
+{
+    "callsign": "N207P   ",
+    "endTime": "2024/05/29-07:41:01",
+    "icao24": "a1ad49",
+    "path": [
+        [
+            1716978756,
+            43.2445,
+            -100.9286,
+            1524,
+            301,
+            false
+        ],
+        [
+            1716978776,
+            43.2515,
+            -100.9442,
+            1524,
+            300,
+            false
+        ],
+        [
+            1716978780,
+            43.2529,
+            -100.9474,
+            1828,
+            298,
+            false
+        ],
+        [
+            1716978785,
+            43.2544,
+            -100.9513,
+            1828,
+            296,
+            false
+        ],
+        [
+            1716978837,
+            43.2695,
+            -100.9943,
+            1828,
+            297,
+            false
+        ],
+        [
+            1716978948,
+            43.3057,
+            -101.0886,
+            2438,
+            298,
+            false
+        ],
+        [
+            1716978999,
+            43.3237,
+            -101.1345,
+            2743,
+            298,
+            false
+        ],
+        [
+            1716979052,
+            43.3425,
+            -101.1827,
+            3048,
+            297,
+            false
+        ],
+        [
+            1716979106,
+            43.3611,
+            -101.2306,
+            3352,
+            297,
+            false
+        ],
+        [
+            1716979162,
+            43.3808,
+            -101.2814,
+            3657,
+            297,
+            false
+        ],
+        [
+            1716979261,
+            43.4178,
+            -101.3776,
+            3962,
+            298,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-07:32:36",
+    "baro_altitude": 2964.18,
+    "category": 0,
+    "geo_altitude": 3086.1,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716978989,
+    "latitude": 43.3201,
+    "longitude": -101.1253,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1716978989,
+    "true_track": 298.47,
+    "velocity": 83.1,
+    "vertical_rate": 5.53,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 59,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KSUO",
+    "estDepartureAirportHorizDistance": 5546,
+    "estDepartureAirportVertDistance": 853,
+    "firstSeen": 1716978756,
+    "lastSeen": 1716979261
+}

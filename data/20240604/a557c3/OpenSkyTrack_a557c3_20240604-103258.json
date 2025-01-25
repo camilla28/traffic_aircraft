@@ -1,0 +1,72 @@
+{
+    "callsign": "SWA1292 ",
+    "endTime": "2024/06/04-10:29:23",
+    "icao24": "a557c3",
+    "path": [
+        [
+            1717506794,
+            32.9481,
+            -96.8187,
+            914,
+            320,
+            false
+        ],
+        [
+            1717507609,
+            32.9887,
+            -96.8588,
+            914,
+            320,
+            false
+        ],
+        [
+            1717507763,
+            32.9955,
+            -96.8656,
+            914,
+            319,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-10:13:14",
+    "baro_altitude": 975.36,
+    "category": 0,
+    "geo_altitude": 944.88,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504637,
+    "latitude": 32.926,
+    "longitude": -96.7968,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504633,
+    "true_track": 318.94,
+    "velocity": 153.51,
+    "vertical_rate": -4.23,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 496,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KADS",
+    "estDepartureAirportHorizDistance": 2811,
+    "estDepartureAirportVertDistance": 786,
+    "firstSeen": 1717506794,
+    "lastSeen": 1717507763
+}

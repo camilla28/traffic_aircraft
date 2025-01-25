@@ -1,0 +1,296 @@
+{
+    "callsign": "UBG115  ",
+    "endTime": "2024/06/05-09:53:01",
+    "icao24": "702098",
+    "path": [
+        [
+            1717590220,
+            23.6865,
+            90.5399,
+            1524,
+            141,
+            false
+        ],
+        [
+            1717590292,
+            23.6349,
+            90.5855,
+            1828,
+            141,
+            false
+        ],
+        [
+            1717590351,
+            23.5915,
+            90.6238,
+            2133,
+            141,
+            false
+        ],
+        [
+            1717590417,
+            23.5413,
+            90.6682,
+            2438,
+            140,
+            false
+        ],
+        [
+            1717590439,
+            23.524,
+            90.6834,
+            2743,
+            140,
+            false
+        ],
+        [
+            1717590473,
+            23.4934,
+            90.7104,
+            2438,
+            140,
+            false
+        ],
+        [
+            1717590565,
+            23.4115,
+            90.784,
+            2743,
+            140,
+            false
+        ],
+        [
+            1717590692,
+            23.2967,
+            90.8869,
+            3048,
+            140,
+            false
+        ],
+        [
+            1717590839,
+            23.1617,
+            91.0067,
+            3352,
+            142,
+            false
+        ],
+        [
+            1717590899,
+            23.1061,
+            91.0527,
+            3657,
+            142,
+            false
+        ],
+        [
+            1717590927,
+            23.0805,
+            91.0738,
+            3962,
+            142,
+            false
+        ],
+        [
+            1717590935,
+            23.073,
+            91.0801,
+            3657,
+            140,
+            false
+        ],
+        [
+            1717590942,
+            23.0672,
+            91.086,
+            3657,
+            134,
+            false
+        ],
+        [
+            1717591163,
+            22.8627,
+            91.309,
+            3657,
+            134,
+            false
+        ],
+        [
+            1717591277,
+            22.7504,
+            91.4309,
+            3352,
+            134,
+            false
+        ],
+        [
+            1717591381,
+            22.6504,
+            91.5394,
+            3048,
+            135,
+            false
+        ],
+        [
+            1717591424,
+            22.6102,
+            91.5827,
+            2743,
+            135,
+            false
+        ],
+        [
+            1717591451,
+            22.5869,
+            91.608,
+            2438,
+            134,
+            false
+        ],
+        [
+            1717591483,
+            22.5583,
+            91.6393,
+            2133,
+            135,
+            false
+        ],
+        [
+            1717591525,
+            22.5214,
+            91.679,
+            1828,
+            134,
+            false
+        ],
+        [
+            1717591582,
+            22.4754,
+            91.7287,
+            1524,
+            135,
+            false
+        ],
+        [
+            1717591631,
+            22.4379,
+            91.7692,
+            1219,
+            135,
+            false
+        ],
+        [
+            1717591675,
+            22.4022,
+            91.8075,
+            914,
+            134,
+            false
+        ],
+        [
+            1717591799,
+            22.329,
+            91.8865,
+            609,
+            135,
+            false
+        ],
+        [
+            1717591806,
+            22.3252,
+            91.89,
+            609,
+            145,
+            false
+        ],
+        [
+            1717591815,
+            22.32,
+            91.8917,
+            609,
+            178,
+            false
+        ],
+        [
+            1717591822,
+            22.3152,
+            91.8909,
+            304,
+            202,
+            false
+        ],
+        [
+            1717591830,
+            22.3112,
+            91.8877,
+            304,
+            225,
+            false
+        ],
+        [
+            1717591838,
+            22.3083,
+            91.8842,
+            304,
+            228,
+            false
+        ],
+        [
+            1717591913,
+            22.2829,
+            91.8534,
+            304,
+            228,
+            false
+        ],
+        [
+            1717591981,
+            22.2601,
+            91.826,
+            0,
+            228,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-09:23:40",
+    "baro_altitude": 3230.88,
+    "category": 0,
+    "geo_altitude": 3360.42,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717590636,
+    "latitude": 23.3485,
+    "longitude": 90.8406,
+    "on_ground": false,
+    "origin_country": "Bangladesh",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "4121",
+    "time_position": 1717590635,
+    "true_track": 140.34,
+    "velocity": 128.97,
+    "vertical_rate": 1.63,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 14,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "VGTJ",
+    "estDepartureAirportHorizDistance": 19014,
+    "estDepartureAirportVertDistance": 1730,
+    "firstSeen": 1717590220,
+    "lastSeen": 1717591981
+}

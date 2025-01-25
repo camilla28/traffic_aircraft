@@ -1,0 +1,80 @@
+{
+    "callsign": "N4322R  ",
+    "endTime": "2024/06/07-15:31:17",
+    "icao24": "a52d3a",
+    "path": [
+        [
+            1717783074,
+            41.1495,
+            -83.3236,
+            1828,
+            317,
+            false
+        ],
+        [
+            1717783970,
+            41.5037,
+            -83.7596,
+            1828,
+            316,
+            false
+        ],
+        [
+            1717784861,
+            41.8529,
+            -84.1956,
+            1828,
+            316,
+            false
+        ],
+        [
+            1717785077,
+            41.9371,
+            -84.3024,
+            1828,
+            317,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-14:57:54",
+    "baro_altitude": 1882.14,
+    "category": 0,
+    "geo_altitude": 1805.94,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717784179,
+    "latitude": 41.5838,
+    "longitude": -83.8596,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717784179,
+    "true_track": 316.66,
+    "velocity": 62.96,
+    "vertical_rate": -0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 443,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KFZI",
+    "estDepartureAirportHorizDistance": 7504,
+    "estDepartureAirportVertDistance": 1660,
+    "firstSeen": 1717783074,
+    "lastSeen": 1717785077
+}

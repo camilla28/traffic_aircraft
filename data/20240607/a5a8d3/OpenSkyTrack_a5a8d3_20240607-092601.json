@@ -1,0 +1,128 @@
+{
+    "callsign": "N464DS  ",
+    "endTime": "2024/06/07-09:19:36",
+    "icao24": "a5a8d3",
+    "path": [
+        [
+            1717755876,
+            40.8366,
+            -82.912,
+            2743,
+            150,
+            false
+        ],
+        [
+            1717756775,
+            40.2624,
+            -82.4869,
+            2743,
+            150,
+            false
+        ],
+        [
+            1717757672,
+            39.6953,
+            -82.0753,
+            2743,
+            150,
+            false
+        ],
+        [
+            1717758003,
+            39.4863,
+            -81.9256,
+            2743,
+            150,
+            false
+        ],
+        [
+            1717761636,
+            37.2204,
+            -80.3652,
+            2743,
+            152,
+            false
+        ],
+        [
+            1717762395,
+            36.743,
+            -80.0505,
+            2743,
+            153,
+            false
+        ],
+        [
+            1717762491,
+            36.6783,
+            -80.0081,
+            2438,
+            152,
+            false
+        ],
+        [
+            1717762509,
+            36.6656,
+            -79.9998,
+            2133,
+            151,
+            false
+        ],
+        [
+            1717762730,
+            36.4969,
+            -79.9069,
+            1219,
+            183,
+            false
+        ],
+        [
+            1717762776,
+            36.4798,
+            -79.9085,
+            1219,
+            183,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-07:24:36",
+    "baro_altitude": 1363.98,
+    "category": 0,
+    "geo_altitude": 1310.64,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762776,
+    "latitude": 36.4798,
+    "longitude": -79.9085,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717762776,
+    "true_track": 183.66,
+    "velocity": 88.67,
+    "vertical_rate": -4.23,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 2,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "K17G",
+    "estDepartureAirportHorizDistance": 8083,
+    "estDepartureAirportVertDistance": 2506,
+    "firstSeen": 1717755876,
+    "lastSeen": 1717762776
+}

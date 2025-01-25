@@ -1,0 +1,112 @@
+{
+    "callsign": "JAL85   ",
+    "endTime": "2024/06/04-08:33:55",
+    "icao24": "86d5e0",
+    "path": [
+        [
+            1717497999,
+            35.3779,
+            137.4267,
+            11582,
+            255,
+            false
+        ],
+        [
+            1717498029,
+            35.3783,
+            137.4282,
+            11582,
+            255,
+            false
+        ],
+        [
+            1717498132,
+            35.3758,
+            137.4172,
+            11887,
+            255,
+            false
+        ],
+        [
+            1717498145,
+            35.3767,
+            137.421,
+            11582,
+            255,
+            false
+        ],
+        [
+            1717498953,
+            35.3683,
+            137.3823,
+            11887,
+            255,
+            false
+        ],
+        [
+            1717499804,
+            35.3622,
+            137.3542,
+            11887,
+            255,
+            false
+        ],
+        [
+            1717500701,
+            35.3519,
+            137.3068,
+            11887,
+            255,
+            false
+        ],
+        [
+            1717500835,
+            35.3509,
+            137.302,
+            11887,
+            254,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:46:39",
+    "baro_altitude": 12024.36,
+    "category": 0,
+    "geo_altitude": 12367.26,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500034,
+    "latitude": 35.3604,
+    "longitude": 137.3456,
+    "on_ground": false,
+    "origin_country": "Japan",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3232",
+    "time_position": 1717499919,
+    "true_track": 255.26,
+    "velocity": 224.48,
+    "vertical_rate": 5.53,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717497999,
+    "lastSeen": 1717500835
+}

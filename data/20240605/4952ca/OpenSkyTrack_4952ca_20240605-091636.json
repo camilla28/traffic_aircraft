@@ -1,0 +1,144 @@
+{
+    "callsign": "TAP824W ",
+    "endTime": "2024/06/05-09:16:32",
+    "icao24": "4952ca",
+    "path": [
+        [
+            1717589644,
+            38.7925,
+            -9.1301,
+            0,
+            22,
+            false
+        ],
+        [
+            1717589644,
+            38.7925,
+            -9.1301,
+            0,
+            24,
+            false
+        ],
+        [
+            1717589666,
+            38.8074,
+            -9.1215,
+            304,
+            26,
+            false
+        ],
+        [
+            1717589672,
+            38.8117,
+            -9.1186,
+            304,
+            27,
+            false
+        ],
+        [
+            1717589684,
+            38.8204,
+            -9.1124,
+            609,
+            28,
+            false
+        ],
+        [
+            1717589701,
+            38.8341,
+            -9.1023,
+            609,
+            31,
+            false
+        ],
+        [
+            1717589728,
+            38.8585,
+            -9.084,
+            914,
+            30,
+            false
+        ],
+        [
+            1717589755,
+            38.8862,
+            -9.063,
+            1219,
+            30,
+            false
+        ],
+        [
+            1717589762,
+            38.8935,
+            -9.0573,
+            1524,
+            33,
+            false
+        ],
+        [
+            1717589770,
+            38.9024,
+            -9.0486,
+            1524,
+            39,
+            false
+        ],
+        [
+            1717589779,
+            38.9104,
+            -9.0391,
+            1524,
+            43,
+            false
+        ],
+        [
+            1717589792,
+            38.9226,
+            -9.0245,
+            1828,
+            43,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-09:14:04",
+    "baro_altitude": 1203.96,
+    "category": 0,
+    "geo_altitude": 1310.64,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717589728,
+    "latitude": 38.8585,
+    "longitude": -9.084,
+    "on_ground": false,
+    "origin_country": "Portugal",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2264",
+    "time_position": 1717589728,
+    "true_track": 29.96,
+    "velocity": 120.54,
+    "vertical_rate": 13,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 20,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LPPT",
+    "estDepartureAirportHorizDistance": 1282,
+    "estDepartureAirportVertDistance": 167,
+    "firstSeen": 1717589644,
+    "lastSeen": 1717589792
+}

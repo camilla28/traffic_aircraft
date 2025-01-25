@@ -1,0 +1,96 @@
+{
+    "callsign": "CXK554  ",
+    "endTime": "2024/06/07-09:16:14",
+    "icao24": "aa096a",
+    "path": [
+        [
+            1717762536,
+            36.1156,
+            -80.2468,
+            304,
+            218,
+            false
+        ],
+        [
+            1717762541,
+            36.1141,
+            -80.2482,
+            304,
+            218,
+            false
+        ],
+        [
+            1717762551,
+            36.1113,
+            -80.2508,
+            609,
+            217,
+            false
+        ],
+        [
+            1717762556,
+            36.11,
+            -80.2521,
+            609,
+            220,
+            false
+        ],
+        [
+            1717762562,
+            36.1082,
+            -80.2542,
+            609,
+            225,
+            false
+        ],
+        [
+            1717762574,
+            36.1053,
+            -80.2581,
+            609,
+            227,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-09:15:36",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762509,
+    "latitude": null,
+    "longitude": null,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": null,
+    "true_track": 221.7,
+    "velocity": 37.89,
+    "vertical_rate": 3.25,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 306,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KINT",
+    "estDepartureAirportHorizDistance": 2870,
+    "estDepartureAirportVertDistance": 268,
+    "firstSeen": 1717762536,
+    "lastSeen": 1717762562
+}

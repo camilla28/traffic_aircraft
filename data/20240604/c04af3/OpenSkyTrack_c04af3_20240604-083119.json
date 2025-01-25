@@ -1,0 +1,80 @@
+{
+    "callsign": "CJT566  ",
+    "endTime": "2024/06/04-08:19:21",
+    "icao24": "c04af3",
+    "path": [
+        [
+            1717498995,
+            49.9206,
+            -98.9857,
+            8534,
+            99,
+            false
+        ],
+        [
+            1717499056,
+            49.9202,
+            -98.982,
+            8534,
+            99,
+            false
+        ],
+        [
+            1717499651,
+            49.9147,
+            -98.9333,
+            8229,
+            99,
+            false
+        ],
+        [
+            1717499961,
+            49.9117,
+            -98.906,
+            7924,
+            99,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:03:15",
+    "baro_altitude": 8161.02,
+    "category": 0,
+    "geo_altitude": 8343.9,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499961,
+    "latitude": 49.9117,
+    "longitude": -98.906,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499961,
+    "true_track": 99.82,
+    "velocity": 256.35,
+    "vertical_rate": -7.8,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717498995,
+    "lastSeen": 1717499961
+}

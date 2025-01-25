@@ -1,0 +1,120 @@
+{
+    "callsign": "GNHAD   ",
+    "endTime": "2024/06/12-09:26:25",
+    "icao24": "406f3e",
+    "path": [
+        [
+            1718195107,
+            54.5255,
+            -2.0261,
+            609,
+            90,
+            false
+        ],
+        [
+            1718195185,
+            54.5253,
+            -1.9237,
+            609,
+            90,
+            false
+        ],
+        [
+            1718195185,
+            54.5253,
+            -1.9237,
+            304,
+            90,
+            false
+        ],
+        [
+            1718195185,
+            54.5253,
+            -1.9237,
+            0,
+            90,
+            false
+        ],
+        [
+            1718195185,
+            54.5253,
+            -1.9237,
+            -304,
+            90,
+            false
+        ],
+        [
+            1718195185,
+            54.5253,
+            -1.9237,
+            0,
+            90,
+            false
+        ],
+        [
+            1718195185,
+            54.5253,
+            -1.9237,
+            10972,
+            90,
+            false
+        ],
+        [
+            1718195185,
+            54.5253,
+            -1.9237,
+            11582,
+            90,
+            false
+        ],
+        [
+            1718195185,
+            54.5253,
+            -1.9237,
+            10363,
+            90,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-09:25:07",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194239,
+    "latitude": null,
+    "longitude": null,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": null,
+    "true_track": 102.09,
+    "velocity": 36.83,
+    "vertical_rate": 5.2,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 48,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EGNV",
+    "estDepartureAirportHorizDistance": 38554,
+    "estDepartureAirportVertDistance": 832,
+    "firstSeen": 1718195107,
+    "lastSeen": 1718195185
+}

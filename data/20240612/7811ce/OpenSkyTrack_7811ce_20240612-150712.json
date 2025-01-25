@@ -1,0 +1,120 @@
+{
+    "callsign": "CSH9514 ",
+    "endTime": "2024/06/12-12:00:36",
+    "icao24": "7811ce",
+    "path": [
+        [
+            1718201116,
+            22.2499,
+            113.616,
+            3962,
+            36,
+            false
+        ],
+        [
+            1718201126,
+            22.2634,
+            113.627,
+            3962,
+            36,
+            false
+        ],
+        [
+            1718201135,
+            22.2757,
+            113.6356,
+            3962,
+            31,
+            false
+        ],
+        [
+            1718201140,
+            22.2836,
+            113.6403,
+            3962,
+            29,
+            false
+        ],
+        [
+            1718201153,
+            22.3028,
+            113.6504,
+            3962,
+            24,
+            false
+        ],
+        [
+            1718201185,
+            22.3528,
+            113.6756,
+            3962,
+            25,
+            false
+        ],
+        [
+            1718201434,
+            22.7375,
+            113.8706,
+            4267,
+            25,
+            false
+        ],
+        [
+            1718204436,
+            27.2316,
+            118.6691,
+            10058,
+            38,
+            false
+        ],
+        [
+            1718204436,
+            27.2316,
+            118.6691,
+            10058,
+            38,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-11:05:16",
+    "baro_altitude": 10088.88,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204436,
+    "latitude": 27.2316,
+    "longitude": 118.6691,
+    "on_ground": false,
+    "origin_country": "China",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718204436,
+    "true_track": 38.88,
+    "velocity": 245.85,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "VMMC",
+    "estDepartureAirportHorizDistance": 11360,
+    "estDepartureAirportVertDistance": 4200,
+    "firstSeen": 1718201116,
+    "lastSeen": 1718204436
+}

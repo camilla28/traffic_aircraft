@@ -1,0 +1,128 @@
+{
+    "callsign": "ERH314  ",
+    "endTime": "2024/06/07-09:40:52",
+    "icao24": "a3574e",
+    "path": [
+        [
+            1717762461,
+            29.5472,
+            -90.6433,
+            0,
+            176,
+            false
+        ],
+        [
+            1717762461,
+            29.5472,
+            -90.6433,
+            0,
+            176,
+            false
+        ],
+        [
+            1717762523,
+            29.5139,
+            -90.6421,
+            304,
+            177,
+            false
+        ],
+        [
+            1717762580,
+            29.4803,
+            -90.6404,
+            609,
+            177,
+            false
+        ],
+        [
+            1717762598,
+            29.4694,
+            -90.6399,
+            914,
+            177,
+            false
+        ],
+        [
+            1717762729,
+            29.3903,
+            -90.6361,
+            1524,
+            177,
+            false
+        ],
+        [
+            1717762812,
+            29.3353,
+            -90.6333,
+            1828,
+            177,
+            false
+        ],
+        [
+            1717762888,
+            29.2824,
+            -90.6307,
+            2133,
+            177,
+            false
+        ],
+        [
+            1717763786,
+            28.6202,
+            -90.5985,
+            2438,
+            177,
+            false
+        ],
+        [
+            1717764052,
+            28.4243,
+            -90.5891,
+            2438,
+            177,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-09:14:21",
+    "baro_altitude": 2590.8,
+    "category": 0,
+    "geo_altitude": 2712.72,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762944,
+    "latitude": 29.2417,
+    "longitude": -90.6286,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717762944,
+    "true_track": 177.19,
+    "velocity": 83.96,
+    "vertical_rate": 1.3,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 163,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KHUM",
+    "estDepartureAirportHorizDistance": 2702,
+    "estDepartureAirportVertDistance": 294,
+    "firstSeen": 1717762461,
+    "lastSeen": 1717764052
+}

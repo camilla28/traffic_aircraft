@@ -1,0 +1,144 @@
+{
+    "callsign": "ERH813  ",
+    "endTime": "2024/06/12-12:09:59",
+    "icao24": "ab14d3",
+    "path": [
+        [
+            1718204132,
+            29.4942,
+            -90.4181,
+            304,
+            111,
+            false
+        ],
+        [
+            1718204505,
+            29.406,
+            -90.1538,
+            304,
+            111,
+            false
+        ],
+        [
+            1718204507,
+            29.4056,
+            -90.1524,
+            304,
+            105,
+            false
+        ],
+        [
+            1718204522,
+            29.4035,
+            -90.1414,
+            304,
+            96,
+            false
+        ],
+        [
+            1718204531,
+            29.4028,
+            -90.1348,
+            304,
+            97,
+            false
+        ],
+        [
+            1718204541,
+            29.4018,
+            -90.128,
+            304,
+            103,
+            false
+        ],
+        [
+            1718204549,
+            29.3998,
+            -90.1217,
+            304,
+            114,
+            false
+        ],
+        [
+            1718204557,
+            29.3976,
+            -90.1169,
+            304,
+            119,
+            false
+        ],
+        [
+            1718204585,
+            29.3886,
+            -90.0989,
+            304,
+            117,
+            false
+        ],
+        [
+            1718204593,
+            29.3863,
+            -90.0932,
+            304,
+            113,
+            false
+        ],
+        [
+            1718204629,
+            29.3774,
+            -90.0684,
+            304,
+            111,
+            false
+        ],
+        [
+            1718204999,
+            29.2912,
+            -89.8129,
+            304,
+            111,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-11:55:32",
+    "baro_altitude": 525.78,
+    "category": 0,
+    "geo_altitude": 556.26,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204674,
+    "latitude": 29.3666,
+    "longitude": -90.0366,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718204674,
+    "true_track": 110.89,
+    "velocity": 72.13,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 145,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KGAO",
+    "estDepartureAirportHorizDistance": 16916,
+    "estDepartureAirportVertDistance": 373,
+    "firstSeen": 1718204132,
+    "lastSeen": 1718204999
+}

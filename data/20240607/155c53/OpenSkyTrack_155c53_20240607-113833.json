@@ -1,0 +1,112 @@
+{
+    "callsign": "SDM6396 ",
+    "endTime": "2024/06/07-11:23:29",
+    "icao24": "155c53",
+    "path": [
+        [
+            1717770079,
+            68.6972,
+            32.8061,
+            1219,
+            134,
+            false
+        ],
+        [
+            1717770084,
+            68.6746,
+            32.7755,
+            1524,
+            186,
+            false
+        ],
+        [
+            1717770084,
+            68.6746,
+            32.7755,
+            1524,
+            12,
+            false
+        ],
+        [
+            1717770151,
+            68.4992,
+            32.8201,
+            2743,
+            358,
+            false
+        ],
+        [
+            1717770188,
+            68.476,
+            32.799,
+            3048,
+            359,
+            false
+        ],
+        [
+            1717770200,
+            68.5606,
+            32.7244,
+            3048,
+            205,
+            false
+        ],
+        [
+            1717770209,
+            68.487,
+            32.5398,
+            3048,
+            221,
+            false
+        ],
+        [
+            1717770209,
+            68.487,
+            32.5398,
+            3048,
+            158,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-11:21:19",
+    "baro_altitude": 10668,
+    "category": 0,
+    "geo_altitude": 10728.96,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762935,
+    "latitude": 66.034,
+    "longitude": 32.0979,
+    "on_ground": false,
+    "origin_country": "Russian Federation",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5723",
+    "time_position": 1717762935,
+    "true_track": 1.09,
+    "velocity": 242.35,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 3,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "ULMM",
+    "estDepartureAirportHorizDistance": 9401,
+    "estDepartureAirportVertDistance": 1427,
+    "firstSeen": 1717770079,
+    "lastSeen": 1717770209
+}

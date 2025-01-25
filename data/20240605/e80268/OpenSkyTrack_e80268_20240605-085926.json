@@ -1,0 +1,80 @@
+{
+    "callsign": "LPE2445 ",
+    "endTime": "2024/06/05-08:59:28",
+    "icao24": "e80268",
+    "path": [
+        [
+            1717588542,
+            -5.3058,
+            -76.442,
+            10972,
+            189,
+            false
+        ],
+        [
+            1717588686,
+            -5.6328,
+            -76.4951,
+            10972,
+            189,
+            false
+        ],
+        [
+            1717588698,
+            -5.6592,
+            -76.4994,
+            10668,
+            189,
+            false
+        ],
+        [
+            1717588768,
+            -5.8149,
+            -76.5246,
+            10972,
+            189,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-08:55:42",
+    "baro_altitude": 10980.42,
+    "category": 0,
+    "geo_altitude": 11742.42,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717588578,
+    "latitude": -5.3873,
+    "longitude": -76.4553,
+    "on_ground": false,
+    "origin_country": "Chile",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717588578,
+    "true_track": 189.04,
+    "velocity": 255.25,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717588542,
+    "lastSeen": 1717588758
+}

@@ -1,0 +1,104 @@
+{
+    "callsign": "AUA785B ",
+    "endTime": "2024/06/07-11:43:29",
+    "icao24": "440667",
+    "path": [
+        [
+            1717771336,
+            48.1225,
+            16.5339,
+            304,
+            290,
+            false
+        ],
+        [
+            1717771346,
+            48.1233,
+            16.5236,
+            304,
+            263,
+            false
+        ],
+        [
+            1717771355,
+            48.121,
+            16.5145,
+            304,
+            239,
+            false
+        ],
+        [
+            1717771365,
+            48.1155,
+            16.5067,
+            609,
+            216,
+            false
+        ],
+        [
+            1717771371,
+            48.1113,
+            16.5025,
+            609,
+            213,
+            false
+        ],
+        [
+            1717771399,
+            48.1067,
+            16.498,
+            609,
+            212,
+            false
+        ],
+        [
+            1717771409,
+            48.0828,
+            16.4772,
+            609,
+            203,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-11:42:16",
+    "baro_altitude": 10363.2,
+    "category": 0,
+    "geo_altitude": 10797.54,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762945,
+    "latitude": 44.8141,
+    "longitude": 17.334,
+    "on_ground": false,
+    "origin_country": "Austria",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2025",
+    "time_position": 1717762945,
+    "true_track": 334.96,
+    "velocity": 224.85,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 86,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LOWW",
+    "estDepartureAirportHorizDistance": 2374,
+    "estDepartureAirportVertDistance": 198,
+    "firstSeen": 1717771336,
+    "lastSeen": 1717771399
+}

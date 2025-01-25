@@ -1,0 +1,96 @@
+{
+    "callsign": "OKUUR14 ",
+    "endTime": "2024/06/04-09:56:58",
+    "icao24": "49c129",
+    "path": [
+        [
+            1717504491,
+            50.4175,
+            15.13,
+            304,
+            78,
+            false
+        ],
+        [
+            1717504508,
+            50.4175,
+            15.128,
+            304,
+            78,
+            false
+        ],
+        [
+            1717504508,
+            50.4175,
+            15.128,
+            304,
+            94,
+            false
+        ],
+        [
+            1717505033,
+            50.4166,
+            15.1422,
+            304,
+            99,
+            false
+        ],
+        [
+            1717505818,
+            50.4144,
+            15.1635,
+            304,
+            99,
+            false
+        ],
+        [
+            1717505818,
+            50.4144,
+            15.1635,
+            304,
+            105,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:34:51",
+    "baro_altitude": 571.5,
+    "category": 0,
+    "geo_altitude": 601.98,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504683,
+    "latitude": 50.4175,
+    "longitude": 15.128,
+    "on_ground": false,
+    "origin_country": "Czech Republic",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504508,
+    "true_track": 94.12,
+    "velocity": 57.25,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 100,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LKJC",
+    "estDepartureAirportHorizDistance": 14458,
+    "estDepartureAirportVertDistance": 308,
+    "firstSeen": 1717504491,
+    "lastSeen": 1717505818
+}

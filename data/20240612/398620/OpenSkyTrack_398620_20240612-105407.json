@@ -1,0 +1,96 @@
+{
+    "callsign": "FHBRA   ",
+    "endTime": "2024/06/12-10:54:11",
+    "icao24": "398620",
+    "path": [
+        [
+            1718200126,
+            50.6473,
+            5.5711,
+            0,
+            166,
+            false
+        ],
+        [
+            1718200139,
+            50.6421,
+            5.5735,
+            0,
+            155,
+            false
+        ],
+        [
+            1718200147,
+            50.6389,
+            5.5756,
+            0,
+            158,
+            false
+        ],
+        [
+            1718200156,
+            50.6345,
+            5.578,
+            304,
+            160,
+            false
+        ],
+        [
+            1718200179,
+            50.6228,
+            5.5839,
+            304,
+            163,
+            false
+        ],
+        [
+            1718200451,
+            50.4682,
+            5.6591,
+            304,
+            162,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-10:48:46",
+    "baro_altitude": 541.02,
+    "category": 0,
+    "geo_altitude": 685.8,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194058,
+    "latitude": 49.6565,
+    "longitude": 5.8374,
+    "on_ground": false,
+    "origin_country": "France",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718194058,
+    "true_track": 172.49,
+    "velocity": 66.94,
+    "vertical_rate": -2.28,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 113,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EBLG",
+    "estDepartureAirportHorizDistance": 9090,
+    "estDepartureAirportVertDistance": 42,
+    "firstSeen": 1718200126,
+    "lastSeen": 1718200451
+}

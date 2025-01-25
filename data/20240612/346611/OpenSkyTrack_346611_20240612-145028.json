@@ -1,0 +1,96 @@
+{
+    "callsign": "VOE72QN ",
+    "endTime": "2024/06/12-14:50:38",
+    "icao24": "346611",
+    "path": [
+        [
+            1718214578,
+            44.8326,
+            -0.7399,
+            0,
+            261,
+            false
+        ],
+        [
+            1718214587,
+            44.8297,
+            -0.748,
+            304,
+            227,
+            false
+        ],
+        [
+            1718214596,
+            44.8243,
+            -0.753,
+            304,
+            200,
+            false
+        ],
+        [
+            1718214605,
+            44.8179,
+            -0.7546,
+            304,
+            182,
+            false
+        ],
+        [
+            1718214612,
+            44.8116,
+            -0.7539,
+            609,
+            170,
+            false
+        ],
+        [
+            1718214638,
+            44.791,
+            -0.7483,
+            609,
+            169,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-14:49:38",
+    "baro_altitude": 11582.4,
+    "category": 0,
+    "geo_altitude": 11902.44,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204678,
+    "latitude": 39.6796,
+    "longitude": 0.1847,
+    "on_ground": false,
+    "origin_country": "Spain",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1037",
+    "time_position": 1718204673,
+    "true_track": 14.13,
+    "velocity": 227.58,
+    "vertical_rate": -0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 55,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFBD",
+    "estDepartureAirportHorizDistance": 1399,
+    "estDepartureAirportVertDistance": 217,
+    "firstSeen": 1718214578,
+    "lastSeen": 1718214629
+}

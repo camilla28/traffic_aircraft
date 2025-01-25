@@ -1,0 +1,88 @@
+{
+    "callsign": "KNE323  ",
+    "endTime": "2024/06/04-08:59:55",
+    "icao24": "7105bb",
+    "path": [
+        [
+            1717499677,
+            29.0979,
+            48.6116,
+            10668,
+            34,
+            false
+        ],
+        [
+            1717500543,
+            29.1525,
+            48.6549,
+            10668,
+            34,
+            false
+        ],
+        [
+            1717501425,
+            29.2174,
+            48.7064,
+            10668,
+            34,
+            false
+        ],
+        [
+            1717502270,
+            29.2688,
+            48.7472,
+            10668,
+            34,
+            false
+        ],
+        [
+            1717502395,
+            29.2808,
+            48.7567,
+            10668,
+            34,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:14:37",
+    "baro_altitude": 10675.62,
+    "category": 0,
+    "geo_altitude": 11369.04,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499958,
+    "latitude": 29.1156,
+    "longitude": 48.6256,
+    "on_ground": false,
+    "origin_country": "Saudi Arabia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499958,
+    "true_track": 34.86,
+    "velocity": 252.03,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717499677,
+    "lastSeen": 1717502395
+}

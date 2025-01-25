@@ -1,0 +1,104 @@
+{
+    "callsign": "SCQ6R   ",
+    "endTime": "2024/06/12-10:15:00",
+    "icao24": "478dd3",
+    "path": [
+        [
+            1718198042,
+            58.496,
+            8.4282,
+            609,
+            54,
+            false
+        ],
+        [
+            1718198050,
+            58.4982,
+            8.434,
+            609,
+            50,
+            false
+        ],
+        [
+            1718198058,
+            58.501,
+            8.4394,
+            609,
+            43,
+            false
+        ],
+        [
+            1718198065,
+            58.5033,
+            8.4438,
+            609,
+            44,
+            false
+        ],
+        [
+            1718198076,
+            58.5076,
+            8.451,
+            609,
+            43,
+            false
+        ],
+        [
+            1718198100,
+            58.5169,
+            8.4649,
+            609,
+            31,
+            false
+        ],
+        [
+            1718198100,
+            58.5169,
+            8.4649,
+            609,
+            31,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-10:14:02",
+    "baro_altitude": 975.36,
+    "category": 0,
+    "geo_altitude": 952.5,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194259,
+    "latitude": 58.3017,
+    "longitude": 8.4796,
+    "on_ground": false,
+    "origin_country": "Norway",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718194259,
+    "true_track": 238.93,
+    "velocity": 49.85,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 16,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "ENGK",
+    "estDepartureAirportHorizDistance": 16266,
+    "estDepartureAirportVertDistance": 528,
+    "firstSeen": 1718198042,
+    "lastSeen": 1718198100
+}

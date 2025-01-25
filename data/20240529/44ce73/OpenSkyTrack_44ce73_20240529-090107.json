@@ -1,0 +1,72 @@
+{
+    "callsign": "BEL5BH  ",
+    "endTime": "2024/05/29-09:01:03",
+    "icao24": "44ce73",
+    "path": [
+        [
+            1716984027,
+            50.9089,
+            4.4902,
+            0,
+            245,
+            false
+        ],
+        [
+            1716984057,
+            50.9011,
+            4.4637,
+            0,
+            244,
+            false
+        ],
+        [
+            1716984063,
+            50.8998,
+            4.4582,
+            304,
+            251,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-09:00:27",
+    "baro_altitude": 5417.82,
+    "category": 1,
+    "geo_altitude": 5501.64,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716978990,
+    "latitude": 50.9728,
+    "longitude": 6.3821,
+    "on_ground": false,
+    "origin_country": "Belgium",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1716978990,
+    "true_track": 225,
+    "velocity": 164.42,
+    "vertical_rate": -5.2,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 95,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EBMB",
+    "estDepartureAirportHorizDistance": 458,
+    "estDepartureAirportVertDistance": 38,
+    "firstSeen": 1716984027,
+    "lastSeen": 1716984057
+}

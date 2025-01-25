@@ -1,0 +1,136 @@
+{
+    "callsign": "FFT1882 ",
+    "endTime": "2024/06/04-09:01:41",
+    "icao24": "a406c9",
+    "path": [
+        [
+            1717500835,
+            29.9748,
+            -95.3837,
+            609,
+            343,
+            false
+        ],
+        [
+            1717500878,
+            29.9736,
+            -95.3835,
+            609,
+            343,
+            false
+        ],
+        [
+            1717500878,
+            29.9736,
+            -95.3835,
+            609,
+            339,
+            false
+        ],
+        [
+            1717500991,
+            29.9761,
+            -95.3839,
+            609,
+            339,
+            false
+        ],
+        [
+            1717501008,
+            29.9786,
+            -95.3843,
+            914,
+            339,
+            false
+        ],
+        [
+            1717501260,
+            40.218,
+            -89.1325,
+            10668,
+            27,
+            false
+        ],
+        [
+            1717501385,
+            40.2192,
+            -89.1316,
+            10668,
+            27,
+            false
+        ],
+        [
+            1717501420,
+            40.2306,
+            -89.1239,
+            10363,
+            27,
+            false
+        ],
+        [
+            1717501446,
+            40.2232,
+            -89.129,
+            10668,
+            27,
+            false
+        ],
+        [
+            1717502325,
+            40.2639,
+            -89.1014,
+            10363,
+            27,
+            false
+        ],
+        [
+            1717502501,
+            40.2735,
+            -89.0949,
+            10363,
+            27,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:33:55",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499958,
+    "latitude": null,
+    "longitude": null,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": null,
+    "true_track": 349.86,
+    "velocity": 128.56,
+    "vertical_rate": 7.8,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 267,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KIAH",
+    "estDepartureAirportHorizDistance": 19818,
+    "estDepartureAirportVertDistance": 869,
+    "firstSeen": 1717500835,
+    "lastSeen": 1717502501
+}

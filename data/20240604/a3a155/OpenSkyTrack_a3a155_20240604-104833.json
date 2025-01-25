@@ -1,0 +1,104 @@
+{
+    "callsign": "DAL414  ",
+    "endTime": "2024/06/04-09:55:14",
+    "icao24": "a3a155",
+    "path": [
+        [
+            1717501453,
+            45.312,
+            -95.9245,
+            9753,
+            274,
+            false
+        ],
+        [
+            1717502349,
+            45.3164,
+            -96.0051,
+            9753,
+            274,
+            false
+        ],
+        [
+            1717503181,
+            45.3204,
+            -96.0813,
+            9753,
+            274,
+            false
+        ],
+        [
+            1717503920,
+            45.3235,
+            -96.1414,
+            9753,
+            274,
+            false
+        ],
+        [
+            1717504798,
+            45.3277,
+            -96.2203,
+            9753,
+            274,
+            false
+        ],
+        [
+            1717505691,
+            45.3315,
+            -96.2946,
+            9753,
+            274,
+            false
+        ],
+        [
+            1717505714,
+            45.3312,
+            -96.2902,
+            9753,
+            274,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:44:13",
+    "baro_altitude": 9761.22,
+    "category": 4,
+    "geo_altitude": 10081.26,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504707,
+    "latitude": 45.3273,
+    "longitude": -96.2131,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504707,
+    "true_track": 274.19,
+    "velocity": 225.41,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "MY58",
+    "estDepartureAirportHorizDistance": 8287,
+    "estDepartureAirportVertDistance": 9450,
+    "firstSeen": 1717501453,
+    "lastSeen": 1717505714
+}

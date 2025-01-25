@@ -1,0 +1,160 @@
+{
+    "callsign": "IBE30AZ ",
+    "endTime": "2024/06/12-12:15:24",
+    "icao24": "344417",
+    "path": [
+        [
+            1718205117,
+            40.4843,
+            -3.547,
+            304,
+            142,
+            false
+        ],
+        [
+            1718205146,
+            40.4663,
+            -3.5291,
+            609,
+            142,
+            false
+        ],
+        [
+            1718205173,
+            40.4501,
+            -3.5126,
+            914,
+            142,
+            false
+        ],
+        [
+            1718205199,
+            40.4343,
+            -3.4969,
+            1219,
+            143,
+            false
+        ],
+        [
+            1718205208,
+            40.4295,
+            -3.4907,
+            1219,
+            130,
+            false
+        ],
+        [
+            1718205217,
+            40.426,
+            -3.4829,
+            1524,
+            119,
+            false
+        ],
+        [
+            1718205226,
+            40.4226,
+            -3.4744,
+            1524,
+            117,
+            false
+        ],
+        [
+            1718205235,
+            40.4194,
+            -3.4658,
+            1524,
+            115,
+            false
+        ],
+        [
+            1718205243,
+            40.4165,
+            -3.4575,
+            1524,
+            114,
+            false
+        ],
+        [
+            1718205251,
+            40.4134,
+            -3.4483,
+            1524,
+            113,
+            false
+        ],
+        [
+            1718205296,
+            40.3949,
+            -3.3895,
+            1828,
+            114,
+            false
+        ],
+        [
+            1718205305,
+            40.3908,
+            -3.3766,
+            2133,
+            110,
+            false
+        ],
+        [
+            1718205315,
+            40.3892,
+            -3.3614,
+            2133,
+            92,
+            false
+        ],
+        [
+            1718205324,
+            40.3912,
+            -3.3478,
+            2438,
+            71,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-12:11:57",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204671,
+    "latitude": 40.4906,
+    "longitude": -3.5614,
+    "on_ground": true,
+    "origin_country": "Spain",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718204671,
+    "true_track": 0,
+    "velocity": 10.29,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 29,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LEMD",
+    "estDepartureAirportHorizDistance": 1757,
+    "estDepartureAirportVertDistance": 45,
+    "firstSeen": 1718205117,
+    "lastSeen": 1718205324
+}

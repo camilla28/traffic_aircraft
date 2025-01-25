@@ -1,0 +1,80 @@
+{
+    "callsign": "TVF879J ",
+    "endTime": "2024/06/07-15:19:13",
+    "icao24": "39de41",
+    "path": [
+        [
+            1717784304,
+            48.7267,
+            2.336,
+            0,
+            241,
+            false
+        ],
+        [
+            1717784327,
+            48.7195,
+            2.3159,
+            0,
+            240,
+            false
+        ],
+        [
+            1717784336,
+            48.7163,
+            2.3078,
+            304,
+            238,
+            false
+        ],
+        [
+            1717784353,
+            48.7101,
+            2.2933,
+            304,
+            236,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-15:18:24",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717784176,
+    "latitude": 48.7295,
+    "longitude": 2.3536,
+    "on_ground": true,
+    "origin_country": "France",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1717784176,
+    "true_track": 343.12,
+    "velocity": 7.72,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 87,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFPO",
+    "estDepartureAirportHorizDistance": 2700,
+    "estDepartureAirportVertDistance": 50,
+    "firstSeen": 1717784304,
+    "lastSeen": 1717784353
+}

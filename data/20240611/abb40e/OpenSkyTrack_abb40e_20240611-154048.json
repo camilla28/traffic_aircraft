@@ -1,0 +1,80 @@
+{
+    "callsign": "FDY3752 ",
+    "endTime": "2024/06/11-15:40:37",
+    "icao24": "abb40e",
+    "path": [
+        [
+            1718130013,
+            33.9233,
+            -118.3404,
+            0,
+            0,
+            false
+        ],
+        [
+            1718130025,
+            33.9233,
+            -118.3403,
+            0,
+            0,
+            false
+        ],
+        [
+            1718130746,
+            33.9233,
+            -118.3403,
+            0,
+            0,
+            false
+        ],
+        [
+            1718131237,
+            33.9233,
+            -118.3404,
+            0,
+            0,
+            false
+        ]
+    ],
+    "startTime": "2024/06/11-15:20:13",
+    "baro_altitude": 15.24,
+    "category": 0,
+    "geo_altitude": -15.24,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718130415,
+    "latitude": 33.9233,
+    "longitude": -118.3404,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718130372,
+    "true_track": 0,
+    "velocity": 0,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 134,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KHHR",
+    "estDepartureAirportHorizDistance": 497,
+    "estDepartureAirportVertDistance": 4,
+    "firstSeen": 1718130013,
+    "lastSeen": 1718131237
+}

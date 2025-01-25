@@ -1,0 +1,120 @@
+{
+    "callsign": "N241MT  ",
+    "endTime": "2024/06/04-09:49:37",
+    "icao24": "a234db",
+    "path": [
+        [
+            1717499441,
+            32.8337,
+            -103.1009,
+            1828,
+            50,
+            false
+        ],
+        [
+            1717500212,
+            32.8412,
+            -103.0901,
+            1828,
+            51,
+            false
+        ],
+        [
+            1717500974,
+            32.8487,
+            -103.0786,
+            1828,
+            53,
+            false
+        ],
+        [
+            1717501860,
+            32.8538,
+            -103.0703,
+            1828,
+            54,
+            false
+        ],
+        [
+            1717502657,
+            32.8602,
+            -103.0596,
+            1828,
+            54,
+            false
+        ],
+        [
+            1717503535,
+            32.8675,
+            -103.0474,
+            1828,
+            54,
+            false
+        ],
+        [
+            1717504431,
+            32.878,
+            -103.0303,
+            1828,
+            54,
+            false
+        ],
+        [
+            1717505314,
+            32.886,
+            -103.0173,
+            1828,
+            54,
+            false
+        ],
+        [
+            1717505377,
+            32.8869,
+            -103.0158,
+            1828,
+            54,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:10:41",
+    "baro_altitude": 1882.14,
+    "category": 0,
+    "geo_altitude": 1874.52,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504636,
+    "latitude": 32.8798,
+    "longitude": -103.0274,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504633,
+    "true_track": 54,
+    "velocity": 74.4,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 92,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "NM83",
+    "estDepartureAirportHorizDistance": 12331,
+    "estDepartureAirportVertDistance": 759,
+    "firstSeen": 1717499441,
+    "lastSeen": 1717505377
+}

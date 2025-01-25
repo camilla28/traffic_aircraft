@@ -1,0 +1,112 @@
+{
+    "callsign": "TAM3845 ",
+    "endTime": "2024/06/12-09:19:08",
+    "icao24": "e48c4d",
+    "path": [
+        [
+            1718194298,
+            -21.0254,
+            -46.8781,
+            11277,
+            171,
+            false
+        ],
+        [
+            1718194414,
+            -21.2585,
+            -46.8414,
+            11277,
+            171,
+            false
+        ],
+        [
+            1718194572,
+            -21.579,
+            -46.791,
+            10972,
+            171,
+            false
+        ],
+        [
+            1718194578,
+            -21.5885,
+            -46.7895,
+            11277,
+            171,
+            false
+        ],
+        [
+            1718194603,
+            -21.6416,
+            -46.7812,
+            10972,
+            171,
+            false
+        ],
+        [
+            1718194709,
+            -21.8572,
+            -46.7471,
+            11277,
+            171,
+            false
+        ],
+        [
+            1718194741,
+            -21.9226,
+            -46.7369,
+            10972,
+            171,
+            false
+        ],
+        [
+            1718194748,
+            -21.9354,
+            -46.7348,
+            10668,
+            171,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-09:11:38",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194226,
+    "latitude": null,
+    "longitude": null,
+    "on_ground": false,
+    "origin_country": "Brazil",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": null,
+    "true_track": 172.39,
+    "velocity": 225.25,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "SNPY",
+    "estDepartureAirportHorizDistance": 146658,
+    "estDepartureAirportVertDistance": 10329,
+    "firstSeen": 1718194298,
+    "lastSeen": 1718194748
+}

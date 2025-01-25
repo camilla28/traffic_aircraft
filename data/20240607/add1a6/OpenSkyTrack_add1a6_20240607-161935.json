@@ -1,0 +1,104 @@
+{
+    "callsign": "N99PY   ",
+    "endTime": "2024/06/07-16:19:26",
+    "icao24": "add1a6",
+    "path": [
+        [
+            1717784027,
+            34.9341,
+            -91.0619,
+            2438,
+            79,
+            false
+        ],
+        [
+            1717784354,
+            34.9833,
+            -90.7419,
+            2438,
+            79,
+            false
+        ],
+        [
+            1717785554,
+            35.1603,
+            -89.5354,
+            2438,
+            80,
+            false
+        ],
+        [
+            1717786453,
+            35.2852,
+            -88.6267,
+            2438,
+            80,
+            false
+        ],
+        [
+            1717786827,
+            35.3342,
+            -88.2554,
+            2438,
+            80,
+            false
+        ],
+        [
+            1717787754,
+            35.4479,
+            -87.3558,
+            2438,
+            81,
+            false
+        ],
+        [
+            1717787966,
+            35.4729,
+            -87.15,
+            2438,
+            81,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-15:13:47",
+    "baro_altitude": 2727.96,
+    "category": 0,
+    "geo_altitude": 2834.64,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717784127,
+    "latitude": 34.9491,
+    "longitude": -90.9649,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717784127,
+    "true_track": 79.4,
+    "velocity": 89.5,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KM36",
+    "estDepartureAirportHorizDistance": 12036,
+    "estDepartureAirportVertDistance": 2668,
+    "firstSeen": 1717784027,
+    "lastSeen": 1717787966
+}

@@ -7,6 +7,7 @@ import numpy as np
 from datetime import datetime
 import os
 import csv
+from plot import Plot
 
 
 __WRITE_FILE = False
@@ -16,12 +17,13 @@ __LOG_DATA   = True
 
 def __create_specific_conflict_file(date):
 
-    fileName = 'dataset_' + str(date) + '.csv'
+    # fileName = 'dataset.csv'
+    fileName = 'dataset_' + date + '.csv'
 
      #Initiate all the instances
     traj = Trajectory(date)
     #Read all the data
-    data_time_serie = traj.treat_data(type = 'wr', only_path = False)
+    data_time_serie = traj.treat_data(type = 'r', only_path = False)
     search_tree = Search_Tree(tree=None, data=data_time_serie)
     con_detec = Conflict_Detection(data_time_serie)
     plot = PlotData(data_time_serie, data_time_serie)    
@@ -29,8 +31,8 @@ def __create_specific_conflict_file(date):
     NumAeronaves = len(icao_list)
 
 
-    with open(fileName, 'w', newline='') as csvfile:
-        fieldnames = ['NumAeronaves','Aircraft A', 'Aircraft A Ini Man Time', 'Aircraft A Ini Man Lat', 'Aircraft A Ini Man Lon', 
+    with open(fileName, 'a', newline='') as csvfile:
+        fieldnames = ['Date', 'NumAeronaves','Aircraft A', 'Aircraft A Ini Man Time', 'Aircraft A Ini Man Lat', 'Aircraft A Ini Man Lon', 
         'Aircraft A Ini Man Alt', 'Aircraft A Ini Man Vel_xy', 'Aircraft A Ini Man Vel_z', 'Aircraft A Ini Man Track',
         'Speed Maneuver', 'Altitude Maneuver', 'Track Maneuver',
         'Aircraft A End Man Time', 'Aircraft A End Man Lat', 'Aircraft A End Man Lon', 
@@ -64,7 +66,7 @@ def __create_specific_conflict_file(date):
         
         for icao in icao_list:
             if conflicts[icao]['conflict']:
-                (second_filter, FirstPoint, SecondPoint, Maneuvers, A_conflict, B_conflict) = search_tree.search(conflicts, icao)
+                (second_filter, FirstPoint, SecondPoint, Maneuvers, A_conflict, B_conflict, track_pred) = search_tree.search(conflicts, icao)
 
                 for i in range(len(second_filter)):
 
@@ -106,6 +108,7 @@ def __create_specific_conflict_file(date):
 
                     writer.writerow(
                         {
+                            'Date': date,
                             'NumAeronaves': str(NumAeronaves),
                             'Aircraft A': str(icao), 
                             'Aircraft A Ini Man Time': str(A_Ini_Man_Time), 
@@ -210,7 +213,7 @@ def __create_conflicts_file():
                         for icao in icao_list:
                             if conflicts[icao]['conflict']:
 
-                                (second_filter, FirstPoint, SecondPoint, Maneuvers, A, B) = search_tree.search(conflicts, icao)
+                                (second_filter, FirstPoint, SecondPoint, Maneuvers, A, B, track_pred) = search_tree.search(conflicts, icao)
 
                                 for index in range(len(second_filter)):
 
@@ -249,7 +252,8 @@ def __test_run_conflict():
     data_time_serie = traj.treat_data(type = 'r', only_path = False)
     search_tree = Search_Tree(tree=None, data=data_time_serie)
     con_detec = Conflict_Detection(data_time_serie)
-    plot = PlotData(data_time_serie, data_time_serie)
+    plotData = PlotData(data_time_serie, data_time_serie)
+    plot = Plot(data_time_serie)
 
 
     icao_list = list(data_time_serie.keys())
@@ -278,10 +282,13 @@ def __test_run_conflict():
     # icao_list = ['010161','0101be','010206','01022f','0180a4','02007d','020095','0200ae',
     #             '020124','020140','020176','02a1a4','02a1b1','02a1b3']
     # icao_list =['010161', '0a0084', '0a009c', '020140', '151e12', '151e2f']
+    # icao_list =['02a1b3', '406a92', '151e6b', '020140', '0d0d41', '0d0a19', '151e6d', '06a2e9']
+    # icao_list = ['406a92']
+    icao_list = ['02a1b3', '406a92', '4cad49']
     response = con_detec.analysis_filters(icao_list)
 
     if __WRITE_FILE is True:
-        f = open("conflicts_38.txt", "w")
+        f = open("conflicts_01.txt", "w")
         # f.write("Speed Lim:100\tSpeed frames:6\tAlt Lim:600\tAlt frames:10\tTrajectory Prediction considering also the vertical rate\n")
         f.write("Speed Lim:90\tSpeed frames:6\tAlt Lim:600\tAlt frames:10\t Track lim: 5 \t track frames: 5\tTrajectory Prediction considering only the ground speed "+ 
         "const and vertical rate equal to zero\n")
@@ -309,46 +316,79 @@ def __test_run_conflict():
     if __LOG_DATA is True:
         print(initial_time)
 
+    args = dict()
+    args['alt_frame_indices'] = None
+    args['alt_change_lim'] = None
+    args['alt_std_lim'] = None
+
+    args['track_frame_indices'] = None
+    args['track_change_lim'] = None
+    args['track_std_lim'] = None
+    
+    args['speed_frame_indices'] = None
+    args['speed_change_lim'] = None
+    args['speed_std_lim'] = None
+
+    # icao_list = ["06a099", "40697c", "406a92", "40773b"]
+    # # icao_list = ["06a099", "3453c3", "392aed", "3c6487", "400afb", "406250", "40697c", "406a92", "40773b", "4077e0", "4b027f"]
+    # icao_list = ["06a099", "151e53", "406a92", "40773b", "48c26c_1", "495148", "495212", "4bb4e3", "4ca245_1", "4cad2b_1",
+    #              "4cad49", "4d21ee_1", "89618a", "896513", "a0da92", "a3472f", "a3b87f", "a410b3", "a4ea77", "a52c4f",
+    #              "a58c2e", "a5d668", "a744b3", "ad285f_1", "c05218"]
+    # Altitude: a07dcd, acce3f
+    # Speed: "400afb"
+    # icao_list = ["02a1b3","06a099","407a05","495212","4b027f","4bb4e3", "a07dcd", "a08a1a", "a45ba2", "acce3f", "ad285f_1", "c05218", "c0614d"]
     for icao in icao_list:
 
         # Search for conflicts
-        conflicts = con_detec.search_conflicts(icao)
+        conflicts = con_detec.search_conflicts(args, icao)
 
         if conflicts[icao]['conflict']:
             # plot.plot_icao_traj(data_time_serie, icao, conflicts, None)
             # plot.plot_icao_traj_without_alt(data_time_serie, icao, conflicts, None)
 
+            
+                
+
+
             # Search for the second airplane in conflict
-            (first_filter, second_filter, track_pred) = search_tree.search(conflicts, icao)
+            (second_filter, first_filter, FirstManPoint, SecondManPoint, Maneuvers, A_conflict_point, B_conflict_point, track_preds) = search_tree.search(conflicts, icao)
+            
+            # if __PLOT_DATA is True:
+            #     plot.plot_track_conf_pred(icao, conflicts, track_preds)
+            #     plot.plot_lon_lat_alt_conf_pred_area(icao, conflicts, track_preds)
 
-            if len(first_filter) > 0:
+            if len(second_filter) > 0:
 
-                if len(second_filter) > 0:
+                # if __PLOT_DATA is True:
+                plot.plot_track(icao)
+                #     plot.plot_track_conf(icao, conflicts)
+                #     plot.plot_track_conf_pred(icao, conflicts, track_preds)
+                #     plot.plot_lon_lat_alt_conf_pred_area(icao, conflicts, track_preds)
 
-                    if __WRITE_FILE is True:
-                        f.write(icao+":\n")
-                        f.write(str(conflicts)+"\n")
-                        f.write("First filter:"+str(first_filter)+"\n")
-                        f.write("Second filter:"+str(second_filter)+"\n")
+                if __WRITE_FILE is True:
+                    f.write(icao+":\n")
+                    f.write(str(conflicts)+"\n")
+                    f.write("Second filter:"+str(second_filter)+"\n")
 
-                    if __LOG_DATA is True:
-                        print(icao)
-                        print("There is a conflict")
-                        print(conflicts)
+                if __LOG_DATA is True:
+                    print(icao)
+                    print("There is a conflict")
+                    print(conflicts)
 
-                    if __PLOT_DATA is True:
-                        plot.plot_data_4_axes(data_time_serie, icao, second_filter, conflicts)
-                        plot.plot_icao_traj(data_time_serie, icao, conflicts, track_pred)
-                        plot.plot_icao_traj_without_alt(data_time_serie, icao, conflicts, track_pred)
-                        plot.plot_comp_all_speed(data_time_serie, icao, conflicts)
+                plot.plot_track_conf_pred_B_icao(icao, conflicts, track_preds, second_filter)
+                # if __PLOT_DATA is True:
+                #     # plotData.plot_data_4_axes(data_time_serie, icao, second_filter, conflicts)
+                # plotData.plot_icao_traj(data_time_serie, icao, conflicts, track_preds, second_filter, A_conflict_point, B_conflict_point)
+                    # plotData.plot_icao_traj_without_alt(data_time_serie, icao, conflicts, track_pred)
+                    # plotData.plot_comp_all_speed(data_time_serie, icao, conflicts)
 
-                    if len(conflicts[icao]['man_speed']) > 0:
-                        maneuver_speed = maneuver_speed + 1
-                    if len(conflicts[icao]['man_alt']) > 0:
-                        maneuver_alt = maneuver_alt + 1
-                    if len(conflicts[icao]['man_track']) > 0:
-                        maneuver_track = maneuver_track + 1
-                    count_conflicts = count_conflicts + 1
+                if len(conflicts[icao]['man_speed']) > 0:
+                    maneuver_speed = maneuver_speed + 1
+                if len(conflicts[icao]['man_alt']) > 0:
+                    maneuver_alt = maneuver_alt + 1
+                if len(conflicts[icao]['man_track']) > 0:
+                    maneuver_track = maneuver_track + 1
+                count_conflicts = count_conflicts + 1
 
 
     final_time = datetime.now()
@@ -380,18 +420,26 @@ def __test_run_conflict():
 
 # dataList = ["20230511", "20230520", "20230522", "20230526", "20230527", "20230528", "20230529", 
 #             "20230530", "20230724", "20240528", "20240529"]
-dataList = ["20230821","20240528", "20240529"]
 
-for data in dataList:
-    initial_time = datetime.now()
-    print(initial_time)
+__test_run_conflict()
+# dataList = ["20230511", "20230520", "20230522", "20230526", "20230527", "20230528", "20230529", 
+#             "20230530", "20230601", "20230606", "20230724", "20230727", "20230821", "20240528", 
+#             "20240529", "20240603", "20240604", "20240605", "20240607", "20240611", "20240612", 
+#             "20240614", "20240615"]
 
-    # __create_conflicts_file()
-    print(data)
-    __create_specific_conflict_file(data)
+# dataList = ["20240604", "20240605", "20240607", "20240611", "20240612", "20240614", "20240615"]
+# dataList = ["20240605", "20240607", "20240611", "20240612", "20240614", "20240615"]
 
-    final_time = datetime.now()
-    diference_time = final_time - initial_time
-    print(final_time)
-    print(diference_time)
+# dataList = ["20230727"]
+# for data in dataList:
+#     initial_time = datetime.now()
+#     print(initial_time)
 
+#     # __create_conflicts_file()
+#     print(data)
+#     __create_specific_conflict_file(data)
+
+#     final_time = datetime.now()
+#     diference_time = final_time - initial_time
+#     print(final_time)
+#     print(diference_time)

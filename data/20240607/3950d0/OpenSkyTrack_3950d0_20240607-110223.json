@@ -1,0 +1,80 @@
+{
+    "callsign": "AFR41WH ",
+    "endTime": "2024/06/07-11:01:47",
+    "icao24": "3950d0",
+    "path": [
+        [
+            1717768888,
+            43.6711,
+            7.2364,
+            0,
+            53,
+            false
+        ],
+        [
+            1717768898,
+            43.6726,
+            7.2454,
+            304,
+            91,
+            false
+        ],
+        [
+            1717768907,
+            43.6702,
+            7.2531,
+            304,
+            126,
+            false
+        ],
+        [
+            1717768907,
+            43.6702,
+            7.2531,
+            304,
+            132,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-11:01:28",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762945,
+    "latitude": 43.6596,
+    "longitude": 7.2076,
+    "on_ground": true,
+    "origin_country": "France",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1717762945,
+    "true_track": 281.25,
+    "velocity": 2.06,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 32,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFMN",
+    "estDepartureAirportHorizDistance": 1857,
+    "estDepartureAirportVertDistance": 240,
+    "firstSeen": 1717768888,
+    "lastSeen": 1717768907
+}

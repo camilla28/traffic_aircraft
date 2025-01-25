@@ -1,0 +1,72 @@
+{
+    "callsign": "JIA5409 ",
+    "endTime": "2024/06/04-08:55:26",
+    "icao24": "a677be",
+    "path": [
+        [
+            1717500957,
+            33.748,
+            -96.609,
+            6705,
+            31,
+            false
+        ],
+        [
+            1717501799,
+            33.773,
+            -96.5907,
+            6705,
+            31,
+            false
+        ],
+        [
+            1717502126,
+            33.7841,
+            -96.5825,
+            7010,
+            31,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:35:57",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499886,
+    "latitude": null,
+    "longitude": null,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": null,
+    "true_track": 31.56,
+    "velocity": 219.17,
+    "vertical_rate": 6.18,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 7,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "9XS4",
+    "estDepartureAirportHorizDistance": 1950,
+    "estDepartureAirportVertDistance": 6697,
+    "firstSeen": 1717500957,
+    "lastSeen": 1717502126
+}

@@ -1,0 +1,104 @@
+{
+    "callsign": "RAM221  ",
+    "endTime": "2024/06/04-09:28:29",
+    "icao24": "0200ae",
+    "path": [
+        [
+            1717499477,
+            50.8707,
+            13.1216,
+            10972,
+            228,
+            false
+        ],
+        [
+            1717500374,
+            50.8298,
+            13.0492,
+            10972,
+            228,
+            false
+        ],
+        [
+            1717501271,
+            50.7861,
+            12.9724,
+            10972,
+            228,
+            false
+        ],
+        [
+            1717502170,
+            50.7552,
+            12.9181,
+            10972,
+            228,
+            false
+        ],
+        [
+            1717503028,
+            50.7267,
+            12.8682,
+            10972,
+            227,
+            false
+        ],
+        [
+            1717503847,
+            50.7067,
+            12.8331,
+            10972,
+            227,
+            false
+        ],
+        [
+            1717504109,
+            50.698,
+            12.818,
+            10972,
+            227,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:11:17",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": 11170.92,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500036,
+    "latitude": 50.844,
+    "longitude": 13.0744,
+    "on_ground": false,
+    "origin_country": "Morocco",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3551",
+    "time_position": 1717500030,
+    "true_track": 228.27,
+    "velocity": 242.66,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDOH",
+    "estDepartureAirportHorizDistance": 638550,
+    "estDepartureAirportVertDistance": 10586,
+    "firstSeen": 1717499477,
+    "lastSeen": 1717504109
+}

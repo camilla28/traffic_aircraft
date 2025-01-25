@@ -1,0 +1,72 @@
+{
+    "callsign": "TAM3101 ",
+    "endTime": "2024/06/14-18:52:32",
+    "icao24": "e48be3",
+    "path": [
+        [
+            1718401693,
+            -21.0101,
+            -46.8801,
+            10363,
+            171,
+            false
+        ],
+        [
+            1718401938,
+            -21.494,
+            -46.8042,
+            10668,
+            171,
+            false
+        ],
+        [
+            1718401952,
+            -21.5192,
+            -46.8002,
+            10363,
+            171,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-18:48:13",
+    "baro_altitude": 10668,
+    "category": 0,
+    "geo_altitude": 11361.42,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718401709,
+    "latitude": -21.0411,
+    "longitude": -46.8753,
+    "on_ground": false,
+    "origin_country": "Brazil",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718401709,
+    "true_track": 171.66,
+    "velocity": 219.93,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "SNPY",
+    "estDepartureAirportHorizDistance": 93431,
+    "estDepartureAirportVertDistance": 9712,
+    "firstSeen": 1718401693,
+    "lastSeen": 1718401952
+}

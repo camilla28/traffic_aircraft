@@ -1,0 +1,112 @@
+{
+    "callsign": "N291FR  ",
+    "endTime": "2024/06/03-19:04:29",
+    "icao24": "a2f9be",
+    "path": [
+        [
+            1717452005,
+            32.7147,
+            -97.8926,
+            1524,
+            130,
+            false
+        ],
+        [
+            1717452031,
+            32.7051,
+            -97.8789,
+            1524,
+            131,
+            false
+        ],
+        [
+            1717452146,
+            32.6612,
+            -97.8169,
+            1219,
+            129,
+            false
+        ],
+        [
+            1717452146,
+            32.6612,
+            -97.8169,
+            1219,
+            136,
+            false
+        ],
+        [
+            1717452247,
+            32.6238,
+            -97.7651,
+            1219,
+            158,
+            false
+        ],
+        [
+            1717452256,
+            32.6196,
+            -97.7633,
+            1219,
+            167,
+            false
+        ],
+        [
+            1717452261,
+            32.6169,
+            -97.7628,
+            914,
+            174,
+            false
+        ],
+        [
+            1717452269,
+            32.6131,
+            -97.7627,
+            914,
+            181,
+            false
+        ]
+    ],
+    "startTime": "2024/06/03-19:00:05",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717451524,
+    "latitude": null,
+    "longitude": null,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": null,
+    "true_track": 129.45,
+    "velocity": 63.96,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 492,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "TA51",
+    "estDepartureAirportHorizDistance": 5377,
+    "estDepartureAirportVertDistance": 1322,
+    "firstSeen": 1717452005,
+    "lastSeen": 1717452269
+}

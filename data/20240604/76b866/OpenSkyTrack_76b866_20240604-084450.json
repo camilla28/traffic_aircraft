@@ -1,0 +1,120 @@
+{
+    "callsign": "TGW624  ",
+    "endTime": "2024/06/04-08:23:25",
+    "icao24": "76b866",
+    "path": [
+        [
+            1717495866,
+            13.647,
+            100.8924,
+            3352,
+            358,
+            false
+        ],
+        [
+            1717496762,
+            13.6596,
+            100.892,
+            3352,
+            358,
+            false
+        ],
+        [
+            1717497579,
+            13.6716,
+            100.8916,
+            3352,
+            358,
+            false
+        ],
+        [
+            1717498424,
+            13.6808,
+            100.8913,
+            3352,
+            358,
+            false
+        ],
+        [
+            1717499101,
+            13.6878,
+            100.8911,
+            3352,
+            358,
+            false
+        ],
+        [
+            1717499219,
+            13.6921,
+            100.891,
+            3048,
+            358,
+            false
+        ],
+        [
+            1717499235,
+            13.6895,
+            100.8911,
+            3352,
+            358,
+            false
+        ],
+        [
+            1717499854,
+            13.698,
+            100.8908,
+            3048,
+            358,
+            false
+        ],
+        [
+            1717500205,
+            13.7014,
+            100.8906,
+            3048,
+            357,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:11:06",
+    "baro_altitude": 3329.94,
+    "category": 0,
+    "geo_altitude": 3505.2,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500013,
+    "latitude": 13.698,
+    "longitude": 100.8908,
+    "on_ground": false,
+    "origin_country": "Singapore",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499854,
+    "true_track": 358,
+    "velocity": 192,
+    "vertical_rate": -4.23,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717495866,
+    "lastSeen": 1717500205
+}

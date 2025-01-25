@@ -1,0 +1,112 @@
+{
+    "callsign": "BBO101  ",
+    "endTime": "2024/06/07-15:40:11",
+    "icao24": "3430c1",
+    "path": [
+        [
+            1717783924,
+            38.6693,
+            -9.1775,
+            0,
+            151,
+            false
+        ],
+        [
+            1717783962,
+            38.6516,
+            -9.1645,
+            304,
+            149,
+            false
+        ],
+        [
+            1717784090,
+            38.5787,
+            -9.1092,
+            304,
+            148,
+            false
+        ],
+        [
+            1717784335,
+            38.4458,
+            -9.0083,
+            609,
+            149,
+            false
+        ],
+        [
+            1717784595,
+            38.3065,
+            -8.903,
+            914,
+            148,
+            false
+        ],
+        [
+            1717784686,
+            38.2571,
+            -8.8657,
+            1219,
+            149,
+            false
+        ],
+        [
+            1717785584,
+            37.7564,
+            -8.4917,
+            1524,
+            150,
+            false
+        ],
+        [
+            1717785611,
+            37.7408,
+            -8.4802,
+            1524,
+            149,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-15:12:04",
+    "baro_altitude": 769.62,
+    "category": 0,
+    "geo_altitude": 830.58,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717784179,
+    "latitude": 38.5347,
+    "longitude": -9.0756,
+    "on_ground": false,
+    "origin_country": "Spain",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3201",
+    "time_position": 1717784173,
+    "true_track": 149.62,
+    "velocity": 69.17,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 18,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LPMT",
+    "estDepartureAirportHorizDistance": 12885,
+    "estDepartureAirportVertDistance": 245,
+    "firstSeen": 1717783924,
+    "lastSeen": 1717785602
+}

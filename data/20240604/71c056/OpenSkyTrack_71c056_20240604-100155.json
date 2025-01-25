@@ -1,0 +1,80 @@
+{
+    "callsign": "TWB251  ",
+    "endTime": "2024/06/04-10:01:54",
+    "icao24": "71c056",
+    "path": [
+        [
+            1717504080,
+            36.4512,
+            134.9276,
+            11277,
+            58,
+            false
+        ],
+        [
+            1717504698,
+            36.466,
+            134.9578,
+            11277,
+            58,
+            false
+        ],
+        [
+            1717505587,
+            36.478,
+            134.9825,
+            11277,
+            58,
+            false
+        ],
+        [
+            1717506114,
+            36.4942,
+            135.0155,
+            11277,
+            58,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:28:00",
+    "baro_altitude": 11277.6,
+    "category": 0,
+    "geo_altitude": 11498.58,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504711,
+    "latitude": 36.466,
+    "longitude": 134.9578,
+    "on_ground": false,
+    "origin_country": "Republic of Korea",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7130",
+    "time_position": 1717504698,
+    "true_track": 58.91,
+    "velocity": 248.09,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717504080,
+    "lastSeen": 1717506114
+}

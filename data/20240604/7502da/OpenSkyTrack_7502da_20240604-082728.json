@@ -1,0 +1,96 @@
+{
+    "callsign": "MXD2101 ",
+    "endTime": "2024/06/04-08:22:44",
+    "icao24": "7502da",
+    "path": [
+        [
+            1717496262,
+            2.9364,
+            101.5957,
+            914,
+            146,
+            false
+        ],
+        [
+            1717497153,
+            2.928,
+            101.6013,
+            914,
+            145,
+            false
+        ],
+        [
+            1717498045,
+            2.9151,
+            101.61,
+            914,
+            145,
+            false
+        ],
+        [
+            1717498707,
+            2.9085,
+            101.6145,
+            914,
+            146,
+            false
+        ],
+        [
+            1717499592,
+            2.8999,
+            101.6202,
+            609,
+            146,
+            false
+        ],
+        [
+            1717500164,
+            2.8957,
+            101.6231,
+            609,
+            146,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:17:42",
+    "baro_altitude": 838.2,
+    "category": 0,
+    "geo_altitude": 891.54,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500024,
+    "latitude": 2.8977,
+    "longitude": 101.6218,
+    "on_ground": false,
+    "origin_country": "Malaysia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717500019,
+    "true_track": 145.93,
+    "velocity": 86.32,
+    "vertical_rate": -3.9,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 24,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "WMSA",
+    "estDepartureAirportHorizDistance": 98731,
+    "estDepartureAirportVertDistance": 1077,
+    "firstSeen": 1717496262,
+    "lastSeen": 1717500164
+}

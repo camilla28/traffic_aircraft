@@ -1,0 +1,72 @@
+{
+    "callsign": "LTA905  ",
+    "endTime": "2024/06/12-09:33:56",
+    "icao24": "ac82b9",
+    "path": [
+        [
+            1718194590,
+            32.9922,
+            -80.5689,
+            1524,
+            63,
+            false
+        ],
+        [
+            1718195481,
+            33.2248,
+            -80.0223,
+            1524,
+            63,
+            false
+        ],
+        [
+            1718195636,
+            33.2642,
+            -79.9291,
+            1524,
+            63,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-09:16:30",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194100,
+    "latitude": null,
+    "longitude": null,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": null,
+    "true_track": 63.02,
+    "velocity": 63.5,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 173,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KRBW",
+    "estDepartureAirportHorizDistance": 10096,
+    "estDepartureAirportVertDistance": 1630,
+    "firstSeen": 1718194590,
+    "lastSeen": 1718195636
+}

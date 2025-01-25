@@ -1,0 +1,144 @@
+{
+    "callsign": "FDX9876 ",
+    "endTime": "2024/06/04-09:24:47",
+    "icao24": "abe959",
+    "path": [
+        [
+            1717496365,
+            41.3463,
+            19.6102,
+            10668,
+            129,
+            false
+        ],
+        [
+            1717497183,
+            41.31,
+            19.668,
+            10668,
+            129,
+            false
+        ],
+        [
+            1717497896,
+            41.4082,
+            19.5117,
+            10668,
+            129,
+            false
+        ],
+        [
+            1717498779,
+            41.2492,
+            19.7644,
+            10668,
+            129,
+            false
+        ],
+        [
+            1717498815,
+            41.2508,
+            19.7618,
+            10668,
+            129,
+            false
+        ],
+        [
+            1717498815,
+            41.2508,
+            19.7618,
+            10668,
+            142,
+            false
+        ],
+        [
+            1717499636,
+            36.4684,
+            25.0298,
+            10668,
+            142,
+            false
+        ],
+        [
+            1717500535,
+            36.4038,
+            25.0913,
+            10668,
+            142,
+            false
+        ],
+        [
+            1717501425,
+            36.361,
+            25.132,
+            10668,
+            142,
+            false
+        ],
+        [
+            1717502317,
+            36.3248,
+            25.1664,
+            10668,
+            142,
+            false
+        ],
+        [
+            1717503151,
+            36.2861,
+            25.203,
+            10668,
+            142,
+            false
+        ],
+        [
+            1717503887,
+            36.2362,
+            25.2503,
+            10668,
+            142,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:19:25",
+    "baro_altitude": 10668,
+    "category": 0,
+    "geo_altitude": 11163.3,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500031,
+    "latitude": 36.4324,
+    "longitude": 25.0642,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0111",
+    "time_position": 1717500031,
+    "true_track": 142.56,
+    "velocity": 257.23,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LATI",
+    "estDepartureAirportHorizDistance": 30187,
+    "estDepartureAirportVertDistance": 10629,
+    "firstSeen": 1717496365,
+    "lastSeen": 1717503887
+}

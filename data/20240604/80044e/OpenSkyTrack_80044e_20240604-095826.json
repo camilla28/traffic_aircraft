@@ -1,0 +1,112 @@
+{
+    "callsign": "AXB683  ",
+    "endTime": "2024/06/04-09:58:09",
+    "icao24": "80044e",
+    "path": [
+        [
+            1717502693,
+            1.5012,
+            104.0415,
+            609,
+            202,
+            false
+        ],
+        [
+            1717503203,
+            1.4936,
+            104.0384,
+            609,
+            202,
+            false
+        ],
+        [
+            1717503680,
+            3.393,
+            100.2854,
+            10972,
+            287,
+            false
+        ],
+        [
+            1717503832,
+            3.3974,
+            100.2704,
+            10972,
+            285,
+            false
+        ],
+        [
+            1717503832,
+            3.3974,
+            100.2704,
+            10972,
+            273,
+            false
+        ],
+        [
+            1717504640,
+            3.403,
+            100.2302,
+            10972,
+            273,
+            false
+        ],
+        [
+            1717505496,
+            3.4057,
+            100.1891,
+            10972,
+            273,
+            false
+        ],
+        [
+            1717505889,
+            3.4078,
+            100.1588,
+            10972,
+            273,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:04:53",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": 11727.18,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504640,
+    "latitude": 3.403,
+    "longitude": 100.2302,
+    "on_ground": false,
+    "origin_country": "India",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504640,
+    "true_track": 273.64,
+    "velocity": 242.79,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 18,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "WSSS",
+    "estDepartureAirportHorizDistance": 17599,
+    "estDepartureAirportVertDistance": 633,
+    "firstSeen": 1717502693,
+    "lastSeen": 1717505889
+}

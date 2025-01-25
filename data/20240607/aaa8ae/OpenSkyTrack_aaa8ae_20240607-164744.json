@@ -1,0 +1,112 @@
+{
+    "callsign": "N786VC  ",
+    "endTime": "2024/06/07-16:47:43",
+    "icao24": "aaa8ae",
+    "path": [
+        [
+            1717788682,
+            34.4367,
+            -84.6137,
+            1219,
+            91,
+            false
+        ],
+        [
+            1717789178,
+            34.4274,
+            -84.3318,
+            1219,
+            93,
+            false
+        ],
+        [
+            1717789225,
+            34.4264,
+            -84.3069,
+            1219,
+            91,
+            false
+        ],
+        [
+            1717789252,
+            34.4263,
+            -84.2902,
+            1219,
+            89,
+            false
+        ],
+        [
+            1717789301,
+            34.4267,
+            -84.2626,
+            1219,
+            86,
+            false
+        ],
+        [
+            1717789359,
+            34.4279,
+            -84.2298,
+            1219,
+            89,
+            false
+        ],
+        [
+            1717789564,
+            34.4304,
+            -84.1195,
+            1219,
+            87,
+            false
+        ],
+        [
+            1717789663,
+            34.4322,
+            -84.0667,
+            1219,
+            88,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-16:31:22",
+    "baro_altitude": 1363.98,
+    "category": 0,
+    "geo_altitude": 1386.84,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717784174,
+    "latitude": 34.2517,
+    "longitude": -86.9899,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717784165,
+    "true_track": 80.11,
+    "velocity": 44.91,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 325,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KJZP",
+    "estDepartureAirportHorizDistance": 14808,
+    "estDepartureAirportVertDistance": 918,
+    "firstSeen": 1717788682,
+    "lastSeen": 1717789663
+}

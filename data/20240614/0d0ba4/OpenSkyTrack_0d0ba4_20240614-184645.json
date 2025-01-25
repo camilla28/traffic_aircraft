@@ -1,0 +1,72 @@
+{
+    "callsign": "XBFXK   ",
+    "endTime": "2024/06/14-18:07:35",
+    "icao24": "0d0ba4",
+    "path": [
+        [
+            1718398961,
+            25.6709,
+            -98.1696,
+            3352,
+            170,
+            false
+        ],
+        [
+            1718398961,
+            25.6709,
+            -98.1696,
+            3352,
+            170,
+            false
+        ],
+        [
+            1718399255,
+            25.4326,
+            -98.1666,
+            4267,
+            170,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-18:02:41",
+    "baro_altitude": 4511.04,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718399255,
+    "latitude": 25.4326,
+    "longitude": -98.1666,
+    "on_ground": false,
+    "origin_country": "Mexico",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718399255,
+    "true_track": 170.03,
+    "velocity": 86.18,
+    "vertical_rate": 4.55,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1718398961,
+    "lastSeen": 1718399255
+}

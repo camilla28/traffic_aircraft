@@ -1,0 +1,72 @@
+{
+    "callsign": "NSZ37A  ",
+    "endTime": "2024/06/04-08:31:58",
+    "icao24": "4aca82",
+    "path": [
+        [
+            1717499770,
+            41.1022,
+            4.2745,
+            11582,
+            25,
+            false
+        ],
+        [
+            1717500661,
+            41.1797,
+            4.3224,
+            11582,
+            25,
+            false
+        ],
+        [
+            1717500718,
+            41.1805,
+            4.3229,
+            11582,
+            25,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:16:10",
+    "baro_altitude": 11582.4,
+    "category": 0,
+    "geo_altitude": 11879.58,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500036,
+    "latitude": 41.1224,
+    "longitude": 4.287,
+    "on_ground": false,
+    "origin_country": "Sweden",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717500030,
+    "true_track": 24.62,
+    "velocity": 237.11,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717499770,
+    "lastSeen": 1717500718
+}

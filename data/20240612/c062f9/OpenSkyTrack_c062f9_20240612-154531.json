@@ -1,0 +1,72 @@
+{
+    "callsign": "CGLMM   ",
+    "endTime": "2024/06/12-15:45:37",
+    "icao24": "c062f9",
+    "path": [
+        [
+            1718217921,
+            45.5137,
+            -73.4246,
+            0,
+            227,
+            false
+        ],
+        [
+            1718217928,
+            45.5099,
+            -73.4304,
+            0,
+            226,
+            false
+        ],
+        [
+            1718217937,
+            45.5051,
+            -73.4377,
+            304,
+            227,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-15:45:21",
+    "baro_altitude": 12489.18,
+    "category": 0,
+    "geo_altitude": 12679.68,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204675,
+    "latitude": 49.9545,
+    "longitude": -106.0357,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2243",
+    "time_position": 1718204675,
+    "true_track": 92.56,
+    "velocity": 264.69,
+    "vertical_rate": 0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 122,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "CYHU",
+    "estDepartureAirportHorizDistance": 417,
+    "estDepartureAirportVertDistance": 56,
+    "firstSeen": 1718217921,
+    "lastSeen": 1718217937
+}

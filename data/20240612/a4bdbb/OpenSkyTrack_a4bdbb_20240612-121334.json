@@ -1,0 +1,144 @@
+{
+    "callsign": "N404YZ  ",
+    "endTime": "2024/06/12-12:13:37",
+    "icao24": "a4bdbb",
+    "path": [
+        [
+            1718204052,
+            41.0772,
+            -73.7146,
+            0,
+            331,
+            false
+        ],
+        [
+            1718204061,
+            41.0802,
+            -73.7166,
+            0,
+            334,
+            false
+        ],
+        [
+            1718204078,
+            41.0861,
+            -73.7201,
+            0,
+            334,
+            false
+        ],
+        [
+            1718204088,
+            41.0904,
+            -73.7203,
+            304,
+            8,
+            false
+        ],
+        [
+            1718204097,
+            41.0945,
+            -73.7186,
+            304,
+            27,
+            false
+        ],
+        [
+            1718204104,
+            41.0974,
+            -73.7155,
+            304,
+            50,
+            false
+        ],
+        [
+            1718204112,
+            41.0992,
+            -73.7108,
+            304,
+            74,
+            false
+        ],
+        [
+            1718204119,
+            41.1002,
+            -73.706,
+            304,
+            77,
+            false
+        ],
+        [
+            1718204130,
+            41.1013,
+            -73.6988,
+            304,
+            78,
+            false
+        ],
+        [
+            1718204165,
+            41.1047,
+            -73.675,
+            304,
+            78,
+            false
+        ],
+        [
+            1718204398,
+            41.1324,
+            -73.4836,
+            609,
+            79,
+            false
+        ],
+        [
+            1718205217,
+            41.2365,
+            -72.7415,
+            914,
+            79,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-11:54:12",
+    "baro_altitude": 1036.32,
+    "category": 0,
+    "geo_altitude": 1043.94,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204674,
+    "latitude": 41.1669,
+    "longitude": -73.2429,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718204674,
+    "true_track": 79.4,
+    "velocity": 81.12,
+    "vertical_rate": -0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 314,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KHPN",
+    "estDepartureAirportHorizDistance": 1200,
+    "estDepartureAirportVertDistance": 64,
+    "firstSeen": 1718204052,
+    "lastSeen": 1718205217
+}

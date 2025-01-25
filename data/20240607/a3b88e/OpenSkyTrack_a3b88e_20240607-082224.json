@@ -1,0 +1,128 @@
+{
+    "callsign": "AAL638  ",
+    "endTime": "2024/06/07-08:22:26",
+    "icao24": "a3b88e",
+    "path": [
+        [
+            1717759275,
+            26.0863,
+            -80.0842,
+            304,
+            60,
+            false
+        ],
+        [
+            1717759281,
+            26.0898,
+            -80.0785,
+            609,
+            54,
+            false
+        ],
+        [
+            1717759281,
+            26.0898,
+            -80.0785,
+            609,
+            48,
+            false
+        ],
+        [
+            1717759294,
+            26.1008,
+            -80.0679,
+            609,
+            35,
+            false
+        ],
+        [
+            1717759298,
+            26.1048,
+            -80.0654,
+            609,
+            35,
+            false
+        ],
+        [
+            1717759311,
+            26.1186,
+            -80.0613,
+            609,
+            15,
+            false
+        ],
+        [
+            1717759313,
+            26.1213,
+            -80.0611,
+            609,
+            15,
+            false
+        ],
+        [
+            1717759327,
+            26.14,
+            -80.0618,
+            914,
+            356,
+            false
+        ],
+        [
+            1717759335,
+            26.1495,
+            -80.0626,
+            914,
+            355,
+            false
+        ],
+        [
+            1717759346,
+            26.1633,
+            -80.0659,
+            1219,
+            343,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-08:21:15",
+    "baro_altitude": 723.9,
+    "category": 0,
+    "geo_altitude": 723.9,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717759294,
+    "latitude": 26.1008,
+    "longitude": -80.0679,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717759294,
+    "true_track": 35.01,
+    "velocity": 123.74,
+    "vertical_rate": 8.13,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 128,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KFLL",
+    "estDepartureAirportHorizDistance": 6125,
+    "estDepartureAirportVertDistance": 599,
+    "firstSeen": 1717759275,
+    "lastSeen": 1717759346
+}

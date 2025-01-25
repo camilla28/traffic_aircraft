@@ -1,0 +1,120 @@
+{
+    "callsign": "NWS321  ",
+    "endTime": "2024/06/14-17:39:47",
+    "icao24": "151e6b",
+    "path": [
+        [
+            1718396469,
+            57.7001,
+            40.0246,
+            10058,
+            83,
+            false
+        ],
+        [
+            1718396670,
+            60.4841,
+            49.5279,
+            10058,
+            86,
+            false
+        ],
+        [
+            1718396905,
+            60.5109,
+            50.5762,
+            10058,
+            87,
+            false
+        ],
+        [
+            1718397075,
+            60.5252,
+            51.3206,
+            9753,
+            88,
+            false
+        ],
+        [
+            1718397177,
+            60.5311,
+            51.7347,
+            10058,
+            88,
+            false
+        ],
+        [
+            1718397189,
+            60.5322,
+            51.8156,
+            9753,
+            88,
+            false
+        ],
+        [
+            1718397434,
+            60.5411,
+            52.9002,
+            10058,
+            89,
+            false
+        ],
+        [
+            1718397524,
+            60.5424,
+            53.2984,
+            9753,
+            89,
+            false
+        ],
+        [
+            1718397587,
+            60.5425,
+            53.5752,
+            10058,
+            90,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-17:21:09",
+    "baro_altitude": 10066.02,
+    "category": 0,
+    "geo_altitude": 10363.2,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718396795,
+    "latitude": 60.5003,
+    "longitude": 50.0898,
+    "on_ground": false,
+    "origin_country": "Russian Federation",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718396795,
+    "true_track": 87.36,
+    "velocity": 246.16,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1718396469,
+    "lastSeen": 1718397587
+}

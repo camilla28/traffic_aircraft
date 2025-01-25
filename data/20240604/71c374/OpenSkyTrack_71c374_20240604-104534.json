@@ -1,0 +1,72 @@
+{
+    "callsign": "ESR216  ",
+    "endTime": "2024/06/04-10:44:08",
+    "icao24": "71c374",
+    "path": [
+        [
+            1717507631,
+            37.4208,
+            126.9661,
+            914,
+            314,
+            false
+        ],
+        [
+            1717508275,
+            37.4379,
+            126.9448,
+            914,
+            313,
+            false
+        ],
+        [
+            1717508648,
+            37.4511,
+            126.9283,
+            609,
+            315,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-10:27:11",
+    "baro_altitude": 1729.74,
+    "category": 0,
+    "geo_altitude": 1836.42,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504652,
+    "latitude": 37.3326,
+    "longitude": 127.0643,
+    "on_ground": false,
+    "origin_country": "Republic of Korea",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504649,
+    "true_track": 341.4,
+    "velocity": 109.65,
+    "vertical_rate": -4.55,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 61,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "RKSM",
+    "estDepartureAirportHorizDistance": 13218,
+    "estDepartureAirportVertDistance": 1023,
+    "firstSeen": 1717507631,
+    "lastSeen": 1717508648
+}

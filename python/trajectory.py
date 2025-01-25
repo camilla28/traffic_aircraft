@@ -127,53 +127,60 @@ class Trajectory:
 
         for dir in dir_list:
 
-            # Path of icao 
-            path = data_path + "\\" + dir
-            
-            # If is directory
-            if os.path.isdir(path):
-
-                files = os.listdir(path)
+            try:
+                # Path of icao 
+                path = data_path + "\\" + dir
                 
-                if files != []:
+                # If is directory
+                if os.path.isdir(path):
 
-                    data[dir] = list()
-
-                    files = [f for f in files if os.path.isfile(path+'\\'+f)] #Filtering only the files.
+                    files = os.listdir(path)
                     
-                    #If doesn't use only waypoints in track, read differents files to use information
-                    if not only_path:
-                        for file in files:
-                            #print(path+'\\'+file)
-                            with open(path+'\\'+file, "r") as read_file:
-                                
-                                data_dict = json.load(read_file)
-                                
-                                if data_dict["baro_altitude"] is None or data_dict["latitude"] is None  or data_dict["longitude"] is None:
-                                    continue
-                                else:
-                                    waypoint = [
-                                                data_dict["time_position"],
-                                                data_dict["latitude"],
-                                                data_dict["longitude"],
-                                                data_dict["baro_altitude"],
-                                                data_dict["true_track"],
-                                                data_dict["on_ground"],
-                                                data_dict["velocity"],
-                                                data_dict["vertical_rate"]
-                                                ]
+                    if files != []:
 
-                                    data[dir].append(waypoint)
+                        data[dir] = list()
+
+                        files = [f for f in files if os.path.isfile(path+'\\'+f)] #Filtering only the files.
                         
-                    with open(path+'\\'+files[0], "r") as read_file:
+                        #If doesn't use only waypoints in track, read differents files to use information
+                        if not only_path:
+                            for file in files:
+                                #print(path+'\\'+file)
+                                with open(path+'\\'+file, "r") as read_file:
+                                    
+                                    data_dict = json.load(read_file)
+                                    
+                                    if data_dict["baro_altitude"] is None or data_dict["latitude"] is None  or data_dict["longitude"] is None:
+                                        continue
+                                    else:
+                                        waypoint = [
+                                                    data_dict["time_position"],
+                                                    data_dict["latitude"],
+                                                    data_dict["longitude"],
+                                                    data_dict["baro_altitude"],
+                                                    data_dict["true_track"],
+                                                    data_dict["on_ground"],
+                                                    data_dict["velocity"],
+                                                    data_dict["vertical_rate"]
+                                                    ]
 
-                        data_dict = json.load(read_file)
-                        
-                        path_non_duplicate = []
-                        [path_non_duplicate.append(item) for item in data_dict["path"] if item not in path_non_duplicate]
+                                        data[dir].append(waypoint)
+                            
+                        with open(path+'\\'+files[0], "r") as read_file:
 
-                        for waypoint in path_non_duplicate:
-                            data[dir].append(waypoint)        
+                            data_dict = json.load(read_file)
+                            
+                            path_non_duplicate = []
+                            [path_non_duplicate.append(item) for item in data_dict["path"] if item not in path_non_duplicate]
+
+                            for waypoint in path_non_duplicate:
+                                data[dir].append(waypoint)       
+            except Exception as inst:
+                print(dir)
+                print(type(inst))    # the exception type
+                print(inst.args)     # arguments stored in .args
+                print(inst)          # __str__ allows args to be printed directly,
+                print(dir)
 
         with open(data_path + "\\" + self.datestr + ".json", "w") as outfile:
             json.dump(data, outfile)
@@ -275,6 +282,9 @@ class Trajectory:
             #icao_list = ['06a12f','5001db']
             #icao_list = ['5001db']
             for icao in icao_list:
+
+                if icao == '020112':
+                    print(icao)
 
                 data_dict_sorted[icao] = sorted(data_dict[icao], key=self.__takeTime)
                 data_dict_sorted[icao] = self.__remove_track_none(data_dict_sorted[icao])
@@ -677,6 +687,14 @@ class Trajectory:
             if len(data[icao]['filter']) < 4:
                 data.pop(icao)
         return data
+    
+    def __remove_samples_speed_above_400(self, data):
+        icao_list = list(data.keys()) 
+        
+        for icao in icao_list:
+            if abs(max(data[icao]['all']['vel_xy'])) > 400:
+                data.pop(icao)
+        return data
 
     '''
         Treat data 
@@ -708,6 +726,9 @@ class Trajectory:
         # Remove samples with length below 3
         data = self.__remove_samples_above_3(data)
 
+        # Remove samples with speed higher than 400
+        # data = self.__remove_samples_speed_above_400(data)
+        
         return data
 
     '''

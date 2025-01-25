@@ -1,0 +1,144 @@
+{
+    "callsign": "SYS45   ",
+    "endTime": "2024/06/05-08:12:09",
+    "icao24": "43c8ef",
+    "path": [
+        [
+            1717585679,
+            53.0364,
+            -3.5574,
+            609,
+            101,
+            false
+        ],
+        [
+            1717585813,
+            53.0215,
+            -3.4252,
+            609,
+            100,
+            false
+        ],
+        [
+            1717585817,
+            53.0208,
+            -3.4208,
+            609,
+            112,
+            false
+        ],
+        [
+            1717585824,
+            53.019,
+            -3.4149,
+            609,
+            120,
+            false
+        ],
+        [
+            1717585837,
+            53.0149,
+            -3.4043,
+            609,
+            122,
+            false
+        ],
+        [
+            1717585901,
+            52.9944,
+            -3.351,
+            609,
+            121,
+            false
+        ],
+        [
+            1717585907,
+            52.9928,
+            -3.3456,
+            609,
+            109,
+            false
+        ],
+        [
+            1717585915,
+            52.9907,
+            -3.3396,
+            609,
+            128,
+            false
+        ],
+        [
+            1717585922,
+            52.9884,
+            -3.3338,
+            609,
+            119,
+            false
+        ],
+        [
+            1717585927,
+            52.9872,
+            -3.3292,
+            609,
+            114,
+            false
+        ],
+        [
+            1717585929,
+            52.9866,
+            -3.3272,
+            609,
+            111,
+            false
+        ],
+        [
+            1717585929,
+            52.9866,
+            -3.3272,
+            609,
+            111,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-08:07:59",
+    "baro_altitude": 960.12,
+    "category": 0,
+    "geo_altitude": 1066.8,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717582953,
+    "latitude": 53.1114,
+    "longitude": -3.989,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717582953,
+    "true_track": 285.26,
+    "velocity": 17.6,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 35,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EGNR",
+    "estDepartureAirportHorizDistance": 42154,
+    "estDepartureAirportVertDistance": 778,
+    "firstSeen": 1717585679,
+    "lastSeen": 1717585929
+}

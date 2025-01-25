@@ -104,8 +104,8 @@ class Conflict_Detection:
     
 
     def __check_change_speed(self, speed, indice, speed_frame_indices, speed_change_lim):
-        if indice >= len(speed):
-            return -1
+        # if indice >= len(speed):
+        #     return -1
         spd = speed[speed.index[indice]]
         #print(indice, t, ant_t)
         response = -1
@@ -129,8 +129,8 @@ class Conflict_Detection:
     
 
     def __check_change_alt(self, alt, indice, alt_frame_indices, alt_change_lim):
-        if indice >= len(alt):
-            return -1
+        # if indice >= len(alt):
+        #     return -1
         altitude = alt[alt.index[indice]]
         #print(indice, t, ant_t)
         response = -1
@@ -155,8 +155,8 @@ class Conflict_Detection:
 
 
     def __check_change_track(self, track, indice, track_frame_indices, track_change_lim):
-        if indice >= len(track):
-            return -1
+        # if indice >= len(track):
+        #     return -1
         ref_track = track[track.index[indice]]
         #print(indice, t, ant_t)
         response = -1
@@ -238,7 +238,7 @@ class Conflict_Detection:
         indice = 1
 
         # Filtra pela velocidade, não faz sentido as amostras terem uma velocidade acima de 400 m/s
-        if len(speed) > 0 and abs(max(speed)) > self.__SPEED_LIM_MAX:
+        if len(speed) > 0 and abs(max(speed)) > self.__SPEED_LIM_MAX: # Precisa deixar isso no tratamentodo dado, não na obtenção do conflito
             return man_conflict
         # Filtra pelo desvio... quando tem muita variação a amostra não faz mt sentido (pegar quanto por cento das amostras caem aqui)
         # Verifica se o tamanho é maior que 2 para poder obter utilizar o stdev

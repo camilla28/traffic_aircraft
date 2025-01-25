@@ -1,0 +1,72 @@
+{
+    "callsign": "KLM86L  ",
+    "endTime": "2024/06/12-10:18:08",
+    "icao24": "4852f6",
+    "path": [
+        [
+            1718198239,
+            49.6277,
+            6.2148,
+            304,
+            60,
+            false
+        ],
+        [
+            1718198273,
+            49.6392,
+            6.2458,
+            304,
+            59,
+            false
+        ],
+        [
+            1718198288,
+            49.6448,
+            6.2606,
+            609,
+            60,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-10:17:19",
+    "baro_altitude": 7010.4,
+    "category": 4,
+    "geo_altitude": 7048.5,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194259,
+    "latitude": 51.5151,
+    "longitude": 4.4342,
+    "on_ground": false,
+    "origin_country": "Kingdom of the Netherlands",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1718194259,
+    "true_track": 201.27,
+    "velocity": 216.96,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 120,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "ELLX",
+    "estDepartureAirportHorizDistance": 709,
+    "estDepartureAirportVertDistance": 56,
+    "firstSeen": 1718198239,
+    "lastSeen": 1718198288
+}

@@ -1,0 +1,88 @@
+{
+    "callsign": "AXB1955 ",
+    "endTime": "2024/06/12-11:32:21",
+    "icao24": "801623",
+    "path": [
+        [
+            1718202591,
+            15.7494,
+            78.3744,
+            9448,
+            191,
+            false
+        ],
+        [
+            1718202622,
+            15.6876,
+            78.361,
+            9448,
+            191,
+            false
+        ],
+        [
+            1718202674,
+            15.5801,
+            78.3377,
+            9753,
+            191,
+            false
+        ],
+        [
+            1718202732,
+            15.4764,
+            78.3151,
+            10058,
+            191,
+            false
+        ],
+        [
+            1718202741,
+            15.4398,
+            78.3072,
+            10363,
+            191,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-11:29:51",
+    "baro_altitude": 9875.52,
+    "category": 0,
+    "geo_altitude": 10477.5,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718202648,
+    "latitude": 15.6342,
+    "longitude": 78.3495,
+    "on_ground": false,
+    "origin_country": "India",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718202648,
+    "true_track": 191.95,
+    "velocity": 233.48,
+    "vertical_rate": 5.2,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1718202591,
+    "lastSeen": 1718202741
+}

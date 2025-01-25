@@ -1,0 +1,80 @@
+{
+    "callsign": "AMX789  ",
+    "endTime": "2024/06/04-10:02:34",
+    "icao24": "ad4eb4",
+    "path": [
+        [
+            1717503972,
+            33.1965,
+            -115.5502,
+            10668,
+            133,
+            false
+        ],
+        [
+            1717504792,
+            33.1929,
+            -115.5456,
+            10668,
+            133,
+            false
+        ],
+        [
+            1717505637,
+            33.1885,
+            -115.54,
+            10668,
+            133,
+            false
+        ],
+        [
+            1717506154,
+            33.1851,
+            -115.5357,
+            10668,
+            133,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:26:12",
+    "baro_altitude": 10668,
+    "category": 0,
+    "geo_altitude": 11231.88,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504633,
+    "latitude": 33.1936,
+    "longitude": -115.5465,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504633,
+    "true_track": 133.2,
+    "velocity": 231.47,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KCLR",
+    "estDepartureAirportHorizDistance": 227891,
+    "estDepartureAirportVertDistance": 10723,
+    "firstSeen": 1717503972,
+    "lastSeen": 1717506154
+}

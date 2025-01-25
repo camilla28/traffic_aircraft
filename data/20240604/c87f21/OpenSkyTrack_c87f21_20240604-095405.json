@@ -1,0 +1,120 @@
+{
+    "callsign": "TEXGLD  ",
+    "endTime": "2024/06/04-09:47:45",
+    "icao24": "c87f21",
+    "path": [
+        [
+            1717499820,
+            -40.0711,
+            174.9983,
+            2438,
+            323,
+            false
+        ],
+        [
+            1717500573,
+            -40.0669,
+            174.9943,
+            2438,
+            323,
+            false
+        ],
+        [
+            1717501377,
+            -40.0606,
+            174.9883,
+            2438,
+            323,
+            false
+        ],
+        [
+            1717502261,
+            -40.054,
+            174.9819,
+            2438,
+            323,
+            false
+        ],
+        [
+            1717502622,
+            -40.0503,
+            174.9784,
+            2438,
+            323,
+            false
+        ],
+        [
+            1717503476,
+            -40.044,
+            174.9724,
+            2438,
+            323,
+            false
+        ],
+        [
+            1717504293,
+            -40.03,
+            174.959,
+            2438,
+            323,
+            false
+        ],
+        [
+            1717505119,
+            -40.021,
+            174.9502,
+            2438,
+            323,
+            false
+        ],
+        [
+            1717505265,
+            -40.019,
+            174.9483,
+            2438,
+            323,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:17:00",
+    "baro_altitude": 2651.76,
+    "category": 0,
+    "geo_altitude": 2804.16,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504621,
+    "latitude": -40.0276,
+    "longitude": 174.9567,
+    "on_ground": false,
+    "origin_country": "New Zealand",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504617,
+    "true_track": 323.33,
+    "velocity": 150.73,
+    "vertical_rate": 0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 2,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "NZWU",
+    "estDepartureAirportHorizDistance": 12324,
+    "estDepartureAirportVertDistance": 2643,
+    "firstSeen": 1717499820,
+    "lastSeen": 1717505265
+}

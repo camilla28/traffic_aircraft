@@ -1,0 +1,72 @@
+{
+    "callsign": "PAT120  ",
+    "endTime": "2024/05/29-18:12:51",
+    "icao24": "adfecf",
+    "path": [
+        [
+            1717015419,
+            42.9244,
+            -112.2131,
+            7620,
+            238,
+            false
+        ],
+        [
+            1717016315,
+            42.4609,
+            -113.2347,
+            7620,
+            237,
+            false
+        ],
+        [
+            1717017171,
+            42.0054,
+            -114.2056,
+            7620,
+            237,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-17:43:39",
+    "baro_altitude": 7901.94,
+    "category": 13,
+    "geo_altitude": 8100.06,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717016383,
+    "latitude": 42.4263,
+    "longitude": -113.3094,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717016383,
+    "true_track": 237.97,
+    "velocity": 108.63,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717015419,
+    "lastSeen": 1717017171
+}

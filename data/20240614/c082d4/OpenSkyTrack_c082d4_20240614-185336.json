@@ -1,0 +1,104 @@
+{
+    "callsign": "FGD675  ",
+    "endTime": "2024/06/14-18:48:50",
+    "icao24": "c082d4",
+    "path": [
+        [
+            1718401630,
+            50.7025,
+            -120.3089,
+            609,
+            114,
+            false
+        ],
+        [
+            1718401630,
+            50.7025,
+            -120.3089,
+            609,
+            114,
+            false
+        ],
+        [
+            1718401681,
+            50.6908,
+            -120.2705,
+            914,
+            136,
+            false
+        ],
+        [
+            1718401688,
+            50.6878,
+            -120.2682,
+            609,
+            165,
+            false
+        ],
+        [
+            1718401689,
+            50.6873,
+            -120.268,
+            609,
+            165,
+            false
+        ],
+        [
+            1718401730,
+            50.6802,
+            -120.2924,
+            609,
+            276,
+            false
+        ],
+        [
+            1718401730,
+            50.6802,
+            -120.2924,
+            609,
+            277,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-18:47:10",
+    "baro_altitude": 899.16,
+    "category": 0,
+    "geo_altitude": 891.54,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718401689,
+    "latitude": 50.6873,
+    "longitude": -120.268,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718401689,
+    "true_track": 165.72,
+    "velocity": 58.39,
+    "vertical_rate": -1.95,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 26,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "CYKA",
+    "estDepartureAirportHorizDistance": 9514,
+    "estDepartureAirportVertDistance": 530,
+    "firstSeen": 1718401630,
+    "lastSeen": 1718401730
+}

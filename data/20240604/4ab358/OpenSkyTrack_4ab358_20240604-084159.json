@@ -1,0 +1,80 @@
+{
+    "callsign": "SELZX   ",
+    "endTime": "2024/06/04-08:41:56",
+    "icao24": "4ab358",
+    "path": [
+        [
+            1717499543,
+            45.1481,
+            9.9987,
+            4267,
+            303,
+            false
+        ],
+        [
+            1717500318,
+            45.1556,
+            9.9827,
+            4267,
+            303,
+            false
+        ],
+        [
+            1717501202,
+            45.1646,
+            9.963,
+            4572,
+            303,
+            false
+        ],
+        [
+            1717501316,
+            45.1663,
+            9.9592,
+            4572,
+            303,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:12:23",
+    "baro_altitude": 4511.04,
+    "category": 0,
+    "geo_altitude": 4671.06,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500036,
+    "latitude": 45.152,
+    "longitude": 9.9904,
+    "on_ground": false,
+    "origin_country": "Sweden",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "4617",
+    "time_position": 1717500035,
+    "true_track": 303.4,
+    "velocity": 85.04,
+    "vertical_rate": 5.2,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LILR",
+    "estDepartureAirportHorizDistance": 2157,
+    "estDepartureAirportVertDistance": 4401,
+    "firstSeen": 1717499543,
+    "lastSeen": 1717501316
+}

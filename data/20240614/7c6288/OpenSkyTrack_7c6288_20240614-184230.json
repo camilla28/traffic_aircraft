@@ -1,0 +1,136 @@
+{
+    "callsign": "QLK35   ",
+    "endTime": "2024/06/14-18:42:37",
+    "icao24": "7c6288",
+    "path": [
+        [
+            1718399246,
+            -35.435,
+            147.2591,
+            2743,
+            213,
+            false
+        ],
+        [
+            1718399246,
+            -35.435,
+            147.2591,
+            2743,
+            213,
+            false
+        ],
+        [
+            1718399715,
+            -35.7982,
+            146.9737,
+            5181,
+            213,
+            false
+        ],
+        [
+            1718400610,
+            -36.5401,
+            146.3799,
+            5486,
+            213,
+            false
+        ],
+        [
+            1718401071,
+            -36.9277,
+            146.0646,
+            5486,
+            213,
+            false
+        ],
+        [
+            1718401130,
+            -36.978,
+            146.0225,
+            5181,
+            214,
+            false
+        ],
+        [
+            1718401172,
+            -37.0134,
+            145.9937,
+            4876,
+            212,
+            false
+        ],
+        [
+            1718401195,
+            -37.0324,
+            145.979,
+            4876,
+            212,
+            false
+        ],
+        [
+            1718401249,
+            -37.0791,
+            145.9405,
+            4572,
+            214,
+            false
+        ],
+        [
+            1718401321,
+            -37.1403,
+            145.8895,
+            4267,
+            213,
+            false
+        ],
+        [
+            1718401357,
+            -37.17,
+            145.8654,
+            3962,
+            212,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-18:07:26",
+    "baro_altitude": 3002.28,
+    "category": 0,
+    "geo_altitude": 3017.52,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718399246,
+    "latitude": -35.435,
+    "longitude": 147.2591,
+    "on_ground": false,
+    "origin_country": "Australia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718399246,
+    "true_track": 213.29,
+    "velocity": 102.16,
+    "vertical_rate": 6.5,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "YADI",
+    "estDepartureAirportHorizDistance": 152011,
+    "estDepartureAirportVertDistance": 1982,
+    "firstSeen": 1718399246,
+    "lastSeen": 1718401357
+}

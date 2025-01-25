@@ -1,0 +1,72 @@
+{
+    "callsign": "ZKHOP   ",
+    "endTime": "2024/06/03-19:12:03",
+    "icao24": "c81d84",
+    "path": [
+        [
+            1717452453,
+            -36.8511,
+            175.1825,
+            0,
+            228,
+            false
+        ],
+        [
+            1717452480,
+            -36.8592,
+            175.1713,
+            0,
+            227,
+            false
+        ],
+        [
+            1717452723,
+            -36.9417,
+            175.0576,
+            0,
+            225,
+            false
+        ]
+    ],
+    "startTime": "2024/06/03-19:07:33",
+    "baro_altitude": 236.22,
+    "category": 0,
+    "geo_altitude": 419.1,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717452565,
+    "latitude": -36.8863,
+    "longitude": 175.1341,
+    "on_ground": false,
+    "origin_country": "New Zealand",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717452562,
+    "true_track": 229.29,
+    "velocity": 58.37,
+    "vertical_rate": -0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 41,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "NZKE",
+    "estDepartureAirportHorizDistance": 9991,
+    "estDepartureAirportVertDistance": 45,
+    "firstSeen": 1717452453,
+    "lastSeen": 1717452723
+}

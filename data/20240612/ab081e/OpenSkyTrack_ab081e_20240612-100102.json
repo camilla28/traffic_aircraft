@@ -1,0 +1,120 @@
+{
+    "callsign": "N81MH   ",
+    "endTime": "2024/06/12-09:51:43",
+    "icao24": "ab081e",
+    "path": [
+        [
+            1718196295,
+            42.0031,
+            -72.5158,
+            914,
+            190,
+            false
+        ],
+        [
+            1718196295,
+            42.0031,
+            -72.5158,
+            914,
+            190,
+            false
+        ],
+        [
+            1718196338,
+            41.9822,
+            -72.5198,
+            914,
+            184,
+            false
+        ],
+        [
+            1718196357,
+            41.9728,
+            -72.521,
+            914,
+            187,
+            false
+        ],
+        [
+            1718196423,
+            41.9415,
+            -72.5303,
+            914,
+            198,
+            false
+        ],
+        [
+            1718196437,
+            41.9353,
+            -72.5331,
+            914,
+            199,
+            false
+        ],
+        [
+            1718196449,
+            41.9296,
+            -72.536,
+            609,
+            201,
+            false
+        ],
+        [
+            1718196449,
+            41.9296,
+            -72.536,
+            609,
+            204,
+            false
+        ],
+        [
+            1718196703,
+            41.8133,
+            -72.6038,
+            609,
+            204,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-09:44:55",
+    "baro_altitude": 792.48,
+    "category": 0,
+    "geo_altitude": 762,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194259,
+    "latitude": 42.5286,
+    "longitude": -72.2157,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718194259,
+    "true_track": 266.7,
+    "velocity": 53.59,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 254,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "CT29",
+    "estDepartureAirportHorizDistance": 3738,
+    "estDepartureAirportVertDistance": 847,
+    "firstSeen": 1718196295,
+    "lastSeen": 1718196703
+}

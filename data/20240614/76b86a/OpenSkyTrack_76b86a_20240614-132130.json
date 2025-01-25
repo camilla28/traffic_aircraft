@@ -1,0 +1,112 @@
+{
+    "callsign": "TGW875  ",
+    "endTime": "2024/06/14-13:21:36",
+    "icao24": "76b86a",
+    "path": [
+        [
+            1718381961,
+            25.0567,
+            121.2177,
+            304,
+            230,
+            false
+        ],
+        [
+            1718381961,
+            25.0567,
+            121.2177,
+            304,
+            230,
+            false
+        ],
+        [
+            1718382018,
+            25.034,
+            121.1896,
+            914,
+            228,
+            false
+        ],
+        [
+            1718382047,
+            25.0167,
+            121.1642,
+            914,
+            248,
+            false
+        ],
+        [
+            1718382057,
+            25.015,
+            121.1546,
+            1219,
+            265,
+            false
+        ],
+        [
+            1718382066,
+            25.0168,
+            121.1433,
+            1219,
+            288,
+            false
+        ],
+        [
+            1718382076,
+            25.0222,
+            121.1322,
+            1219,
+            302,
+            false
+        ],
+        [
+            1718382096,
+            25.0353,
+            121.1109,
+            1219,
+            304,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-13:19:21",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718380964,
+    "latitude": 25.0815,
+    "longitude": 31.2412,
+    "on_ground": true,
+    "origin_country": "Singapore",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718380964,
+    "true_track": 286.88,
+    "velocity": 1.03,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 11,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "RCTP",
+    "estDepartureAirportHorizDistance": 2547,
+    "estDepartureAirportVertDistance": 455,
+    "firstSeen": 1718381961,
+    "lastSeen": 1718382096
+}

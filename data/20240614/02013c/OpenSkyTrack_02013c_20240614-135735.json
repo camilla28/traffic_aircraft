@@ -1,0 +1,128 @@
+{
+    "callsign": "RAM200N ",
+    "endTime": "2024/06/14-13:08:59",
+    "icao24": "02013c",
+    "path": [
+        [
+            1718380443,
+            34.7363,
+            -10.335,
+            11277,
+            297,
+            false
+        ],
+        [
+            1718380490,
+            34.7864,
+            -10.4539,
+            11277,
+            296,
+            false
+        ],
+        [
+            1718380502,
+            34.8346,
+            -10.5693,
+            11582,
+            296,
+            false
+        ],
+        [
+            1718380502,
+            34.8346,
+            -10.5693,
+            11277,
+            296,
+            false
+        ],
+        [
+            1718380568,
+            34.9018,
+            -10.7301,
+            11582,
+            296,
+            false
+        ],
+        [
+            1718381227,
+            35.5297,
+            -12.3871,
+            11582,
+            285,
+            false
+        ],
+        [
+            1718381272,
+            35.5503,
+            -12.4737,
+            11277,
+            286,
+            false
+        ],
+        [
+            1718381300,
+            35.5762,
+            -12.583,
+            11582,
+            286,
+            false
+        ],
+        [
+            1718381310,
+            35.5824,
+            -12.6097,
+            11277,
+            286,
+            false
+        ],
+        [
+            1718381339,
+            35.6007,
+            -12.6882,
+            11582,
+            285,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-12:54:03",
+    "baro_altitude": 11582.4,
+    "category": 0,
+    "geo_altitude": 12100.56,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718380842,
+    "latitude": 34.9018,
+    "longitude": -10.7301,
+    "on_ground": false,
+    "origin_country": "Morocco",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "6425",
+    "time_position": 1718380568,
+    "true_track": 296.98,
+    "velocity": 251.7,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1718380443,
+    "lastSeen": 1718381339
+}

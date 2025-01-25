@@ -1,0 +1,112 @@
+{
+    "callsign": "UNQ     ",
+    "endTime": "2024/06/04-08:32:45",
+    "icao24": "7c6724",
+    "path": [
+        [
+            1717497493,
+            -33.8611,
+            150.6476,
+            1219,
+            197,
+            false
+        ],
+        [
+            1717498392,
+            -33.8705,
+            150.6442,
+            1219,
+            196,
+            false
+        ],
+        [
+            1717499226,
+            -33.8787,
+            150.6415,
+            1219,
+            195,
+            false
+        ],
+        [
+            1717500124,
+            -33.8844,
+            150.6395,
+            1219,
+            196,
+            false
+        ],
+        [
+            1717500244,
+            -33.8859,
+            150.639,
+            1219,
+            196,
+            false
+        ],
+        [
+            1717500267,
+            -33.8868,
+            150.6387,
+            914,
+            195,
+            false
+        ],
+        [
+            1717500290,
+            -33.8856,
+            150.6391,
+            1219,
+            196,
+            false
+        ],
+        [
+            1717500765,
+            -33.8902,
+            150.6375,
+            914,
+            196,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:38:13",
+    "baro_altitude": 1226.82,
+    "category": 0,
+    "geo_altitude": 1257.3,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500009,
+    "latitude": -33.8841,
+    "longitude": 150.6397,
+    "on_ground": false,
+    "origin_country": "Australia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1200",
+    "time_position": 1717500008,
+    "true_track": 196.3,
+    "velocity": 56.82,
+    "vertical_rate": -1.63,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 42,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "YWLX",
+    "estDepartureAirportHorizDistance": 658,
+    "estDepartureAirportVertDistance": 1226,
+    "firstSeen": 1717497493,
+    "lastSeen": 1717500765
+}

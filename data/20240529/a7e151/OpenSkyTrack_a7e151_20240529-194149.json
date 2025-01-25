@@ -1,0 +1,96 @@
+{
+    "callsign": "ASA428  ",
+    "endTime": "2024/05/29-19:41:45",
+    "icao24": "a7e151",
+    "path": [
+        [
+            1717022379,
+            33.9492,
+            -118.4299,
+            0,
+            263,
+            false
+        ],
+        [
+            1717022385,
+            33.9488,
+            -118.435,
+            0,
+            263,
+            false
+        ],
+        [
+            1717022433,
+            33.9438,
+            -118.4807,
+            304,
+            263,
+            false
+        ],
+        [
+            1717022466,
+            33.941,
+            -118.5265,
+            609,
+            265,
+            false
+        ],
+        [
+            1717022486,
+            33.9391,
+            -118.5547,
+            914,
+            263,
+            false
+        ],
+        [
+            1717022505,
+            33.9363,
+            -118.5821,
+            1219,
+            262,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-19:39:39",
+    "baro_altitude": 45.72,
+    "category": 0,
+    "geo_altitude": 45.72,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717016272,
+    "latitude": 33.9527,
+    "longitude": -118.3958,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3332",
+    "time_position": 1717016272,
+    "true_track": 263.04,
+    "velocity": 67.89,
+    "vertical_rate": -3.25,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 132,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KLAX",
+    "estDepartureAirportHorizDistance": 1726,
+    "estDepartureAirportVertDistance": 152,
+    "firstSeen": 1717022379,
+    "lastSeen": 1717022505
+}

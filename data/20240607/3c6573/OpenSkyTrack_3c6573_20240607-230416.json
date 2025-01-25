@@ -1,0 +1,136 @@
+{
+    "callsign": "DLH637  ",
+    "endTime": "2024/06/07-23:04:21",
+    "icao24": "3c6573",
+    "path": [
+        [
+            1717808247,
+            30.0842,
+            31.3516,
+            11582,
+            0,
+            false
+        ],
+        [
+            1717809013,
+            30.0842,
+            31.3516,
+            11582,
+            0,
+            false
+        ],
+        [
+            1717809165,
+            31.7726,
+            31.3257,
+            11582,
+            262,
+            false
+        ],
+        [
+            1717809165,
+            31.7726,
+            31.3257,
+            11582,
+            262,
+            false
+        ],
+        [
+            1717809712,
+            33.8183,
+            35.4908,
+            11582,
+            0,
+            false
+        ],
+        [
+            1717810411,
+            33.8183,
+            35.4909,
+            11582,
+            0,
+            false
+        ],
+        [
+            1717810678,
+            33.2812,
+            31.3594,
+            11582,
+            316,
+            false
+        ],
+        [
+            1717811324,
+            34.2594,
+            30.2331,
+            11582,
+            315,
+            false
+        ],
+        [
+            1717811324,
+            34.2594,
+            30.2331,
+            11582,
+            320,
+            false
+        ],
+        [
+            1717812222,
+            35.7095,
+            28.7498,
+            11582,
+            319,
+            false
+        ],
+        [
+            1717812261,
+            35.7721,
+            28.6844,
+            11582,
+            319,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-21:57:27",
+    "baro_altitude": 11582.4,
+    "category": 1,
+    "geo_altitude": 12039.6,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717811552,
+    "latitude": 34.6299,
+    "longitude": 29.8595,
+    "on_ground": false,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "6006",
+    "time_position": 1717811552,
+    "true_track": 320.08,
+    "velocity": 234.09,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "HEAZ",
+    "estDepartureAirportHorizDistance": 1171,
+    "estDepartureAirportVertDistance": 11490,
+    "firstSeen": 1717808247,
+    "lastSeen": 1717812261
+}

@@ -1,0 +1,80 @@
+{
+    "callsign": "ACA57   ",
+    "endTime": "2024/06/03-19:17:31",
+    "icao24": "c01c52",
+    "path": [
+        [
+            1717452975,
+            25.2517,
+            55.3738,
+            0,
+            301,
+            false
+        ],
+        [
+            1717453014,
+            25.2691,
+            55.3427,
+            0,
+            301,
+            false
+        ],
+        [
+            1717453041,
+            25.2828,
+            55.3181,
+            304,
+            301,
+            false
+        ],
+        [
+            1717453051,
+            25.2881,
+            55.3084,
+            609,
+            300,
+            false
+        ]
+    ],
+    "startTime": "2024/06/03-19:16:15",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717452569,
+    "latitude": 25.2504,
+    "longitude": 55.3726,
+    "on_ground": true,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717452569,
+    "true_track": 118.12,
+    "velocity": 7.72,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 21,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "OMDB",
+    "estDepartureAirportHorizDistance": 1303,
+    "estDepartureAirportVertDistance": 95,
+    "firstSeen": 1717452975,
+    "lastSeen": 1717453051
+}

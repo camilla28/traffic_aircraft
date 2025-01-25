@@ -1,0 +1,120 @@
+{
+    "callsign": "TVF53QD ",
+    "endTime": "2024/06/04-09:58:44",
+    "icao24": "3964ee",
+    "path": [
+        [
+            1717499611,
+            46.168,
+            2.6511,
+            11277,
+            176,
+            false
+        ],
+        [
+            1717500435,
+            46.0617,
+            2.6608,
+            11277,
+            176,
+            false
+        ],
+        [
+            1717501333,
+            45.9404,
+            2.6726,
+            11277,
+            176,
+            false
+        ],
+        [
+            1717502229,
+            45.8124,
+            2.6848,
+            11277,
+            176,
+            false
+        ],
+        [
+            1717503065,
+            45.6721,
+            2.6983,
+            11277,
+            176,
+            false
+        ],
+        [
+            1717503960,
+            45.5253,
+            2.712,
+            11277,
+            176,
+            false
+        ],
+        [
+            1717504780,
+            45.401,
+            2.7243,
+            11277,
+            175,
+            false
+        ],
+        [
+            1717505662,
+            45.2709,
+            2.736,
+            11277,
+            176,
+            false
+        ],
+        [
+            1717505924,
+            45.1959,
+            2.7428,
+            11277,
+            176,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:13:31",
+    "baro_altitude": 11277.6,
+    "category": 0,
+    "geo_altitude": 11544.3,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504715,
+    "latitude": 45.4219,
+    "longitude": 2.7222,
+    "on_ground": false,
+    "origin_country": "France",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7627",
+    "time_position": 1717504715,
+    "true_track": 175.84,
+    "velocity": 240.88,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717499611,
+    "lastSeen": 1717505924
+}

@@ -1,0 +1,136 @@
+{
+    "callsign": "GCBZR   ",
+    "endTime": "2024/06/12-11:11:55",
+    "icao24": "4047cd",
+    "path": [
+        [
+            1718201363,
+            51.4942,
+            -1.3594,
+            609,
+            215,
+            false
+        ],
+        [
+            1718201363,
+            51.4942,
+            -1.3594,
+            609,
+            93,
+            false
+        ],
+        [
+            1718201443,
+            51.4737,
+            -1.3004,
+            609,
+            91,
+            false
+        ],
+        [
+            1718201460,
+            51.4693,
+            -1.2879,
+            609,
+            137,
+            false
+        ],
+        [
+            1718201466,
+            51.4669,
+            -1.2852,
+            609,
+            154,
+            false
+        ],
+        [
+            1718201466,
+            51.4669,
+            -1.2852,
+            914,
+            154,
+            false
+        ],
+        [
+            1718201488,
+            51.4558,
+            -1.2847,
+            609,
+            203,
+            false
+        ],
+        [
+            1718201494,
+            51.453,
+            -1.2876,
+            914,
+            222,
+            false
+        ],
+        [
+            1718201504,
+            51.4501,
+            -1.2942,
+            914,
+            239,
+            false
+        ],
+        [
+            1718201512,
+            51.4492,
+            -1.3014,
+            609,
+            268,
+            false
+        ],
+        [
+            1718201515,
+            51.4492,
+            -1.3038,
+            914,
+            268,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-11:09:23",
+    "baro_altitude": 914.4,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194255,
+    "latitude": 51.5597,
+    "longitude": -1.3441,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3737",
+    "time_position": 1718193715,
+    "true_track": 210.96,
+    "velocity": 65.99,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 114,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EGLP",
+    "estDepartureAirportHorizDistance": 18010,
+    "estDepartureAirportVertDistance": 789,
+    "firstSeen": 1718201363,
+    "lastSeen": 1718201515
+}

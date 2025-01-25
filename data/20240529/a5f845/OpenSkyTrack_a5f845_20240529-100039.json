@@ -1,0 +1,80 @@
+{
+    "callsign": "N484JH  ",
+    "endTime": "2024/05/29-10:00:34",
+    "icao24": "a5f845",
+    "path": [
+        [
+            1716987600,
+            30.5359,
+            -90.4562,
+            304,
+            264,
+            false
+        ],
+        [
+            1716987607,
+            30.5352,
+            -90.4637,
+            304,
+            264,
+            false
+        ],
+        [
+            1716987611,
+            30.5349,
+            -90.4682,
+            304,
+            267,
+            false
+        ],
+        [
+            1716987634,
+            30.5342,
+            -90.4918,
+            609,
+            268,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-10:00:00",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716987565,
+    "latitude": null,
+    "longitude": null,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": null,
+    "true_track": 312.53,
+    "velocity": 76.1,
+    "vertical_rate": 10.08,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 224,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KHDC",
+    "estDepartureAirportHorizDistance": 3055,
+    "estDepartureAirportVertDistance": 404,
+    "firstSeen": 1716987600,
+    "lastSeen": 1716987634
+}

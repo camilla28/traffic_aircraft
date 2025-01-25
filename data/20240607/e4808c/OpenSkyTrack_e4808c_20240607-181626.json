@@ -1,0 +1,144 @@
+{
+    "callsign": "TAM8035 ",
+    "endTime": "2024/06/07-18:16:13",
+    "icao24": "e4808c",
+    "path": [
+        [
+            1717794773,
+            -34.5602,
+            -58.414,
+            -304,
+            124,
+            false
+        ],
+        [
+            1717794793,
+            -34.5678,
+            -58.4005,
+            0,
+            123,
+            false
+        ],
+        [
+            1717794802,
+            -34.5695,
+            -58.3939,
+            0,
+            96,
+            false
+        ],
+        [
+            1717794810,
+            -34.5684,
+            -58.388,
+            304,
+            67,
+            false
+        ],
+        [
+            1717794819,
+            -34.5645,
+            -58.3826,
+            304,
+            38,
+            false
+        ],
+        [
+            1717794827,
+            -34.5601,
+            -58.3789,
+            304,
+            33,
+            false
+        ],
+        [
+            1717794841,
+            -34.552,
+            -58.3725,
+            304,
+            32,
+            false
+        ],
+        [
+            1717794881,
+            -34.529,
+            -58.3548,
+            609,
+            32,
+            false
+        ],
+        [
+            1717794889,
+            -34.5235,
+            -58.3514,
+            914,
+            22,
+            false
+        ],
+        [
+            1717794898,
+            -34.5172,
+            -58.3487,
+            914,
+            18,
+            false
+        ],
+        [
+            1717794955,
+            -34.4639,
+            -58.3282,
+            914,
+            18,
+            false
+        ],
+        [
+            1717794973,
+            -34.4426,
+            -58.3196,
+            1219,
+            18,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-18:12:53",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717794256,
+    "latitude": -34.5572,
+    "longitude": -58.4151,
+    "on_ground": true,
+    "origin_country": "Brazil",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717794256,
+    "true_track": 298.12,
+    "velocity": 0.77,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 26,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "SABE",
+    "estDepartureAirportHorizDistance": 278,
+    "estDepartureAirportVertDistance": 20,
+    "firstSeen": 1717794773,
+    "lastSeen": 1717794973
+}

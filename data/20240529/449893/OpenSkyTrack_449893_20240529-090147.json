@@ -1,0 +1,128 @@
+{
+    "callsign": "OOFDS   ",
+    "endTime": "2024/05/29-09:01:39",
+    "icao24": "449893",
+    "path": [
+        [
+            1716983973,
+            52.1904,
+            5.1401,
+            0,
+            250,
+            false
+        ],
+        [
+            1716983982,
+            52.1897,
+            5.1366,
+            0,
+            251,
+            false
+        ],
+        [
+            1716983991,
+            52.1893,
+            5.1341,
+            0,
+            259,
+            false
+        ],
+        [
+            1716983995,
+            52.1892,
+            5.1327,
+            0,
+            286,
+            false
+        ],
+        [
+            1716984002,
+            52.19,
+            5.1301,
+            0,
+            304,
+            false
+        ],
+        [
+            1716984008,
+            52.1906,
+            5.128,
+            0,
+            281,
+            false
+        ],
+        [
+            1716984015,
+            52.1908,
+            5.1252,
+            0,
+            273,
+            false
+        ],
+        [
+            1716984075,
+            52.1919,
+            5.097,
+            0,
+            273,
+            false
+        ],
+        [
+            1716984081,
+            52.1919,
+            5.0941,
+            0,
+            269,
+            false
+        ],
+        [
+            1716984099,
+            52.1917,
+            5.0851,
+            0,
+            267,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-08:59:33",
+    "baro_altitude": 213.36,
+    "category": 0,
+    "geo_altitude": 213.36,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716978991,
+    "latitude": 52.243,
+    "longitude": 5.1413,
+    "on_ground": false,
+    "origin_country": "Belgium",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7020",
+    "time_position": 1716978991,
+    "true_track": 178.17,
+    "velocity": 48.38,
+    "vertical_rate": -0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 71,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EHHV",
+    "estDepartureAirportHorizDistance": 355,
+    "estDepartureAirportVertDistance": 98,
+    "firstSeen": 1716983973,
+    "lastSeen": 1716984099
+}

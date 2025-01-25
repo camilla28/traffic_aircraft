@@ -1,0 +1,184 @@
+{
+    "callsign": "SPAMD   ",
+    "endTime": "2024/06/12-08:37:49",
+    "icao24": "488183",
+    "path": [
+        [
+            1718191356,
+            52.4208,
+            16.8275,
+            0,
+            289,
+            false
+        ],
+        [
+            1718191384,
+            52.4248,
+            16.8086,
+            0,
+            288,
+            false
+        ],
+        [
+            1718191390,
+            52.4255,
+            16.8039,
+            0,
+            279,
+            false
+        ],
+        [
+            1718191395,
+            52.4257,
+            16.7998,
+            304,
+            267,
+            false
+        ],
+        [
+            1718191401,
+            52.4252,
+            16.7947,
+            304,
+            258,
+            false
+        ],
+        [
+            1718191407,
+            52.4246,
+            16.79,
+            304,
+            255,
+            false
+        ],
+        [
+            1718191569,
+            52.4002,
+            16.6356,
+            304,
+            255,
+            false
+        ],
+        [
+            1718191576,
+            52.3989,
+            16.629,
+            304,
+            248,
+            false
+        ],
+        [
+            1718191581,
+            52.3973,
+            16.6244,
+            304,
+            236,
+            false
+        ],
+        [
+            1718191587,
+            52.3949,
+            16.6196,
+            304,
+            224,
+            false
+        ],
+        [
+            1718191592,
+            52.3922,
+            16.6161,
+            304,
+            214,
+            false
+        ],
+        [
+            1718191598,
+            52.3888,
+            16.6132,
+            304,
+            202,
+            false
+        ],
+        [
+            1718191604,
+            52.385,
+            16.6113,
+            304,
+            189,
+            false
+        ],
+        [
+            1718191610,
+            52.3806,
+            16.611,
+            304,
+            177,
+            false
+        ],
+        [
+            1718191615,
+            52.3772,
+            16.6115,
+            304,
+            173,
+            false
+        ],
+        [
+            1718191872,
+            52.2028,
+            16.648,
+            304,
+            172,
+            false
+        ],
+        [
+            1718192269,
+            51.9416,
+            16.7017,
+            609,
+            172,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-08:22:36",
+    "baro_altitude": 434.34,
+    "category": 0,
+    "geo_altitude": 487.68,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718191738,
+    "latitude": 52.2926,
+    "longitude": 16.629,
+    "on_ground": false,
+    "origin_country": "Poland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718191738,
+    "true_track": 172.18,
+    "velocity": 79.45,
+    "vertical_rate": -0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 30,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EPPO",
+    "estDepartureAirportHorizDistance": 369,
+    "estDepartureAirportVertDistance": 20,
+    "firstSeen": 1718191356,
+    "lastSeen": 1718192269
+}

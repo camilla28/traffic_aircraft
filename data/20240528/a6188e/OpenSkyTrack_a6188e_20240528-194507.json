@@ -1,0 +1,120 @@
+{
+    "callsign": "N492LP  ",
+    "endTime": "2024/05/28-19:45:03",
+    "icao24": "a6188e",
+    "path": [
+        [
+            1716935587,
+            28.7752,
+            -82.2905,
+            304,
+            125,
+            false
+        ],
+        [
+            1716935592,
+            28.7739,
+            -82.2885,
+            304,
+            128,
+            false
+        ],
+        [
+            1716935615,
+            28.7678,
+            -82.2811,
+            304,
+            129,
+            false
+        ],
+        [
+            1716935615,
+            28.7678,
+            -82.2811,
+            304,
+            138,
+            false
+        ],
+        [
+            1716935635,
+            28.762,
+            -82.2751,
+            304,
+            137,
+            false
+        ],
+        [
+            1716935731,
+            28.7332,
+            -82.2461,
+            609,
+            138,
+            false
+        ],
+        [
+            1716935850,
+            28.6959,
+            -82.2084,
+            914,
+            138,
+            false
+        ],
+        [
+            1716935985,
+            28.6529,
+            -82.1653,
+            1219,
+            138,
+            false
+        ],
+        [
+            1716936303,
+            28.543,
+            -82.056,
+            1524,
+            138,
+            false
+        ]
+    ],
+    "startTime": "2024/05/28-19:33:07",
+    "baro_altitude": 1455.42,
+    "category": 0,
+    "geo_altitude": 1531.62,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716935960,
+    "latitude": 28.6608,
+    "longitude": -82.1732,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1716935960,
+    "true_track": 138.52,
+    "velocity": 47.38,
+    "vertical_rate": 2.6,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 294,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KX40",
+    "estDepartureAirportHorizDistance": 4384,
+    "estDepartureAirportVertDistance": 434,
+    "firstSeen": 1716935587,
+    "lastSeen": 1716936303
+}

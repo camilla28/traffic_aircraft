@@ -1,0 +1,104 @@
+{
+    "callsign": "MBU6023 ",
+    "endTime": "2024/06/12-08:30:35",
+    "icao24": "51116f",
+    "path": [
+        [
+            1718189198,
+            30.1829,
+            28.4011,
+            10972,
+            322,
+            false
+        ],
+        [
+            1718189304,
+            30.3539,
+            28.2486,
+            10972,
+            322,
+            false
+        ],
+        [
+            1718189416,
+            30.5328,
+            28.0881,
+            10668,
+            322,
+            false
+        ],
+        [
+            1718189486,
+            30.6444,
+            27.9876,
+            10972,
+            322,
+            false
+        ],
+        [
+            1718189641,
+            30.8914,
+            27.764,
+            10668,
+            321,
+            false
+        ],
+        [
+            1718191626,
+            34.5638,
+            26.2811,
+            10972,
+            321,
+            false
+        ],
+        [
+            1718191835,
+            34.893,
+            25.9641,
+            10972,
+            321,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-07:46:38",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": 11635.74,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718191721,
+    "latitude": 34.7119,
+    "longitude": 26.139,
+    "on_ground": false,
+    "origin_country": "Estonia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2035",
+    "time_position": 1718191720,
+    "true_track": 321.46,
+    "velocity": 222.95,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1718189198,
+    "lastSeen": 1718191835
+}

@@ -1,0 +1,80 @@
+{
+    "callsign": "VJH758  ",
+    "endTime": "2024/06/04-08:37:48",
+    "icao24": "3c1c82",
+    "path": [
+        [
+            1717499880,
+            51.7266,
+            -1.4835,
+            10058,
+            153,
+            false
+        ],
+        [
+            1717500209,
+            51.7132,
+            -1.473,
+            10058,
+            153,
+            false
+        ],
+        [
+            1717500216,
+            51.709,
+            -1.4697,
+            9144,
+            153,
+            false
+        ],
+        [
+            1717501068,
+            51.6668,
+            -1.4363,
+            10058,
+            153,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:18:00",
+    "baro_altitude": 10180.32,
+    "category": 0,
+    "geo_altitude": 10386.06,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500025,
+    "latitude": 51.7175,
+    "longitude": -1.4764,
+    "on_ground": false,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5216",
+    "time_position": 1717500024,
+    "true_track": 153.84,
+    "velocity": 261.36,
+    "vertical_rate": 4.88,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EGVN",
+    "estDepartureAirportHorizDistance": 7367,
+    "estDepartureAirportVertDistance": 10077,
+    "firstSeen": 1717499880,
+    "lastSeen": 1717501068
+}

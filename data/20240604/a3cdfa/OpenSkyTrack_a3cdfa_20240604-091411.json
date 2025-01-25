@@ -1,0 +1,112 @@
+{
+    "callsign": "UPS218  ",
+    "endTime": "2024/06/04-09:12:00",
+    "icao24": "a3cdfa",
+    "path": [
+        [
+            1717499494,
+            49.0028,
+            2.6937,
+            1219,
+            85,
+            false
+        ],
+        [
+            1717500323,
+            49.0041,
+            2.7167,
+            1219,
+            85,
+            false
+        ],
+        [
+            1717501144,
+            49.0048,
+            2.7289,
+            1219,
+            85,
+            false
+        ],
+        [
+            1717501254,
+            49.005,
+            2.7328,
+            1524,
+            85,
+            false
+        ],
+        [
+            1717501302,
+            49.0049,
+            2.7309,
+            1219,
+            85,
+            false
+        ],
+        [
+            1717502196,
+            49.0057,
+            2.7461,
+            1524,
+            85,
+            false
+        ],
+        [
+            1717503094,
+            49.0068,
+            2.7652,
+            1524,
+            85,
+            false
+        ],
+        [
+            1717503120,
+            49.0069,
+            2.7671,
+            1524,
+            85,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:11:34",
+    "baro_altitude": 1394.46,
+    "category": 0,
+    "geo_altitude": 1463.04,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500013,
+    "latitude": 49.0037,
+    "longitude": 2.7098,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0653",
+    "time_position": 1717500013,
+    "true_track": 85.14,
+    "velocity": 121.33,
+    "vertical_rate": 9.43,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 94,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFPG",
+    "estDepartureAirportHorizDistance": 10539,
+    "estDepartureAirportVertDistance": 1191,
+    "firstSeen": 1717499494,
+    "lastSeen": 1717503120
+}

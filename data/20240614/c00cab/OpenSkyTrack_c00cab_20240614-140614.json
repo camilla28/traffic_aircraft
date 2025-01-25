@@ -1,0 +1,120 @@
+{
+    "callsign": "CFEUS   ",
+    "endTime": "2024/06/14-14:06:21",
+    "icao24": "c00cab",
+    "path": [
+        [
+            1718384698,
+            43.445,
+            -79.8562,
+            0,
+            310,
+            false
+        ],
+        [
+            1718384707,
+            43.4467,
+            -79.859,
+            0,
+            307,
+            false
+        ],
+        [
+            1718384724,
+            43.4499,
+            -79.8643,
+            304,
+            310,
+            false
+        ],
+        [
+            1718384733,
+            43.4517,
+            -79.8671,
+            304,
+            315,
+            false
+        ],
+        [
+            1718384742,
+            43.454,
+            -79.869,
+            304,
+            340,
+            false
+        ],
+        [
+            1718384752,
+            43.4571,
+            -79.8692,
+            304,
+            10,
+            false
+        ],
+        [
+            1718384762,
+            43.4604,
+            -79.8667,
+            304,
+            40,
+            false
+        ],
+        [
+            1718384771,
+            43.4628,
+            -79.8635,
+            304,
+            45,
+            false
+        ],
+        [
+            1718384781,
+            43.4653,
+            -79.8594,
+            304,
+            55,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-14:04:58",
+    "baro_altitude": 708.66,
+    "category": 0,
+    "geo_altitude": 670.56,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718380979,
+    "latitude": 43.5998,
+    "longitude": -79.9939,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1200",
+    "time_position": 1718380977,
+    "true_track": 161.71,
+    "velocity": 62.31,
+    "vertical_rate": -1.95,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 242,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "CZBA",
+    "estDepartureAirportHorizDistance": 484,
+    "estDepartureAirportVertDistance": 83,
+    "firstSeen": 1718384698,
+    "lastSeen": 1718384781
+}

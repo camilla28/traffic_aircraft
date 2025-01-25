@@ -1,0 +1,72 @@
+{
+    "callsign": "EIN605P ",
+    "endTime": "2024/05/29-09:08:36",
+    "icao24": "4ca947",
+    "path": [
+        [
+            1716984486,
+            52.2909,
+            4.7418,
+            0,
+            237,
+            false
+        ],
+        [
+            1716984492,
+            52.2887,
+            4.7364,
+            0,
+            236,
+            false
+        ],
+        [
+            1716984516,
+            52.2807,
+            4.7155,
+            304,
+            238,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-09:08:06",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716978977,
+    "latitude": 52.304,
+    "longitude": 4.7415,
+    "on_ground": true,
+    "origin_country": "Ireland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "6315",
+    "time_position": 1716978977,
+    "true_track": 129.38,
+    "velocity": 7.72,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 63,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EHAM",
+    "estDepartureAirportHorizDistance": 2259,
+    "estDepartureAirportVertDistance": 209,
+    "firstSeen": 1716984486,
+    "lastSeen": 1716984510
+}

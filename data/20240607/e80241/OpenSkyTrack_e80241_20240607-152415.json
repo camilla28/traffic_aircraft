@@ -1,0 +1,128 @@
+{
+    "callsign": "LNE424  ",
+    "endTime": "2024/06/07-15:24:19",
+    "icao24": "e80241",
+    "path": [
+        [
+            1717776748,
+            24.2506,
+            -97.7159,
+            9753,
+            305,
+            false
+        ],
+        [
+            1717777647,
+            25.3156,
+            -99.3738,
+            9753,
+            304,
+            false
+        ],
+        [
+            1717778024,
+            25.7669,
+            -100.0955,
+            9753,
+            302,
+            false
+        ],
+        [
+            1717778042,
+            25.7865,
+            -100.1308,
+            9753,
+            300,
+            false
+        ],
+        [
+            1717778505,
+            26.2508,
+            -101.0991,
+            9753,
+            297,
+            false
+        ],
+        [
+            1717782828,
+            30.6513,
+            -110.5726,
+            10363,
+            294,
+            false
+        ],
+        [
+            1717783439,
+            31.2056,
+            -111.9953,
+            10363,
+            294,
+            false
+        ],
+        [
+            1717783445,
+            31.2109,
+            -112.009,
+            10058,
+            294,
+            false
+        ],
+        [
+            1717784344,
+            31.9799,
+            -114.0634,
+            10363,
+            293,
+            false
+        ],
+        [
+            1717784659,
+            32.2374,
+            -114.7801,
+            10363,
+            292,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-13:12:28",
+    "baro_altitude": 10363.2,
+    "category": 0,
+    "geo_altitude": 10850.88,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717784179,
+    "latitude": 31.8404,
+    "longitude": -113.6817,
+    "on_ground": false,
+    "origin_country": "Chile",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717784177,
+    "true_track": 293.48,
+    "velocity": 235.01,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717776748,
+    "lastSeen": 1717784659
+}

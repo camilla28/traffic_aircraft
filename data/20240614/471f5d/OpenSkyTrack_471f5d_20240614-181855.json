@@ -1,0 +1,80 @@
+{
+    "callsign": "WZZ683  ",
+    "endTime": "2024/06/14-18:19:04",
+    "icao24": "471f5d",
+    "path": [
+        [
+            1718399877,
+            50.8596,
+            7.159,
+            304,
+            138,
+            false
+        ],
+        [
+            1718399893,
+            50.8512,
+            7.1706,
+            304,
+            138,
+            false
+        ],
+        [
+            1718399922,
+            50.8364,
+            7.1914,
+            609,
+            138,
+            false
+        ],
+        [
+            1718399944,
+            50.8247,
+            7.2082,
+            914,
+            136,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-18:17:57",
+    "baro_altitude": 137.16,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718399389,
+    "latitude": 50.8823,
+    "longitude": 7.1199,
+    "on_ground": true,
+    "origin_country": "Hungary",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "6433",
+    "time_position": 1718399365,
+    "true_track": 126.56,
+    "velocity": 0,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 136,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDDK",
+    "estDepartureAirportHorizDistance": 1050,
+    "estDepartureAirportVertDistance": 288,
+    "firstSeen": 1718399877,
+    "lastSeen": 1718399944
+}

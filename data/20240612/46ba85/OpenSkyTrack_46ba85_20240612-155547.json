@@ -1,0 +1,80 @@
+{
+    "callsign": "SEH7LA  ",
+    "endTime": "2024/06/12-15:55:50",
+    "icao24": "46ba85",
+    "path": [
+        [
+            1718218099,
+            37.8629,
+            21.551,
+            4267,
+            100,
+            false
+        ],
+        [
+            1718218183,
+            37.8448,
+            21.6733,
+            4267,
+            100,
+            false
+        ],
+        [
+            1718218192,
+            37.8428,
+            21.6865,
+            4572,
+            100,
+            false
+        ],
+        [
+            1718218550,
+            37.7496,
+            22.3027,
+            4267,
+            100,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-15:48:19",
+    "baro_altitude": 4251.96,
+    "category": 0,
+    "geo_altitude": 4579.62,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204673,
+    "latitude": 36.9512,
+    "longitude": 26.2051,
+    "on_ground": false,
+    "origin_country": "Greece",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7050",
+    "time_position": 1718204673,
+    "true_track": 294.06,
+    "velocity": 94.65,
+    "vertical_rate": 2.6,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1718218099,
+    "lastSeen": 1718218550
+}

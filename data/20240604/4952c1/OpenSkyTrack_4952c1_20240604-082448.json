@@ -1,0 +1,104 @@
+{
+    "callsign": "TAP935  ",
+    "endTime": "2024/06/04-08:24:45",
+    "icao24": "4952c1",
+    "path": [
+        [
+            1717499351,
+            46.0526,
+            5.373,
+            10668,
+            235,
+            false
+        ],
+        [
+            1717499933,
+            46.0259,
+            5.3169,
+            10668,
+            235,
+            false
+        ],
+        [
+            1717499934,
+            46.0247,
+            5.3144,
+            10972,
+            235,
+            false
+        ],
+        [
+            1717499944,
+            46.0265,
+            5.3181,
+            10668,
+            235,
+            false
+        ],
+        [
+            1717499961,
+            46.0237,
+            5.3122,
+            10972,
+            235,
+            false
+        ],
+        [
+            1717499979,
+            46.0271,
+            5.3194,
+            10668,
+            235,
+            false
+        ],
+        [
+            1717500285,
+            46.01,
+            5.2835,
+            10972,
+            235,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:09:11",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": 11201.4,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499996,
+    "latitude": 46.0242,
+    "longitude": 5.3132,
+    "on_ground": false,
+    "origin_country": "Portugal",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3037",
+    "time_position": 1717499995,
+    "true_track": 235.56,
+    "velocity": 230.16,
+    "vertical_rate": 2.93,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFXA",
+    "estDepartureAirportHorizDistance": 833590,
+    "estDepartureAirportVertDistance": 10630,
+    "firstSeen": 1717499351,
+    "lastSeen": 1717500285
+}

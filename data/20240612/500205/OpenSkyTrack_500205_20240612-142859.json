@@ -1,0 +1,112 @@
+{
+    "callsign": "MEA419  ",
+    "endTime": "2024/06/12-13:55:59",
+    "icao24": "500205",
+    "path": [
+        [
+            1718211138,
+            24.6487,
+            54.4455,
+            1828,
+            314,
+            false
+        ],
+        [
+            1718211138,
+            24.6487,
+            54.4455,
+            1828,
+            314,
+            false
+        ],
+        [
+            1718211213,
+            24.7046,
+            54.383,
+            2133,
+            314,
+            false
+        ],
+        [
+            1718211220,
+            24.7291,
+            54.3557,
+            2438,
+            314,
+            false
+        ],
+        [
+            1718211261,
+            24.7722,
+            54.3075,
+            2743,
+            314,
+            false
+        ],
+        [
+            1718211329,
+            24.8461,
+            54.2249,
+            3048,
+            314,
+            false
+        ],
+        [
+            1718211359,
+            24.8819,
+            54.1848,
+            3352,
+            314,
+            false
+        ],
+        [
+            1718211359,
+            24.8819,
+            54.1848,
+            3352,
+            311,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-13:52:18",
+    "baro_altitude": 2499.36,
+    "category": 0,
+    "geo_altitude": 2613.66,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204673,
+    "latitude": 24.3897,
+    "longitude": 54.5655,
+    "on_ground": false,
+    "origin_country": "San Marino",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718204673,
+    "true_track": 128.63,
+    "velocity": 140.92,
+    "vertical_rate": -4.88,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 3,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "OMDM",
+    "estDepartureAirportHorizDistance": 101243,
+    "estDepartureAirportVertDistance": 1991,
+    "firstSeen": 1718211138,
+    "lastSeen": 1718211359
+}

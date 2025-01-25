@@ -1,0 +1,80 @@
+{
+    "callsign": "SVA1853 ",
+    "endTime": "2024/06/12-10:57:06",
+    "icao24": "710090",
+    "path": [
+        [
+            1718200612,
+            24.6772,
+            46.3028,
+            8839,
+            161,
+            false
+        ],
+        [
+            1718200621,
+            24.6573,
+            46.3104,
+            8839,
+            159,
+            false
+        ],
+        [
+            1718200626,
+            24.6475,
+            46.3147,
+            8839,
+            156,
+            false
+        ],
+        [
+            1718200626,
+            24.6475,
+            46.3147,
+            8839,
+            149,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-10:56:52",
+    "baro_altitude": 1005.84,
+    "category": 0,
+    "geo_altitude": 998.22,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194128,
+    "latitude": 24.8844,
+    "longitude": 46.7296,
+    "on_ground": false,
+    "origin_country": "Saudi Arabia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718194123,
+    "true_track": 330.62,
+    "velocity": 79.7,
+    "vertical_rate": -4.23,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1718200612,
+    "lastSeen": 1718200626
+}

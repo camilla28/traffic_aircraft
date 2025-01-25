@@ -1,0 +1,80 @@
+{
+    "callsign": "AJT8242 ",
+    "endTime": "2024/06/04-10:04:29",
+    "icao24": "a43f2e",
+    "path": [
+        [
+            1717504063,
+            21.246,
+            -70.4456,
+            10972,
+            297,
+            false
+        ],
+        [
+            1717504543,
+            21.2645,
+            -70.4835,
+            10972,
+            297,
+            false
+        ],
+        [
+            1717505428,
+            21.3109,
+            -70.5786,
+            10972,
+            297,
+            false
+        ],
+        [
+            1717506269,
+            21.3618,
+            -70.6832,
+            10972,
+            297,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:27:43",
+    "baro_altitude": 10972.8,
+    "category": 1,
+    "geo_altitude": 11597.64,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504696,
+    "latitude": 21.2645,
+    "longitude": -70.4835,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504543,
+    "true_track": 297.31,
+    "velocity": 231.01,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717504063,
+    "lastSeen": 1717506269
+}

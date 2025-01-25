@@ -1,0 +1,112 @@
+{
+    "callsign": "N1205S  ",
+    "endTime": "2024/05/29-10:58:58",
+    "icao24": "a056ca",
+    "path": [
+        [
+            1716990022,
+            36.4062,
+            -95.8838,
+            1828,
+            323,
+            false
+        ],
+        [
+            1716990054,
+            36.4276,
+            -95.904,
+            2133,
+            324,
+            false
+        ],
+        [
+            1716990701,
+            36.995,
+            -96.4043,
+            2438,
+            323,
+            false
+        ],
+        [
+            1716990766,
+            37.0515,
+            -96.4577,
+            2438,
+            325,
+            false
+        ],
+        [
+            1716990851,
+            37.1264,
+            -96.5228,
+            2438,
+            323,
+            false
+        ],
+        [
+            1716990906,
+            37.169,
+            -96.563,
+            2438,
+            324,
+            false
+        ],
+        [
+            1716990916,
+            37.18,
+            -96.5725,
+            2438,
+            326,
+            false
+        ],
+        [
+            1716991138,
+            37.3796,
+            -96.7525,
+            2438,
+            325,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-10:40:22",
+    "baro_altitude": 2529.84,
+    "category": 0,
+    "geo_altitude": 2659.38,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716991140,
+    "latitude": 37.3796,
+    "longitude": -96.7525,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1716991138,
+    "true_track": 325.84,
+    "velocity": 121.85,
+    "vertical_rate": -0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 268,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "OK58",
+    "estDepartureAirportHorizDistance": 2137,
+    "estDepartureAirportVertDistance": 1901,
+    "firstSeen": 1716990022,
+    "lastSeen": 1716991138
+}

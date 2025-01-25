@@ -1,0 +1,80 @@
+{
+    "callsign": "AFL1974 ",
+    "endTime": "2024/05/29-08:13:36",
+    "icao24": "151d89",
+    "path": [
+        [
+            1716978624,
+            57.2713,
+            39.5481,
+            9753,
+            111,
+            false
+        ],
+        [
+            1716978624,
+            57.2713,
+            39.5481,
+            9753,
+            111,
+            false
+        ],
+        [
+            1716981216,
+            53.4403,
+            49.7452,
+            10668,
+            24,
+            false
+        ],
+        [
+            1716981216,
+            53.4403,
+            49.7452,
+            10668,
+            24,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-07:30:24",
+    "baro_altitude": 9913.62,
+    "category": 0,
+    "geo_altitude": 8953.5,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716978862,
+    "latitude": 57.2713,
+    "longitude": 39.5481,
+    "on_ground": false,
+    "origin_country": "Russian Federation",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1716978624,
+    "true_track": 111.8,
+    "velocity": 27.7,
+    "vertical_rate": 5.2,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1716978624,
+    "lastSeen": 1716981216
+}

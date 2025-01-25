@@ -1,0 +1,80 @@
+{
+    "callsign": "MANLY62 ",
+    "endTime": "2024/06/14-18:55:16",
+    "icao24": "ae140c",
+    "path": [
+        [
+            1718401704,
+            36.4318,
+            -97.7422,
+            1524,
+            91,
+            false
+        ],
+        [
+            1718401818,
+            36.4325,
+            -97.5955,
+            1524,
+            89,
+            false
+        ],
+        [
+            1718402082,
+            36.4331,
+            -97.2316,
+            1524,
+            89,
+            false
+        ],
+        [
+            1718402116,
+            36.4334,
+            -97.1838,
+            1219,
+            87,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-18:48:24",
+    "baro_altitude": 1630.68,
+    "category": 13,
+    "geo_altitude": 1722.12,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718401722,
+    "latitude": 36.4318,
+    "longitude": -97.7208,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718401722,
+    "true_track": 89.47,
+    "velocity": 111.12,
+    "vertical_rate": 1.95,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 256,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KWDG",
+    "estDepartureAirportHorizDistance": 7303,
+    "estDepartureAirportVertDistance": 1206,
+    "firstSeen": 1718401704,
+    "lastSeen": 1718402116
+}

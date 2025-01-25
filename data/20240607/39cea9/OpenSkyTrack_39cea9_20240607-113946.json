@@ -1,0 +1,112 @@
+{
+    "callsign": "TVF90NG ",
+    "endTime": "2024/06/07-11:39:04",
+    "icao24": "39cea9",
+    "path": [
+        [
+            1717770940,
+            32.0151,
+            34.8754,
+            0,
+            259,
+            false
+        ],
+        [
+            1717770958,
+            32.0125,
+            34.8591,
+            0,
+            259,
+            false
+        ],
+        [
+            1717770958,
+            32.0125,
+            34.8591,
+            304,
+            259,
+            false
+        ],
+        [
+            1717770958,
+            32.0125,
+            34.8591,
+            609,
+            259,
+            false
+        ],
+        [
+            1717771052,
+            33.8183,
+            35.4908,
+            914,
+            0,
+            false
+        ],
+        [
+            1717771095,
+            33.8183,
+            35.4908,
+            1219,
+            0,
+            false
+        ],
+        [
+            1717771133,
+            33.8183,
+            35.4908,
+            1524,
+            0,
+            false
+        ],
+        [
+            1717771144,
+            33.8183,
+            35.4908,
+            1828,
+            0,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-11:35:40",
+    "baro_altitude": 11277.6,
+    "category": 0,
+    "geo_altitude": 11795.76,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762945,
+    "latitude": 35.281,
+    "longitude": 29.1525,
+    "on_ground": false,
+    "origin_country": "France",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0263",
+    "time_position": 1717762944,
+    "true_track": 126.64,
+    "velocity": 252.59,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 35,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LLBG",
+    "estDepartureAirportHorizDistance": 1066,
+    "estDepartureAirportVertDistance": 57,
+    "firstSeen": 1717770940,
+    "lastSeen": 1717771144
+}

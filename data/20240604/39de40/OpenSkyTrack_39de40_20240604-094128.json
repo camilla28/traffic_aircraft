@@ -1,0 +1,72 @@
+{
+    "callsign": "TVF837D ",
+    "endTime": "2024/06/04-09:39:44",
+    "icao24": "39de40",
+    "path": [
+        [
+            1717503507,
+            44.9126,
+            1.3057,
+            11582,
+            356,
+            false
+        ],
+        [
+            1717504404,
+            44.9657,
+            1.3007,
+            11582,
+            356,
+            false
+        ],
+        [
+            1717504784,
+            44.9759,
+            1.2997,
+            11582,
+            356,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:18:27",
+    "baro_altitude": 11582.4,
+    "category": 0,
+    "geo_altitude": 11864.34,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504620,
+    "latitude": 44.9727,
+    "longitude": 1.3,
+    "on_ground": false,
+    "origin_country": "France",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1470",
+    "time_position": 1717504620,
+    "true_track": 356.22,
+    "velocity": 218.6,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFDS",
+    "estDepartureAirportHorizDistance": 14374,
+    "estDepartureAirportVertDistance": 11284,
+    "firstSeen": 1717503507,
+    "lastSeen": 1717504784
+}

@@ -1,0 +1,72 @@
+{
+    "callsign": "SAS1744 ",
+    "endTime": "2024/06/05-09:03:54",
+    "icao24": "5110e1",
+    "path": [
+        [
+            1717588986,
+            59.6512,
+            17.9182,
+            0,
+            190,
+            false
+        ],
+        [
+            1717589000,
+            59.6419,
+            17.9148,
+            0,
+            190,
+            false
+        ],
+        [
+            1717589034,
+            59.619,
+            17.9068,
+            304,
+            189,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-09:03:06",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717588563,
+    "latitude": null,
+    "longitude": null,
+    "on_ground": false,
+    "origin_country": "Estonia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": null,
+    "true_track": 70.31,
+    "velocity": 0,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 22,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "ESSA",
+    "estDepartureAirportHorizDistance": 88,
+    "estDepartureAirportVertDistance": 87,
+    "firstSeen": 1717588986,
+    "lastSeen": 1717589034
+}

@@ -1,0 +1,208 @@
+{
+    "callsign": "RYR4BW  ",
+    "endTime": "2024/06/12-15:50:50",
+    "icao24": "4cada3",
+    "path": [
+        [
+            1718217913,
+            59.6538,
+            17.9192,
+            0,
+            190,
+            false
+        ],
+        [
+            1718217929,
+            59.6416,
+            17.9145,
+            0,
+            190,
+            false
+        ],
+        [
+            1718217955,
+            59.622,
+            17.9073,
+            304,
+            191,
+            false
+        ],
+        [
+            1718217964,
+            59.6149,
+            17.9027,
+            609,
+            205,
+            false
+        ],
+        [
+            1718217972,
+            59.6093,
+            17.8941,
+            609,
+            226,
+            false
+        ],
+        [
+            1718217981,
+            59.6045,
+            17.8796,
+            609,
+            243,
+            false
+        ],
+        [
+            1718217989,
+            59.6011,
+            17.866,
+            609,
+            243,
+            false
+        ],
+        [
+            1718218007,
+            59.5927,
+            17.8344,
+            914,
+            241,
+            false
+        ],
+        [
+            1718218015,
+            59.5887,
+            17.82,
+            914,
+            240,
+            false
+        ],
+        [
+            1718218048,
+            59.5719,
+            17.758,
+            1219,
+            240,
+            false
+        ],
+        [
+            1718218057,
+            59.5659,
+            17.7398,
+            1524,
+            234,
+            false
+        ],
+        [
+            1718218064,
+            59.5604,
+            17.7258,
+            1524,
+            229,
+            false
+        ],
+        [
+            1718218072,
+            59.5539,
+            17.7118,
+            1524,
+            225,
+            false
+        ],
+        [
+            1718218099,
+            59.5315,
+            17.6663,
+            1828,
+            226,
+            false
+        ],
+        [
+            1718218116,
+            59.5164,
+            17.6355,
+            2133,
+            226,
+            false
+        ],
+        [
+            1718218141,
+            59.4937,
+            17.5887,
+            2438,
+            226,
+            false
+        ],
+        [
+            1718218159,
+            59.4774,
+            17.5556,
+            2743,
+            225,
+            false
+        ],
+        [
+            1718218201,
+            59.4367,
+            17.4729,
+            3048,
+            225,
+            false
+        ],
+        [
+            1718218225,
+            59.4111,
+            17.4212,
+            3352,
+            225,
+            false
+        ],
+        [
+            1718218250,
+            59.3844,
+            17.3676,
+            3657,
+            225,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-15:45:13",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": 11102.34,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204674,
+    "latitude": 46.1946,
+    "longitude": 0.8893,
+    "on_ground": false,
+    "origin_country": "Ireland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5507",
+    "time_position": 1718204673,
+    "true_track": 0.39,
+    "velocity": 227.39,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 22,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "ESSA",
+    "estDepartureAirportHorizDistance": 246,
+    "estDepartureAirportVertDistance": 26,
+    "firstSeen": 1718217913,
+    "lastSeen": 1718218250
+}

@@ -1,0 +1,72 @@
+{
+    "callsign": null,
+    "endTime": "2024/06/14-13:02:10",
+    "icao24": "e80268",
+    "path": [
+        [
+            1718380877,
+            -11.4576,
+            -77.3968,
+            2438,
+            155,
+            false
+        ],
+        [
+            1718380877,
+            -11.4576,
+            -77.3968,
+            2438,
+            154,
+            false
+        ],
+        [
+            1718380930,
+            -11.524,
+            -77.3646,
+            2133,
+            153,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-13:01:17",
+    "baro_altitude": 2179.32,
+    "category": 0,
+    "geo_altitude": 2849.88,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718380930,
+    "latitude": -11.524,
+    "longitude": -77.3646,
+    "on_ground": false,
+    "origin_country": "Chile",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718380930,
+    "true_track": 153.35,
+    "velocity": 150.23,
+    "vertical_rate": -6.5,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 4,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "SPVI",
+    "estDepartureAirportHorizDistance": 235545,
+    "estDepartureAirportVertDistance": 1436,
+    "firstSeen": 1718380877,
+    "lastSeen": 1718380930
+}

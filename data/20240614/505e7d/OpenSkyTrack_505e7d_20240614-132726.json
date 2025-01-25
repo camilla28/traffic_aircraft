@@ -1,0 +1,72 @@
+{
+    "callsign": "OMS507  ",
+    "endTime": "2024/06/14-13:27:30",
+    "icao24": "505e7d",
+    "path": [
+        [
+            1718382336,
+            49.0085,
+            20.7784,
+            1828,
+            70,
+            false
+        ],
+        [
+            1718382385,
+            49.0196,
+            20.8294,
+            1828,
+            70,
+            false
+        ],
+        [
+            1718382450,
+            49.0346,
+            20.8985,
+            1524,
+            70,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-13:25:36",
+    "baro_altitude": 2095.5,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718380974,
+    "latitude": 48.5878,
+    "longitude": 19.4648,
+    "on_ground": false,
+    "origin_country": "Slovakia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718380974,
+    "true_track": 64.98,
+    "velocity": 76.64,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 41,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LZSV",
+    "estDepartureAirportHorizDistance": 18609,
+    "estDepartureAirportVertDistance": 1844,
+    "firstSeen": 1718382336,
+    "lastSeen": 1718382450
+}

@@ -1,0 +1,80 @@
+{
+    "callsign": "N745FX  ",
+    "endTime": "2024/06/12-09:33:12",
+    "icao24": "aa05b0",
+    "path": [
+        [
+            1718193696,
+            33.39,
+            -91.3361,
+            1828,
+            33,
+            false
+        ],
+        [
+            1718194590,
+            33.928,
+            -90.9007,
+            1828,
+            34,
+            false
+        ],
+        [
+            1718195418,
+            34.4083,
+            -90.5062,
+            1828,
+            34,
+            false
+        ],
+        [
+            1718195592,
+            34.5096,
+            -90.4221,
+            1828,
+            34,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-09:01:36",
+    "baro_altitude": 2110.74,
+    "category": 0,
+    "geo_altitude": 2179.32,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194258,
+    "latitude": 33.7305,
+    "longitude": -91.0612,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0766",
+    "time_position": 1718194258,
+    "true_track": 33.79,
+    "velocity": 80.47,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 24,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KM32",
+    "estDepartureAirportHorizDistance": 5290,
+    "estDepartureAirportVertDistance": 2072,
+    "firstSeen": 1718193696,
+    "lastSeen": 1718195592
+}

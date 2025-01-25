@@ -1,0 +1,136 @@
+{
+    "callsign": "N334AM  ",
+    "endTime": "2024/06/14-13:11:17",
+    "icao24": "a3a4b7",
+    "path": [
+        [
+            1718379795,
+            37.0849,
+            -119.9401,
+            2438,
+            345,
+            false
+        ],
+        [
+            1718379801,
+            37.0891,
+            -119.9416,
+            2438,
+            345,
+            false
+        ],
+        [
+            1718379856,
+            37.1299,
+            -119.955,
+            2743,
+            345,
+            false
+        ],
+        [
+            1718379915,
+            37.1762,
+            -119.9702,
+            3048,
+            345,
+            false
+        ],
+        [
+            1718379975,
+            37.2257,
+            -119.9865,
+            3352,
+            345,
+            false
+        ],
+        [
+            1718380031,
+            37.2726,
+            -120.002,
+            3657,
+            345,
+            false
+        ],
+        [
+            1718380097,
+            37.3285,
+            -120.0204,
+            3962,
+            345,
+            false
+        ],
+        [
+            1718380162,
+            37.3844,
+            -120.0389,
+            4267,
+            345,
+            false
+        ],
+        [
+            1718380210,
+            37.4199,
+            -120.0505,
+            4572,
+            345,
+            false
+        ],
+        [
+            1718381105,
+            38.444,
+            -120.3947,
+            4876,
+            344,
+            false
+        ],
+        [
+            1718381477,
+            38.8853,
+            -120.546,
+            4876,
+            344,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-12:43:15",
+    "baro_altitude": 5006.34,
+    "category": 0,
+    "geo_altitude": 5265.42,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718380971,
+    "latitude": 38.285,
+    "longitude": -120.3406,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718380971,
+    "true_track": 345.03,
+    "velocity": 137.39,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 31,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "0CL0",
+    "estDepartureAirportHorizDistance": 4289,
+    "estDepartureAirportVertDistance": 2438,
+    "firstSeen": 1718379795,
+    "lastSeen": 1718381477
+}

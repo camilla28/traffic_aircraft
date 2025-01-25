@@ -1,0 +1,104 @@
+{
+    "callsign": null,
+    "endTime": "2024/06/12-11:28:12",
+    "icao24": "a1abf5",
+    "path": [
+        [
+            1718202122,
+            14.6009,
+            -90.5231,
+            1524,
+            356,
+            false
+        ],
+        [
+            1718202122,
+            14.6009,
+            -90.5231,
+            1524,
+            356,
+            false
+        ],
+        [
+            1718202148,
+            14.6167,
+            -90.5264,
+            1524,
+            346,
+            false
+        ],
+        [
+            1718202158,
+            14.623,
+            -90.528,
+            1524,
+            346,
+            false
+        ],
+        [
+            1718202454,
+            14.821,
+            -90.5555,
+            2438,
+            5,
+            false
+        ],
+        [
+            1718202461,
+            14.8259,
+            -90.555,
+            2438,
+            5,
+            false
+        ],
+        [
+            1718202492,
+            14.8475,
+            -90.5528,
+            2743,
+            5,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-11:22:02",
+    "baro_altitude": 2819.4,
+    "category": 0,
+    "geo_altitude": 2903.22,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718202493,
+    "latitude": 14.8475,
+    "longitude": -90.5528,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1612",
+    "time_position": 1718202492,
+    "true_track": 5.67,
+    "velocity": 78.06,
+    "vertical_rate": 3.25,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 35,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "MGGT",
+    "estDepartureAirportHorizDistance": 2010,
+    "estDepartureAirportVertDistance": 14,
+    "firstSeen": 1718202122,
+    "lastSeen": 1718202492
+}

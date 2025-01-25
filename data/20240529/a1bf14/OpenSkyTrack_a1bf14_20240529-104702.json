@@ -1,0 +1,80 @@
+{
+    "callsign": "N211V   ",
+    "endTime": "2024/05/29-09:56:41",
+    "icao24": "a1bf14",
+    "path": [
+        [
+            1716987095,
+            34.3824,
+            -111.3441,
+            2438,
+            358,
+            false
+        ],
+        [
+            1716987138,
+            34.4053,
+            -111.3448,
+            2438,
+            358,
+            false
+        ],
+        [
+            1716987234,
+            34.4585,
+            -111.3466,
+            2743,
+            359,
+            false
+        ],
+        [
+            1716987401,
+            34.5705,
+            -111.3508,
+            3048,
+            357,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-09:51:35",
+    "baro_altitude": 3139.44,
+    "category": 0,
+    "geo_altitude": 3261.36,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716987401,
+    "latitude": 34.5705,
+    "longitude": -111.3508,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1716987401,
+    "true_track": 357.6,
+    "velocity": 85.99,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 57,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KPAN",
+    "estDepartureAirportHorizDistance": 13973,
+    "estDepartureAirportVertDistance": 1034,
+    "firstSeen": 1716987095,
+    "lastSeen": 1716987401
+}

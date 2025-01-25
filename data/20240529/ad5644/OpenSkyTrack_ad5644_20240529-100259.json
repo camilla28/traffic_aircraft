@@ -1,0 +1,80 @@
+{
+    "callsign": "N959BW  ",
+    "endTime": "2024/05/29-09:57:21",
+    "icao24": "ad5644",
+    "path": [
+        [
+            1716987330,
+            30.0501,
+            -89.1303,
+            304,
+            159,
+            false
+        ],
+        [
+            1716987330,
+            30.0501,
+            -89.1303,
+            304,
+            209,
+            false
+        ],
+        [
+            1716987441,
+            30.0515,
+            -89.1322,
+            304,
+            189,
+            false
+        ],
+        [
+            1716987441,
+            30.0515,
+            -89.1322,
+            304,
+            157,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-09:55:30",
+    "baro_altitude": 396.24,
+    "category": 0,
+    "geo_altitude": 441.96,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716987441,
+    "latitude": 30.0515,
+    "longitude": -89.1322,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1716987441,
+    "true_track": 189.46,
+    "velocity": 56.33,
+    "vertical_rate": -0.98,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 136,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "5MS2",
+    "estDepartureAirportHorizDistance": 38027,
+    "estDepartureAirportVertDistance": 393,
+    "firstSeen": 1716987330,
+    "lastSeen": 1716987441
+}

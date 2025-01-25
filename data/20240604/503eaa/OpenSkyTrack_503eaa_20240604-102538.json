@@ -1,0 +1,72 @@
+{
+    "callsign": "DML3327 ",
+    "endTime": "2024/06/04-10:17:35",
+    "icao24": "503eaa",
+    "path": [
+        [
+            1717505513,
+            42.2154,
+            23.8734,
+            11887,
+            164,
+            false
+        ],
+        [
+            1717506345,
+            42.1901,
+            23.8829,
+            11887,
+            164,
+            false
+        ],
+        [
+            1717507055,
+            42.1765,
+            23.888,
+            11887,
+            164,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:51:53",
+    "baro_altitude": 11887.2,
+    "category": 0,
+    "geo_altitude": 12268.2,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504655,
+    "latitude": 42.2486,
+    "longitude": 23.861,
+    "on_ground": false,
+    "origin_country": "Lithuania",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5231",
+    "time_position": 1717504644,
+    "true_track": 164.25,
+    "velocity": 225.56,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LBDB",
+    "estDepartureAirportHorizDistance": 10998,
+    "estDepartureAirportVertDistance": 11344,
+    "firstSeen": 1717505513,
+    "lastSeen": 1717507055
+}

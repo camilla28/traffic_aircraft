@@ -1,0 +1,112 @@
+{
+    "callsign": "RYR51YA ",
+    "endTime": "2024/06/04-08:25:57",
+    "icao24": "4ca4f4",
+    "path": [
+        [
+            1717497979,
+            49.3373,
+            0.1383,
+            11277,
+            176,
+            false
+        ],
+        [
+            1717498028,
+            49.3456,
+            0.1376,
+            11277,
+            176,
+            false
+        ],
+        [
+            1717498173,
+            49.3254,
+            0.1394,
+            11277,
+            176,
+            false
+        ],
+        [
+            1717498222,
+            49.3285,
+            0.1391,
+            11277,
+            176,
+            false
+        ],
+        [
+            1717499061,
+            49.2565,
+            0.1449,
+            11277,
+            176,
+            false
+        ],
+        [
+            1717499959,
+            49.1778,
+            0.1508,
+            11277,
+            177,
+            false
+        ],
+        [
+            1717499970,
+            49.1707,
+            0.1514,
+            11277,
+            177,
+            false
+        ],
+        [
+            1717500357,
+            49.1394,
+            0.1535,
+            11277,
+            177,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:46:19",
+    "baro_altitude": 11277.6,
+    "category": 0,
+    "geo_altitude": 11506.2,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500019,
+    "latitude": 49.1707,
+    "longitude": 0.1514,
+    "on_ground": false,
+    "origin_country": "Ireland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2242",
+    "time_position": 1717500019,
+    "true_track": 177.35,
+    "velocity": 233.81,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFRG",
+    "estDepartureAirportHorizDistance": 75927,
+    "estDepartureAirportVertDistance": 11131,
+    "firstSeen": 1717497979,
+    "lastSeen": 1717500357
+}

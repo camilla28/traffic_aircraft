@@ -1,0 +1,72 @@
+{
+    "callsign": null,
+    "endTime": "2024/06/04-09:43:47",
+    "icao24": "407666",
+    "path": [
+        [
+            1717504017,
+            43.7257,
+            -6.0922,
+            10668,
+            203,
+            false
+        ],
+        [
+            1717504783,
+            43.7172,
+            -6.0973,
+            10668,
+            203,
+            false
+        ],
+        [
+            1717505027,
+            43.7142,
+            -6.0991,
+            10668,
+            203,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:26:57",
+    "baro_altitude": 10668,
+    "category": 0,
+    "geo_altitude": 11064.24,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504672,
+    "latitude": 43.7183,
+    "longitude": -6.0966,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504616,
+    "true_track": 203.62,
+    "velocity": 246.5,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717504017,
+    "lastSeen": 1717505027
+}

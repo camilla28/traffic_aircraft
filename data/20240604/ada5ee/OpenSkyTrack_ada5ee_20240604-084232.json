@@ -1,0 +1,120 @@
+{
+    "callsign": "JBU2416 ",
+    "endTime": "2024/06/04-08:42:33",
+    "icao24": "ada5ee",
+    "path": [
+        [
+            1717499456,
+            38.8352,
+            -108.2177,
+            10668,
+            83,
+            false
+        ],
+        [
+            1717500330,
+            38.8472,
+            -108.0717,
+            10668,
+            83,
+            false
+        ],
+        [
+            1717500766,
+            38.8509,
+            -108.0277,
+            10668,
+            83,
+            false
+        ],
+        [
+            1717500797,
+            38.8537,
+            -107.9944,
+            10363,
+            83,
+            false
+        ],
+        [
+            1717500814,
+            38.8508,
+            -108.029,
+            10668,
+            83,
+            false
+        ],
+        [
+            1717501115,
+            38.8589,
+            -107.9311,
+            10363,
+            84,
+            false
+        ],
+        [
+            1717501235,
+            38.8606,
+            -107.9097,
+            10668,
+            84,
+            false
+        ],
+        [
+            1717501260,
+            38.8596,
+            -107.9219,
+            10363,
+            84,
+            false
+        ],
+        [
+            1717501353,
+            38.8609,
+            -107.9055,
+            10668,
+            84,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:10:56",
+    "baro_altitude": 10668,
+    "category": 4,
+    "geo_altitude": 11064.24,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500029,
+    "latitude": 38.8425,
+    "longitude": -108.127,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717500029,
+    "true_track": 83.97,
+    "velocity": 249.86,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 2,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KD17",
+    "estDepartureAirportHorizDistance": 885283,
+    "estDepartureAirportVertDistance": 9144,
+    "firstSeen": 1717499456,
+    "lastSeen": 1717501353
+}

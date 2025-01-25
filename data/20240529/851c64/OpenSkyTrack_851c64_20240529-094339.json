@@ -1,0 +1,96 @@
+{
+    "callsign": "JAL530  ",
+    "endTime": "2024/05/29-09:43:23",
+    "icao24": "851c64",
+    "path": [
+        [
+            1716986485,
+            42.6877,
+            141.734,
+            2743,
+            178,
+            false
+        ],
+        [
+            1716986498,
+            42.6701,
+            141.7345,
+            2743,
+            178,
+            false
+        ],
+        [
+            1716986516,
+            42.6458,
+            141.7356,
+            3048,
+            178,
+            false
+        ],
+        [
+            1716986560,
+            42.6125,
+            141.7368,
+            3352,
+            178,
+            false
+        ],
+        [
+            1716986595,
+            42.5652,
+            141.7384,
+            3657,
+            178,
+            false
+        ],
+        [
+            1716986603,
+            42.5322,
+            141.7396,
+            4267,
+            178,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-09:41:25",
+    "baro_altitude": 11879.58,
+    "category": 0,
+    "geo_altitude": 12344.4,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716978990,
+    "latitude": 36.9968,
+    "longitude": 137.7951,
+    "on_ground": false,
+    "origin_country": "Japan",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3313",
+    "time_position": 1716978990,
+    "true_track": 30.41,
+    "velocity": 246.96,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "RJCC",
+    "estDepartureAirportHorizDistance": 10308,
+    "estDepartureAirportVertDistance": 2733,
+    "firstSeen": 1716986485,
+    "lastSeen": 1716986603
+}

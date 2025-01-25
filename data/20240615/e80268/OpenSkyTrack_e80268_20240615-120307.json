@@ -1,0 +1,72 @@
+{
+    "callsign": "LPE2494 ",
+    "endTime": "2024/06/15-12:00:04",
+    "icao24": "e80268",
+    "path": [
+        [
+            1718463505,
+            -11.8652,
+            -77.1916,
+            609,
+            152,
+            false
+        ],
+        [
+            1718463559,
+            -11.9079,
+            -77.1705,
+            609,
+            153,
+            false
+        ],
+        [
+            1718463604,
+            -11.9376,
+            -77.1559,
+            304,
+            153,
+            false
+        ]
+    ],
+    "startTime": "2024/06/15-11:58:25",
+    "baro_altitude": 434.34,
+    "category": 0,
+    "geo_altitude": 502.92,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718463640,
+    "latitude": -11.9376,
+    "longitude": -77.1559,
+    "on_ground": false,
+    "origin_country": "Chile",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718463604,
+    "true_track": 153.79,
+    "velocity": 74.54,
+    "vertical_rate": -4.23,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 10,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "SPNO",
+    "estDepartureAirportHorizDistance": 70602,
+    "estDepartureAirportVertDistance": 598,
+    "firstSeen": 1718463505,
+    "lastSeen": 1718463604
+}

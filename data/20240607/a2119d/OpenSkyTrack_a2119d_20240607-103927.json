@@ -1,0 +1,104 @@
+{
+    "callsign": "TRF532  ",
+    "endTime": "2024/06/07-10:37:08",
+    "icao24": "a2119d",
+    "path": [
+        [
+            1717767238,
+            33.7125,
+            -96.65,
+            304,
+            51,
+            false
+        ],
+        [
+            1717767249,
+            33.7154,
+            -96.6457,
+            304,
+            49,
+            false
+        ],
+        [
+            1717767258,
+            33.7177,
+            -96.6425,
+            304,
+            48,
+            false
+        ],
+        [
+            1717767258,
+            33.7177,
+            -96.6425,
+            304,
+            44,
+            false
+        ],
+        [
+            1717767392,
+            33.7485,
+            -96.6074,
+            609,
+            42,
+            false
+        ],
+        [
+            1717767428,
+            33.7679,
+            -96.5858,
+            914,
+            41,
+            false
+        ],
+        [
+            1717767428,
+            33.7679,
+            -96.5858,
+            914,
+            317,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-10:33:58",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762913,
+    "latitude": null,
+    "longitude": null,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": null,
+    "true_track": 177.21,
+    "velocity": 42.23,
+    "vertical_rate": -0.98,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 480,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KGYI",
+    "estDepartureAirportHorizDistance": 1984,
+    "estDepartureAirportVertDistance": 312,
+    "firstSeen": 1717767238,
+    "lastSeen": 1717767428
+}

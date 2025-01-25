@@ -1,0 +1,72 @@
+{
+    "callsign": "EFI     ",
+    "endTime": "2024/06/04-09:25:34",
+    "icao24": "7c14fc",
+    "path": [
+        [
+            1717502753,
+            -26.917,
+            152.8276,
+            914,
+            48,
+            false
+        ],
+        [
+            1717503651,
+            -26.916,
+            152.8287,
+            914,
+            48,
+            false
+        ],
+        [
+            1717503934,
+            -26.9159,
+            152.8289,
+            914,
+            48,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:05:53",
+    "baro_altitude": 967.74,
+    "category": 0,
+    "geo_altitude": 1043.94,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499873,
+    "latitude": -26.9198,
+    "longitude": 152.824,
+    "on_ground": false,
+    "origin_country": "Australia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499856,
+    "true_track": 49.67,
+    "velocity": 58.03,
+    "vertical_rate": -2.28,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 47,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "YCAB",
+    "estDepartureAirportHorizDistance": 24065,
+    "estDepartureAirportVertDistance": 948,
+    "firstSeen": 1717502753,
+    "lastSeen": 1717503934
+}

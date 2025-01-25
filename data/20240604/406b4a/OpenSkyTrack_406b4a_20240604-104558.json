@@ -1,0 +1,80 @@
+{
+    "callsign": "VIR41R  ",
+    "endTime": "2024/06/04-10:45:08",
+    "icao24": "406b4a",
+    "path": [
+        [
+            1717506920,
+            37.8687,
+            -122.6409,
+            3962,
+            141,
+            false
+        ],
+        [
+            1717507117,
+            37.8658,
+            -122.6379,
+            3962,
+            140,
+            false
+        ],
+        [
+            1717508708,
+            37.4728,
+            -122.2823,
+            2743,
+            155,
+            false
+        ],
+        [
+            1717508708,
+            37.4728,
+            -122.2823,
+            2743,
+            155,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-10:15:20",
+    "baro_altitude": 3870.96,
+    "category": 6,
+    "geo_altitude": 4038.6,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504713,
+    "latitude": 37.85,
+    "longitude": -122.6206,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504705,
+    "true_track": 139.41,
+    "velocity": 198.48,
+    "vertical_rate": -10.08,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717506920,
+    "lastSeen": 1717508708
+}

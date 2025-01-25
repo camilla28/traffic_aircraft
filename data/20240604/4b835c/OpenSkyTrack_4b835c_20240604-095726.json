@@ -1,0 +1,72 @@
+{
+    "callsign": "S26     ",
+    "endTime": "2024/06/04-09:55:47",
+    "icao24": "4b835c",
+    "path": [
+        [
+            1717504685,
+            37.7633,
+            27.2076,
+            4876,
+            158,
+            false
+        ],
+        [
+            1717505497,
+            37.7529,
+            27.2127,
+            4876,
+            159,
+            false
+        ],
+        [
+            1717505747,
+            37.7484,
+            27.2149,
+            4876,
+            159,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:38:05",
+    "baro_altitude": 4876.8,
+    "category": 0,
+    "geo_altitude": 5158.74,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504715,
+    "latitude": 37.7625,
+    "longitude": 27.2081,
+    "on_ground": false,
+    "origin_country": "Turkey",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504714,
+    "true_track": 158.5,
+    "velocity": 54.74,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717504685,
+    "lastSeen": 1717505747
+}

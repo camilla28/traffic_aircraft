@@ -1,0 +1,96 @@
+{
+    "callsign": "JST804  ",
+    "endTime": "2024/06/04-15:49:30",
+    "icao24": "7c6b37",
+    "path": [
+        [
+            1717523215,
+            -34.235,
+            140.3497,
+            9448,
+            71,
+            false
+        ],
+        [
+            1717524056,
+            -34.2286,
+            140.3751,
+            9448,
+            74,
+            false
+        ],
+        [
+            1717524483,
+            -34.2237,
+            140.3978,
+            9448,
+            75,
+            false
+        ],
+        [
+            1717525376,
+            -34.2171,
+            140.4304,
+            9753,
+            76,
+            false
+        ],
+        [
+            1717526191,
+            -34.2102,
+            140.4646,
+            9753,
+            76,
+            false
+        ],
+        [
+            1717526970,
+            -34.202,
+            140.5049,
+            9753,
+            76,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-14:46:55",
+    "baro_altitude": 9806.94,
+    "category": 0,
+    "geo_altitude": 9860.28,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717525376,
+    "latitude": -34.2171,
+    "longitude": 140.4304,
+    "on_ground": false,
+    "origin_country": "Australia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717525376,
+    "true_track": 76.47,
+    "velocity": 241.82,
+    "vertical_rate": 5.53,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "YBMR",
+    "estDepartureAirportHorizDistance": 10384,
+    "estDepartureAirportVertDistance": 9707,
+    "firstSeen": 1717523215,
+    "lastSeen": 1717526970
+}

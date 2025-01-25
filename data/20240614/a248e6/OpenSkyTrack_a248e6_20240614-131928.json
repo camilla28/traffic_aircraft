@@ -1,0 +1,80 @@
+{
+    "callsign": "CXK624  ",
+    "endTime": "2024/06/14-13:14:22",
+    "icao24": "a248e6",
+    "path": [
+        [
+            1718381643,
+            38.4959,
+            -121.487,
+            304,
+            29,
+            false
+        ],
+        [
+            1718381657,
+            38.5013,
+            -121.4832,
+            304,
+            29,
+            false
+        ],
+        [
+            1718381662,
+            38.503,
+            -121.4816,
+            304,
+            37,
+            false
+        ],
+        [
+            1718381662,
+            38.503,
+            -121.4816,
+            304,
+            37,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-13:14:03",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718380954,
+    "latitude": null,
+    "longitude": null,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": null,
+    "true_track": 69.78,
+    "velocity": 52.08,
+    "vertical_rate": 3.25,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 202,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KSAC",
+    "estDepartureAirportHorizDistance": 1897,
+    "estDepartureAirportVertDistance": 297,
+    "firstSeen": 1718381643,
+    "lastSeen": 1718381662
+}

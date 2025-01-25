@@ -1,0 +1,80 @@
+{
+    "callsign": "N411MB  ",
+    "endTime": "2024/05/29-18:26:13",
+    "icao24": "a4d8ec",
+    "path": [
+        [
+            1717017929,
+            33.7958,
+            -117.5785,
+            914,
+            11,
+            false
+        ],
+        [
+            1717017939,
+            33.799,
+            -117.5777,
+            914,
+            13,
+            false
+        ],
+        [
+            1717017946,
+            33.8014,
+            -117.5769,
+            914,
+            16,
+            false
+        ],
+        [
+            1717017973,
+            33.8103,
+            -117.5739,
+            1219,
+            18,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-18:25:29",
+    "baro_altitude": 1051.56,
+    "category": 0,
+    "geo_altitude": 1066.8,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717016382,
+    "latitude": 33.6985,
+    "longitude": -117.5512,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717016382,
+    "true_track": 100.95,
+    "velocity": 16.24,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 138,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KAJO",
+    "estDepartureAirportHorizDistance": 11532,
+    "estDepartureAirportVertDistance": 950,
+    "firstSeen": 1717017929,
+    "lastSeen": 1717017973
+}

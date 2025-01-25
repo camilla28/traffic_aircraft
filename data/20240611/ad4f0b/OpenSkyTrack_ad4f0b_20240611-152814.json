@@ -1,0 +1,144 @@
+{
+    "callsign": "DAL2003 ",
+    "endTime": "2024/06/11-15:28:18",
+    "icao24": "ad4f0b",
+    "path": [
+        [
+            1718130368,
+            33.6471,
+            -84.4479,
+            304,
+            271,
+            false
+        ],
+        [
+            1718130375,
+            33.6472,
+            -84.4544,
+            609,
+            271,
+            false
+        ],
+        [
+            1718130384,
+            33.648,
+            -84.4632,
+            609,
+            280,
+            false
+        ],
+        [
+            1718130392,
+            33.6499,
+            -84.471,
+            609,
+            288,
+            false
+        ],
+        [
+            1718130400,
+            33.6527,
+            -84.479,
+            609,
+            294,
+            false
+        ],
+        [
+            1718130432,
+            33.6673,
+            -84.5162,
+            914,
+            295,
+            false
+        ],
+        [
+            1718130457,
+            33.6803,
+            -84.5495,
+            1219,
+            295,
+            false
+        ],
+        [
+            1718130466,
+            33.6854,
+            -84.5611,
+            1524,
+            302,
+            false
+        ],
+        [
+            1718130474,
+            33.6919,
+            -84.5701,
+            1524,
+            317,
+            false
+        ],
+        [
+            1718130483,
+            33.7016,
+            -84.5776,
+            1828,
+            335,
+            false
+        ],
+        [
+            1718130490,
+            33.7099,
+            -84.5809,
+            1828,
+            346,
+            false
+        ],
+        [
+            1718130498,
+            33.7197,
+            -84.5825,
+            2133,
+            356,
+            false
+        ]
+    ],
+    "startTime": "2024/06/11-15:26:08",
+    "baro_altitude": 975.36,
+    "category": 0,
+    "geo_altitude": 975.36,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718130415,
+    "latitude": 33.659,
+    "longitude": -84.4952,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718130415,
+    "true_track": 295,
+    "velocity": 118.07,
+    "vertical_rate": 6.18,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 316,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KATL",
+    "estDepartureAirportHorizDistance": 1600,
+    "estDepartureAirportVertDistance": 243,
+    "firstSeen": 1718130368,
+    "lastSeen": 1718130498
+}

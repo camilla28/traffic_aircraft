@@ -1,0 +1,136 @@
+{
+    "callsign": "EIS74   ",
+    "endTime": "2024/06/12-09:36:09",
+    "icao24": "3d7cc7",
+    "path": [
+        [
+            1718195646,
+            50.2213,
+            7.0156,
+            609,
+            302,
+            false
+        ],
+        [
+            1718195655,
+            50.2248,
+            7.0072,
+            609,
+            303,
+            false
+        ],
+        [
+            1718195689,
+            50.2391,
+            6.9728,
+            914,
+            301,
+            false
+        ],
+        [
+            1718195694,
+            50.241,
+            6.9676,
+            914,
+            299,
+            false
+        ],
+        [
+            1718195703,
+            50.2443,
+            6.9579,
+            914,
+            295,
+            false
+        ],
+        [
+            1718195737,
+            50.2563,
+            6.9186,
+            914,
+            296,
+            false
+        ],
+        [
+            1718195751,
+            50.2556,
+            6.9008,
+            914,
+            220,
+            false
+        ],
+        [
+            1718195756,
+            50.2522,
+            6.8974,
+            914,
+            190,
+            false
+        ],
+        [
+            1718195765,
+            50.243,
+            6.8974,
+            609,
+            168,
+            false
+        ],
+        [
+            1718195769,
+            50.2393,
+            6.9001,
+            609,
+            155,
+            false
+        ],
+        [
+            1718195769,
+            50.2393,
+            6.9001,
+            609,
+            155,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-09:34:06",
+    "baro_altitude": 1165.86,
+    "category": 0,
+    "geo_altitude": 1272.54,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194258,
+    "latitude": 50.0393,
+    "longitude": 7.1121,
+    "on_ground": false,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "6150",
+    "time_position": 1718194258,
+    "true_track": 212.04,
+    "velocity": 79.51,
+    "vertical_rate": -0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 147,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "ETSB",
+    "estDepartureAirportHorizDistance": 6038,
+    "estDepartureAirportVertDistance": 398,
+    "firstSeen": 1718195646,
+    "lastSeen": 1718195769
+}

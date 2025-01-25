@@ -1,0 +1,80 @@
+{
+    "callsign": "LTA913  ",
+    "endTime": "2024/05/29-19:41:02",
+    "icao24": "aca2ca",
+    "path": [
+        [
+            1717020926,
+            34.308,
+            -82.887,
+            1828,
+            92,
+            false
+        ],
+        [
+            1717020950,
+            34.3076,
+            -82.8714,
+            1828,
+            91,
+            false
+        ],
+        [
+            1717021844,
+            34.2868,
+            -82.2528,
+            2133,
+            93,
+            false
+        ],
+        [
+            1717022462,
+            34.2702,
+            -81.8096,
+            2133,
+            92,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-19:15:26",
+    "baro_altitude": 1958.34,
+    "category": 0,
+    "geo_altitude": 2026.92,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717016354,
+    "latitude": 34.0469,
+    "longitude": -82.7195,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717016354,
+    "true_track": 283.78,
+    "velocity": 56.15,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 314,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "0GA2",
+    "estDepartureAirportHorizDistance": 9455,
+    "estDepartureAirportVertDistance": 1647,
+    "firstSeen": 1717020926,
+    "lastSeen": 1717022462
+}

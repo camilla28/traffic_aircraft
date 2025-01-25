@@ -1,0 +1,136 @@
+{
+    "callsign": "GLO1206 ",
+    "endTime": "2024/05/29-11:08:41",
+    "icao24": "e49270",
+    "path": [
+        [
+            1716990394,
+            -23.6836,
+            -46.8752,
+            2438,
+            205,
+            false
+        ],
+        [
+            1716990394,
+            -23.6836,
+            -46.8752,
+            2438,
+            348,
+            false
+        ],
+        [
+            1716990714,
+            -23.5055,
+            -47.1795,
+            6096,
+            348,
+            false
+        ],
+        [
+            1716990729,
+            -23.4804,
+            -47.185,
+            6400,
+            348,
+            false
+        ],
+        [
+            1716990753,
+            -23.4387,
+            -47.1941,
+            6705,
+            348,
+            false
+        ],
+        [
+            1716990810,
+            -23.3372,
+            -47.217,
+            7010,
+            348,
+            false
+        ],
+        [
+            1716990816,
+            -23.3247,
+            -47.2197,
+            7315,
+            348,
+            false
+        ],
+        [
+            1716990843,
+            -23.2757,
+            -47.23,
+            7010,
+            349,
+            false
+        ],
+        [
+            1716991130,
+            -22.7455,
+            -47.3448,
+            7315,
+            351,
+            false
+        ],
+        [
+            1716991138,
+            -22.7302,
+            -47.3467,
+            7315,
+            354,
+            false
+        ],
+        [
+            1716991721,
+            -21.6273,
+            -47.4272,
+            7315,
+            356,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-10:46:34",
+    "baro_altitude": 7315.2,
+    "category": 0,
+    "geo_altitude": 7658.1,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716991247,
+    "latitude": -22.5207,
+    "longitude": -47.3618,
+    "on_ground": false,
+    "origin_country": "Brazil",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1716991247,
+    "true_track": 356.11,
+    "velocity": 212.44,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 77,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "SDNI",
+    "estDepartureAirportHorizDistance": 13131,
+    "estDepartureAirportVertDistance": 1595,
+    "firstSeen": 1716990394,
+    "lastSeen": 1716991721
+}

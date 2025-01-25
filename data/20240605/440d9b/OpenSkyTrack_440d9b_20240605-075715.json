@@ -1,0 +1,72 @@
+{
+    "callsign": "LDX24C  ",
+    "endTime": "2024/06/05-07:57:17",
+    "icao24": "440d9b",
+    "path": [
+        [
+            1717585019,
+            39.908,
+            -105.1146,
+            1524,
+            304,
+            false
+        ],
+        [
+            1717585028,
+            39.9122,
+            -105.1226,
+            1524,
+            303,
+            false
+        ],
+        [
+            1717585037,
+            39.9162,
+            -105.1304,
+            1828,
+            304,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-07:56:59",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717582993,
+    "latitude": 39.9092,
+    "longitude": -105.1125,
+    "on_ground": true,
+    "origin_country": "Austria",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717582993,
+    "true_track": 306.56,
+    "velocity": 0.06,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 178,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KBJC",
+    "estDepartureAirportHorizDistance": 609,
+    "estDepartureAirportVertDistance": 29,
+    "firstSeen": 1717585019,
+    "lastSeen": 1717585034
+}

@@ -1,0 +1,80 @@
+{
+    "callsign": "AEA68BR ",
+    "endTime": "2024/06/12-10:23:15",
+    "icao24": "34750a",
+    "path": [
+        [
+            1718198540,
+            43.2651,
+            -3.2492,
+            3352,
+            207,
+            false
+        ],
+        [
+            1718198555,
+            43.2428,
+            -3.2649,
+            3352,
+            207,
+            false
+        ],
+        [
+            1718198580,
+            43.2059,
+            -3.291,
+            3657,
+            207,
+            false
+        ],
+        [
+            1718198595,
+            43.1833,
+            -3.3071,
+            3962,
+            207,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-10:22:20",
+    "baro_altitude": 3253.74,
+    "category": 0,
+    "geo_altitude": 3436.62,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194103,
+    "latitude": 42.8893,
+    "longitude": -2.5987,
+    "on_ground": false,
+    "origin_country": "Spain",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "6042",
+    "time_position": 1718194098,
+    "true_track": 25.72,
+    "velocity": 141.05,
+    "vertical_rate": -6.83,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1718198540,
+    "lastSeen": 1718198595
+}

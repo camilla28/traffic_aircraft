@@ -1,0 +1,72 @@
+{
+    "callsign": "SFR201  ",
+    "endTime": "2024/06/04-08:40:00",
+    "icao24": "00c45d",
+    "path": [
+        [
+            1717499788,
+            -26.0678,
+            28.1401,
+            3657,
+            14,
+            false
+        ],
+        [
+            1717500599,
+            -26.0645,
+            28.1411,
+            3657,
+            14,
+            false
+        ],
+        [
+            1717501200,
+            -26.0607,
+            28.1422,
+            3657,
+            14,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:16:28",
+    "baro_altitude": 3680.46,
+    "category": 0,
+    "geo_altitude": 3832.86,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499933,
+    "latitude": -26.0671,
+    "longitude": 28.1403,
+    "on_ground": false,
+    "origin_country": "South Africa",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499928,
+    "true_track": 14.63,
+    "velocity": 144.62,
+    "vertical_rate": -2.28,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 6,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "FAGC",
+    "estDepartureAirportHorizDistance": 9058,
+    "estDepartureAirportVertDistance": 2057,
+    "firstSeen": 1717499788,
+    "lastSeen": 1717501200
+}

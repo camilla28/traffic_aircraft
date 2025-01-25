@@ -1,0 +1,112 @@
+{
+    "callsign": "TCHLD   ",
+    "endTime": "2024/06/07-08:48:20",
+    "icao24": "4ba184",
+    "path": [
+        [
+            1717760500,
+            36.7493,
+            28.1123,
+            609,
+            97,
+            false
+        ],
+        [
+            1717760532,
+            36.7475,
+            28.129,
+            609,
+            97,
+            false
+        ],
+        [
+            1717760589,
+            36.7443,
+            28.1609,
+            914,
+            95,
+            false
+        ],
+        [
+            1717760609,
+            36.7435,
+            28.1752,
+            914,
+            96,
+            false
+        ],
+        [
+            1717760614,
+            36.743,
+            28.1796,
+            914,
+            98,
+            false
+        ],
+        [
+            1717760659,
+            36.7386,
+            28.2137,
+            914,
+            97,
+            false
+        ],
+        [
+            1717760684,
+            36.7371,
+            28.2338,
+            914,
+            95,
+            false
+        ],
+        [
+            1717760900,
+            36.7252,
+            28.4021,
+            914,
+            95,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-08:41:40",
+    "baro_altitude": 800.1,
+    "category": 0,
+    "geo_altitude": 845.82,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717759292,
+    "latitude": 36.7259,
+    "longitude": 28.395,
+    "on_ground": false,
+    "origin_country": "Turkey",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5114",
+    "time_position": 1717759292,
+    "true_track": 274.69,
+    "velocity": 62.97,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 19,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LGRP",
+    "estDepartureAirportHorizDistance": 38291,
+    "estDepartureAirportVertDistance": 749,
+    "firstSeen": 1717760500,
+    "lastSeen": 1717760900
+}

@@ -1,0 +1,120 @@
+{
+    "callsign": "SWG7131 ",
+    "endTime": "2024/06/04-09:19:50",
+    "icao24": "c04463",
+    "path": [
+        [
+            1717496753,
+            35.9749,
+            -77.9837,
+            10668,
+            356,
+            false
+        ],
+        [
+            1717497640,
+            35.9989,
+            -77.9858,
+            10668,
+            355,
+            false
+        ],
+        [
+            1717498493,
+            36.0212,
+            -77.9877,
+            10668,
+            356,
+            false
+        ],
+        [
+            1717499293,
+            36.0573,
+            -77.9908,
+            10668,
+            356,
+            false
+        ],
+        [
+            1717500171,
+            36.0835,
+            -77.993,
+            10668,
+            356,
+            false
+        ],
+        [
+            1717501058,
+            36.1189,
+            -77.996,
+            10668,
+            356,
+            false
+        ],
+        [
+            1717501956,
+            36.0515,
+            -77.9903,
+            10668,
+            356,
+            false
+        ],
+        [
+            1717502841,
+            36.1835,
+            -78.0014,
+            10668,
+            356,
+            false
+        ],
+        [
+            1717503590,
+            36.2111,
+            -78.0037,
+            10668,
+            356,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:25:53",
+    "baro_altitude": 10668,
+    "category": 0,
+    "geo_altitude": 11102.34,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500016,
+    "latitude": 36.0803,
+    "longitude": -77.9927,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "6773",
+    "time_position": 1717500015,
+    "true_track": 355.91,
+    "velocity": 223.84,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "19NC",
+    "estDepartureAirportHorizDistance": 53169,
+    "estDepartureAirportVertDistance": 10608,
+    "firstSeen": 1717496753,
+    "lastSeen": 1717503590
+}

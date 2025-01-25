@@ -1,0 +1,128 @@
+{
+    "callsign": "SWA2751 ",
+    "endTime": "2024/06/12-08:32:43",
+    "icao24": "a4b259",
+    "path": [
+        [
+            1718191667,
+            40.796,
+            -111.9756,
+            1219,
+            175,
+            false
+        ],
+        [
+            1718191696,
+            40.775,
+            -111.973,
+            1219,
+            174,
+            false
+        ],
+        [
+            1718191737,
+            40.7414,
+            -111.9678,
+            1524,
+            173,
+            false
+        ],
+        [
+            1718191772,
+            40.7069,
+            -111.962,
+            1828,
+            171,
+            false
+        ],
+        [
+            1718191806,
+            40.6697,
+            -111.9539,
+            2133,
+            170,
+            false
+        ],
+        [
+            1718191847,
+            40.6173,
+            -111.9424,
+            2438,
+            170,
+            false
+        ],
+        [
+            1718191872,
+            40.5849,
+            -111.9354,
+            2743,
+            170,
+            false
+        ],
+        [
+            1718191912,
+            40.5272,
+            -111.9233,
+            3048,
+            170,
+            false
+        ],
+        [
+            1718191946,
+            40.4731,
+            -111.9117,
+            3352,
+            170,
+            false
+        ],
+        [
+            1718191963,
+            40.445,
+            -111.9055,
+            3657,
+            170,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-08:27:47",
+    "baro_altitude": 1805.94,
+    "category": 0,
+    "geo_altitude": 1851.66,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718191738,
+    "latitude": 40.7414,
+    "longitude": -111.9678,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718191737,
+    "true_track": 173.09,
+    "velocity": 102.61,
+    "vertical_rate": 1.95,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 51,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KSLC",
+    "estDepartureAirportHorizDistance": 856,
+    "estDepartureAirportVertDistance": 8,
+    "firstSeen": 1718191667,
+    "lastSeen": 1718191963
+}

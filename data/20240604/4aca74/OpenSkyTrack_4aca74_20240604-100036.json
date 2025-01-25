@@ -1,0 +1,120 @@
+{
+    "callsign": "SAS751  ",
+    "endTime": "2024/06/04-09:59:05",
+    "icao24": "4aca74",
+    "path": [
+        [
+            1717499238,
+            54.4579,
+            15.6117,
+            10668,
+            123,
+            false
+        ],
+        [
+            1717500065,
+            54.4414,
+            15.6545,
+            10668,
+            123,
+            false
+        ],
+        [
+            1717500863,
+            54.4269,
+            15.6921,
+            10668,
+            123,
+            false
+        ],
+        [
+            1717501753,
+            54.4103,
+            15.7353,
+            10668,
+            123,
+            false
+        ],
+        [
+            1717502589,
+            54.3891,
+            15.7901,
+            10668,
+            123,
+            false
+        ],
+        [
+            1717503485,
+            54.362,
+            15.8599,
+            10668,
+            123,
+            false
+        ],
+        [
+            1717504285,
+            54.3397,
+            15.9172,
+            10668,
+            123,
+            false
+        ],
+        [
+            1717505088,
+            54.319,
+            15.9704,
+            10668,
+            123,
+            false
+        ],
+        [
+            1717505945,
+            54.297,
+            16.0265,
+            10668,
+            123,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:07:18",
+    "baro_altitude": 10668,
+    "category": 0,
+    "geo_altitude": 10850.88,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504608,
+    "latitude": 54.3307,
+    "longitude": 15.9402,
+    "on_ground": false,
+    "origin_country": "Sweden",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3724",
+    "time_position": 1717504603,
+    "true_track": 123.76,
+    "velocity": 236.99,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717499238,
+    "lastSeen": 1717505945
+}

@@ -1,0 +1,72 @@
+{
+    "callsign": null,
+    "endTime": "2024/06/12-15:35:13",
+    "icao24": "484b58",
+    "path": [
+        [
+            1718217254,
+            51.6449,
+            5.6721,
+            0,
+            230,
+            false
+        ],
+        [
+            1718217288,
+            51.6339,
+            5.6499,
+            0,
+            232,
+            false
+        ],
+        [
+            1718217313,
+            51.6259,
+            5.6321,
+            0,
+            233,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-15:34:14",
+    "baro_altitude": 236.22,
+    "category": 0,
+    "geo_altitude": 335.28,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204674,
+    "latitude": 51.8016,
+    "longitude": 5.8163,
+    "on_ground": false,
+    "origin_country": "Kingdom of the Netherlands",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "6223",
+    "time_position": 1718204674,
+    "true_track": 211.7,
+    "velocity": 61.68,
+    "vertical_rate": 0.98,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 98,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EHVK",
+    "estDepartureAirportHorizDistance": 2482,
+    "estDepartureAirportVertDistance": 23,
+    "firstSeen": 1718217254,
+    "lastSeen": 1718217303
+}

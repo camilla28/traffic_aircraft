@@ -1,0 +1,120 @@
+{
+    "callsign": "N352HP  ",
+    "endTime": "2024/06/07-23:02:12",
+    "icao24": "a3ecf8",
+    "path": [
+        [
+            1717812084,
+            40.4808,
+            -111.7529,
+            1524,
+            29,
+            false
+        ],
+        [
+            1717812089,
+            40.4811,
+            -111.7527,
+            1524,
+            12,
+            false
+        ],
+        [
+            1717812093,
+            40.4816,
+            -111.7529,
+            1524,
+            333,
+            false
+        ],
+        [
+            1717812098,
+            40.4822,
+            -111.7541,
+            1524,
+            286,
+            false
+        ],
+        [
+            1717812102,
+            40.4824,
+            -111.7556,
+            1524,
+            270,
+            false
+        ],
+        [
+            1717812111,
+            40.4823,
+            -111.7595,
+            1524,
+            270,
+            false
+        ],
+        [
+            1717812116,
+            40.4825,
+            -111.762,
+            1524,
+            275,
+            false
+        ],
+        [
+            1717812125,
+            40.4829,
+            -111.767,
+            1524,
+            276,
+            false
+        ],
+        [
+            1717812132,
+            40.4834,
+            -111.7709,
+            1524,
+            280,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-23:01:24",
+    "baro_altitude": null,
+    "category": 8,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717811473,
+    "latitude": 40.4807,
+    "longitude": -111.7529,
+    "on_ground": true,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717811473,
+    "true_track": 45,
+    "velocity": 0,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 49,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "UT08",
+    "estDepartureAirportHorizDistance": 16015,
+    "estDepartureAirportVertDistance": 187,
+    "firstSeen": 1717812084,
+    "lastSeen": 1717812125
+}

@@ -1,0 +1,80 @@
+{
+    "callsign": "N492KF  ",
+    "endTime": "2024/06/14-17:06:31",
+    "icao24": "a6186d",
+    "path": [
+        [
+            1718395570,
+            61.6915,
+            -148.7487,
+            1524,
+            45,
+            false
+        ],
+        [
+            1718395578,
+            61.694,
+            -148.7432,
+            1524,
+            46,
+            false
+        ],
+        [
+            1718395586,
+            61.6964,
+            -148.7374,
+            1524,
+            49,
+            false
+        ],
+        [
+            1718395591,
+            61.6979,
+            -148.7337,
+            1524,
+            51,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-17:06:10",
+    "baro_altitude": 1539.24,
+    "category": 0,
+    "geo_altitude": 1600.2,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718395591,
+    "latitude": 61.6979,
+    "longitude": -148.7337,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718395591,
+    "true_track": 51.16,
+    "velocity": 50.86,
+    "vertical_rate": 0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 142,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "AK92",
+    "estDepartureAirportHorizDistance": 15686,
+    "estDepartureAirportVertDistance": 1296,
+    "firstSeen": 1718395570,
+    "lastSeen": 1718395591
+}

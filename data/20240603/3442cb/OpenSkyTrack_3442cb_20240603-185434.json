@@ -1,0 +1,168 @@
+{
+    "callsign": "ANE7011 ",
+    "endTime": "2024/06/03-18:54:31",
+    "icao24": "3442cb",
+    "path": [
+        [
+            1717450468,
+            39.5233,
+            2.6364,
+            1219,
+            272,
+            false
+        ],
+        [
+            1717450515,
+            39.5243,
+            2.5903,
+            1524,
+            271,
+            false
+        ],
+        [
+            1717450615,
+            39.5264,
+            2.4526,
+            1828,
+            271,
+            false
+        ],
+        [
+            1717450680,
+            39.5278,
+            2.3568,
+            2133,
+            270,
+            false
+        ],
+        [
+            1717450759,
+            39.5294,
+            2.2388,
+            2438,
+            270,
+            false
+        ],
+        [
+            1717450846,
+            39.531,
+            2.1096,
+            2743,
+            270,
+            false
+        ],
+        [
+            1717450965,
+            39.533,
+            1.9322,
+            3048,
+            270,
+            false
+        ],
+        [
+            1717451059,
+            39.5345,
+            1.7906,
+            3352,
+            270,
+            false
+        ],
+        [
+            1717451151,
+            39.5357,
+            1.656,
+            3657,
+            270,
+            false
+        ],
+        [
+            1717451275,
+            39.537,
+            1.4737,
+            3962,
+            270,
+            false
+        ],
+        [
+            1717451313,
+            39.5374,
+            1.4162,
+            4267,
+            270,
+            false
+        ],
+        [
+            1717451326,
+            39.5375,
+            1.3951,
+            3962,
+            270,
+            false
+        ],
+        [
+            1717451402,
+            39.5381,
+            1.2803,
+            4267,
+            270,
+            false
+        ],
+        [
+            1717451475,
+            39.5385,
+            1.1787,
+            4572,
+            270,
+            false
+        ],
+        [
+            1717451671,
+            39.5393,
+            0.8798,
+            4876,
+            270,
+            false
+        ]
+    ],
+    "startTime": "2024/06/03-18:34:28",
+    "baro_altitude": 4884.42,
+    "category": 1,
+    "geo_altitude": 5090.16,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717451528,
+    "latitude": 39.5388,
+    "longitude": 1.1022,
+    "on_ground": false,
+    "origin_country": "Spain",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717451528,
+    "true_track": 270.23,
+    "velocity": 129.13,
+    "vertical_rate": -0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 5,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LEPA",
+    "estDepartureAirportHorizDistance": 8974,
+    "estDepartureAirportVertDistance": 1477,
+    "firstSeen": 1717450468,
+    "lastSeen": 1717451671
+}

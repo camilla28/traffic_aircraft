@@ -1,0 +1,120 @@
+{
+    "callsign": "N387W   ",
+    "endTime": "2024/06/07-15:48:59",
+    "icao24": "a4773f",
+    "path": [
+        [
+            1717785354,
+            44.8052,
+            -89.6985,
+            2438,
+            168,
+            false
+        ],
+        [
+            1717785386,
+            44.7887,
+            -89.6936,
+            2438,
+            167,
+            false
+        ],
+        [
+            1717785424,
+            44.7394,
+            -89.6782,
+            2743,
+            167,
+            false
+        ],
+        [
+            1717785468,
+            44.6966,
+            -89.6646,
+            3048,
+            167,
+            false
+        ],
+        [
+            1717785522,
+            44.6415,
+            -89.6477,
+            3352,
+            167,
+            false
+        ],
+        [
+            1717785575,
+            44.5836,
+            -89.6297,
+            3657,
+            167,
+            false
+        ],
+        [
+            1717785619,
+            44.5345,
+            -89.6145,
+            3962,
+            167,
+            false
+        ],
+        [
+            1717785673,
+            44.4748,
+            -89.5961,
+            4267,
+            167,
+            false
+        ],
+        [
+            1717786139,
+            43.8437,
+            -89.404,
+            4572,
+            167,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-15:35:54",
+    "baro_altitude": 1074.42,
+    "category": 0,
+    "geo_altitude": 1028.7,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717784051,
+    "latitude": 44.7892,
+    "longitude": -89.5896,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717784051,
+    "true_track": 351.78,
+    "velocity": 93.56,
+    "vertical_rate": 1.63,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 5,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KCWA",
+    "estDepartureAirportHorizDistance": 3966,
+    "estDepartureAirportVertDistance": 2132,
+    "firstSeen": 1717785354,
+    "lastSeen": 1717786139
+}

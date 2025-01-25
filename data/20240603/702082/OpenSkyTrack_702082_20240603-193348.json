@@ -1,0 +1,104 @@
+{
+    "callsign": "UBG326  ",
+    "endTime": "2024/06/03-19:23:42",
+    "icao24": "702082",
+    "path": [
+        [
+            1717452521,
+            22.561,
+            108.3212,
+            10972,
+            300,
+            false
+        ],
+        [
+            1717452619,
+            22.6686,
+            108.1243,
+            10972,
+            302,
+            false
+        ],
+        [
+            1717452626,
+            22.6771,
+            108.1108,
+            10972,
+            305,
+            false
+        ],
+        [
+            1717452633,
+            22.6849,
+            108.0996,
+            10972,
+            307,
+            false
+        ],
+        [
+            1717452639,
+            22.6931,
+            108.0885,
+            10972,
+            309,
+            false
+        ],
+        [
+            1717452644,
+            22.7002,
+            108.0797,
+            10972,
+            311,
+            false
+        ],
+        [
+            1717453422,
+            23.8682,
+            106.8001,
+            10972,
+            312,
+            false
+        ]
+    ],
+    "startTime": "2024/06/03-19:08:41",
+    "baro_altitude": 11003.28,
+    "category": 0,
+    "geo_altitude": 11765.28,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717452568,
+    "latitude": 22.6115,
+    "longitude": 108.2286,
+    "on_ground": false,
+    "origin_country": "Bangladesh",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717452567,
+    "true_track": 300.3,
+    "velocity": 236.55,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717452521,
+    "lastSeen": 1717453422
+}

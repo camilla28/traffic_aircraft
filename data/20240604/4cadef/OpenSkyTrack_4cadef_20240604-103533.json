@@ -1,0 +1,136 @@
+{
+    "callsign": "RYR2TC  ",
+    "endTime": "2024/06/04-10:21:06",
+    "icao24": "4cadef",
+    "path": [
+        [
+            1717498603,
+            45.8524,
+            6.6032,
+            11582,
+            348,
+            false
+        ],
+        [
+            1717499495,
+            45.8766,
+            6.5961,
+            11582,
+            348,
+            false
+        ],
+        [
+            1717500377,
+            45.9154,
+            6.5847,
+            11582,
+            348,
+            false
+        ],
+        [
+            1717501180,
+            45.9399,
+            6.5776,
+            11582,
+            348,
+            false
+        ],
+        [
+            1717502077,
+            45.9729,
+            6.5679,
+            11582,
+            348,
+            false
+        ],
+        [
+            1717502967,
+            46.0112,
+            6.5568,
+            11582,
+            348,
+            false
+        ],
+        [
+            1717503805,
+            46.0437,
+            6.5471,
+            11582,
+            348,
+            false
+        ],
+        [
+            1717504693,
+            46.0756,
+            6.5376,
+            11582,
+            348,
+            false
+        ],
+        [
+            1717505572,
+            46.0767,
+            6.5373,
+            11582,
+            348,
+            false
+        ],
+        [
+            1717506444,
+            46.1187,
+            6.5248,
+            11582,
+            348,
+            false
+        ],
+        [
+            1717507266,
+            46.1351,
+            6.5199,
+            11582,
+            348,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:56:43",
+    "baro_altitude": 11582.4,
+    "category": 0,
+    "geo_altitude": 11803.38,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504715,
+    "latitude": 46.0748,
+    "longitude": 6.5379,
+    "on_ground": false,
+    "origin_country": "Ireland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5510",
+    "time_position": 1717504708,
+    "true_track": 348.39,
+    "velocity": 227.41,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFHM",
+    "estDepartureAirportHorizDistance": 5178,
+    "estDepartureAirportVertDistance": 10112,
+    "firstSeen": 1717498603,
+    "lastSeen": 1717507266
+}

@@ -1,0 +1,208 @@
+{
+    "callsign": "FDB863  ",
+    "endTime": "2024/06/05-07:25:24",
+    "icao24": "8965d5",
+    "path": [
+        [
+            1717582644,
+            25.2532,
+            55.371,
+            0,
+            301,
+            false
+        ],
+        [
+            1717582679,
+            25.2667,
+            55.3468,
+            0,
+            301,
+            false
+        ],
+        [
+            1717582714,
+            25.2827,
+            55.3184,
+            304,
+            301,
+            false
+        ],
+        [
+            1717582714,
+            25.2827,
+            55.3184,
+            304,
+            288,
+            false
+        ],
+        [
+            1717582745,
+            25.291,
+            55.2869,
+            609,
+            259,
+            false
+        ],
+        [
+            1717582746,
+            25.2907,
+            55.2852,
+            609,
+            255,
+            false
+        ],
+        [
+            1717582746,
+            25.2907,
+            55.2852,
+            609,
+            245,
+            false
+        ],
+        [
+            1717582785,
+            25.274,
+            55.244,
+            914,
+            245,
+            false
+        ],
+        [
+            1717582834,
+            25.2501,
+            55.1875,
+            1219,
+            244,
+            false
+        ],
+        [
+            1717582839,
+            25.2476,
+            55.1817,
+            1524,
+            244,
+            false
+        ],
+        [
+            1717582839,
+            25.2476,
+            55.1817,
+            1524,
+            249,
+            false
+        ],
+        [
+            1717582852,
+            25.2415,
+            55.1644,
+            1524,
+            250,
+            false
+        ],
+        [
+            1717582871,
+            25.2372,
+            55.1381,
+            1828,
+            250,
+            false
+        ],
+        [
+            1717582973,
+            25.2173,
+            54.9952,
+            3048,
+            261,
+            false
+        ],
+        [
+            1717583003,
+            25.2112,
+            54.9499,
+            3048,
+            263,
+            false
+        ],
+        [
+            1717583033,
+            25.2077,
+            54.9015,
+            3352,
+            265,
+            false
+        ],
+        [
+            1717583074,
+            25.2025,
+            54.8313,
+            3657,
+            265,
+            false
+        ],
+        [
+            1717583080,
+            25.2018,
+            54.8221,
+            3962,
+            265,
+            false
+        ],
+        [
+            1717583124,
+            25.199,
+            54.7449,
+            4267,
+            265,
+            false
+        ],
+        [
+            1717583124,
+            25.199,
+            54.7449,
+            4267,
+            285,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-07:17:24",
+    "baro_altitude": 3253.74,
+    "category": 0,
+    "geo_altitude": 3390.9,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717582996,
+    "latitude": 25.2139,
+    "longitude": 54.9706,
+    "on_ground": false,
+    "origin_country": "United Arab Emirates",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717582990,
+    "true_track": 261.44,
+    "velocity": 155.55,
+    "vertical_rate": 4.23,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 21,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "OMDB",
+    "estDepartureAirportHorizDistance": 955,
+    "estDepartureAirportVertDistance": 80,
+    "firstSeen": 1717582644,
+    "lastSeen": 1717583124
+}

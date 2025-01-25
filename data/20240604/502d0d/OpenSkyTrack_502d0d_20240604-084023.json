@@ -1,0 +1,96 @@
+{
+    "callsign": "BTI36V  ",
+    "endTime": "2024/06/04-08:35:07",
+    "icao24": "502d0d",
+    "path": [
+        [
+            1717499130,
+            57.2574,
+            23.9644,
+            1828,
+            170,
+            false
+        ],
+        [
+            1717499514,
+            57.2521,
+            23.9661,
+            1828,
+            170,
+            false
+        ],
+        [
+            1717499522,
+            57.2493,
+            23.967,
+            1524,
+            170,
+            false
+        ],
+        [
+            1717499555,
+            57.2517,
+            23.9662,
+            1828,
+            170,
+            false
+        ],
+        [
+            1717500289,
+            57.2342,
+            23.9717,
+            1524,
+            170,
+            false
+        ],
+        [
+            1717500907,
+            57.2204,
+            23.976,
+            1524,
+            170,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:05:30",
+    "baro_altitude": 1783.08,
+    "category": 0,
+    "geo_altitude": 1790.7,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499984,
+    "latitude": 57.243,
+    "longitude": 23.9689,
+    "on_ground": false,
+    "origin_country": "Latvia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499980,
+    "true_track": 170.46,
+    "velocity": 130.41,
+    "vertical_rate": -6.5,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 29,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EVAD",
+    "estDepartureAirportHorizDistance": 25372,
+    "estDepartureAirportVertDistance": 1849,
+    "firstSeen": 1717499130,
+    "lastSeen": 1717500907
+}

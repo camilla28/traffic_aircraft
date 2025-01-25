@@ -1,0 +1,80 @@
+{
+    "callsign": "JJA3404 ",
+    "endTime": "2024/06/12-10:49:07",
+    "icao24": "71c331",
+    "path": [
+        [
+            1718200114,
+            37.4902,
+            126.3876,
+            609,
+            302,
+            false
+        ],
+        [
+            1718200123,
+            37.4937,
+            126.3805,
+            609,
+            301,
+            false
+        ],
+        [
+            1718200139,
+            37.5013,
+            126.365,
+            914,
+            301,
+            false
+        ],
+        [
+            1718200147,
+            37.5038,
+            126.3577,
+            914,
+            297,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-10:48:34",
+    "baro_altitude": 4770.12,
+    "category": 0,
+    "geo_altitude": 4945.38,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194259,
+    "latitude": 37.1179,
+    "longitude": 127.4568,
+    "on_ground": false,
+    "origin_country": "Republic of Korea",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718194259,
+    "true_track": 292.93,
+    "velocity": 184.89,
+    "vertical_rate": -9.75,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 56,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "RKSI",
+    "estDepartureAirportHorizDistance": 5322,
+    "estDepartureAirportVertDistance": 777,
+    "firstSeen": 1718200114,
+    "lastSeen": 1718200147
+}

@@ -1,0 +1,80 @@
+{
+    "callsign": "THY3QY  ",
+    "endTime": "2024/06/12-14:40:29",
+    "icao24": "4baacf",
+    "path": [
+        [
+            1718213990,
+            35.8476,
+            14.4898,
+            0,
+            314,
+            false
+        ],
+        [
+            1718214015,
+            35.8618,
+            14.4723,
+            0,
+            314,
+            false
+        ],
+        [
+            1718214023,
+            35.8663,
+            14.4661,
+            304,
+            311,
+            false
+        ],
+        [
+            1718214029,
+            35.8698,
+            14.4606,
+            304,
+            306,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-14:39:50",
+    "baro_altitude": 11269.98,
+    "category": 0,
+    "geo_altitude": 11849.1,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204674,
+    "latitude": 39.9296,
+    "longitude": 22.4443,
+    "on_ground": false,
+    "origin_country": "Turkey",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5343",
+    "time_position": 1718204673,
+    "true_track": 243.23,
+    "velocity": 195.33,
+    "vertical_rate": 5.2,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 5,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LMML",
+    "estDepartureAirportHorizDistance": 1981,
+    "estDepartureAirportVertDistance": 7,
+    "firstSeen": 1718213990,
+    "lastSeen": 1718214023
+}

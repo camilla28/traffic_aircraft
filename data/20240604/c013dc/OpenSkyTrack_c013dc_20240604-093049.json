@@ -1,0 +1,80 @@
+{
+    "callsign": "AKT1423 ",
+    "endTime": "2024/06/04-09:29:09",
+    "icao24": "c013dc",
+    "path": [
+        [
+            1717502359,
+            55.6747,
+            -112.7949,
+            11582,
+            206,
+            false
+        ],
+        [
+            1717503229,
+            55.5778,
+            -112.8791,
+            11582,
+            206,
+            false
+        ],
+        [
+            1717504121,
+            55.4862,
+            -112.9586,
+            11582,
+            206,
+            false
+        ],
+        [
+            1717504149,
+            55.4826,
+            -112.9617,
+            11582,
+            206,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:59:19",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499788,
+    "latitude": null,
+    "longitude": null,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": null,
+    "true_track": 206.27,
+    "velocity": 220.87,
+    "vertical_rate": 7.8,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717502359,
+    "lastSeen": 1717504149
+}

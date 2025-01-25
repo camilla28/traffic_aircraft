@@ -1,0 +1,80 @@
+{
+    "callsign": "N927GR  ",
+    "endTime": "2024/06/07-10:30:55",
+    "icao24": "acd8d1",
+    "path": [
+        [
+            1717765406,
+            39.6459,
+            -79.4738,
+            1828,
+            300,
+            false
+        ],
+        [
+            1717765648,
+            39.7327,
+            -79.6604,
+            1828,
+            302,
+            false
+        ],
+        [
+            1717766504,
+            40.0473,
+            -80.3252,
+            1828,
+            300,
+            false
+        ],
+        [
+            1717767055,
+            40.2456,
+            -80.7566,
+            1828,
+            301,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-10:03:26",
+    "baro_altitude": 1440.18,
+    "category": 0,
+    "geo_altitude": 1402.08,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762945,
+    "latitude": 38.6041,
+    "longitude": -77.7856,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1200",
+    "time_position": 1717762944,
+    "true_track": 314.09,
+    "velocity": 45.84,
+    "vertical_rate": 4.23,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 294,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "PS27",
+    "estDepartureAirportHorizDistance": 12387,
+    "estDepartureAirportVertDistance": 1473,
+    "firstSeen": 1717765406,
+    "lastSeen": 1717767055
+}

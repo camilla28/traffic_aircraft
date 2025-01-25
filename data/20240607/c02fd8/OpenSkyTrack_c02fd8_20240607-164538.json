@@ -1,0 +1,152 @@
+{
+    "callsign": "ACA778  ",
+    "endTime": "2024/06/07-16:45:40",
+    "icao24": "c02fd8",
+    "path": [
+        [
+            1717789400,
+            33.9385,
+            -118.3934,
+            0,
+            263,
+            false
+        ],
+        [
+            1717789433,
+            33.9355,
+            -118.424,
+            0,
+            264,
+            false
+        ],
+        [
+            1717789442,
+            33.9348,
+            -118.4332,
+            304,
+            263,
+            false
+        ],
+        [
+            1717789450,
+            33.9338,
+            -118.4421,
+            304,
+            261,
+            false
+        ],
+        [
+            1717789459,
+            33.9321,
+            -118.4511,
+            304,
+            254,
+            false
+        ],
+        [
+            1717789467,
+            33.9295,
+            -118.4594,
+            304,
+            244,
+            false
+        ],
+        [
+            1717789475,
+            33.9256,
+            -118.4674,
+            304,
+            236,
+            false
+        ],
+        [
+            1717789483,
+            33.9206,
+            -118.475,
+            304,
+            229,
+            false
+        ],
+        [
+            1717789508,
+            33.9035,
+            -118.5006,
+            609,
+            230,
+            false
+        ],
+        [
+            1717789516,
+            33.8974,
+            -118.5083,
+            609,
+            222,
+            false
+        ],
+        [
+            1717789524,
+            33.8893,
+            -118.5141,
+            609,
+            202,
+            false
+        ],
+        [
+            1717789532,
+            33.88,
+            -118.516,
+            914,
+            183,
+            false
+        ],
+        [
+            1717789540,
+            33.8701,
+            -118.5156,
+            914,
+            176,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-16:43:20",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717784118,
+    "latitude": 33.9402,
+    "longitude": -118.4007,
+    "on_ground": true,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717784118,
+    "true_track": 351.56,
+    "velocity": 3.09,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 134,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KLAX",
+    "estDepartureAirportHorizDistance": 1939,
+    "estDepartureAirportVertDistance": 0,
+    "firstSeen": 1717789400,
+    "lastSeen": 1717789540
+}

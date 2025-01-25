@@ -1,0 +1,88 @@
+{
+    "callsign": "AWQ554  ",
+    "endTime": "2024/05/29-10:02:12",
+    "icao24": "8a02ca",
+    "path": [
+        [
+            1716987212,
+            0.1391,
+            105.6245,
+            10058,
+            307,
+            false
+        ],
+        [
+            1716987335,
+            0.3059,
+            105.4097,
+            10058,
+            307,
+            false
+        ],
+        [
+            1716987605,
+            0.6739,
+            104.9361,
+            10363,
+            307,
+            false
+        ],
+        [
+            1716987689,
+            0.7883,
+            104.7888,
+            10058,
+            307,
+            false
+        ],
+        [
+            1716987732,
+            0.8467,
+            104.7138,
+            10363,
+            307,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-09:53:32",
+    "baro_altitude": 10363.2,
+    "category": 0,
+    "geo_altitude": 11117.58,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716987570,
+    "latitude": 0.626,
+    "longitude": 104.9978,
+    "on_ground": false,
+    "origin_country": "Indonesia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1716987570,
+    "true_track": 307.71,
+    "velocity": 246.44,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1716987212,
+    "lastSeen": 1716987732
+}

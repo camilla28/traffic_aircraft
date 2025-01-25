@@ -1,0 +1,144 @@
+{
+    "callsign": "ANE88YP ",
+    "endTime": "2024/06/14-17:11:45",
+    "icao24": "3442c2",
+    "path": [
+        [
+            1718394927,
+            39.8588,
+            4.2179,
+            0,
+            188,
+            false
+        ],
+        [
+            1718394927,
+            39.8588,
+            4.2179,
+            0,
+            188,
+            false
+        ],
+        [
+            1718395061,
+            39.7764,
+            4.1986,
+            1219,
+            185,
+            false
+        ],
+        [
+            1718395068,
+            39.7716,
+            4.198,
+            1524,
+            191,
+            false
+        ],
+        [
+            1718395075,
+            39.7672,
+            4.1967,
+            1524,
+            207,
+            false
+        ],
+        [
+            1718395075,
+            39.7672,
+            4.1967,
+            1524,
+            207,
+            false
+        ],
+        [
+            1718395092,
+            39.7613,
+            4.1851,
+            1524,
+            265,
+            false
+        ],
+        [
+            1718395102,
+            39.7608,
+            4.1759,
+            1524,
+            263,
+            false
+        ],
+        [
+            1718395110,
+            39.7599,
+            4.1677,
+            1524,
+            262,
+            false
+        ],
+        [
+            1718395680,
+            39.6928,
+            3.3916,
+            1828,
+            262,
+            false
+        ],
+        [
+            1718395741,
+            39.6833,
+            3.2989,
+            1524,
+            262,
+            false
+        ],
+        [
+            1718395905,
+            39.6573,
+            3.0464,
+            914,
+            262,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-16:55:27",
+    "baro_altitude": 1600.2,
+    "category": 0,
+    "geo_altitude": 1722.12,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718395741,
+    "latitude": 39.6833,
+    "longitude": 3.2989,
+    "on_ground": false,
+    "origin_country": "Spain",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718395741,
+    "true_track": 262.41,
+    "velocity": 132.34,
+    "vertical_rate": -4.23,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 3,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LEMH",
+    "estDepartureAirportHorizDistance": 427,
+    "estDepartureAirportVertDistance": 121,
+    "firstSeen": 1718394927,
+    "lastSeen": 1718395905
+}

@@ -1,0 +1,88 @@
+{
+    "callsign": "ELY381  ",
+    "endTime": "2024/06/04-10:14:14",
+    "icao24": "738068",
+    "path": [
+        [
+            1717504159,
+            35.746,
+            27.7214,
+            10972,
+            309,
+            false
+        ],
+        [
+            1717505047,
+            35.7656,
+            27.6923,
+            10972,
+            309,
+            false
+        ],
+        [
+            1717505934,
+            35.785,
+            27.6633,
+            10972,
+            309,
+            false
+        ],
+        [
+            1717506732,
+            35.8146,
+            27.6192,
+            10972,
+            309,
+            false
+        ],
+        [
+            1717506854,
+            35.8212,
+            27.6094,
+            10972,
+            309,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:29:19",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": 11490.96,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504713,
+    "latitude": 35.756,
+    "longitude": 27.7065,
+    "on_ground": false,
+    "origin_country": "Israel",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2212",
+    "time_position": 1717504712,
+    "true_track": 309.45,
+    "velocity": 221.85,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717504159,
+    "lastSeen": 1717506854
+}

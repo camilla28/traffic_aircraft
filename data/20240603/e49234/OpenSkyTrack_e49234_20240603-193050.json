@@ -1,0 +1,80 @@
+{
+    "callsign": "LAN772  ",
+    "endTime": "2024/06/03-19:30:51",
+    "icao24": "e49234",
+    "path": [
+        [
+            1717453685,
+            -24.8667,
+            -46.3596,
+            10668,
+            63,
+            false
+        ],
+        [
+            1717453802,
+            -24.7457,
+            -46.0916,
+            10668,
+            63,
+            false
+        ],
+        [
+            1717453832,
+            -24.7154,
+            -46.0244,
+            10363,
+            63,
+            false
+        ],
+        [
+            1717453851,
+            -24.6969,
+            -45.9835,
+            10668,
+            63,
+            false
+        ]
+    ],
+    "startTime": "2024/06/03-19:28:05",
+    "baro_altitude": 10668,
+    "category": 0,
+    "geo_altitude": 11094.72,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717452568,
+    "latitude": null,
+    "longitude": null,
+    "on_ground": false,
+    "origin_country": "Brazil",
+    "position_source": 0,
+    "sensors": null,
+    "spi": true,
+    "squawk": "2236",
+    "time_position": null,
+    "true_track": 65.41,
+    "velocity": 260.82,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717453685,
+    "lastSeen": 1717453851
+}

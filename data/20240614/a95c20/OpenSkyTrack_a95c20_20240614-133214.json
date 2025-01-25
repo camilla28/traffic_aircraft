@@ -1,0 +1,112 @@
+{
+    "callsign": "N702BL  ",
+    "endTime": "2024/06/14-13:24:20",
+    "icao24": "a95c20",
+    "path": [
+        [
+            1718382176,
+            28.0864,
+            -81.7441,
+            304,
+            249,
+            false
+        ],
+        [
+            1718382187,
+            28.0842,
+            -81.7497,
+            304,
+            226,
+            false
+        ],
+        [
+            1718382201,
+            28.0792,
+            -81.7553,
+            304,
+            225,
+            false
+        ],
+        [
+            1718382216,
+            28.0737,
+            -81.761,
+            304,
+            221,
+            false
+        ],
+        [
+            1718382229,
+            28.0682,
+            -81.7665,
+            304,
+            224,
+            false
+        ],
+        [
+            1718382241,
+            28.064,
+            -81.771,
+            304,
+            227,
+            false
+        ],
+        [
+            1718382253,
+            28.0602,
+            -81.7759,
+            0,
+            230,
+            false
+        ],
+        [
+            1718382260,
+            28.0582,
+            -81.7787,
+            0,
+            230,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-13:22:56",
+    "baro_altitude": 289.56,
+    "category": 0,
+    "geo_altitude": 259.08,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718380908,
+    "latitude": 28.0648,
+    "longitude": -81.771,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718380905,
+    "true_track": 224.63,
+    "velocity": 56.39,
+    "vertical_rate": -3.25,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 308,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KGIF",
+    "estDepartureAirportHorizDistance": 2878,
+    "estDepartureAirportVertDistance": 268,
+    "firstSeen": 1718382176,
+    "lastSeen": 1718382260
+}

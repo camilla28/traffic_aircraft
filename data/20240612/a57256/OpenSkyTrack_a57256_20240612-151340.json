@@ -1,0 +1,96 @@
+{
+    "callsign": "N450CH  ",
+    "endTime": "2024/06/12-15:05:36",
+    "icao24": "a57256",
+    "path": [
+        [
+            1718215219,
+            50.5904,
+            -104.4559,
+            4572,
+            61,
+            false
+        ],
+        [
+            1718215242,
+            50.6115,
+            -104.3956,
+            4876,
+            61,
+            false
+        ],
+        [
+            1718215425,
+            50.7851,
+            -103.8956,
+            5181,
+            61,
+            false
+        ],
+        [
+            1718215442,
+            50.7987,
+            -103.85,
+            5181,
+            65,
+            false
+        ],
+        [
+            1718215507,
+            50.8531,
+            -103.664,
+            5181,
+            65,
+            false
+        ],
+        [
+            1718215536,
+            50.8771,
+            -103.5821,
+            4876,
+            65,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-15:00:19",
+    "baro_altitude": 12192,
+    "category": 0,
+    "geo_altitude": 12694.92,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204674,
+    "latitude": 40.7257,
+    "longitude": -95.643,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3226",
+    "time_position": 1718204674,
+    "true_track": 333.74,
+    "velocity": 212.81,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "CPB5",
+    "estDepartureAirportHorizDistance": 192589,
+    "estDepartureAirportVertDistance": 4198,
+    "firstSeen": 1718215219,
+    "lastSeen": 1718215536
+}

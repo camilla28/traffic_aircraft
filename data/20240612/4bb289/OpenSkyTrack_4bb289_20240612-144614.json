@@ -1,0 +1,72 @@
+{
+    "callsign": "THY664  ",
+    "endTime": "2024/06/12-14:46:20",
+    "icao24": "4bb289",
+    "path": [
+        [
+            1718214303,
+            37.7917,
+            12.0609,
+            10058,
+            72,
+            false
+        ],
+        [
+            1718214354,
+            37.8288,
+            12.2083,
+            10058,
+            72,
+            false
+        ],
+        [
+            1718214380,
+            37.8472,
+            12.2827,
+            10363,
+            72,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-14:45:03",
+    "baro_altitude": 9753.6,
+    "category": 0,
+    "geo_altitude": 10309.86,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204674,
+    "latitude": 38.4327,
+    "longitude": 14.9052,
+    "on_ground": false,
+    "origin_country": "Turkey",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718204673,
+    "true_track": 257.94,
+    "velocity": 199.38,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1718214303,
+    "lastSeen": 1718214380
+}

@@ -1,0 +1,128 @@
+{
+    "callsign": "PTGCR   ",
+    "endTime": "2024/06/12-12:04:30",
+    "icao24": "e49408",
+    "path": [
+        [
+            1718204423,
+            -21.5157,
+            -46.3293,
+            13106,
+            197,
+            false
+        ],
+        [
+            1718204461,
+            -21.5878,
+            -46.3539,
+            13106,
+            197,
+            false
+        ],
+        [
+            1718204493,
+            -21.6485,
+            -46.3747,
+            12801,
+            198,
+            false
+        ],
+        [
+            1718204517,
+            -21.692,
+            -46.3903,
+            12496,
+            199,
+            false
+        ],
+        [
+            1718204555,
+            -21.7626,
+            -46.4164,
+            12192,
+            198,
+            false
+        ],
+        [
+            1718204579,
+            -21.8065,
+            -46.4326,
+            11887,
+            198,
+            false
+        ],
+        [
+            1718204610,
+            -21.8647,
+            -46.454,
+            11582,
+            198,
+            false
+        ],
+        [
+            1718204637,
+            -21.9164,
+            -46.4729,
+            11277,
+            198,
+            false
+        ],
+        [
+            1718204664,
+            -21.9681,
+            -46.4919,
+            10972,
+            198,
+            false
+        ],
+        [
+            1718204670,
+            -21.9787,
+            -46.4958,
+            10668,
+            199,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-12:00:23",
+    "baro_altitude": 10927.08,
+    "category": 0,
+    "geo_altitude": 11590.02,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204670,
+    "latitude": -21.9787,
+    "longitude": -46.4958,
+    "on_ground": false,
+    "origin_country": "Brazil",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718204670,
+    "true_track": 199,
+    "velocity": 230.69,
+    "vertical_rate": -12.68,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1718204423,
+    "lastSeen": 1718204670
+}

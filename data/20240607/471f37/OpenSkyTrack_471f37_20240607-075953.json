@@ -1,0 +1,96 @@
+{
+    "callsign": "WZZ784  ",
+    "endTime": "2024/06/07-07:59:56",
+    "icao24": "471f37",
+    "path": [
+        [
+            1717757947,
+            47.5986,
+            7.5232,
+            0,
+            154,
+            false
+        ],
+        [
+            1717757955,
+            47.5923,
+            7.5277,
+            0,
+            154,
+            false
+        ],
+        [
+            1717757978,
+            47.5756,
+            7.5396,
+            304,
+            153,
+            false
+        ],
+        [
+            1717757985,
+            47.5706,
+            7.5428,
+            609,
+            161,
+            false
+        ],
+        [
+            1717757988,
+            47.5675,
+            7.544,
+            609,
+            172,
+            false
+        ],
+        [
+            1717757996,
+            47.5616,
+            7.5441,
+            609,
+            187,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-07:59:07",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717757432,
+    "latitude": 47.5973,
+    "longitude": 7.5305,
+    "on_ground": true,
+    "origin_country": "Hungary",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1717757403,
+    "true_track": 351.56,
+    "velocity": 2.57,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 129,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSZM",
+    "estDepartureAirportHorizDistance": 973,
+    "estDepartureAirportVertDistance": 48,
+    "firstSeen": 1717757947,
+    "lastSeen": 1717757996
+}

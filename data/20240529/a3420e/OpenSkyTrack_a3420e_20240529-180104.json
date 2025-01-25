@@ -1,0 +1,96 @@
+{
+    "callsign": "N309PH  ",
+    "endTime": "2024/05/29-18:01:01",
+    "icao24": "a3420e",
+    "path": [
+        [
+            1717012805,
+            37.9473,
+            -84.3721,
+            609,
+            12,
+            false
+        ],
+        [
+            1717013702,
+            38.4602,
+            -84.2305,
+            609,
+            12,
+            false
+        ],
+        [
+            1717014601,
+            38.9844,
+            -84.0837,
+            609,
+            12,
+            false
+        ],
+        [
+            1717015497,
+            39.4922,
+            -83.9393,
+            609,
+            11,
+            false
+        ],
+        [
+            1717016370,
+            39.9878,
+            -83.7962,
+            609,
+            13,
+            false
+        ],
+        [
+            1717016461,
+            40.04,
+            -83.7809,
+            609,
+            12,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-17:00:05",
+    "baro_altitude": 624.84,
+    "category": 0,
+    "geo_altitude": 647.7,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717016370,
+    "latitude": 39.9878,
+    "longitude": -83.7962,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717016370,
+    "true_track": 13.03,
+    "velocity": 63.89,
+    "vertical_rate": 0.98,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 256,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "31KY",
+    "estDepartureAirportHorizDistance": 18727,
+    "estDepartureAirportVertDistance": 406,
+    "firstSeen": 1717012805,
+    "lastSeen": 1717016461
+}

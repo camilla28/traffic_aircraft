@@ -1,0 +1,80 @@
+{
+    "callsign": "DLH9LK  ",
+    "endTime": "2024/06/04-08:35:47",
+    "icao24": "3c675a",
+    "path": [
+        [
+            1717499092,
+            52.0355,
+            11.5526,
+            10668,
+            42,
+            false
+        ],
+        [
+            1717499984,
+            52.0833,
+            11.624,
+            10668,
+            42,
+            false
+        ],
+        [
+            1717500883,
+            52.1204,
+            11.6795,
+            10668,
+            42,
+            false
+        ],
+        [
+            1717500947,
+            52.1294,
+            11.693,
+            10668,
+            42,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:04:52",
+    "baro_altitude": 10668,
+    "category": 0,
+    "geo_altitude": 10881.36,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500032,
+    "latitude": 52.0833,
+    "longitude": 11.624,
+    "on_ground": false,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3744",
+    "time_position": 1717500030,
+    "true_track": 42.53,
+    "velocity": 235.94,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDBM",
+    "estDepartureAirportHorizDistance": 157065,
+    "estDepartureAirportVertDistance": 10589,
+    "firstSeen": 1717499092,
+    "lastSeen": 1717500947
+}

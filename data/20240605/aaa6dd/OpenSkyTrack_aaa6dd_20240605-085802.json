@@ -1,0 +1,112 @@
+{
+    "callsign": "AAL133  ",
+    "endTime": "2024/06/05-08:58:00",
+    "icao24": "aaa6dd",
+    "path": [
+        [
+            1717588626,
+            53.4371,
+            -6.2823,
+            0,
+            274,
+            false
+        ],
+        [
+            1717588632,
+            53.4375,
+            -6.2898,
+            0,
+            274,
+            false
+        ],
+        [
+            1717588639,
+            53.4381,
+            -6.2989,
+            304,
+            279,
+            false
+        ],
+        [
+            1717588646,
+            53.4399,
+            -6.3079,
+            304,
+            294,
+            false
+        ],
+        [
+            1717588652,
+            53.4423,
+            -6.3141,
+            304,
+            309,
+            false
+        ],
+        [
+            1717588658,
+            53.4458,
+            -6.32,
+            609,
+            317,
+            false
+        ],
+        [
+            1717588672,
+            53.455,
+            -6.3335,
+            609,
+            317,
+            false
+        ],
+        [
+            1717588680,
+            53.46,
+            -6.3423,
+            609,
+            312,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-08:57:06",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717588328,
+    "latitude": 53.4341,
+    "longitude": -6.2555,
+    "on_ground": true,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717588328,
+    "true_track": 87.19,
+    "velocity": 4.37,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 27,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EIDW",
+    "estDepartureAirportHorizDistance": 1779,
+    "estDepartureAirportVertDistance": 109,
+    "firstSeen": 1717588626,
+    "lastSeen": 1717588680
+}

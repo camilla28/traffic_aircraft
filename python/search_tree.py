@@ -1,6 +1,8 @@
 import time
 import pandas as pd
 import geopy.distance
+import math
+
 #from conflict import Conflict, Point, Maneuver
 
 class Search_Tree:
@@ -43,11 +45,80 @@ class Search_Tree:
             ref_lat, ref_lon, _ = geopy.distance.distance(meters=distance_xy).destination((ref_lat, ref_lon), bearing=ref_track)
             #ref_alt = ref_alt + distance_z
             ref_time = ref_time + delta_time
-        return pred_time, pred_alt, pred_lat, pred_lon, 
-    
+        return pred_time, pred_alt, pred_lat, pred_lon 
 
-    def __get_geoLoc_from_distance(self, distance, lat1, lat2, track):
-        lat, lon, _ = geopy.distance.distance(meters=distance).destination((lat1, lat2), bearing=track)
+
+    def __get_bearing(self, lat1, lon1, lat2, lon2):
+        
+        φ1 = math.radians(lat1) # φ, λ in radians
+        φ2 = math.radians(lat2)
+        λ1 = math.radians(lon1)
+        λ2 = math.radians(lon2)
+        y = math.sin(λ2-λ1) * math.cos(φ2)
+        x = math.cos(φ1)*math.sin(φ2) - math.sin(φ1)*math.cos(φ2)*math.cos(λ2-λ1)
+        theta = math.atan2(y, x)
+        brng = (math.degrees(theta) + 360) % 360 #in degrees
+        return brng
+
+
+    def __trajectory_prediction_2(self, airplane, A_time, B_time):
+        
+        A_lon = airplane['cruise'].lon[A_time]
+        A_lat = airplane['cruise'].lat[A_time]
+        A_alt = airplane['cruise'].alt[A_time]
+        A_vel_xy = airplane['cruise'].vel_xy[A_time]
+        
+        B_lon = airplane['cruise'].lon[B_time]
+        B_lat = airplane['cruise'].lat[B_time]
+        B_alt = airplane['cruise'].alt[B_time]
+
+        A_point = (A_lat, A_lon)
+        B_point = (B_lat, B_lon)
+        dist_total = geopy.distance.distance(A_point, B_point).meters
+        # duration_total = dist_total/A_vel_xy
+
+        delta_time = pd.Timedelta(seconds = self.__DELTA_TIME)
+        distance_xy = A_vel_xy * self.__DELTA_TIME
+        pred_alt = []
+        pred_lat = []
+        pred_lon = []
+        pred_time = []
+        count_dist = 0
+        
+        delta_alt = B_alt - A_alt
+        delta_tim = B_time - A_time
+        # track = self.__get_bearing(A_lat, A_lon, B_lat, B_lon)
+        lat = A_lat
+        lon = A_lon
+        ref_time = A_time
+        ref_alt = A_alt
+
+        while count_dist < dist_total:
+            pred_time.append(ref_time)
+            pred_lat.append(lat)
+            pred_lon.append(lon)
+            track = self.__get_bearing(lat, lon, B_lat, B_lon)
+            (lat, lon) = self.__get_geoLoc_from_distance(distance_xy, lat, lon, track)
+            count_dist = count_dist + distance_xy
+            ref_time = ref_time + delta_time
+        
+        delta_tim = pred_time[len(pred_time)-1] - pred_time[0]
+        vel_z = delta_alt/delta_tim.total_seconds()
+            
+        for i in range(0, len(pred_time)):
+            pred_alt.append(ref_alt)
+            ref_alt = ref_alt + vel_z * self.__DELTA_TIME
+
+        # pred_time.append(B_time)
+        # pred_alt.append(B_alt)
+        # pred_lat.append(B_lat)
+        # pred_lon.append(B_lon)
+                
+        return pred_time, pred_alt, pred_lat, pred_lon
+
+
+    def __get_geoLoc_from_distance(self, distance, lat, lon, track):
+        lat, lon, _ = geopy.distance.distance(meters=distance).destination((lat, lon), bearing=track)
         return (lat, lon)
 
     
@@ -62,6 +133,10 @@ class Search_Tree:
         return low_lim_lat, high_lim_lat, low_lim_long, high_lim_long, low_lim_alt, high_lim_alt
 
 
+    def get_boundaries(self, min_lat, max_lat, min_lon, max_lon, min_alt, max_alt):
+        return self.__get_boundaries(min_lat, max_lat, min_lon, max_lon, min_alt, max_alt)
+
+
     def search(self, conflicts, airplane_icao):
         airplane = self.data[airplane_icao]
         icao_list = list(self.data.keys())
@@ -73,6 +148,7 @@ class Search_Tree:
         FirstManPoint = list()
         SecondManPoint = list()
         Maneuvers = list()
+        track_preds = list()
 
         if conflicts[airplane_icao]['conflict']:
 
@@ -141,7 +217,9 @@ class Search_Tree:
                 first_filter = list(set(first_filter))
                 
                 # Faz a projeção da trajetória considerando velocidade constante
-                track_pred = self.__trajectory_prediction(airplane, A_time, B_time)
+                # track_pred = self.__trajectory_prediction(airplane, A_time, B_time)
+                track_pred = self.__trajectory_prediction_2(airplane, A_time, B_time)
+                track_preds.append(track_pred)
                 
                 # Not found the airplane yet
                 found = False
@@ -182,7 +260,7 @@ class Search_Tree:
                             icao_lon = aircraft.lon[A1_time]
                             icao_alt = aircraft.alt[A1_time] #+ distance_z
                             
-                            #icao_lat, icao_lon = self.__get_geoLoc_from_distance(distance_xy, icao_lat, icao_lon, icao_track)
+                            # icao_lat, icao_lon = self.__get_geoLoc_from_distance(distance_xy, icao_lat, icao_lon, icao_track)
                         
                         # Verifica se tem conflito entre o ponto da trajetória prevista e a aeronve a ser avaliada 
                         boundaries      = self.__get_boundaries(ref_lat, ref_lat, ref_lon, ref_lon, A_alt, A_alt)
@@ -250,4 +328,4 @@ class Search_Tree:
                     if found is True:
                         break
                         
-        return (second_filter, FirstManPoint, SecondManPoint, Maneuvers, A_conflict_point, B_conflict_point)
+        return (second_filter, first_filter, FirstManPoint, SecondManPoint, Maneuvers, A_conflict_point, B_conflict_point, track_preds)

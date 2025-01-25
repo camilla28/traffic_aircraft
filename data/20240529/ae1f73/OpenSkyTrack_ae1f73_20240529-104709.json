@@ -1,0 +1,120 @@
+{
+    "callsign": "R72100  ",
+    "endTime": "2024/05/29-10:46:43",
+    "icao24": "ae1f73",
+    "path": [
+        [
+            1716990336,
+            49.1994,
+            11.8664,
+            609,
+            21,
+            false
+        ],
+        [
+            1716990343,
+            49.2026,
+            11.8675,
+            609,
+            6,
+            false
+        ],
+        [
+            1716990352,
+            49.2064,
+            11.8678,
+            609,
+            0,
+            false
+        ],
+        [
+            1716990353,
+            49.2068,
+            11.8678,
+            609,
+            356,
+            false
+        ],
+        [
+            1716990369,
+            49.213,
+            11.8666,
+            609,
+            339,
+            false
+        ],
+        [
+            1716990377,
+            49.2155,
+            11.8638,
+            609,
+            309,
+            false
+        ],
+        [
+            1716990384,
+            49.2164,
+            11.8603,
+            609,
+            280,
+            false
+        ],
+        [
+            1716990392,
+            49.2166,
+            11.8566,
+            609,
+            270,
+            false
+        ],
+        [
+            1716990403,
+            49.2164,
+            11.852,
+            304,
+            271,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-10:45:36",
+    "baro_altitude": 762,
+    "category": 13,
+    "geo_altitude": 838.2,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716987586,
+    "latitude": 49.241,
+    "longitude": 11.5476,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0033",
+    "time_position": 1716987586,
+    "true_track": 96.81,
+    "velocity": 69.43,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 133,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "ETIH",
+    "estDepartureAirportHorizDistance": 2894,
+    "estDepartureAirportVertDistance": 272,
+    "firstSeen": 1716990336,
+    "lastSeen": 1716990403
+}

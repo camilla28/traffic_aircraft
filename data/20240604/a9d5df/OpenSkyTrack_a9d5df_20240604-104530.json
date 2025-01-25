@@ -1,0 +1,120 @@
+{
+    "callsign": "UAL840  ",
+    "endTime": "2024/06/04-10:37:31",
+    "icao24": "a9d5df",
+    "path": [
+        [
+            1717502482,
+            35.7263,
+            140.4351,
+            304,
+            330,
+            false
+        ],
+        [
+            1717503374,
+            35.7395,
+            140.4257,
+            304,
+            328,
+            false
+        ],
+        [
+            1717504178,
+            35.7506,
+            140.4176,
+            304,
+            328,
+            false
+        ],
+        [
+            1717504948,
+            35.76,
+            140.4107,
+            0,
+            329,
+            false
+        ],
+        [
+            1717505799,
+            35.7701,
+            140.4035,
+            0,
+            329,
+            false
+        ],
+        [
+            1717506690,
+            35.7824,
+            140.3946,
+            0,
+            330,
+            false
+        ],
+        [
+            1717507586,
+            35.794,
+            140.3863,
+            0,
+            328,
+            false
+        ],
+        [
+            1717508090,
+            35.7991,
+            140.3825,
+            0,
+            329,
+            false
+        ],
+        [
+            1717508251,
+            35.8006,
+            140.3815,
+            0,
+            331,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:01:22",
+    "baro_altitude": 259.08,
+    "category": 0,
+    "geo_altitude": 289.56,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504655,
+    "latitude": 35.7568,
+    "longitude": 140.4131,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504653,
+    "true_track": 330.21,
+    "velocity": 81.8,
+    "vertical_rate": -6.18,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 16,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "RJAA",
+    "estDepartureAirportHorizDistance": 6209,
+    "estDepartureAirportVertDistance": 429,
+    "firstSeen": 1717502482,
+    "lastSeen": 1717508251
+}

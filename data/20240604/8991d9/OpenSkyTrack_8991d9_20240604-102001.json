@@ -1,0 +1,72 @@
+{
+    "callsign": null,
+    "endTime": "2024/06/04-09:41:16",
+    "icao24": "8991d9",
+    "path": [
+        [
+            1717504563,
+            3.1417,
+            103.2715,
+            10058,
+            251,
+            false
+        ],
+        [
+            1717504563,
+            3.1417,
+            103.2715,
+            10058,
+            251,
+            false
+        ],
+        [
+            1717504876,
+            3.1246,
+            103.2216,
+            9753,
+            251,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:36:03",
+    "baro_altitude": 9928.86,
+    "category": 0,
+    "geo_altitude": 10774.68,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504699,
+    "latitude": 3.1274,
+    "longitude": 103.2299,
+    "on_ground": false,
+    "origin_country": "Taiwan",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504699,
+    "true_track": 251.11,
+    "velocity": 244.68,
+    "vertical_rate": -6.5,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717504563,
+    "lastSeen": 1717504876
+}

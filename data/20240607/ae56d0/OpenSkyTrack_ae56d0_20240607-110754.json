@@ -1,0 +1,80 @@
+{
+    "callsign": "R20616  ",
+    "endTime": "2024/06/07-11:07:50",
+    "icao24": "ae56d0",
+    "path": [
+        [
+            1717769132,
+            40.9374,
+            -73.9183,
+            0,
+            192,
+            false
+        ],
+        [
+            1717769189,
+            40.9172,
+            -73.9246,
+            0,
+            194,
+            false
+        ],
+        [
+            1717769259,
+            40.8946,
+            -73.9331,
+            0,
+            196,
+            false
+        ],
+        [
+            1717769270,
+            40.8895,
+            -73.9352,
+            0,
+            198,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-11:05:32",
+    "baro_altitude": 1158.24,
+    "category": 0,
+    "geo_altitude": 1059.18,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762945,
+    "latitude": 42.4409,
+    "longitude": -74.6191,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717762945,
+    "true_track": 158.36,
+    "velocity": 66.97,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 322,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KTEB",
+    "estDepartureAirportHorizDistance": 15417,
+    "estDepartureAirportVertDistance": 294,
+    "firstSeen": 1717769132,
+    "lastSeen": 1717769270
+}

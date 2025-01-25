@@ -1,0 +1,112 @@
+{
+    "callsign": "RYR4771 ",
+    "endTime": "2024/06/12-10:58:41",
+    "icao24": "4d227e",
+    "path": [
+        [
+            1718200638,
+            59.6552,
+            17.9197,
+            0,
+            190,
+            false
+        ],
+        [
+            1718200662,
+            59.6376,
+            17.9129,
+            0,
+            191,
+            false
+        ],
+        [
+            1718200678,
+            59.6249,
+            17.9077,
+            304,
+            192,
+            false
+        ],
+        [
+            1718200687,
+            59.6182,
+            17.9041,
+            304,
+            199,
+            false
+        ],
+        [
+            1718200696,
+            59.6121,
+            17.8972,
+            609,
+            215,
+            false
+        ],
+        [
+            1718200704,
+            59.6073,
+            17.8879,
+            609,
+            230,
+            false
+        ],
+        [
+            1718200713,
+            59.6032,
+            17.8736,
+            609,
+            242,
+            false
+        ],
+        [
+            1718200721,
+            59.5996,
+            17.8599,
+            609,
+            242,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-10:57:18",
+    "baro_altitude": 5791.2,
+    "category": 0,
+    "geo_altitude": 5745.48,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194259,
+    "latitude": 58.8026,
+    "longitude": 17.8604,
+    "on_ground": false,
+    "origin_country": "Malta",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3735",
+    "time_position": 1718194259,
+    "true_track": 43.5,
+    "velocity": 152.47,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 22,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "ESSA",
+    "estDepartureAirportHorizDistance": 398,
+    "estDepartureAirportVertDistance": 34,
+    "firstSeen": 1718200638,
+    "lastSeen": 1718200721
+}

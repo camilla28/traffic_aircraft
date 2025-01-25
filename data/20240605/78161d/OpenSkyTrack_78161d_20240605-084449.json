@@ -1,0 +1,96 @@
+{
+    "callsign": "CSN8302 ",
+    "endTime": "2024/06/05-07:21:10",
+    "icao24": "78161d",
+    "path": [
+        [
+            1717582273,
+            2.865,
+            102.3839,
+            4572,
+            63,
+            false
+        ],
+        [
+            1717582283,
+            2.8733,
+            102.4003,
+            4572,
+            63,
+            false
+        ],
+        [
+            1717582300,
+            2.8878,
+            102.429,
+            4876,
+            63,
+            false
+        ],
+        [
+            1717582330,
+            2.9138,
+            102.4802,
+            5181,
+            63,
+            false
+        ],
+        [
+            1717582860,
+            3.4252,
+            103.4734,
+            8229,
+            54,
+            false
+        ],
+        [
+            1717582870,
+            3.4385,
+            103.492,
+            8229,
+            54,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-07:11:13",
+    "baro_altitude": 8282.94,
+    "category": 0,
+    "geo_altitude": 8823.96,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717582870,
+    "latitude": 3.4385,
+    "longitude": 103.492,
+    "on_ground": false,
+    "origin_country": "China",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717582870,
+    "true_track": 54.36,
+    "velocity": 243.7,
+    "vertical_rate": 2.28,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "WMAA",
+    "estDepartureAirportHorizDistance": 7040,
+    "estDepartureAirportVertDistance": 4689,
+    "firstSeen": 1717582273,
+    "lastSeen": 1717582870
+}

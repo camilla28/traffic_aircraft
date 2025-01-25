@@ -1,0 +1,136 @@
+{
+    "callsign": "FBZ5500 ",
+    "endTime": "2024/06/15-12:02:45",
+    "icao24": "e0b1ce",
+    "path": [
+        [
+            1718463623,
+            -34.5695,
+            -58.3979,
+            0,
+            126,
+            false
+        ],
+        [
+            1718463631,
+            -34.5738,
+            -58.3918,
+            0,
+            132,
+            false
+        ],
+        [
+            1718463640,
+            -34.5789,
+            -58.3852,
+            304,
+            133,
+            false
+        ],
+        [
+            1718463651,
+            -34.5857,
+            -58.3769,
+            304,
+            135,
+            false
+        ],
+        [
+            1718463661,
+            -34.5932,
+            -58.3686,
+            304,
+            137,
+            false
+        ],
+        [
+            1718463669,
+            -34.5999,
+            -58.3615,
+            304,
+            139,
+            false
+        ],
+        [
+            1718463688,
+            -34.6157,
+            -58.3451,
+            609,
+            139,
+            false
+        ],
+        [
+            1718463696,
+            -34.623,
+            -58.3367,
+            609,
+            134,
+            false
+        ],
+        [
+            1718463705,
+            -34.6303,
+            -58.3271,
+            914,
+            131,
+            false
+        ],
+        [
+            1718463742,
+            -34.66,
+            -58.2879,
+            1219,
+            133,
+            false
+        ],
+        [
+            1718463765,
+            -34.6798,
+            -58.2631,
+            1524,
+            134,
+            false
+        ]
+    ],
+    "startTime": "2024/06/15-12:00:23",
+    "baro_altitude": 396.24,
+    "category": 0,
+    "geo_altitude": 457.2,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718463646,
+    "latitude": -34.5829,
+    "longitude": -58.3803,
+    "on_ground": false,
+    "origin_country": "Argentina",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718463646,
+    "true_track": 135,
+    "velocity": 102.58,
+    "vertical_rate": 3.9,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 26,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "SABE",
+    "estDepartureAirportHorizDistance": 1459,
+    "estDepartureAirportVertDistance": 131,
+    "firstSeen": 1718463623,
+    "lastSeen": 1718463765
+}

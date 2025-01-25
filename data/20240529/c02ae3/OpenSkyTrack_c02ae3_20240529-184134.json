@@ -1,0 +1,128 @@
+{
+    "callsign": "WJA2601 ",
+    "endTime": "2024/05/29-18:41:26",
+    "icao24": "c02ae3",
+    "path": [
+        [
+            1717015448,
+            27.1657,
+            -77.5749,
+            11277,
+            356,
+            false
+        ],
+        [
+            1717015482,
+            27.2337,
+            -77.5788,
+            11277,
+            357,
+            false
+        ],
+        [
+            1717015558,
+            27.3859,
+            -77.588,
+            10972,
+            356,
+            false
+        ],
+        [
+            1717016372,
+            29.082,
+            -77.6811,
+            10668,
+            357,
+            false
+        ],
+        [
+            1717018033,
+            32.4289,
+            -77.8952,
+            10668,
+            357,
+            false
+        ],
+        [
+            1717018748,
+            33.8741,
+            -77.9811,
+            10668,
+            358,
+            false
+        ],
+        [
+            1717018754,
+            33.8873,
+            -77.9811,
+            10668,
+            1,
+            false
+        ],
+        [
+            1717018770,
+            33.9198,
+            -77.9799,
+            10668,
+            1,
+            false
+        ],
+        [
+            1717018777,
+            33.9342,
+            -77.9798,
+            10668,
+            359,
+            false
+        ],
+        [
+            1717018886,
+            34.1602,
+            -77.9916,
+            10668,
+            357,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-17:44:08",
+    "baro_altitude": 10668,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717016372,
+    "latitude": 29.082,
+    "longitude": -77.6811,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717016372,
+    "true_track": 357.23,
+    "velocity": 234.35,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717015448,
+    "lastSeen": 1717018886
+}

@@ -1,0 +1,136 @@
+{
+    "callsign": "N6SA    ",
+    "endTime": "2024/06/14-13:14:00",
+    "icao24": "a7c41e",
+    "path": [
+        [
+            1718379837,
+            31.7815,
+            -93.2362,
+            914,
+            296,
+            false
+        ],
+        [
+            1718379856,
+            31.7868,
+            -93.2485,
+            914,
+            296,
+            false
+        ],
+        [
+            1718379899,
+            31.7958,
+            -93.2694,
+            1219,
+            296,
+            false
+        ],
+        [
+            1718379932,
+            31.8089,
+            -93.3001,
+            1524,
+            296,
+            false
+        ],
+        [
+            1718380036,
+            31.8411,
+            -93.3754,
+            1828,
+            296,
+            false
+        ],
+        [
+            1718380107,
+            31.8637,
+            -93.4284,
+            2133,
+            296,
+            false
+        ],
+        [
+            1718380171,
+            31.8842,
+            -93.4767,
+            2438,
+            296,
+            false
+        ],
+        [
+            1718380238,
+            31.906,
+            -93.528,
+            2743,
+            296,
+            false
+        ],
+        [
+            1718380304,
+            31.9283,
+            -93.5804,
+            3048,
+            296,
+            false
+        ],
+        [
+            1718381200,
+            32.2688,
+            -94.3921,
+            3352,
+            296,
+            false
+        ],
+        [
+            1718381640,
+            32.4378,
+            -94.7998,
+            3352,
+            297,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-12:43:57",
+    "baro_altitude": 3642.36,
+    "category": 0,
+    "geo_altitude": 3840.48,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718380974,
+    "latitude": 32.1824,
+    "longitude": -94.1842,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718380974,
+    "true_track": 296.02,
+    "velocity": 97.32,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 220,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KIER",
+    "estDepartureAirportHorizDistance": 13864,
+    "estDepartureAirportVertDistance": 1037,
+    "firstSeen": 1718379837,
+    "lastSeen": 1718381640
+}

@@ -1,0 +1,72 @@
+{
+    "callsign": "AFR78AV ",
+    "endTime": "2024/06/04-08:32:08",
+    "icao24": "393324",
+    "path": [
+        [
+            1717499144,
+            46.2098,
+            4.461,
+            9144,
+            348,
+            false
+        ],
+        [
+            1717499976,
+            46.2464,
+            4.45,
+            9144,
+            348,
+            false
+        ],
+        [
+            1717500728,
+            46.2727,
+            4.4421,
+            9144,
+            348,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:05:44",
+    "baro_altitude": 9151.62,
+    "category": 0,
+    "geo_altitude": 9357.36,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499977,
+    "latitude": 46.2464,
+    "longitude": 4.45,
+    "on_ground": false,
+    "origin_country": "France",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1717499976,
+    "true_track": 348.31,
+    "velocity": 228.52,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717499144,
+    "lastSeen": 1717500728
+}

@@ -1,0 +1,128 @@
+{
+    "callsign": "N213PH  ",
+    "endTime": "2024/06/14-13:04:07",
+    "icao24": "a1c5f4",
+    "path": [
+        [
+            1718380381,
+            36.2939,
+            -84.2079,
+            914,
+            241,
+            false
+        ],
+        [
+            1718380391,
+            36.2908,
+            -84.2154,
+            1219,
+            243,
+            false
+        ],
+        [
+            1718380426,
+            36.2884,
+            -84.2211,
+            1219,
+            243,
+            false
+        ],
+        [
+            1718380449,
+            36.2796,
+            -84.2522,
+            1524,
+            258,
+            false
+        ],
+        [
+            1718380478,
+            36.2738,
+            -84.288,
+            1828,
+            260,
+            false
+        ],
+        [
+            1718380517,
+            36.2692,
+            -84.3277,
+            2133,
+            262,
+            false
+        ],
+        [
+            1718380556,
+            36.2644,
+            -84.3704,
+            2438,
+            261,
+            false
+        ],
+        [
+            1718380597,
+            36.2594,
+            -84.4143,
+            2743,
+            262,
+            false
+        ],
+        [
+            1718380655,
+            36.2524,
+            -84.4774,
+            3048,
+            262,
+            false
+        ],
+        [
+            1718381047,
+            36.1934,
+            -84.9949,
+            3352,
+            261,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-12:53:01",
+    "baro_altitude": 3627.12,
+    "category": 0,
+    "geo_altitude": 3787.14,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718380974,
+    "latitude": 36.2052,
+    "longitude": -84.892,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718380973,
+    "true_track": 262,
+    "velocity": 125.72,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 188,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KJAU",
+    "estDepartureAirportHorizDistance": 5595,
+    "estDepartureAirportVertDistance": 829,
+    "firstSeen": 1718380381,
+    "lastSeen": 1718381047
+}

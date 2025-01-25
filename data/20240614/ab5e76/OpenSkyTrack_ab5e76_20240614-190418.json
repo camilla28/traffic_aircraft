@@ -1,0 +1,112 @@
+{
+    "callsign": "N8310N  ",
+    "endTime": "2024/06/14-19:04:22",
+    "icao24": "ab5e76",
+    "path": [
+        [
+            1718401150,
+            35.3821,
+            -86.2095,
+            1524,
+            120,
+            false
+        ],
+        [
+            1718401165,
+            35.3763,
+            -86.1974,
+            1524,
+            120,
+            false
+        ],
+        [
+            1718401400,
+            35.2835,
+            -86.0032,
+            1828,
+            120,
+            false
+        ],
+        [
+            1718401421,
+            35.2746,
+            -85.9847,
+            2133,
+            120,
+            false
+        ],
+        [
+            1718401563,
+            35.2157,
+            -85.8616,
+            1828,
+            120,
+            false
+        ],
+        [
+            1718401582,
+            35.2079,
+            -85.8452,
+            2133,
+            120,
+            false
+        ],
+        [
+            1718402479,
+            34.8274,
+            -85.0651,
+            1828,
+            121,
+            false
+        ],
+        [
+            1718402662,
+            34.7493,
+            -84.9077,
+            1828,
+            121,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-18:39:10",
+    "baro_altitude": 2118.36,
+    "category": 0,
+    "geo_altitude": 2209.8,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718401591,
+    "latitude": 35.2041,
+    "longitude": -85.8373,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718401591,
+    "true_track": 120.53,
+    "velocity": 93.17,
+    "vertical_rate": -1.63,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 221,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KTHA",
+    "estDepartureAirportHorizDistance": 2920,
+    "estDepartureAirportVertDistance": 1483,
+    "firstSeen": 1718401150,
+    "lastSeen": 1718402662
+}

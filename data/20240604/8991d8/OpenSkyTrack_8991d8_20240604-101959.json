@@ -1,0 +1,72 @@
+{
+    "callsign": "SJX850  ",
+    "endTime": "2024/06/04-10:19:44",
+    "icao24": "8991d8",
+    "path": [
+        [
+            1717505804,
+            35.5372,
+            135.4348,
+            10058,
+            42,
+            false
+        ],
+        [
+            1717506624,
+            35.5427,
+            135.4409,
+            10058,
+            42,
+            false
+        ],
+        [
+            1717507184,
+            35.5453,
+            135.4437,
+            10058,
+            42,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:56:44",
+    "baro_altitude": 10058.4,
+    "category": 0,
+    "geo_altitude": 10279.38,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504619,
+    "latitude": 35.5306,
+    "longitude": 135.4274,
+    "on_ground": false,
+    "origin_country": "Taiwan",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504602,
+    "true_track": 42.16,
+    "velocity": 242.2,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717505804,
+    "lastSeen": 1717507184
+}

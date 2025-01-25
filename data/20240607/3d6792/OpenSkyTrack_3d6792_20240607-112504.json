@@ -1,0 +1,128 @@
+{
+    "callsign": "DFLLY   ",
+    "endTime": "2024/06/07-11:25:05",
+    "icao24": "3d6792",
+    "path": [
+        [
+            1717770090,
+            50.2669,
+            18.6552,
+            304,
+            267,
+            false
+        ],
+        [
+            1717770142,
+            50.2661,
+            18.6156,
+            304,
+            266,
+            false
+        ],
+        [
+            1717770190,
+            50.2652,
+            18.5798,
+            609,
+            268,
+            false
+        ],
+        [
+            1717770200,
+            50.2648,
+            18.5722,
+            609,
+            257,
+            false
+        ],
+        [
+            1717770209,
+            50.2626,
+            18.566,
+            914,
+            226,
+            false
+        ],
+        [
+            1717770219,
+            50.2581,
+            18.5621,
+            914,
+            194,
+            false
+        ],
+        [
+            1717770228,
+            50.2533,
+            18.5612,
+            914,
+            181,
+            false
+        ],
+        [
+            1717770248,
+            50.2424,
+            18.5613,
+            914,
+            179,
+            false
+        ],
+        [
+            1717770295,
+            50.2168,
+            18.5618,
+            1219,
+            179,
+            false
+        ],
+        [
+            1717770305,
+            50.211,
+            18.5627,
+            1219,
+            163,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-11:21:30",
+    "baro_altitude": 4389.12,
+    "category": 0,
+    "geo_altitude": 4549.14,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762945,
+    "latitude": 50.2708,
+    "longitude": 18.6634,
+    "on_ground": false,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7000",
+    "time_position": 1717762944,
+    "true_track": 280.18,
+    "velocity": 20.38,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 53,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EPGL",
+    "estDepartureAirportHorizDistance": 730,
+    "estDepartureAirportVertDistance": 59,
+    "firstSeen": 1717770090,
+    "lastSeen": 1717770305
+}

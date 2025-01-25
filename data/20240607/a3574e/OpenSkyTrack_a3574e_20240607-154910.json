@@ -1,0 +1,112 @@
+{
+    "callsign": "ERH314  ",
+    "endTime": "2024/06/07-15:37:19",
+    "icao24": "a3574e",
+    "path": [
+        [
+            1717783796,
+            29.495,
+            -90.653,
+            609,
+            182,
+            false
+        ],
+        [
+            1717783830,
+            29.4748,
+            -90.654,
+            609,
+            182,
+            false
+        ],
+        [
+            1717783860,
+            29.4562,
+            -90.6548,
+            914,
+            182,
+            false
+        ],
+        [
+            1717783980,
+            29.3814,
+            -90.6584,
+            1219,
+            182,
+            false
+        ],
+        [
+            1717784028,
+            29.3537,
+            -90.6597,
+            1524,
+            182,
+            false
+        ],
+        [
+            1717784446,
+            29.0502,
+            -90.6741,
+            2438,
+            182,
+            false
+        ],
+        [
+            1717785439,
+            28.2923,
+            -90.7096,
+            2438,
+            182,
+            false
+        ],
+        [
+            1717785439,
+            28.2923,
+            -90.7096,
+            2438,
+            182,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-15:09:56",
+    "baro_altitude": 2354.58,
+    "category": 0,
+    "geo_altitude": 2484.12,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717784179,
+    "latitude": 29.2488,
+    "longitude": -90.6647,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717784179,
+    "true_track": 182.2,
+    "velocity": 80.31,
+    "vertical_rate": 4.55,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 159,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KHUM",
+    "estDepartureAirportHorizDistance": 11029,
+    "estDepartureAirportVertDistance": 705,
+    "firstSeen": 1717783796,
+    "lastSeen": 1717785439
+}

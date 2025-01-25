@@ -1,0 +1,80 @@
+{
+    "callsign": "N887DC  ",
+    "endTime": "2024/05/29-19:22:43",
+    "icao24": "ac3824",
+    "path": [
+        [
+            1717021277,
+            33.7515,
+            -116.2269,
+            3048,
+            324,
+            false
+        ],
+        [
+            1717021305,
+            33.7698,
+            -116.2421,
+            3352,
+            325,
+            false
+        ],
+        [
+            1717021337,
+            33.7913,
+            -116.2596,
+            3657,
+            325,
+            false
+        ],
+        [
+            1717021363,
+            33.8087,
+            -116.2741,
+            3962,
+            325,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-19:21:17",
+    "baro_altitude": 7620,
+    "category": 0,
+    "geo_altitude": 7962.9,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717016382,
+    "latitude": 36.6214,
+    "longitude": -119.7724,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3734",
+    "time_position": 1717016382,
+    "true_track": 139.59,
+    "velocity": 163.49,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 3,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KUDD",
+    "estDepartureAirportHorizDistance": 4820,
+    "estDepartureAirportVertDistance": 3269,
+    "firstSeen": 1717021277,
+    "lastSeen": 1717021363
+}

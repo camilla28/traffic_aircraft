@@ -1,0 +1,80 @@
+{
+    "callsign": "N704BH  ",
+    "endTime": "2024/06/12-09:36:12",
+    "icao24": "a9638b",
+    "path": [
+        [
+            1718195752,
+            35.2236,
+            -81.1383,
+            304,
+            19,
+            false
+        ],
+        [
+            1718195757,
+            35.2251,
+            -81.1382,
+            304,
+            350,
+            false
+        ],
+        [
+            1718195764,
+            35.2269,
+            -81.1396,
+            304,
+            313,
+            false
+        ],
+        [
+            1718195772,
+            35.2281,
+            -81.1419,
+            304,
+            288,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-09:35:52",
+    "baro_altitude": 868.68,
+    "category": 0,
+    "geo_altitude": 883.92,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194259,
+    "latitude": 35.298,
+    "longitude": -81.4496,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718194259,
+    "true_track": 96.12,
+    "velocity": 43.46,
+    "vertical_rate": 0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 312,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KAKH",
+    "estDepartureAirportHorizDistance": 2519,
+    "estDepartureAirportVertDistance": 145,
+    "firstSeen": 1718195752,
+    "lastSeen": 1718195764
+}

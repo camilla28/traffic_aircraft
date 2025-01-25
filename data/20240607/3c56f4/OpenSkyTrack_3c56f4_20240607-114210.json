@@ -1,0 +1,144 @@
+{
+    "callsign": "EWG2FP  ",
+    "endTime": "2024/06/07-11:42:06",
+    "icao24": "3c56f4",
+    "path": [
+        [
+            1717770956,
+            36.7995,
+            27.0873,
+            0,
+            327,
+            false
+        ],
+        [
+            1717770956,
+            36.7995,
+            27.0873,
+            0,
+            327,
+            false
+        ],
+        [
+            1717771062,
+            36.8761,
+            27.0477,
+            914,
+            342,
+            false
+        ],
+        [
+            1717771102,
+            36.9165,
+            27.0315,
+            914,
+            342,
+            false
+        ],
+        [
+            1717771107,
+            36.9234,
+            27.0288,
+            1219,
+            342,
+            false
+        ],
+        [
+            1717771150,
+            36.9761,
+            27.0079,
+            1524,
+            342,
+            false
+        ],
+        [
+            1717771170,
+            37.0009,
+            26.9979,
+            1828,
+            342,
+            false
+        ],
+        [
+            1717771199,
+            37.0385,
+            26.9829,
+            2133,
+            342,
+            false
+        ],
+        [
+            1717771220,
+            37.0642,
+            26.9725,
+            2438,
+            342,
+            false
+        ],
+        [
+            1717771248,
+            37.1026,
+            26.9572,
+            2743,
+            342,
+            false
+        ],
+        [
+            1717771288,
+            37.1571,
+            26.9354,
+            3048,
+            342,
+            false
+        ],
+        [
+            1717771326,
+            37.2156,
+            26.9122,
+            3352,
+            342,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-11:35:56",
+    "baro_altitude": 11887.2,
+    "category": 0,
+    "geo_altitude": 12313.92,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762904,
+    "latitude": 43.5775,
+    "longitude": 19.8152,
+    "on_ground": false,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7641",
+    "time_position": 1717762858,
+    "true_track": 134.01,
+    "velocity": 251.76,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 25,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LGKO",
+    "estDepartureAirportHorizDistance": 787,
+    "estDepartureAirportVertDistance": 34,
+    "firstSeen": 1717770956,
+    "lastSeen": 1717771326
+}

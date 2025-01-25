@@ -1,0 +1,80 @@
+{
+    "callsign": "OEVDK   ",
+    "endTime": "2024/06/04-09:59:18",
+    "icao24": "440373",
+    "path": [
+        [
+            1717504192,
+            46.8198,
+            15.4977,
+            914,
+            324,
+            false
+        ],
+        [
+            1717505036,
+            46.8241,
+            15.4931,
+            914,
+            324,
+            false
+        ],
+        [
+            1717505864,
+            46.8299,
+            15.487,
+            914,
+            324,
+            false
+        ],
+        [
+            1717505958,
+            46.8336,
+            15.4834,
+            914,
+            323,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:29:52",
+    "baro_altitude": 1059.18,
+    "category": 0,
+    "geo_altitude": 1135.38,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504709,
+    "latitude": 46.8222,
+    "longitude": 15.4951,
+    "on_ground": false,
+    "origin_country": "Austria",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504709,
+    "true_track": 324.12,
+    "velocity": 59.68,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 77,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LOWG",
+    "estDepartureAirportHorizDistance": 19554,
+    "estDepartureAirportVertDistance": 719,
+    "firstSeen": 1717504192,
+    "lastSeen": 1717505958
+}

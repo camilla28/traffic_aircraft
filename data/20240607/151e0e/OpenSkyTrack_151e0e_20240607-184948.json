@@ -1,0 +1,80 @@
+{
+    "callsign": "PBD6547 ",
+    "endTime": "2024/06/07-18:06:52",
+    "icao24": "151e0e",
+    "path": [
+        [
+            1717776274,
+            44.0474,
+            43.5707,
+            11277,
+            93,
+            false
+        ],
+        [
+            1717776337,
+            44.0389,
+            43.7657,
+            11277,
+            93,
+            false
+        ],
+        [
+            1717794215,
+            58.1734,
+            50.5419,
+            10668,
+            69,
+            false
+        ],
+        [
+            1717794412,
+            58.319,
+            51.2906,
+            10668,
+            70,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-13:04:34",
+    "baro_altitude": 10668,
+    "category": 0,
+    "geo_altitude": 10805.16,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717794386,
+    "latitude": 58.3,
+    "longitude": 51.1912,
+    "on_ground": false,
+    "origin_country": "Russian Federation",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717794386,
+    "true_track": 70.16,
+    "velocity": 239.54,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717776274,
+    "lastSeen": 1717794412
+}

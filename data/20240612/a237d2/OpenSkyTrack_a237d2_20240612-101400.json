@@ -1,0 +1,120 @@
+{
+    "callsign": "N242EA  ",
+    "endTime": "2024/06/12-09:10:00",
+    "icao24": "a237d2",
+    "path": [
+        [
+            1718193527,
+            34.7301,
+            -112.4047,
+            2438,
+            10,
+            false
+        ],
+        [
+            1718193707,
+            34.8042,
+            -112.3888,
+            2438,
+            9,
+            false
+        ],
+        [
+            1718193899,
+            34.8883,
+            -112.3718,
+            2743,
+            9,
+            false
+        ],
+        [
+            1718193957,
+            34.9142,
+            -112.3665,
+            3048,
+            8,
+            false
+        ],
+        [
+            1718194137,
+            34.9961,
+            -112.3542,
+            3048,
+            9,
+            false
+        ],
+        [
+            1718194145,
+            34.9999,
+            -112.3529,
+            3048,
+            18,
+            false
+        ],
+        [
+            1718194151,
+            35.0025,
+            -112.3519,
+            3048,
+            20,
+            false
+        ],
+        [
+            1718194159,
+            35.0057,
+            -112.3503,
+            3048,
+            21,
+            false
+        ],
+        [
+            1718194200,
+            35.0241,
+            -112.3412,
+            3352,
+            22,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-08:58:47",
+    "baro_altitude": 3390.9,
+    "category": 0,
+    "geo_altitude": 3589.02,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194200,
+    "latitude": 35.0241,
+    "longitude": -112.3412,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718194200,
+    "true_track": 22.32,
+    "velocity": 52.83,
+    "vertical_rate": 0.98,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 61,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "59AZ",
+    "estDepartureAirportHorizDistance": 3969,
+    "estDepartureAirportVertDistance": 991,
+    "firstSeen": 1718193527,
+    "lastSeen": 1718194200
+}

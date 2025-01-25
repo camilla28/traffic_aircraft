@@ -1,0 +1,72 @@
+{
+    "callsign": "KMM612  ",
+    "endTime": "2024/06/04-09:13:08",
+    "icao24": "4d22ab",
+    "path": [
+        [
+            1717503124,
+            41.1749,
+            11.9158,
+            6705,
+            253,
+            false
+        ],
+        [
+            1717503124,
+            41.1749,
+            11.9158,
+            6705,
+            356,
+            false
+        ],
+        [
+            1717503188,
+            41.1759,
+            11.9157,
+            6705,
+            356,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:12:04",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500034,
+    "latitude": 35.8455,
+    "longitude": 14.4954,
+    "on_ground": true,
+    "origin_country": "Malta",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717500032,
+    "true_track": 135,
+    "velocity": 4.89,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717503124,
+    "lastSeen": 1717503188
+}

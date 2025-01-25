@@ -1,0 +1,136 @@
+{
+    "callsign": "N7DP    ",
+    "endTime": "2024/06/07-18:44:56",
+    "icao24": "a95035",
+    "path": [
+        [
+            1717792210,
+            37.2747,
+            -97.3826,
+            3048,
+            161,
+            false
+        ],
+        [
+            1717792304,
+            37.2124,
+            -97.3562,
+            3048,
+            161,
+            false
+        ],
+        [
+            1717792902,
+            36.7473,
+            -97.1607,
+            3352,
+            162,
+            false
+        ],
+        [
+            1717792938,
+            36.7306,
+            -97.1555,
+            3352,
+            166,
+            false
+        ],
+        [
+            1717793835,
+            35.945,
+            -96.9218,
+            3352,
+            166,
+            false
+        ],
+        [
+            1717794727,
+            35.1741,
+            -96.697,
+            3352,
+            166,
+            false
+        ],
+        [
+            1717795622,
+            34.4,
+            -96.4758,
+            3352,
+            166,
+            false
+        ],
+        [
+            1717795851,
+            34.2019,
+            -96.4199,
+            3352,
+            166,
+            false
+        ],
+        [
+            1717796539,
+            33.5971,
+            -96.2507,
+            3048,
+            166,
+            false
+        ],
+        [
+            1717796543,
+            33.5932,
+            -96.2494,
+            3048,
+            159,
+            false
+        ],
+        [
+            1717796696,
+            33.4638,
+            -96.1854,
+            3048,
+            157,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-17:30:10",
+    "baro_altitude": 3375.66,
+    "category": 0,
+    "geo_altitude": 3558.54,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717794386,
+    "latitude": 35.4721,
+    "longitude": -96.7835,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717794386,
+    "true_track": 166.47,
+    "velocity": 98.95,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KEGT",
+    "estDepartureAirportHorizDistance": 5440,
+    "estDepartureAirportVertDistance": 2803,
+    "firstSeen": 1717792210,
+    "lastSeen": 1717796696
+}

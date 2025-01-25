@@ -1,0 +1,72 @@
+{
+    "callsign": "SVR798  ",
+    "endTime": "2024/05/29-09:34:47",
+    "icao24": "152067",
+    "path": [
+        [
+            1716986027,
+            24.8926,
+            55.1685,
+            0,
+            301,
+            false
+        ],
+        [
+            1716986066,
+            24.9076,
+            55.1414,
+            0,
+            301,
+            false
+        ],
+        [
+            1716986087,
+            24.9169,
+            55.1247,
+            304,
+            301,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-09:33:47",
+    "baro_altitude": 11277.6,
+    "category": 0,
+    "geo_altitude": 12039.6,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716978990,
+    "latitude": 27.1073,
+    "longitude": 53.2655,
+    "on_ground": false,
+    "origin_country": "Russian Federation",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1716978989,
+    "true_track": 164.77,
+    "velocity": 238.86,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 19,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "OMDW",
+    "estDepartureAirportHorizDistance": 1018,
+    "estDepartureAirportVertDistance": 140,
+    "firstSeen": 1716986027,
+    "lastSeen": 1716986087
+}

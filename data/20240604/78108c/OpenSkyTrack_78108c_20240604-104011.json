@@ -1,0 +1,80 @@
+{
+    "callsign": "CES272  ",
+    "endTime": "2024/06/04-10:01:15",
+    "icao24": "78108c",
+    "path": [
+        [
+            1717504316,
+            33.9421,
+            132.0659,
+            9144,
+            253,
+            false
+        ],
+        [
+            1717504968,
+            33.933,
+            132.0299,
+            9144,
+            253,
+            false
+        ],
+        [
+            1717505808,
+            33.9315,
+            132.0243,
+            9144,
+            253,
+            false
+        ],
+        [
+            1717506075,
+            33.9303,
+            132.0196,
+            9144,
+            253,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:31:56",
+    "baro_altitude": 9144,
+    "category": 0,
+    "geo_altitude": 9380.22,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504662,
+    "latitude": 33.9351,
+    "longitude": 132.0382,
+    "on_ground": false,
+    "origin_country": "China",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504659,
+    "true_track": 253.01,
+    "velocity": 220.01,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717504316,
+    "lastSeen": 1717506075
+}

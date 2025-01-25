@@ -1,0 +1,104 @@
+{
+    "callsign": "CLX6PL  ",
+    "endTime": "2024/06/04-12:40:22",
+    "icao24": "4d0101",
+    "path": [
+        [
+            1717515062,
+            49.7835,
+            6.6138,
+            2743,
+            58,
+            false
+        ],
+        [
+            1717515454,
+            49.7872,
+            6.6232,
+            2743,
+            58,
+            false
+        ],
+        [
+            1717515458,
+            49.7876,
+            6.6243,
+            3048,
+            58,
+            false
+        ],
+        [
+            1717515476,
+            49.7872,
+            6.6232,
+            2743,
+            58,
+            false
+        ],
+        [
+            1717515492,
+            49.7879,
+            6.6251,
+            3048,
+            58,
+            false
+        ],
+        [
+            1717515504,
+            49.7775,
+            6.5986,
+            2743,
+            58,
+            false
+        ],
+        [
+            1717515622,
+            49.7903,
+            6.6309,
+            3048,
+            58,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-12:31:02",
+    "baro_altitude": 3009.9,
+    "category": 6,
+    "geo_altitude": 3101.34,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717515231,
+    "latitude": 49.7857,
+    "longitude": 6.6196,
+    "on_ground": false,
+    "origin_country": "Luxembourg",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3505",
+    "time_position": 1717515228,
+    "true_track": 58.58,
+    "velocity": 154.93,
+    "vertical_rate": 13.66,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717515062,
+    "lastSeen": 1717515622
+}

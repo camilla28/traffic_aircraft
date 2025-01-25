@@ -1,0 +1,72 @@
+{
+    "callsign": "VJC94   ",
+    "endTime": "2024/06/04-09:50:08",
+    "icao24": "8881de",
+    "path": [
+        [
+            1717503623,
+            18.6451,
+            106.5449,
+            11582,
+            334,
+            false
+        ],
+        [
+            1717504509,
+            18.6849,
+            106.5248,
+            11582,
+            334,
+            false
+        ],
+        [
+            1717505408,
+            18.7195,
+            106.5074,
+            11582,
+            334,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:20:23",
+    "baro_altitude": 11742.42,
+    "category": 0,
+    "geo_altitude": 12618.72,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504711,
+    "latitude": 18.6969,
+    "longitude": 106.5188,
+    "on_ground": false,
+    "origin_country": "Viet Nam",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504697,
+    "true_track": 334.35,
+    "velocity": 245.97,
+    "vertical_rate": -4.88,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717503623,
+    "lastSeen": 1717505408
+}

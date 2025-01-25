@@ -1,0 +1,96 @@
+{
+    "callsign": "AZU4975 ",
+    "endTime": "2024/06/12-09:59:21",
+    "icao24": "e48ef2",
+    "path": [
+        [
+            1718197127,
+            -23.0226,
+            -47.1153,
+            914,
+            143,
+            false
+        ],
+        [
+            1718197133,
+            -23.0267,
+            -47.1133,
+            914,
+            165,
+            false
+        ],
+        [
+            1718197141,
+            -23.0329,
+            -47.1125,
+            914,
+            182,
+            false
+        ],
+        [
+            1718197149,
+            -23.0382,
+            -47.1135,
+            914,
+            195,
+            false
+        ],
+        [
+            1718197156,
+            -23.0443,
+            -47.1156,
+            914,
+            198,
+            false
+        ],
+        [
+            1718197161,
+            -23.0479,
+            -47.117,
+            914,
+            198,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-09:58:47",
+    "baro_altitude": 662.94,
+    "category": 0,
+    "geo_altitude": 807.72,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194259,
+    "latitude": -22.9897,
+    "longitude": -47.1592,
+    "on_ground": false,
+    "origin_country": "Brazil",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718194259,
+    "true_track": 127.75,
+    "velocity": 60.51,
+    "vertical_rate": -2.93,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 137,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "SBKP",
+    "estDepartureAirportHorizDistance": 2309,
+    "estDepartureAirportVertDistance": 329,
+    "firstSeen": 1718197127,
+    "lastSeen": 1718197161
+}

@@ -1,0 +1,96 @@
+{
+    "callsign": "RYR2152 ",
+    "endTime": "2024/06/12-10:46:05",
+    "icao24": "4cae67",
+    "path": [
+        [
+            1718199888,
+            52.4567,
+            -1.7511,
+            0,
+            326,
+            false
+        ],
+        [
+            1718199932,
+            52.4719,
+            -1.7677,
+            0,
+            326,
+            false
+        ],
+        [
+            1718199938,
+            52.4851,
+            -1.7824,
+            304,
+            324,
+            false
+        ],
+        [
+            1718199948,
+            52.495,
+            -1.7933,
+            304,
+            332,
+            false
+        ],
+        [
+            1718199957,
+            52.5022,
+            -1.7969,
+            609,
+            351,
+            false
+        ],
+        [
+            1718199965,
+            52.5104,
+            -1.7956,
+            609,
+            11,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-10:44:48",
+    "baro_altitude": 8229.6,
+    "category": 0,
+    "geo_altitude": 8343.9,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194259,
+    "latitude": 51.0945,
+    "longitude": -0.8054,
+    "on_ground": false,
+    "origin_country": "Ireland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7476",
+    "time_position": 1718194259,
+    "true_track": 16.48,
+    "velocity": 181.33,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 121,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EGBB",
+    "estDepartureAirportHorizDistance": 374,
+    "estDepartureAirportVertDistance": 53,
+    "firstSeen": 1718199888,
+    "lastSeen": 1718199965
+}

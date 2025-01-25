@@ -1,0 +1,112 @@
+{
+    "callsign": "N479LP  ",
+    "endTime": "2024/06/05-07:49:13",
+    "icao24": "a5e391",
+    "path": [
+        [
+            1717584348,
+            29.4082,
+            -82.8884,
+            1524,
+            139,
+            false
+        ],
+        [
+            1717584368,
+            29.402,
+            -82.8825,
+            1524,
+            140,
+            false
+        ],
+        [
+            1717584430,
+            29.385,
+            -82.8612,
+            1524,
+            127,
+            false
+        ],
+        [
+            1717584430,
+            29.385,
+            -82.8612,
+            1524,
+            131,
+            false
+        ],
+        [
+            1717584458,
+            29.3776,
+            -82.8512,
+            1524,
+            133,
+            false
+        ],
+        [
+            1717584459,
+            29.3773,
+            -82.8509,
+            1524,
+            134,
+            false
+        ],
+        [
+            1717584497,
+            29.3656,
+            -82.8383,
+            1524,
+            138,
+            false
+        ],
+        [
+            1717584553,
+            29.3469,
+            -82.8202,
+            1524,
+            139,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-07:45:48",
+    "baro_altitude": 1386.84,
+    "category": 0,
+    "geo_altitude": 1424.94,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717582867,
+    "latitude": 29.4217,
+    "longitude": -82.9007,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717582861,
+    "true_track": 320.71,
+    "velocity": 51.18,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 265,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "51FL",
+    "estDepartureAirportHorizDistance": 2457,
+    "estDepartureAirportVertDistance": 1665,
+    "firstSeen": 1717584348,
+    "lastSeen": 1717584553
+}

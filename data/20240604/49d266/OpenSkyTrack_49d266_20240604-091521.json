@@ -1,0 +1,120 @@
+{
+    "callsign": "TVS8NA  ",
+    "endTime": "2024/06/04-09:13:40",
+    "icao24": "49d266",
+    "path": [
+        [
+            1717499829,
+            30.0836,
+            31.3985,
+            10668,
+            313,
+            false
+        ],
+        [
+            1717499956,
+            30.0923,
+            31.3883,
+            10668,
+            315,
+            false
+        ],
+        [
+            1717500735,
+            30.143,
+            31.3337,
+            10668,
+            316,
+            false
+        ],
+        [
+            1717500738,
+            30.1445,
+            31.3321,
+            10972,
+            316,
+            false
+        ],
+        [
+            1717501057,
+            30.1776,
+            31.2967,
+            10668,
+            317,
+            false
+        ],
+        [
+            1717501830,
+            30.2617,
+            31.2065,
+            10668,
+            316,
+            false
+        ],
+        [
+            1717502323,
+            30.2869,
+            31.1794,
+            10668,
+            316,
+            false
+        ],
+        [
+            1717502452,
+            30.3117,
+            31.1528,
+            10972,
+            316,
+            false
+        ],
+        [
+            1717503220,
+            30.3704,
+            31.0893,
+            10668,
+            316,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:17:09",
+    "baro_altitude": 10965.18,
+    "category": 0,
+    "geo_altitude": 11635.74,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499991,
+    "latitude": 30.0923,
+    "longitude": 31.3883,
+    "on_ground": false,
+    "origin_country": "Czech Republic",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499956,
+    "true_track": 315,
+    "velocity": 231.36,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "HEAZ",
+    "estDepartureAirportHorizDistance": 14940,
+    "estDepartureAirportVertDistance": 10873,
+    "firstSeen": 1717499829,
+    "lastSeen": 1717503220
+}

@@ -1,0 +1,96 @@
+{
+    "callsign": "KAP550  ",
+    "endTime": "2024/05/29-10:05:25",
+    "icao24": "a8f5ec",
+    "path": [
+        [
+            1716987410,
+            18.3619,
+            -65.5053,
+            1219,
+            275,
+            false
+        ],
+        [
+            1716987462,
+            18.3657,
+            -65.5506,
+            1219,
+            275,
+            false
+        ],
+        [
+            1716987685,
+            18.3913,
+            -65.7534,
+            609,
+            275,
+            false
+        ],
+        [
+            1716987817,
+            18.3852,
+            -65.8716,
+            609,
+            266,
+            false
+        ],
+        [
+            1716987836,
+            18.3842,
+            -65.8885,
+            609,
+            266,
+            false
+        ],
+        [
+            1716987925,
+            18.3793,
+            -65.9651,
+            304,
+            267,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-09:56:50",
+    "baro_altitude": 1341.12,
+    "category": 0,
+    "geo_altitude": 1402.08,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716987462,
+    "latitude": 18.3657,
+    "longitude": -65.5506,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1716987462,
+    "true_track": 275.52,
+    "velocity": 90.96,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 21,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "TJFA",
+    "estDepartureAirportHorizDistance": 17894,
+    "estDepartureAirportVertDistance": 1321,
+    "firstSeen": 1716987410,
+    "lastSeen": 1716987925
+}

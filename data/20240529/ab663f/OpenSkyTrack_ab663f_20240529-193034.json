@@ -1,0 +1,112 @@
+{
+    "callsign": "ASH6039 ",
+    "endTime": "2024/05/29-19:30:31",
+    "icao24": "ab663f",
+    "path": [
+        [
+            1717021750,
+            38.9351,
+            -77.461,
+            0,
+            290,
+            false
+        ],
+        [
+            1717021783,
+            38.9426,
+            -77.4862,
+            0,
+            291,
+            false
+        ],
+        [
+            1717021790,
+            38.9444,
+            -77.4923,
+            304,
+            289,
+            false
+        ],
+        [
+            1717021797,
+            38.9456,
+            -77.4986,
+            304,
+            278,
+            false
+        ],
+        [
+            1717021804,
+            38.9455,
+            -77.5051,
+            304,
+            260,
+            false
+        ],
+        [
+            1717021811,
+            38.9438,
+            -77.5114,
+            304,
+            243,
+            false
+        ],
+        [
+            1717021818,
+            38.9409,
+            -77.5178,
+            304,
+            237,
+            false
+        ],
+        [
+            1717021831,
+            38.9348,
+            -77.5298,
+            609,
+            236,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-19:29:10",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717016364,
+    "latitude": 38.9483,
+    "longitude": -77.441,
+    "on_ground": true,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2025",
+    "time_position": 1717016359,
+    "true_track": 329.06,
+    "velocity": 0,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 467,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KIAD",
+    "estDepartureAirportHorizDistance": 1062,
+    "estDepartureAirportVertDistance": 11,
+    "firstSeen": 1717021750,
+    "lastSeen": 1717021825
+}

@@ -1,0 +1,104 @@
+{
+    "callsign": "VPCKH   ",
+    "endTime": "2024/06/12-12:05:04",
+    "icao24": "424194",
+    "path": [
+        [
+            1718204062,
+            25.0185,
+            46.8816,
+            2438,
+            42,
+            false
+        ],
+        [
+            1718204068,
+            25.0241,
+            46.8872,
+            2438,
+            42,
+            false
+        ],
+        [
+            1718204520,
+            24.9999,
+            46.4752,
+            7315,
+            248,
+            false
+        ],
+        [
+            1718204520,
+            24.9999,
+            46.4752,
+            7315,
+            248,
+            false
+        ],
+        [
+            1718204636,
+            24.9093,
+            46.2766,
+            8534,
+            237,
+            false
+        ],
+        [
+            1718204636,
+            24.9093,
+            46.2766,
+            8534,
+            237,
+            false
+        ],
+        [
+            1718204704,
+            24.8723,
+            46.212,
+            8839,
+            237,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-11:54:22",
+    "baro_altitude": 8945.88,
+    "category": 0,
+    "geo_altitude": 9525,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204674,
+    "latitude": 24.8732,
+    "longitude": 46.2135,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718204674,
+    "true_track": 237.95,
+    "velocity": 199.69,
+    "vertical_rate": 6.83,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 3,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "OERK",
+    "estDepartureAirportHorizDistance": 1404179,
+    "estDepartureAirportVertDistance": 1989,
+    "firstSeen": 1718204062,
+    "lastSeen": 1718204704
+}

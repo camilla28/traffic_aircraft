@@ -1,0 +1,128 @@
+{
+    "callsign": "RFD474  ",
+    "endTime": "2024/06/07-10:15:16",
+    "icao24": "0d0efa",
+    "path": [
+        [
+            1717765198,
+            20.9966,
+            -86.8306,
+            609,
+            171,
+            false
+        ],
+        [
+            1717765205,
+            20.9926,
+            -86.8302,
+            609,
+            177,
+            false
+        ],
+        [
+            1717765240,
+            20.9781,
+            -86.8406,
+            609,
+            179,
+            false
+        ],
+        [
+            1717765240,
+            20.9781,
+            -86.8406,
+            609,
+            228,
+            false
+        ],
+        [
+            1717765373,
+            20.9335,
+            -86.8933,
+            1219,
+            228,
+            false
+        ],
+        [
+            1717765435,
+            20.9044,
+            -86.9282,
+            1524,
+            228,
+            false
+        ],
+        [
+            1717765452,
+            20.8999,
+            -86.9386,
+            1828,
+            254,
+            false
+        ],
+        [
+            1717765452,
+            20.8999,
+            -86.9386,
+            1828,
+            252,
+            false
+        ],
+        [
+            1717765747,
+            20.8527,
+            -87.1046,
+            2743,
+            253,
+            false
+        ],
+        [
+            1717766116,
+            20.7643,
+            -87.4132,
+            3048,
+            252,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-09:59:58",
+    "baro_altitude": 259.08,
+    "category": 0,
+    "geo_altitude": 243.84,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762824,
+    "latitude": 21.0634,
+    "longitude": -86.9253,
+    "on_ground": false,
+    "origin_country": "Mexico",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717762824,
+    "true_track": 106.04,
+    "velocity": 42.82,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 5,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "MMUN",
+    "estDepartureAirportHorizDistance": 6458,
+    "estDepartureAirportVertDistance": 694,
+    "firstSeen": 1717765198,
+    "lastSeen": 1717766116
+}

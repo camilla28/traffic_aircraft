@@ -1,0 +1,80 @@
+{
+    "callsign": "THY9RP  ",
+    "endTime": "2024/06/12-12:19:22",
+    "icao24": "4bab27",
+    "path": [
+        [
+            1718205498,
+            33.8183,
+            35.4908,
+            10972,
+            0,
+            false
+        ],
+        [
+            1718205545,
+            33.8183,
+            35.4908,
+            10972,
+            0,
+            false
+        ],
+        [
+            1718205562,
+            33.8161,
+            35.4876,
+            10972,
+            45,
+            false
+        ],
+        [
+            1718205562,
+            33.8161,
+            35.4876,
+            10972,
+            45,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-12:18:18",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": 10012.68,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204673,
+    "latitude": 33.8183,
+    "longitude": 35.4908,
+    "on_ground": false,
+    "origin_country": "Turkey",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5633",
+    "time_position": 1718204660,
+    "true_track": 0,
+    "velocity": 0,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "OLBA",
+    "estDepartureAirportHorizDistance": 366,
+    "estDepartureAirportVertDistance": 10946,
+    "firstSeen": 1718205498,
+    "lastSeen": 1718205562
+}

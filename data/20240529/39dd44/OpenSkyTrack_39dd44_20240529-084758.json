@@ -1,0 +1,80 @@
+{
+    "callsign": "CCM95ML ",
+    "endTime": "2024/05/29-08:47:52",
+    "icao24": "39dd44",
+    "path": [
+        [
+            1716983112,
+            42.8814,
+            8.9971,
+            3352,
+            302,
+            false
+        ],
+        [
+            1716983112,
+            42.8814,
+            8.9971,
+            3352,
+            303,
+            false
+        ],
+        [
+            1716983193,
+            42.9255,
+            8.9042,
+            3657,
+            302,
+            false
+        ],
+        [
+            1716983272,
+            42.9693,
+            8.8118,
+            3962,
+            302,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-08:45:12",
+    "baro_altitude": 1882.14,
+    "category": 0,
+    "geo_altitude": 1973.58,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716978896,
+    "latitude": 42.6401,
+    "longitude": 9.3185,
+    "on_ground": false,
+    "origin_country": "France",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1716978726,
+    "true_track": 121.08,
+    "velocity": 90.7,
+    "vertical_rate": -14.31,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1716983112,
+    "lastSeen": 1716983272
+}

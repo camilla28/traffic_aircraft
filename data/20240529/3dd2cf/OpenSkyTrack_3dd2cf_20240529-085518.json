@@ -1,0 +1,144 @@
+{
+    "callsign": "GAM417A ",
+    "endTime": "2024/05/29-08:55:14",
+    "icao24": "3dd2cf",
+    "path": [
+        [
+            1716983581,
+            52.6408,
+            8.8821,
+            0,
+            333,
+            false
+        ],
+        [
+            1716983594,
+            52.6459,
+            8.8779,
+            0,
+            332,
+            false
+        ],
+        [
+            1716983601,
+            52.6485,
+            8.8758,
+            0,
+            337,
+            false
+        ],
+        [
+            1716983607,
+            52.6514,
+            8.875,
+            0,
+            1,
+            false
+        ],
+        [
+            1716983614,
+            52.6544,
+            8.8766,
+            304,
+            33,
+            false
+        ],
+        [
+            1716983620,
+            52.6562,
+            8.8806,
+            304,
+            73,
+            false
+        ],
+        [
+            1716983627,
+            52.6557,
+            8.8856,
+            304,
+            102,
+            false
+        ],
+        [
+            1716983631,
+            52.6547,
+            8.8882,
+            0,
+            126,
+            false
+        ],
+        [
+            1716983637,
+            52.6532,
+            8.8915,
+            304,
+            128,
+            false
+        ],
+        [
+            1716983656,
+            52.6476,
+            8.9028,
+            304,
+            127,
+            false
+        ],
+        [
+            1716983662,
+            52.6456,
+            8.9072,
+            304,
+            125,
+            false
+        ],
+        [
+            1716983714,
+            52.6281,
+            8.9459,
+            304,
+            126,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-08:53:01",
+    "baro_altitude": 266.7,
+    "category": 0,
+    "geo_altitude": 281.94,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716978989,
+    "latitude": 52.3327,
+    "longitude": 8.9216,
+    "on_ground": false,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1716978989,
+    "true_track": 274.18,
+    "velocity": 42.3,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 117,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDXI",
+    "estDepartureAirportHorizDistance": 20296,
+    "estDepartureAirportVertDistance": 188,
+    "firstSeen": 1716983581,
+    "lastSeen": 1716983714
+}

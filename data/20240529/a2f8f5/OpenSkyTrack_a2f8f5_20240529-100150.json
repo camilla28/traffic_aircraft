@@ -1,0 +1,144 @@
+{
+    "callsign": "N2908L  ",
+    "endTime": "2024/05/29-10:01:45",
+    "icao24": "a2f8f5",
+    "path": [
+        [
+            1716987560,
+            30.5378,
+            -86.4439,
+            0,
+            338,
+            false
+        ],
+        [
+            1716987578,
+            30.5441,
+            -86.4472,
+            0,
+            336,
+            false
+        ],
+        [
+            1716987585,
+            30.5466,
+            -86.4481,
+            0,
+            346,
+            false
+        ],
+        [
+            1716987627,
+            30.563,
+            -86.4523,
+            0,
+            345,
+            false
+        ],
+        [
+            1716987634,
+            30.5658,
+            -86.4533,
+            0,
+            341,
+            false
+        ],
+        [
+            1716987641,
+            30.5687,
+            -86.4545,
+            304,
+            338,
+            false
+        ],
+        [
+            1716987665,
+            30.5777,
+            -86.4586,
+            304,
+            340,
+            false
+        ],
+        [
+            1716987673,
+            30.5809,
+            -86.4597,
+            304,
+            349,
+            false
+        ],
+        [
+            1716987681,
+            30.5839,
+            -86.4599,
+            304,
+            0,
+            false
+        ],
+        [
+            1716987688,
+            30.587,
+            -86.46,
+            304,
+            357,
+            false
+        ],
+        [
+            1716987697,
+            30.5903,
+            -86.4602,
+            304,
+            358,
+            false
+        ],
+        [
+            1716987705,
+            30.5934,
+            -86.4601,
+            304,
+            2,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-09:59:20",
+    "baro_altitude": 198.12,
+    "category": 0,
+    "geo_altitude": 205.74,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716987585,
+    "latitude": 30.5468,
+    "longitude": -86.4482,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1716987585,
+    "true_track": 346.8,
+    "velocity": 42.8,
+    "vertical_rate": 1.95,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 178,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "FL17",
+    "estDepartureAirportHorizDistance": 2073,
+    "estDepartureAirportVertDistance": 124,
+    "firstSeen": 1716987560,
+    "lastSeen": 1716987705
+}

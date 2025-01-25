@@ -1,0 +1,80 @@
+{
+    "callsign": "CXK558  ",
+    "endTime": "2024/06/07-11:23:49",
+    "icao24": "a1a6d5",
+    "path": [
+        [
+            1717770064,
+            36.0322,
+            -85.9102,
+            1219,
+            270,
+            false
+        ],
+        [
+            1717770146,
+            36.032,
+            -85.9601,
+            1219,
+            270,
+            false
+        ],
+        [
+            1717770195,
+            36.0311,
+            -85.9864,
+            1219,
+            267,
+            false
+        ],
+        [
+            1717770229,
+            36.0305,
+            -86.0033,
+            1219,
+            266,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-11:21:04",
+    "baro_altitude": 1379.22,
+    "category": 0,
+    "geo_altitude": 1394.46,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762651,
+    "latitude": 35.4107,
+    "longitude": -86.5553,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717762651,
+    "true_track": 180.97,
+    "velocity": 60.71,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 238,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "2TN8",
+    "estDepartureAirportHorizDistance": 2805,
+    "estDepartureAirportVertDistance": 1202,
+    "firstSeen": 1717770064,
+    "lastSeen": 1717770229
+}

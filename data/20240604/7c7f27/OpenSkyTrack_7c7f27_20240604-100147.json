@@ -1,0 +1,120 @@
+{
+    "callsign": "ZEH     ",
+    "endTime": "2024/06/04-09:52:30",
+    "icao24": "7c7f27",
+    "path": [
+        [
+            1717499439,
+            -32.1227,
+            115.8926,
+            0,
+            230,
+            false
+        ],
+        [
+            1717500221,
+            -32.1235,
+            115.8915,
+            0,
+            230,
+            false
+        ],
+        [
+            1717501039,
+            -32.1243,
+            115.8904,
+            0,
+            231,
+            false
+        ],
+        [
+            1717501697,
+            -32.1209,
+            115.8954,
+            0,
+            231,
+            false
+        ],
+        [
+            1717502471,
+            -32.125,
+            115.8893,
+            0,
+            232,
+            false
+        ],
+        [
+            1717503364,
+            -32.1259,
+            115.888,
+            0,
+            230,
+            false
+        ],
+        [
+            1717504258,
+            -32.1269,
+            115.8866,
+            0,
+            229,
+            false
+        ],
+        [
+            1717505132,
+            -32.1231,
+            115.8921,
+            0,
+            228,
+            false
+        ],
+        [
+            1717505550,
+            -32.1284,
+            115.8847,
+            0,
+            228,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:10:39",
+    "baro_altitude": 205.74,
+    "category": 0,
+    "geo_altitude": 266.7,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504648,
+    "latitude": -32.1274,
+    "longitude": 115.886,
+    "on_ground": false,
+    "origin_country": "Australia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3000",
+    "time_position": 1717504628,
+    "true_track": 229.33,
+    "velocity": 48.15,
+    "vertical_rate": 0.98,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 35,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "YPJT",
+    "estDepartureAirportHorizDistance": 3011,
+    "estDepartureAirportVertDistance": 175,
+    "firstSeen": 1717499439,
+    "lastSeen": 1717505550
+}

@@ -1,0 +1,104 @@
+{
+    "callsign": "DAL2963 ",
+    "endTime": "2024/06/04-10:23:09",
+    "icao24": "abe1c2",
+    "path": [
+        [
+            1717502541,
+            35.293,
+            -114.4079,
+            10363,
+            295,
+            false
+        ],
+        [
+            1717503432,
+            35.2979,
+            -114.42,
+            10363,
+            295,
+            false
+        ],
+        [
+            1717504244,
+            35.3014,
+            -114.4288,
+            10363,
+            295,
+            false
+        ],
+        [
+            1717505064,
+            35.3043,
+            -114.4362,
+            10363,
+            295,
+            false
+        ],
+        [
+            1717505874,
+            35.3061,
+            -114.4407,
+            10363,
+            295,
+            false
+        ],
+        [
+            1717506740,
+            35.3092,
+            -114.4486,
+            10363,
+            295,
+            false
+        ],
+        [
+            1717507389,
+            35.3115,
+            -114.4544,
+            10363,
+            295,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:02:21",
+    "baro_altitude": 10363.2,
+    "category": 4,
+    "geo_altitude": 10888.98,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504689,
+    "latitude": 35.3027,
+    "longitude": -114.4322,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504544,
+    "true_track": 295.87,
+    "velocity": 227.55,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "1AZ8",
+    "estDepartureAirportHorizDistance": 2877,
+    "estDepartureAirportVertDistance": 9220,
+    "firstSeen": 1717502541,
+    "lastSeen": 1717507389
+}

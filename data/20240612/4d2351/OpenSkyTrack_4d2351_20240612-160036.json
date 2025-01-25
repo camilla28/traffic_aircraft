@@ -1,0 +1,128 @@
+{
+    "callsign": "EWG1ZN  ",
+    "endTime": "2024/06/12-16:00:43",
+    "icao24": "4d2351",
+    "path": [
+        [
+            1718218770,
+            48.1201,
+            16.5417,
+            304,
+            294,
+            false
+        ],
+        [
+            1718218778,
+            48.1221,
+            16.5341,
+            304,
+            285,
+            false
+        ],
+        [
+            1718218786,
+            48.1225,
+            16.5259,
+            304,
+            269,
+            false
+        ],
+        [
+            1718218795,
+            48.1222,
+            16.5169,
+            609,
+            265,
+            false
+        ],
+        [
+            1718218803,
+            48.1214,
+            16.5072,
+            609,
+            261,
+            false
+        ],
+        [
+            1718218812,
+            48.1202,
+            16.4972,
+            609,
+            258,
+            false
+        ],
+        [
+            1718218820,
+            48.1188,
+            16.4871,
+            609,
+            257,
+            false
+        ],
+        [
+            1718218828,
+            48.1173,
+            16.4761,
+            914,
+            260,
+            false
+        ],
+        [
+            1718218836,
+            48.1169,
+            16.4644,
+            914,
+            271,
+            false
+        ],
+        [
+            1718218843,
+            48.1177,
+            16.4522,
+            914,
+            276,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-15:59:30",
+    "baro_altitude": 10363.2,
+    "category": 0,
+    "geo_altitude": 10340.34,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204679,
+    "latitude": 52.5136,
+    "longitude": 6.8636,
+    "on_ground": false,
+    "origin_country": "Malta",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5542",
+    "time_position": 1718204675,
+    "true_track": 46.04,
+    "velocity": 241.58,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 86,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LOWW",
+    "estDepartureAirportHorizDistance": 1825,
+    "estDepartureAirportVertDistance": 152,
+    "firstSeen": 1718218770,
+    "lastSeen": 1718218843
+}

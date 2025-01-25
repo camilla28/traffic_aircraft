@@ -1,0 +1,72 @@
+{
+    "callsign": "ANZ1    ",
+    "endTime": "2024/06/04-08:19:39",
+    "icao24": "c82439",
+    "path": [
+        [
+            1717498481,
+            40.2186,
+            -75.564,
+            7315,
+            267,
+            false
+        ],
+        [
+            1717499367,
+            40.215,
+            -75.6906,
+            7315,
+            267,
+            false
+        ],
+        [
+            1717499979,
+            40.2142,
+            -75.7198,
+            7315,
+            267,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:54:41",
+    "baro_altitude": 7574.28,
+    "category": 6,
+    "geo_altitude": 7871.46,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499980,
+    "latitude": 40.2142,
+    "longitude": -75.7198,
+    "on_ground": false,
+    "origin_country": "New Zealand",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499979,
+    "true_track": 267.85,
+    "velocity": 247.11,
+    "vertical_rate": 5.2,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 13,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KPTW",
+    "estDepartureAirportHorizDistance": 3747,
+    "estDepartureAirportVertDistance": 7221,
+    "firstSeen": 1717498481,
+    "lastSeen": 1717499979
+}

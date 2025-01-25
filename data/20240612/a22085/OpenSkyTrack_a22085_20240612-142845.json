@@ -1,0 +1,80 @@
+{
+    "callsign": "N236TT  ",
+    "endTime": "2024/06/12-14:28:48",
+    "icao24": "a22085",
+    "path": [
+        [
+            1718212764,
+            40.1765,
+            -76.2267,
+            914,
+            61,
+            false
+        ],
+        [
+            1718212846,
+            40.1964,
+            -76.1786,
+            914,
+            62,
+            false
+        ],
+        [
+            1718212937,
+            40.2196,
+            -76.1231,
+            1219,
+            62,
+            false
+        ],
+        [
+            1718213328,
+            40.3426,
+            -75.8206,
+            1524,
+            61,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-14:19:24",
+    "baro_altitude": 2552.7,
+    "category": 0,
+    "geo_altitude": 2575.56,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204674,
+    "latitude": 39.9853,
+    "longitude": -75.3399,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2206",
+    "time_position": 1718204674,
+    "true_track": 231.47,
+    "velocity": 71.02,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 540,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KLNS",
+    "estDepartureAirportHorizDistance": 8345,
+    "estDepartureAirportVertDistance": 837,
+    "firstSeen": 1718212764,
+    "lastSeen": 1718213328
+}

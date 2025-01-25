@@ -1,0 +1,144 @@
+{
+    "callsign": "SWA4670 ",
+    "endTime": "2024/06/07-16:18:27",
+    "icao24": "ac74e4",
+    "path": [
+        [
+            1717787774,
+            38.8562,
+            -77.0383,
+            0,
+            355,
+            false
+        ],
+        [
+            1717787785,
+            38.8635,
+            -77.0391,
+            0,
+            356,
+            false
+        ],
+        [
+            1717787794,
+            38.8702,
+            -77.0405,
+            304,
+            341,
+            false
+        ],
+        [
+            1717787803,
+            38.8755,
+            -77.0446,
+            304,
+            320,
+            false
+        ],
+        [
+            1717787822,
+            38.8871,
+            -77.0573,
+            609,
+            320,
+            false
+        ],
+        [
+            1717787829,
+            38.8917,
+            -77.0626,
+            609,
+            316,
+            false
+        ],
+        [
+            1717787839,
+            38.8982,
+            -77.0712,
+            914,
+            311,
+            false
+        ],
+        [
+            1717787849,
+            38.9039,
+            -77.0809,
+            914,
+            304,
+            false
+        ],
+        [
+            1717787866,
+            38.912,
+            -77.0988,
+            1219,
+            303,
+            false
+        ],
+        [
+            1717787875,
+            38.9183,
+            -77.108,
+            1219,
+            316,
+            false
+        ],
+        [
+            1717787877,
+            38.9204,
+            -77.1104,
+            1219,
+            320,
+            false
+        ],
+        [
+            1717787907,
+            38.9231,
+            -77.113,
+            1219,
+            322,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-16:16:14",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717783970,
+    "latitude": 38.8457,
+    "longitude": -77.0425,
+    "on_ground": true,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2346",
+    "time_position": 1717783964,
+    "true_track": 258.75,
+    "velocity": 5.4,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 504,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KDCA",
+    "estDepartureAirportHorizDistance": 453,
+    "estDepartureAirportVertDistance": 117,
+    "firstSeen": 1717787774,
+    "lastSeen": 1717787877
+}

@@ -1,0 +1,120 @@
+{
+    "callsign": "BKP905  ",
+    "endTime": "2024/06/04-09:24:06",
+    "icao24": "884341",
+    "path": [
+        [
+            1717499349,
+            13.6512,
+            100.8182,
+            609,
+            93,
+            false
+        ],
+        [
+            1717500247,
+            13.6507,
+            100.8233,
+            609,
+            94,
+            false
+        ],
+        [
+            1717500778,
+            13.6505,
+            100.8262,
+            609,
+            94,
+            false
+        ],
+        [
+            1717500869,
+            13.65,
+            100.832,
+            914,
+            94,
+            false
+        ],
+        [
+            1717500895,
+            13.6504,
+            100.8277,
+            609,
+            94,
+            false
+        ],
+        [
+            1717501775,
+            13.6491,
+            100.8434,
+            914,
+            94,
+            false
+        ],
+        [
+            1717502611,
+            13.6485,
+            100.8513,
+            914,
+            94,
+            false
+        ],
+        [
+            1717503473,
+            13.6478,
+            100.8587,
+            914,
+            95,
+            false
+        ],
+        [
+            1717503846,
+            13.6475,
+            100.862,
+            914,
+            95,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:09:09",
+    "baro_altitude": 876.3,
+    "category": 0,
+    "geo_altitude": 883.92,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499993,
+    "latitude": 13.6508,
+    "longitude": 100.822,
+    "on_ground": false,
+    "origin_country": "Thailand",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499985,
+    "true_track": 94.63,
+    "velocity": 89.29,
+    "vertical_rate": 5.2,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 15,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "VTBS",
+    "estDepartureAirportHorizDistance": 148087,
+    "estDepartureAirportVertDistance": 851,
+    "firstSeen": 1717499349,
+    "lastSeen": 1717503846
+}

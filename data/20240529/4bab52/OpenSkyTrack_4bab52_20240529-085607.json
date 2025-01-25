@@ -1,0 +1,128 @@
+{
+    "callsign": "TKJ3CK  ",
+    "endTime": "2024/05/29-07:49:06",
+    "icao24": "4bab52",
+    "path": [
+        [
+            1716978864,
+            35.1596,
+            33.4854,
+            304,
+            298,
+            false
+        ],
+        [
+            1716978869,
+            35.1619,
+            33.4813,
+            304,
+            306,
+            false
+        ],
+        [
+            1716978873,
+            35.1642,
+            33.4783,
+            304,
+            312,
+            false
+        ],
+        [
+            1716978878,
+            35.1672,
+            33.4745,
+            304,
+            315,
+            false
+        ],
+        [
+            1716978886,
+            35.1724,
+            33.4687,
+            304,
+            317,
+            false
+        ],
+        [
+            1716979258,
+            33.8183,
+            35.4908,
+            5181,
+            0,
+            false
+        ],
+        [
+            1716979258,
+            33.8183,
+            35.4908,
+            5181,
+            0,
+            false
+        ],
+        [
+            1716979306,
+            33.8183,
+            35.4908,
+            5486,
+            0,
+            false
+        ],
+        [
+            1716979353,
+            33.8183,
+            35.4908,
+            5791,
+            0,
+            false
+        ],
+        [
+            1716979746,
+            33.8183,
+            35.4908,
+            6096,
+            0,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-07:34:24",
+    "baro_altitude": 594.36,
+    "category": 0,
+    "geo_altitude": 609.6,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716978987,
+    "latitude": 35.1724,
+    "longitude": 33.4687,
+    "on_ground": false,
+    "origin_country": "Turkey",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1716978886,
+    "true_track": 317.43,
+    "velocity": 94.3,
+    "vertical_rate": 5.85,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 5,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LCEN",
+    "estDepartureAirportHorizDistance": 181333,
+    "estDepartureAirportVertDistance": 227,
+    "firstSeen": 1716978864,
+    "lastSeen": 1716979746
+}

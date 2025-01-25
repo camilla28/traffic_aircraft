@@ -1,0 +1,96 @@
+{
+    "callsign": "SHT9J   ",
+    "endTime": "2024/06/12-10:42:29",
+    "icao24": "407536",
+    "path": [
+        [
+            1718199708,
+            55.9542,
+            -3.3601,
+            0,
+            58,
+            false
+        ],
+        [
+            1718199716,
+            55.957,
+            -3.3519,
+            0,
+            58,
+            false
+        ],
+        [
+            1718199724,
+            55.96,
+            -3.3436,
+            304,
+            55,
+            false
+        ],
+        [
+            1718199732,
+            55.9635,
+            -3.337,
+            304,
+            43,
+            false
+        ],
+        [
+            1718199741,
+            55.9692,
+            -3.3294,
+            304,
+            33,
+            false
+        ],
+        [
+            1718199749,
+            55.9743,
+            -3.3235,
+            304,
+            31,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-10:41:48",
+    "baro_altitude": 571.5,
+    "category": 0,
+    "geo_altitude": 670.56,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194259,
+    "latitude": 55.8952,
+    "longitude": -3.5333,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "6345",
+    "time_position": 1718194259,
+    "true_track": 58.68,
+    "velocity": 86.11,
+    "vertical_rate": -4.88,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 18,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EGPH",
+    "estDepartureAirportHorizDistance": 496,
+    "estDepartureAirportVertDistance": 73,
+    "firstSeen": 1718199708,
+    "lastSeen": 1718199749
+}

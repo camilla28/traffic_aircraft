@@ -1,0 +1,80 @@
+{
+    "callsign": "JKA55   ",
+    "endTime": "2024/06/07-13:57:38",
+    "icao24": "a6fe1f",
+    "path": [
+        [
+            1717779429,
+            29.2473,
+            -98.803,
+            609,
+            47,
+            false
+        ],
+        [
+            1717779440,
+            29.2519,
+            -98.8009,
+            609,
+            9,
+            false
+        ],
+        [
+            1717779447,
+            29.2554,
+            -98.8004,
+            609,
+            4,
+            false
+        ],
+        [
+            1717779458,
+            29.2604,
+            -98.8,
+            609,
+            3,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-13:57:09",
+    "baro_altitude": 868.68,
+    "category": 0,
+    "geo_altitude": 891.54,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717779458,
+    "latitude": 29.2604,
+    "longitude": -98.8,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717779458,
+    "true_track": 3.33,
+    "velocity": 53.08,
+    "vertical_rate": 1.95,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 352,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KCVB",
+    "estDepartureAirportHorizDistance": 11380,
+    "estDepartureAirportVertDistance": 595,
+    "firstSeen": 1717779429,
+    "lastSeen": 1717779458
+}

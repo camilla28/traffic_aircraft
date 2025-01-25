@@ -1,0 +1,80 @@
+{
+    "callsign": "BCS7922 ",
+    "endTime": "2024/06/04-08:37:34",
+    "icao24": "3c70b2",
+    "path": [
+        [
+            1717498739,
+            48.0007,
+            9.7122,
+            11277,
+            146,
+            false
+        ],
+        [
+            1717499616,
+            47.9936,
+            9.7192,
+            11277,
+            146,
+            false
+        ],
+        [
+            1717500509,
+            47.9857,
+            9.7269,
+            11277,
+            146,
+            false
+        ],
+        [
+            1717501054,
+            47.9812,
+            9.7313,
+            11277,
+            146,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:58:59",
+    "baro_altitude": 11277.6,
+    "category": 1,
+    "geo_altitude": 11475.72,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500025,
+    "latitude": 47.9894,
+    "longitude": 9.7233,
+    "on_ground": false,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2574",
+    "time_position": 1717500018,
+    "true_track": 146.59,
+    "velocity": 229.86,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDMB",
+    "estDepartureAirportHorizDistance": 223286,
+    "estDepartureAirportVertDistance": 10697,
+    "firstSeen": 1717498739,
+    "lastSeen": 1717501054
+}

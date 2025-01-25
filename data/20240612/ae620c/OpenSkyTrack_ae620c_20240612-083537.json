@@ -1,0 +1,136 @@
+{
+    "callsign": "CARD11  ",
+    "endTime": "2024/06/12-08:34:40",
+    "icao24": "ae620c",
+    "path": [
+        [
+            1718191439,
+            37.429,
+            127.1077,
+            304,
+            184,
+            false
+        ],
+        [
+            1718191458,
+            37.4199,
+            127.1075,
+            304,
+            182,
+            false
+        ],
+        [
+            1718191458,
+            37.4199,
+            127.1075,
+            304,
+            187,
+            false
+        ],
+        [
+            1718191501,
+            37.4011,
+            127.1041,
+            304,
+            187,
+            false
+        ],
+        [
+            1718191593,
+            37.3566,
+            127.1016,
+            304,
+            179,
+            false
+        ],
+        [
+            1718191685,
+            37.3038,
+            127.1019,
+            304,
+            179,
+            false
+        ],
+        [
+            1718191689,
+            37.3009,
+            127.1021,
+            304,
+            171,
+            false
+        ],
+        [
+            1718191713,
+            37.2908,
+            127.1123,
+            304,
+            171,
+            false
+        ],
+        [
+            1718191713,
+            37.2908,
+            127.1123,
+            304,
+            106,
+            false
+        ],
+        [
+            1718192073,
+            37.2335,
+            127.3461,
+            609,
+            93,
+            false
+        ],
+        [
+            1718192080,
+            37.2333,
+            127.3515,
+            609,
+            93,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-08:23:59",
+    "baro_altitude": 525.78,
+    "category": 0,
+    "geo_altitude": 502.92,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718191718,
+    "latitude": 37.2908,
+    "longitude": 127.1123,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718191713,
+    "true_track": 106.83,
+    "velocity": 63.96,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 62,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "RKSM",
+    "estDepartureAirportHorizDistance": 1810,
+    "estDepartureAirportVertDistance": 299,
+    "firstSeen": 1718191439,
+    "lastSeen": 1718192080
+}

@@ -1,0 +1,72 @@
+{
+    "callsign": "BRX611R ",
+    "endTime": "2024/06/07-10:50:42",
+    "icao24": "4ab563",
+    "path": [
+        [
+            1717768220,
+            56.2925,
+            15.2707,
+            304,
+            348,
+            false
+        ],
+        [
+            1717768227,
+            56.2968,
+            15.2684,
+            304,
+            345,
+            false
+        ],
+        [
+            1717768242,
+            56.306,
+            15.2618,
+            609,
+            337,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-10:50:20",
+    "baro_altitude": 3794.76,
+    "category": 0,
+    "geo_altitude": 3764.28,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762945,
+    "latitude": 59.132,
+    "longitude": 17.4727,
+    "on_ground": false,
+    "origin_country": "Sweden",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0271",
+    "time_position": 1717762945,
+    "true_track": 203.99,
+    "velocity": 97.42,
+    "vertical_rate": 5.85,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 19,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "ESDF",
+    "estDepartureAirportHorizDistance": 2893,
+    "estDepartureAirportVertDistance": 421,
+    "firstSeen": 1717768220,
+    "lastSeen": 1717768242
+}

@@ -1,0 +1,112 @@
+{
+    "callsign": "DAH1120 ",
+    "endTime": "2024/05/29-07:50:54",
+    "icao24": "0a008c",
+    "path": [
+        [
+            1716977070,
+            37.6907,
+            6.1557,
+            10972,
+            357,
+            false
+        ],
+        [
+            1716977657,
+            38.8076,
+            6.0983,
+            10972,
+            357,
+            false
+        ],
+        [
+            1716977660,
+            38.8125,
+            6.0978,
+            10972,
+            355,
+            false
+        ],
+        [
+            1716977666,
+            38.8229,
+            6.0965,
+            10972,
+            352,
+            false
+        ],
+        [
+            1716977672,
+            38.8346,
+            6.0943,
+            10972,
+            352,
+            false
+        ],
+        [
+            1716978567,
+            40.4959,
+            5.736,
+            10972,
+            350,
+            false
+        ],
+        [
+            1716979465,
+            42.1385,
+            5.3642,
+            10972,
+            350,
+            false
+        ],
+        [
+            1716979854,
+            42.8462,
+            5.1979,
+            10972,
+            350,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-07:04:30",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": 11407.14,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716978990,
+    "latitude": 41.2754,
+    "longitude": 5.562,
+    "on_ground": false,
+    "origin_country": "Algeria",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1716978989,
+    "true_track": 350.26,
+    "velocity": 206.7,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1716977070,
+    "lastSeen": 1716979854
+}

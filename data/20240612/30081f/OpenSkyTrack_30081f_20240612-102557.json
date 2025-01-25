@@ -1,0 +1,72 @@
+{
+    "callsign": "CPV369  ",
+    "endTime": "2024/06/12-10:26:02",
+    "icao24": "30081f",
+    "path": [
+        [
+            1718197920,
+            45.4534,
+            9.3196,
+            304,
+            79,
+            false
+        ],
+        [
+            1718197937,
+            45.4549,
+            9.333,
+            304,
+            80,
+            false
+        ],
+        [
+            1718198762,
+            45.5535,
+            10.1078,
+            609,
+            79,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-10:12:00",
+    "baro_altitude": 1386.84,
+    "category": 0,
+    "geo_altitude": 1455.42,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194258,
+    "latitude": 44.5482,
+    "longitude": 11.0014,
+    "on_ground": false,
+    "origin_country": "Italy",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718194258,
+    "true_track": 311.15,
+    "velocity": 81.3,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 56,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LIML",
+    "estDepartureAirportHorizDistance": 3084,
+    "estDepartureAirportVertDistance": 410,
+    "firstSeen": 1718197920,
+    "lastSeen": 1718198762
+}

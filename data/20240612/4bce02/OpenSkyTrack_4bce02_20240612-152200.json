@@ -1,0 +1,72 @@
+{
+    "callsign": "SXS76W  ",
+    "endTime": "2024/06/12-15:22:09",
+    "icao24": "4bce02",
+    "path": [
+        [
+            1718216512,
+            38.0993,
+            27.4628,
+            3048,
+            105,
+            false
+        ],
+        [
+            1718216521,
+            38.0958,
+            27.4793,
+            3048,
+            105,
+            false
+        ],
+        [
+            1718216529,
+            38.0921,
+            27.4959,
+            3352,
+            105,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-15:21:52",
+    "baro_altitude": 9875.52,
+    "category": 0,
+    "geo_altitude": 10500.36,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204674,
+    "latitude": 39.9833,
+    "longitude": 26.6222,
+    "on_ground": false,
+    "origin_country": "Turkey",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "6415",
+    "time_position": 1718204674,
+    "true_track": 135.65,
+    "velocity": 256.84,
+    "vertical_rate": -14.63,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1718216512,
+    "lastSeen": 1718216529
+}

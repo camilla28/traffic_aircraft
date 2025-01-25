@@ -1,0 +1,136 @@
+{
+    "callsign": "LPE2292 ",
+    "endTime": "2024/06/14-11:04:18",
+    "icao24": "e80272",
+    "path": [
+        [
+            1718373274,
+            -11.0798,
+            -77.6088,
+            5486,
+            167,
+            false
+        ],
+        [
+            1718373292,
+            -11.1048,
+            -77.6031,
+            5486,
+            167,
+            false
+        ],
+        [
+            1718373389,
+            -11.238,
+            -77.5731,
+            4572,
+            167,
+            false
+        ],
+        [
+            1718373432,
+            -11.2914,
+            -77.5515,
+            4267,
+            148,
+            false
+        ],
+        [
+            1718373457,
+            -11.3207,
+            -77.5326,
+            4267,
+            148,
+            false
+        ],
+        [
+            1718373614,
+            -11.4913,
+            -77.4255,
+            3352,
+            147,
+            false
+        ],
+        [
+            1718373665,
+            -11.5436,
+            -77.3927,
+            3048,
+            148,
+            false
+        ],
+        [
+            1718373724,
+            -11.5773,
+            -77.3716,
+            2743,
+            148,
+            false
+        ],
+        [
+            1718373752,
+            -11.6281,
+            -77.3393,
+            2133,
+            147,
+            false
+        ],
+        [
+            1718373817,
+            -11.688,
+            -77.3016,
+            1828,
+            148,
+            false
+        ],
+        [
+            1718373858,
+            -11.7229,
+            -77.2796,
+            1524,
+            147,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-10:54:34",
+    "baro_altitude": 2918.46,
+    "category": 0,
+    "geo_altitude": 3147.06,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718373683,
+    "latitude": -11.562,
+    "longitude": -77.3812,
+    "on_ground": false,
+    "origin_country": "Chile",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718373683,
+    "true_track": 148.26,
+    "velocity": 130.06,
+    "vertical_rate": -9.1,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "SPVI",
+    "estDepartureAirportHorizDistance": 163372,
+    "estDepartureAirportVertDistance": 1527,
+    "firstSeen": 1718373274,
+    "lastSeen": 1718373858
+}

@@ -1,0 +1,120 @@
+{
+    "callsign": "ROU1647 ",
+    "endTime": "2024/06/04-08:46:38",
+    "icao24": "c0407b",
+    "path": [
+        [
+            1717497405,
+            26.8775,
+            -80.3419,
+            7010,
+            339,
+            false
+        ],
+        [
+            1717498220,
+            26.8851,
+            -80.3451,
+            7010,
+            339,
+            false
+        ],
+        [
+            1717499100,
+            26.8907,
+            -80.3473,
+            7010,
+            339,
+            false
+        ],
+        [
+            1717499884,
+            26.8964,
+            -80.3498,
+            7010,
+            339,
+            false
+        ],
+        [
+            1717499887,
+            26.8983,
+            -80.3505,
+            7315,
+            339,
+            false
+        ],
+        [
+            1717499897,
+            26.8954,
+            -80.3494,
+            7010,
+            339,
+            false
+        ],
+        [
+            1717500694,
+            26.9139,
+            -80.3571,
+            7315,
+            339,
+            false
+        ],
+        [
+            1717501583,
+            26.9309,
+            -80.3642,
+            7315,
+            339,
+            false
+        ],
+        [
+            1717501598,
+            26.928,
+            -80.363,
+            7315,
+            339,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:36:45",
+    "baro_altitude": 7353.3,
+    "category": 0,
+    "geo_altitude": 7749.54,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500036,
+    "latitude": 26.9041,
+    "longitude": -80.353,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717500030,
+    "true_track": 339.41,
+    "velocity": 225.31,
+    "vertical_rate": 10.4,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 2,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "06FA",
+    "estDepartureAirportHorizDistance": 3668,
+    "estDepartureAirportVertDistance": 7215,
+    "firstSeen": 1717497405,
+    "lastSeen": 1717501598
+}

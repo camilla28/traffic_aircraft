@@ -1,0 +1,80 @@
+{
+    "callsign": "VTI238  ",
+    "endTime": "2024/06/03-18:59:17",
+    "icao24": "8014c4",
+    "path": [
+        [
+            1717451429,
+            25.4163,
+            55.4264,
+            10058,
+            108,
+            false
+        ],
+        [
+            1717451911,
+            25.0818,
+            56.5365,
+            10058,
+            108,
+            false
+        ],
+        [
+            1717451916,
+            25.0784,
+            56.5462,
+            10058,
+            111,
+            false
+        ],
+        [
+            1717451957,
+            25.0445,
+            56.6376,
+            10058,
+            112,
+            false
+        ]
+    ],
+    "startTime": "2024/06/03-18:50:29",
+    "baro_altitude": 10058.4,
+    "category": 0,
+    "geo_altitude": 10744.2,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717451529,
+    "latitude": 25.348,
+    "longitude": 55.6563,
+    "on_ground": false,
+    "origin_country": "India",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717451529,
+    "true_track": 108.13,
+    "velocity": 244.68,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "OMSJ",
+    "estDepartureAirportHorizDistance": 96012,
+    "estDepartureAirportVertDistance": 10024,
+    "firstSeen": 1717451429,
+    "lastSeen": 1717451957
+}

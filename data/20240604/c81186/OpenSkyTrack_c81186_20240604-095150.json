@@ -1,0 +1,128 @@
+{
+    "callsign": "CAP01   ",
+    "endTime": "2024/06/04-09:51:18",
+    "icao24": "c81186",
+    "path": [
+        [
+            1717501088,
+            -41.0005,
+            175.555,
+            609,
+            242,
+            false
+        ],
+        [
+            1717501942,
+            -41.004,
+            175.5464,
+            609,
+            242,
+            false
+        ],
+        [
+            1717502827,
+            -41.0073,
+            175.5381,
+            609,
+            241,
+            false
+        ],
+        [
+            1717503688,
+            -41.0105,
+            175.5301,
+            609,
+            243,
+            false
+        ],
+        [
+            1717504326,
+            -41.013,
+            175.5233,
+            609,
+            244,
+            false
+        ],
+        [
+            1717504476,
+            -41.0137,
+            175.5211,
+            609,
+            246,
+            false
+        ],
+        [
+            1717504747,
+            -41.0148,
+            175.5175,
+            609,
+            248,
+            false
+        ],
+        [
+            1717505063,
+            -41.016,
+            175.5131,
+            609,
+            250,
+            false
+        ],
+        [
+            1717505327,
+            -41.0169,
+            175.5096,
+            609,
+            252,
+            false
+        ],
+        [
+            1717505478,
+            -41.0177,
+            175.5058,
+            609,
+            253,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:38:08",
+    "baro_altitude": 822.96,
+    "category": 0,
+    "geo_altitude": 891.54,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504645,
+    "latitude": -41.0145,
+    "longitude": 175.5187,
+    "on_ground": false,
+    "origin_country": "New Zealand",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504645,
+    "true_track": 248.92,
+    "velocity": 45.76,
+    "vertical_rate": 4.23,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 21,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "NZMS",
+    "estDepartureAirportHorizDistance": 7242,
+    "estDepartureAirportVertDistance": 559,
+    "firstSeen": 1717501088,
+    "lastSeen": 1717505478
+}

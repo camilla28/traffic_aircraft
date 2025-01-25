@@ -1,0 +1,72 @@
+{
+    "callsign": "N5642T  ",
+    "endTime": "2024/05/29-10:01:29",
+    "icao24": "a73876",
+    "path": [
+        [
+            1716986993,
+            44.7887,
+            -87.4765,
+            914,
+            216,
+            false
+        ],
+        [
+            1716987054,
+            44.7668,
+            -87.4998,
+            914,
+            217,
+            false
+        ],
+        [
+            1716987689,
+            44.4585,
+            -87.8119,
+            1219,
+            216,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-09:49:53",
+    "baro_altitude": 1287.78,
+    "category": 0,
+    "geo_altitude": 1310.64,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716987575,
+    "latitude": 44.5143,
+    "longitude": -87.7558,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1716987575,
+    "true_track": 215.64,
+    "velocity": 67.1,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 148,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KSUE",
+    "estDepartureAirportHorizDistance": 7380,
+    "estDepartureAirportVertDistance": 739,
+    "firstSeen": 1716986993,
+    "lastSeen": 1716987689
+}

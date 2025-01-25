@@ -1,0 +1,112 @@
+{
+    "callsign": "4XBEP   ",
+    "endTime": "2024/06/12-08:50:08",
+    "icao24": "739474",
+    "path": [
+        [
+            1718191348,
+            33.8182,
+            35.4909,
+            0,
+            0,
+            false
+        ],
+        [
+            1718192051,
+            33.8183,
+            35.4908,
+            0,
+            0,
+            false
+        ],
+        [
+            1718192051,
+            33.8183,
+            35.4908,
+            304,
+            0,
+            false
+        ],
+        [
+            1718192398,
+            33.8184,
+            35.4908,
+            609,
+            0,
+            false
+        ],
+        [
+            1718192398,
+            33.8184,
+            35.4908,
+            914,
+            0,
+            false
+        ],
+        [
+            1718192450,
+            33.8183,
+            35.4908,
+            609,
+            0,
+            false
+        ],
+        [
+            1718192450,
+            33.8183,
+            35.4908,
+            914,
+            0,
+            false
+        ],
+        [
+            1718193008,
+            33.818,
+            35.4908,
+            609,
+            0,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-08:22:28",
+    "baro_altitude": 83.82,
+    "category": 0,
+    "geo_altitude": 190.5,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718191523,
+    "latitude": 33.8183,
+    "longitude": 35.4908,
+    "on_ground": false,
+    "origin_country": "Israel",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "4523",
+    "time_position": 1718191444,
+    "true_track": 0,
+    "velocity": 0,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 30,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "OLBA",
+    "estDepartureAirportHorizDistance": 377,
+    "estDepartureAirportVertDistance": 141,
+    "firstSeen": 1718191348,
+    "lastSeen": 1718193008
+}

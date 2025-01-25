@@ -1,0 +1,120 @@
+{
+    "callsign": "IGO2296 ",
+    "endTime": "2024/06/04-09:38:44",
+    "icao24": "511153",
+    "path": [
+        [
+            1717502816,
+            28.5655,
+            77.0921,
+            304,
+            284,
+            false
+        ],
+        [
+            1717503252,
+            28.5688,
+            77.0774,
+            304,
+            284,
+            false
+        ],
+        [
+            1717503261,
+            28.5692,
+            77.0757,
+            609,
+            284,
+            false
+        ],
+        [
+            1717503272,
+            28.5686,
+            77.0782,
+            304,
+            284,
+            false
+        ],
+        [
+            1717503280,
+            28.5694,
+            77.0747,
+            609,
+            283,
+            false
+        ],
+        [
+            1717503301,
+            28.5685,
+            77.0786,
+            304,
+            284,
+            false
+        ],
+        [
+            1717504181,
+            28.5763,
+            77.0437,
+            609,
+            284,
+            false
+        ],
+        [
+            1717504379,
+            28.5783,
+            77.0349,
+            609,
+            284,
+            false
+        ],
+        [
+            1717504724,
+            28.5814,
+            77.0213,
+            914,
+            285,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:06:56",
+    "baro_altitude": 982.98,
+    "category": 0,
+    "geo_altitude": 891.54,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504715,
+    "latitude": 28.5805,
+    "longitude": 77.0253,
+    "on_ground": false,
+    "origin_country": "Estonia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0504",
+    "time_position": 1717504715,
+    "true_track": 284.91,
+    "velocity": 89.97,
+    "vertical_rate": 10.4,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 15,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "VIDP",
+    "estDepartureAirportHorizDistance": 413245,
+    "estDepartureAirportVertDistance": 159,
+    "firstSeen": 1717502816,
+    "lastSeen": 1717504724
+}

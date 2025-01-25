@@ -1,0 +1,104 @@
+{
+    "callsign": "PBD354  ",
+    "endTime": "2024/06/07-15:05:18",
+    "icao24": "151e55",
+    "path": [
+        [
+            1717775395,
+            54.629,
+            49.9229,
+            10668,
+            220,
+            false
+        ],
+        [
+            1717775407,
+            54.6113,
+            49.8968,
+            10668,
+            220,
+            false
+        ],
+        [
+            1717775662,
+            54.242,
+            49.3542,
+            10972,
+            220,
+            false
+        ],
+        [
+            1717782795,
+            43.5991,
+            44.637,
+            11582,
+            275,
+            false
+        ],
+        [
+            1717782995,
+            43.6341,
+            44.1309,
+            11582,
+            275,
+            false
+        ],
+        [
+            1717783008,
+            43.6352,
+            44.0957,
+            11582,
+            272,
+            false
+        ],
+        [
+            1717783518,
+            43.667,
+            42.7912,
+            11582,
+            271,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-12:49:55",
+    "baro_altitude": 11590.02,
+    "category": 0,
+    "geo_altitude": 11993.88,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717784102,
+    "latitude": 43.667,
+    "longitude": 42.7912,
+    "on_ground": false,
+    "origin_country": "Russian Federation",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "6736",
+    "time_position": 1717783518,
+    "true_track": 271.69,
+    "velocity": 209.47,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717775395,
+    "lastSeen": 1717783518
+}

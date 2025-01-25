@@ -1,0 +1,136 @@
+{
+    "callsign": "CXK182  ",
+    "endTime": "2024/06/07-11:48:37",
+    "icao24": "a1122a",
+    "path": [
+        [
+            1717771550,
+            41.1988,
+            -112.0149,
+            1219,
+            359,
+            false
+        ],
+        [
+            1717771571,
+            41.2059,
+            -112.015,
+            1219,
+            359,
+            false
+        ],
+        [
+            1717771579,
+            41.2092,
+            -112.0149,
+            1219,
+            1,
+            false
+        ],
+        [
+            1717771597,
+            41.216,
+            -112.0146,
+            1219,
+            0,
+            false
+        ],
+        [
+            1717771618,
+            41.2239,
+            -112.0146,
+            1219,
+            0,
+            false
+        ],
+        [
+            1717771631,
+            41.229,
+            -112.0145,
+            1524,
+            1,
+            false
+        ],
+        [
+            1717771645,
+            41.2342,
+            -112.0144,
+            1524,
+            359,
+            false
+        ],
+        [
+            1717771658,
+            41.2395,
+            -112.0146,
+            1524,
+            358,
+            false
+        ],
+        [
+            1717771667,
+            41.243,
+            -112.0148,
+            1524,
+            356,
+            false
+        ],
+        [
+            1717771676,
+            41.2466,
+            -112.0152,
+            1524,
+            354,
+            false
+        ],
+        [
+            1717771717,
+            41.2633,
+            -112.0175,
+            1524,
+            355,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-11:45:50",
+    "baro_altitude": 1645.92,
+    "category": 0,
+    "geo_altitude": 1668.78,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762881,
+    "latitude": 41.2849,
+    "longitude": -112.0403,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717762864,
+    "true_track": 355.1,
+    "velocity": 54.21,
+    "vertical_rate": 0.98,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 50,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KOGD",
+    "estDepartureAirportHorizDistance": 402,
+    "estDepartureAirportVertDistance": 15,
+    "firstSeen": 1717771550,
+    "lastSeen": 1717771717
+}

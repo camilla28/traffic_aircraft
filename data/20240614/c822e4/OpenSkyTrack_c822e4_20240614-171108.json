@@ -1,0 +1,144 @@
+{
+    "callsign": "ANZ409  ",
+    "endTime": "2024/06/14-17:11:17",
+    "icao24": "c822e4",
+    "path": [
+        [
+            1718395743,
+            -37.0206,
+            174.7556,
+            304,
+            251,
+            false
+        ],
+        [
+            1718395748,
+            -37.0215,
+            174.7519,
+            304,
+            252,
+            false
+        ],
+        [
+            1718395785,
+            -37.031,
+            174.7158,
+            609,
+            251,
+            false
+        ],
+        [
+            1718395793,
+            -37.0339,
+            174.7056,
+            914,
+            249,
+            false
+        ],
+        [
+            1718395802,
+            -37.0381,
+            174.6957,
+            914,
+            237,
+            false
+        ],
+        [
+            1718395811,
+            -37.0448,
+            174.6865,
+            914,
+            223,
+            false
+        ],
+        [
+            1718395820,
+            -37.0534,
+            174.6799,
+            1219,
+            211,
+            false
+        ],
+        [
+            1718395828,
+            -37.0624,
+            174.6762,
+            1219,
+            194,
+            false
+        ],
+        [
+            1718395837,
+            -37.0731,
+            174.6745,
+            1524,
+            186,
+            false
+        ],
+        [
+            1718395845,
+            -37.083,
+            174.6732,
+            1524,
+            186,
+            false
+        ],
+        [
+            1718395861,
+            -37.1033,
+            174.67,
+            1828,
+            187,
+            false
+        ],
+        [
+            1718395877,
+            -37.1242,
+            174.6661,
+            2133,
+            188,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-17:09:03",
+    "baro_altitude": 662.94,
+    "category": 4,
+    "geo_altitude": 617.22,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718395762,
+    "latitude": -37.025,
+    "longitude": 174.7387,
+    "on_ground": false,
+    "origin_country": "New Zealand",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718395762,
+    "true_track": 251.78,
+    "velocity": 87.2,
+    "vertical_rate": 8.13,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 41,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "NZAA",
+    "estDepartureAirportHorizDistance": 2841,
+    "estDepartureAirportVertDistance": 503,
+    "firstSeen": 1718395743,
+    "lastSeen": 1718395877
+}

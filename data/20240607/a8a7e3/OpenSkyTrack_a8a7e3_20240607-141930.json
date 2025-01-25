@@ -1,0 +1,80 @@
+{
+    "callsign": "N657MW  ",
+    "endTime": "2024/06/07-14:18:55",
+    "icao24": "a8a7e3",
+    "path": [
+        [
+            1717778628,
+            36.1528,
+            -94.5248,
+            1828,
+            70,
+            false
+        ],
+        [
+            1717779316,
+            36.3305,
+            -93.8793,
+            1828,
+            71,
+            false
+        ],
+        [
+            1717780209,
+            36.5547,
+            -93.0423,
+            1828,
+            71,
+            false
+        ],
+        [
+            1717780735,
+            36.6807,
+            -92.5596,
+            1828,
+            72,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-13:43:48",
+    "baro_altitude": 2110.74,
+    "category": 0,
+    "geo_altitude": 2202.18,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717779801,
+    "latitude": 36.4534,
+    "longitude": -93.4238,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717779801,
+    "true_track": 71.57,
+    "velocity": 89.47,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 245,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KSLG",
+    "estDepartureAirportHorizDistance": 5355,
+    "estDepartureAirportVertDistance": 1740,
+    "firstSeen": 1717778628,
+    "lastSeen": 1717780735
+}

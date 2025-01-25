@@ -1,0 +1,80 @@
+{
+    "callsign": "AZV3359 ",
+    "endTime": "2024/06/04-08:50:49",
+    "icao24": "151d48",
+    "path": [
+        [
+            1717499950,
+            41.8457,
+            42.6009,
+            10972,
+            252,
+            false
+        ],
+        [
+            1717500781,
+            41.8371,
+            42.5657,
+            10972,
+            252,
+            false
+        ],
+        [
+            1717501545,
+            41.8311,
+            42.5411,
+            10972,
+            252,
+            false
+        ],
+        [
+            1717501849,
+            41.8311,
+            42.5411,
+            10972,
+            252,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:19:10",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": 11369.04,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499993,
+    "latitude": 41.8463,
+    "longitude": 42.6037,
+    "on_ground": false,
+    "origin_country": "Russian Federation",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499960,
+    "true_track": 252,
+    "velocity": 233.13,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717499950,
+    "lastSeen": 1717501849
+}

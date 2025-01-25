@@ -1,0 +1,96 @@
+{
+    "callsign": "NKS976  ",
+    "endTime": "2024/06/12-16:07:09",
+    "icao24": "a8063e",
+    "path": [
+        [
+            1718219188,
+            40.6811,
+            -74.1758,
+            0,
+            205,
+            false
+        ],
+        [
+            1718219196,
+            40.6759,
+            -74.1784,
+            0,
+            191,
+            false
+        ],
+        [
+            1718219205,
+            40.6691,
+            -74.179,
+            304,
+            178,
+            false
+        ],
+        [
+            1718219213,
+            40.6631,
+            -74.1785,
+            304,
+            175,
+            false
+        ],
+        [
+            1718219221,
+            40.6565,
+            -74.1777,
+            304,
+            175,
+            false
+        ],
+        [
+            1718219229,
+            40.6499,
+            -74.1776,
+            304,
+            183,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-16:06:28",
+    "baro_altitude": 9852.66,
+    "category": 0,
+    "geo_altitude": 10431.78,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204681,
+    "latitude": 32.34,
+    "longitude": -97.467,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2377",
+    "time_position": 1718204674,
+    "true_track": 23.71,
+    "velocity": 244.4,
+    "vertical_rate": 3.9,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 325,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KEWR",
+    "estDepartureAirportHorizDistance": 1304,
+    "estDepartureAirportVertDistance": 124,
+    "firstSeen": 1718219188,
+    "lastSeen": 1718219229
+}

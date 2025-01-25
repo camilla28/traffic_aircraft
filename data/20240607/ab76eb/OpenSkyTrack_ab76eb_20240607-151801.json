@@ -1,0 +1,96 @@
+{
+    "callsign": "JRE838  ",
+    "endTime": "2024/06/07-15:18:01",
+    "icao24": "ab76eb",
+    "path": [
+        [
+            1717784116,
+            42.8488,
+            -114.5116,
+            7924,
+            202,
+            false
+        ],
+        [
+            1717784116,
+            42.8488,
+            -114.5116,
+            7924,
+            202,
+            false
+        ],
+        [
+            1717784179,
+            42.7616,
+            -114.5598,
+            8229,
+            201,
+            false
+        ],
+        [
+            1717784216,
+            42.7101,
+            -114.5881,
+            8534,
+            202,
+            false
+        ],
+        [
+            1717784255,
+            42.6552,
+            -114.6183,
+            8839,
+            202,
+            false
+        ],
+        [
+            1717784281,
+            42.6188,
+            -114.6383,
+            9144,
+            202,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-15:15:16",
+    "baro_altitude": 8473.44,
+    "category": 0,
+    "geo_altitude": 8854.44,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717784180,
+    "latitude": 42.7603,
+    "longitude": -114.5606,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717784180,
+    "true_track": 202.06,
+    "velocity": 167.08,
+    "vertical_rate": 12.03,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KJER",
+    "estDepartureAirportHorizDistance": 14017,
+    "estDepartureAirportVertDistance": 6742,
+    "firstSeen": 1717784116,
+    "lastSeen": 1717784281
+}

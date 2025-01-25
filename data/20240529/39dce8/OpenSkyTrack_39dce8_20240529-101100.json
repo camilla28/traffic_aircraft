@@ -1,0 +1,144 @@
+{
+    "callsign": "MZY029A ",
+    "endTime": "2024/05/29-10:08:34",
+    "icao24": "39dce8",
+    "path": [
+        [
+            1716987576,
+            43.7893,
+            4.31,
+            914,
+            270,
+            false
+        ],
+        [
+            1716987585,
+            43.789,
+            4.3059,
+            914,
+            254,
+            false
+        ],
+        [
+            1716987592,
+            43.7878,
+            4.302,
+            1219,
+            237,
+            false
+        ],
+        [
+            1716987600,
+            43.7856,
+            4.2983,
+            1219,
+            227,
+            false
+        ],
+        [
+            1716987614,
+            43.781,
+            4.2914,
+            914,
+            227,
+            false
+        ],
+        [
+            1716987622,
+            43.7783,
+            4.2872,
+            1219,
+            230,
+            false
+        ],
+        [
+            1716987689,
+            43.7539,
+            4.2462,
+            914,
+            227,
+            false
+        ],
+        [
+            1716987878,
+            43.6799,
+            4.1323,
+            914,
+            229,
+            false
+        ],
+        [
+            1716987892,
+            43.6745,
+            4.1234,
+            914,
+            228,
+            false
+        ],
+        [
+            1716987941,
+            43.6557,
+            4.0936,
+            914,
+            226,
+            false
+        ],
+        [
+            1716987963,
+            43.6468,
+            4.0805,
+            914,
+            228,
+            false
+        ],
+        [
+            1716988114,
+            43.5898,
+            3.9923,
+            914,
+            227,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-09:59:36",
+    "baro_altitude": 1203.96,
+    "category": 0,
+    "geo_altitude": 1303.02,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716987586,
+    "latitude": 43.789,
+    "longitude": 4.3059,
+    "on_ground": false,
+    "origin_country": "France",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "4763",
+    "time_position": 1716987585,
+    "true_track": 254.62,
+    "velocity": 42.68,
+    "vertical_rate": 1.95,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 65,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFTW",
+    "estDepartureAirportHorizDistance": 9021,
+    "estDepartureAirportVertDistance": 1086,
+    "firstSeen": 1716987576,
+    "lastSeen": 1716988114
+}

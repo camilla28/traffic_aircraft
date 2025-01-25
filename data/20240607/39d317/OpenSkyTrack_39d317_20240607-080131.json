@@ -1,0 +1,88 @@
+{
+    "callsign": "TVF240Z ",
+    "endTime": "2024/06/07-08:01:35",
+    "icao24": "39d317",
+    "path": [
+        [
+            1717758015,
+            48.7319,
+            2.3504,
+            0,
+            241,
+            false
+        ],
+        [
+            1717758057,
+            48.7174,
+            2.3102,
+            0,
+            239,
+            false
+        ],
+        [
+            1717758072,
+            48.7107,
+            2.2937,
+            304,
+            237,
+            false
+        ],
+        [
+            1717758083,
+            48.7062,
+            2.2833,
+            304,
+            237,
+            false
+        ],
+        [
+            1717758095,
+            48.7008,
+            2.2706,
+            609,
+            237,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-08:00:15",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717757433,
+    "latitude": 48.7258,
+    "longitude": 2.3659,
+    "on_ground": true,
+    "origin_country": "France",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5621",
+    "time_position": 1717757433,
+    "true_track": 253.12,
+    "velocity": 0,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 87,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFPO",
+    "estDepartureAirportHorizDistance": 2330,
+    "estDepartureAirportVertDistance": 65,
+    "firstSeen": 1717758015,
+    "lastSeen": 1717758095
+}

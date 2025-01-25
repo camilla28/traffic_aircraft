@@ -1,0 +1,136 @@
+{
+    "callsign": "N3098H  ",
+    "endTime": "2024/06/14-18:30:59",
+    "icao24": "a34439",
+    "path": [
+        [
+            1718398774,
+            40.4377,
+            -94.5557,
+            2133,
+            337,
+            false
+        ],
+        [
+            1718398831,
+            40.4743,
+            -94.5748,
+            2133,
+            336,
+            false
+        ],
+        [
+            1718398934,
+            40.5383,
+            -94.6093,
+            2133,
+            338,
+            false
+        ],
+        [
+            1718399030,
+            40.5977,
+            -94.6399,
+            2133,
+            340,
+            false
+        ],
+        [
+            1718399080,
+            40.6293,
+            -94.6554,
+            2133,
+            338,
+            false
+        ],
+        [
+            1718399259,
+            40.7473,
+            -94.7161,
+            2133,
+            336,
+            false
+        ],
+        [
+            1718399274,
+            40.7574,
+            -94.7218,
+            2133,
+            337,
+            false
+        ],
+        [
+            1718399456,
+            40.8772,
+            -94.7857,
+            2133,
+            337,
+            false
+        ],
+        [
+            1718400003,
+            41.2264,
+            -94.9707,
+            2133,
+            338,
+            false
+        ],
+        [
+            1718400562,
+            41.5884,
+            -95.1635,
+            2133,
+            337,
+            false
+        ],
+        [
+            1718400659,
+            41.6582,
+            -95.202,
+            1828,
+            336,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-17:59:34",
+    "baro_altitude": 2407.92,
+    "category": 0,
+    "geo_altitude": 2522.22,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718399391,
+    "latitude": 40.8348,
+    "longitude": -94.7633,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718399391,
+    "true_track": 337.64,
+    "velocity": 78.43,
+    "vertical_rate": -1.3,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 3,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "MO62",
+    "estDepartureAirportHorizDistance": 8365,
+    "estDepartureAirportVertDistance": 2057,
+    "firstSeen": 1718398774,
+    "lastSeen": 1718400652
+}

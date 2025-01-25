@@ -1,0 +1,120 @@
+{
+    "callsign": "IBE0537 ",
+    "endTime": "2024/06/04-08:30:31",
+    "icao24": "347453",
+    "path": [
+        [
+            1717496702,
+            40.3896,
+            -3.4793,
+            914,
+            322,
+            false
+        ],
+        [
+            1717497574,
+            40.4029,
+            -3.4928,
+            914,
+            322,
+            false
+        ],
+        [
+            1717498452,
+            40.4138,
+            -3.5038,
+            914,
+            322,
+            false
+        ],
+        [
+            1717498642,
+            40.4174,
+            -3.5075,
+            914,
+            322,
+            false
+        ],
+        [
+            1717498759,
+            40.4197,
+            -3.5098,
+            609,
+            321,
+            false
+        ],
+        [
+            1717498779,
+            40.418,
+            -3.5081,
+            914,
+            321,
+            false
+        ],
+        [
+            1717499614,
+            40.4341,
+            -3.5244,
+            609,
+            322,
+            false
+        ],
+        [
+            1717500470,
+            40.4467,
+            -3.5373,
+            609,
+            322,
+            false
+        ],
+        [
+            1717500631,
+            40.4497,
+            -3.5403,
+            609,
+            322,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:25:02",
+    "baro_altitude": 746.76,
+    "category": 0,
+    "geo_altitude": 838.2,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500019,
+    "latitude": 40.4399,
+    "longitude": -3.5303,
+    "on_ground": false,
+    "origin_country": "Spain",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717500012,
+    "true_track": 322.05,
+    "velocity": 71.11,
+    "vertical_rate": -3.58,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 28,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LEMD",
+    "estDepartureAirportHorizDistance": 11560,
+    "estDepartureAirportVertDistance": 503,
+    "firstSeen": 1717496702,
+    "lastSeen": 1717500631
+}

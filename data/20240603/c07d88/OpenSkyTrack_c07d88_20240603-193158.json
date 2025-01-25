@@ -1,0 +1,104 @@
+{
+    "callsign": null,
+    "endTime": "2024/06/03-19:31:59",
+    "icao24": "c07d88",
+    "path": [
+        [
+            1717453738,
+            43.2253,
+            -81.0214,
+            609,
+            216,
+            false
+        ],
+        [
+            1717453756,
+            43.2198,
+            -81.0266,
+            609,
+            214,
+            false
+        ],
+        [
+            1717453804,
+            43.2053,
+            -81.0422,
+            609,
+            213,
+            false
+        ],
+        [
+            1717453813,
+            43.202,
+            -81.0438,
+            609,
+            193,
+            false
+        ],
+        [
+            1717453813,
+            43.202,
+            -81.0438,
+            609,
+            187,
+            false
+        ],
+        [
+            1717453862,
+            43.1813,
+            -81.0488,
+            609,
+            188,
+            false
+        ],
+        [
+            1717453919,
+            43.1579,
+            -81.0642,
+            609,
+            208,
+            false
+        ]
+    ],
+    "startTime": "2024/06/03-19:28:58",
+    "baro_altitude": 655.32,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717452553,
+    "latitude": 43.4208,
+    "longitude": -80.9077,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717452549,
+    "true_track": 93.01,
+    "velocity": 48.94,
+    "vertical_rate": -1.95,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 208,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "CHD4",
+    "estDepartureAirportHorizDistance": 13011,
+    "estDepartureAirportVertDistance": 472,
+    "firstSeen": 1717453738,
+    "lastSeen": 1717453862
+}

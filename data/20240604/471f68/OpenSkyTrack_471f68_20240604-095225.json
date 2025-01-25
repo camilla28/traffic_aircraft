@@ -1,0 +1,80 @@
+{
+    "callsign": "WMT85YR ",
+    "endTime": "2024/06/04-09:52:18",
+    "icao24": "471f68",
+    "path": [
+        [
+            1717503653,
+            44.5469,
+            25.3235,
+            5791,
+            264,
+            false
+        ],
+        [
+            1717504168,
+            44.544,
+            25.2837,
+            5791,
+            264,
+            false
+        ],
+        [
+            1717505000,
+            44.5416,
+            25.25,
+            6096,
+            264,
+            false
+        ],
+        [
+            1717505538,
+            44.5401,
+            25.2297,
+            6096,
+            264,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:20:53",
+    "baro_altitude": 6149.34,
+    "category": 0,
+    "geo_altitude": 6393.18,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504670,
+    "latitude": 44.5423,
+    "longitude": 25.2599,
+    "on_ground": false,
+    "origin_country": "Hungary",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2255",
+    "time_position": 1717504670,
+    "true_track": 264.18,
+    "velocity": 187.71,
+    "vertical_rate": 9.75,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717503653,
+    "lastSeen": 1717505538
+}

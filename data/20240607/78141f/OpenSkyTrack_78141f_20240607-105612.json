@@ -1,0 +1,104 @@
+{
+    "callsign": "CHH7714 ",
+    "endTime": "2024/06/07-09:23:31",
+    "icao24": "78141f",
+    "path": [
+        [
+            1717762924,
+            22.5501,
+            114.0062,
+            2133,
+            46,
+            false
+        ],
+        [
+            1717762933,
+            22.5602,
+            114.0146,
+            2438,
+            46,
+            false
+        ],
+        [
+            1717762945,
+            22.5754,
+            114.0205,
+            2438,
+            8,
+            false
+        ],
+        [
+            1717762954,
+            22.589,
+            114.0222,
+            2438,
+            5,
+            false
+        ],
+        [
+            1717762972,
+            22.6132,
+            114.0249,
+            2743,
+            5,
+            false
+        ],
+        [
+            1717763011,
+            22.6693,
+            114.0303,
+            3048,
+            5,
+            false
+        ],
+        [
+            1717763011,
+            22.6693,
+            114.0303,
+            3352,
+            351,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-09:22:04",
+    "baro_altitude": 2567.94,
+    "category": 0,
+    "geo_altitude": 2415.54,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762945,
+    "latitude": 22.5754,
+    "longitude": 114.0205,
+    "on_ground": false,
+    "origin_country": "China",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3141",
+    "time_position": 1717762945,
+    "true_track": 46.65,
+    "velocity": 151.39,
+    "vertical_rate": 11.38,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "VHSK",
+    "estDepartureAirportHorizDistance": 55815,
+    "estDepartureAirportVertDistance": 2324,
+    "firstSeen": 1717762924,
+    "lastSeen": 1717763011
+}

@@ -1,0 +1,112 @@
+{
+    "callsign": "BCS7836 ",
+    "endTime": "2024/06/04-09:52:28",
+    "icao24": "3c5426",
+    "path": [
+        [
+            1717501151,
+            51.4137,
+            12.2485,
+            0,
+            265,
+            false
+        ],
+        [
+            1717501820,
+            51.4129,
+            12.2311,
+            0,
+            265,
+            false
+        ],
+        [
+            1717502456,
+            51.4119,
+            12.2105,
+            0,
+            266,
+            false
+        ],
+        [
+            1717503259,
+            51.4106,
+            12.1825,
+            304,
+            266,
+            false
+        ],
+        [
+            1717503359,
+            51.4105,
+            12.1794,
+            304,
+            266,
+            false
+        ],
+        [
+            1717504256,
+            51.4088,
+            12.1406,
+            609,
+            265,
+            false
+        ],
+        [
+            1717504948,
+            51.408,
+            12.125,
+            609,
+            265,
+            false
+        ],
+        [
+            1717505548,
+            51.4068,
+            12.1008,
+            914,
+            265,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:39:11",
+    "baro_altitude": 868.68,
+    "category": 1,
+    "geo_altitude": 944.88,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504628,
+    "latitude": 51.4084,
+    "longitude": 12.1334,
+    "on_ground": false,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "4354",
+    "time_position": 1717504627,
+    "true_track": 265.64,
+    "velocity": 108.35,
+    "vertical_rate": 7.15,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 114,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDDP",
+    "estDepartureAirportHorizDistance": 1412,
+    "estDepartureAirportVertDistance": 12,
+    "firstSeen": 1717501151,
+    "lastSeen": 1717505548
+}

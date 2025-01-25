@@ -1,0 +1,104 @@
+{
+    "callsign": "JST220  ",
+    "endTime": "2024/06/12-08:20:21",
+    "icao24": "7c6b38",
+    "path": [
+        [
+            1718190476,
+            -39.4745,
+            148.8713,
+            10668,
+            297,
+            false
+        ],
+        [
+            1718190476,
+            -39.4745,
+            148.8713,
+            10668,
+            297,
+            false
+        ],
+        [
+            1718190789,
+            -39.1877,
+            148.1682,
+            10972,
+            297,
+            false
+        ],
+        [
+            1718190834,
+            -39.1462,
+            148.0676,
+            10668,
+            297,
+            false
+        ],
+        [
+            1718191064,
+            -38.9361,
+            147.5633,
+            10972,
+            298,
+            false
+        ],
+        [
+            1718191215,
+            -38.7996,
+            147.2403,
+            10668,
+            298,
+            false
+        ],
+        [
+            1718191221,
+            -38.794,
+            147.2271,
+            10972,
+            298,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-08:07:56",
+    "baro_altitude": 10965.18,
+    "category": 1,
+    "geo_altitude": 11094.72,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718191188,
+    "latitude": -38.8239,
+    "longitude": 147.2973,
+    "on_ground": false,
+    "origin_country": "Australia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0240",
+    "time_position": 1718191188,
+    "true_track": 298.51,
+    "velocity": 210.17,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1718190476,
+    "lastSeen": 1718191221
+}

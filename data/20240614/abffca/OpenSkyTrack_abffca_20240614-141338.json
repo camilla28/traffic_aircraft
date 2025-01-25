@@ -1,0 +1,120 @@
+{
+    "callsign": "N872WT  ",
+    "endTime": "2024/06/14-14:13:49",
+    "icao24": "abffca",
+    "path": [
+        [
+            1718384753,
+            32.939,
+            -111.502,
+            914,
+            303,
+            false
+        ],
+        [
+            1718384770,
+            32.944,
+            -111.5113,
+            914,
+            302,
+            false
+        ],
+        [
+            1718384780,
+            32.9466,
+            -111.5163,
+            914,
+            301,
+            false
+        ],
+        [
+            1718384791,
+            32.95,
+            -111.5233,
+            914,
+            299,
+            false
+        ],
+        [
+            1718384838,
+            32.9579,
+            -111.5409,
+            914,
+            299,
+            false
+        ],
+        [
+            1718384846,
+            32.9659,
+            -111.5495,
+            914,
+            351,
+            false
+        ],
+        [
+            1718384859,
+            32.9778,
+            -111.5483,
+            914,
+            11,
+            false
+        ],
+        [
+            1718384878,
+            32.9908,
+            -111.5456,
+            914,
+            9,
+            false
+        ],
+        [
+            1718385229,
+            33.206,
+            -111.5068,
+            914,
+            7,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-14:05:53",
+    "baro_altitude": 1478.28,
+    "category": 0,
+    "geo_altitude": 1508.76,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718380974,
+    "latitude": 32.879,
+    "longitude": -111.3619,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718380973,
+    "true_track": 165.38,
+    "velocity": 61.14,
+    "vertical_rate": 0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 120,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "37AZ",
+    "estDepartureAirportHorizDistance": 1165,
+    "estDepartureAirportVertDistance": 513,
+    "firstSeen": 1718384753,
+    "lastSeen": 1718385219
+}

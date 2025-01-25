@@ -1,0 +1,104 @@
+{
+    "callsign": "RYR5CF  ",
+    "endTime": "2024/06/07-10:44:50",
+    "icao24": "4ca737",
+    "path": [
+        [
+            1717767818,
+            38.2758,
+            -0.5205,
+            304,
+            102,
+            false
+        ],
+        [
+            1717767827,
+            38.274,
+            -0.5105,
+            304,
+            101,
+            false
+        ],
+        [
+            1717767836,
+            38.2728,
+            -0.5006,
+            304,
+            95,
+            false
+        ],
+        [
+            1717767844,
+            38.2732,
+            -0.4917,
+            609,
+            79,
+            false
+        ],
+        [
+            1717767853,
+            38.2771,
+            -0.481,
+            609,
+            55,
+            false
+        ],
+        [
+            1717767862,
+            38.2825,
+            -0.4729,
+            609,
+            48,
+            false
+        ],
+        [
+            1717767890,
+            38.3017,
+            -0.4446,
+            914,
+            50,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-10:43:38",
+    "baro_altitude": 6370.32,
+    "category": 1,
+    "geo_altitude": 6781.8,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762945,
+    "latitude": 39.2337,
+    "longitude": -0.5731,
+    "on_ground": false,
+    "origin_country": "Ireland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0555",
+    "time_position": 1717762945,
+    "true_track": 195.39,
+    "velocity": 153.14,
+    "vertical_rate": -6.83,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 12,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LEAL",
+    "estDepartureAirportHorizDistance": 2645,
+    "estDepartureAirportVertDistance": 459,
+    "firstSeen": 1717767818,
+    "lastSeen": 1717767890
+}

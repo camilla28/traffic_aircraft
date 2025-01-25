@@ -1,0 +1,104 @@
+{
+    "callsign": "TAP431  ",
+    "endTime": "2024/06/05-07:34:44",
+    "icao24": "4951cb",
+    "path": [
+        [
+            1717583538,
+            48.7321,
+            2.351,
+            0,
+            241,
+            false
+        ],
+        [
+            1717583566,
+            48.7231,
+            2.3256,
+            0,
+            242,
+            false
+        ],
+        [
+            1717583583,
+            48.7177,
+            2.3102,
+            304,
+            240,
+            false
+        ],
+        [
+            1717583587,
+            48.7159,
+            2.3058,
+            304,
+            237,
+            false
+        ],
+        [
+            1717583618,
+            48.7044,
+            2.2795,
+            609,
+            236,
+            false
+        ],
+        [
+            1717583658,
+            48.6877,
+            2.2407,
+            914,
+            237,
+            false
+        ],
+        [
+            1717583684,
+            48.6738,
+            2.2088,
+            1219,
+            236,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-07:32:18",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717582973,
+    "latitude": 48.7272,
+    "longitude": 2.3562,
+    "on_ground": true,
+    "origin_country": "Portugal",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7644",
+    "time_position": 1717582870,
+    "true_track": 343.12,
+    "velocity": 1.03,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 87,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFPO",
+    "estDepartureAirportHorizDistance": 2124,
+    "estDepartureAirportVertDistance": 2,
+    "firstSeen": 1717583538,
+    "lastSeen": 1717583684
+}

@@ -1,0 +1,288 @@
+{
+    "callsign": "MWT650  ",
+    "endTime": "2024/06/12-08:46:20",
+    "icao24": "a88e08",
+    "path": [
+        [
+            1718189876,
+            43.5198,
+            -96.7209,
+            1524,
+            102,
+            false
+        ],
+        [
+            1718189882,
+            43.5181,
+            -96.7099,
+            1524,
+            102,
+            false
+        ],
+        [
+            1718189887,
+            43.5166,
+            -96.7015,
+            1828,
+            105,
+            false
+        ],
+        [
+            1718189892,
+            43.5145,
+            -96.6922,
+            1828,
+            108,
+            false
+        ],
+        [
+            1718189902,
+            43.5099,
+            -96.6746,
+            1828,
+            110,
+            false
+        ],
+        [
+            1718189914,
+            43.5045,
+            -96.655,
+            2133,
+            110,
+            false
+        ],
+        [
+            1718189936,
+            43.4942,
+            -96.6171,
+            2438,
+            110,
+            false
+        ],
+        [
+            1718189951,
+            43.4872,
+            -96.5913,
+            2743,
+            110,
+            false
+        ],
+        [
+            1718189955,
+            43.4854,
+            -96.5848,
+            3048,
+            110,
+            false
+        ],
+        [
+            1718190229,
+            43.3244,
+            -96,
+            6096,
+            111,
+            false
+        ],
+        [
+            1718190265,
+            43.2998,
+            -95.9118,
+            6400,
+            111,
+            false
+        ],
+        [
+            1718190297,
+            43.2773,
+            -95.8313,
+            6705,
+            110,
+            false
+        ],
+        [
+            1718190305,
+            43.2724,
+            -95.8136,
+            7010,
+            110,
+            false
+        ],
+        [
+            1718190359,
+            43.2344,
+            -95.6787,
+            7315,
+            111,
+            false
+        ],
+        [
+            1718190399,
+            43.206,
+            -95.5784,
+            7620,
+            111,
+            false
+        ],
+        [
+            1718190427,
+            43.1864,
+            -95.5094,
+            7924,
+            111,
+            false
+        ],
+        [
+            1718190480,
+            43.1472,
+            -95.3725,
+            8229,
+            111,
+            false
+        ],
+        [
+            1718190517,
+            43.1204,
+            -95.2788,
+            8534,
+            111,
+            false
+        ],
+        [
+            1718190561,
+            43.0881,
+            -95.1662,
+            8839,
+            111,
+            false
+        ],
+        [
+            1718190600,
+            43.0589,
+            -95.0656,
+            9144,
+            111,
+            false
+        ],
+        [
+            1718190636,
+            43.0322,
+            -94.9734,
+            9448,
+            111,
+            false
+        ],
+        [
+            1718190679,
+            43.0008,
+            -94.865,
+            9753,
+            111,
+            false
+        ],
+        [
+            1718190733,
+            42.9606,
+            -94.7277,
+            10058,
+            111,
+            false
+        ],
+        [
+            1718190794,
+            42.9152,
+            -94.5738,
+            10363,
+            111,
+            false
+        ],
+        [
+            1718190854,
+            42.8697,
+            -94.4203,
+            10668,
+            111,
+            false
+        ],
+        [
+            1718190914,
+            42.8238,
+            -94.2656,
+            10972,
+            112,
+            false
+        ],
+        [
+            1718191448,
+            42.36,
+            -92.7567,
+            11277,
+            113,
+            false
+        ],
+        [
+            1718191569,
+            42.252,
+            -92.4176,
+            11582,
+            113,
+            false
+        ],
+        [
+            1718192467,
+            41.3858,
+            -89.84,
+            11887,
+            115,
+            false
+        ],
+        [
+            1718192780,
+            41.0717,
+            -88.9604,
+            11887,
+            115,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-07:57:56",
+    "baro_altitude": 11887.2,
+    "category": 0,
+    "geo_altitude": 12283.44,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718191737,
+    "latitude": 42.0981,
+    "longitude": -91.9422,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2652",
+    "time_position": 1718191737,
+    "true_track": 113.78,
+    "velocity": 260.28,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 118,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KFSD",
+    "estDepartureAirportHorizDistance": 6976,
+    "estDepartureAirportVertDistance": 1263,
+    "firstSeen": 1718189876,
+    "lastSeen": 1718192780
+}

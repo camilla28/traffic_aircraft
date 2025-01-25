@@ -1,0 +1,80 @@
+{
+    "callsign": "DWI1007 ",
+    "endTime": "2024/06/07-08:38:45",
+    "icao24": "0c4353",
+    "path": [
+        [
+            1717758862,
+            15.0982,
+            -70.5778,
+            12192,
+            208,
+            false
+        ],
+        [
+            1717759755,
+            13.394,
+            -71.5308,
+            12192,
+            208,
+            false
+        ],
+        [
+            1717760226,
+            12.496,
+            -72.0411,
+            12192,
+            210,
+            false
+        ],
+        [
+            1717760325,
+            12.3088,
+            -72.1518,
+            12496,
+            210,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-08:14:22",
+    "baro_altitude": 12192,
+    "category": 0,
+    "geo_altitude": 12976.86,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717759291,
+    "latitude": 14.276,
+    "longitude": -71.0398,
+    "on_ground": false,
+    "origin_country": "Dominican Republic",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717759291,
+    "true_track": 208.65,
+    "velocity": 240.35,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717758862,
+    "lastSeen": 1717760325
+}

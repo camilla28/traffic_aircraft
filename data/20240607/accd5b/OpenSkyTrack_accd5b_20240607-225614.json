@@ -1,0 +1,72 @@
+{
+    "callsign": "N924DK  ",
+    "endTime": "2024/06/07-22:56:16",
+    "icao24": "accd5b",
+    "path": [
+        [
+            1717810790,
+            34.6002,
+            -87.4912,
+            1524,
+            102,
+            false
+        ],
+        [
+            1717811687,
+            34.4366,
+            -86.6455,
+            1524,
+            103,
+            false
+        ],
+        [
+            1717811776,
+            34.4202,
+            -86.5628,
+            1524,
+            103,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-22:39:50",
+    "baro_altitude": 1668.78,
+    "category": 0,
+    "geo_altitude": 1706.88,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717811553,
+    "latitude": 34.4616,
+    "longitude": -86.7731,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717811552,
+    "true_track": 103.47,
+    "velocity": 88.34,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 213,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "K9A4",
+    "estDepartureAirportHorizDistance": 14599,
+    "estDepartureAirportVertDistance": 1489,
+    "firstSeen": 1717810790,
+    "lastSeen": 1717811776
+}

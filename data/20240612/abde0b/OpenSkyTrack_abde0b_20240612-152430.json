@@ -1,0 +1,136 @@
+{
+    "callsign": "DAL1070 ",
+    "endTime": "2024/06/12-15:24:37",
+    "icao24": "abde0b",
+    "path": [
+        [
+            1718216506,
+            33.4311,
+            -112.0192,
+            304,
+            90,
+            false
+        ],
+        [
+            1718216544,
+            33.4311,
+            -111.9839,
+            304,
+            88,
+            false
+        ],
+        [
+            1718216561,
+            33.4318,
+            -111.9654,
+            609,
+            86,
+            false
+        ],
+        [
+            1718216578,
+            33.4329,
+            -111.9449,
+            609,
+            85,
+            false
+        ],
+        [
+            1718216603,
+            33.4348,
+            -111.9112,
+            914,
+            86,
+            false
+        ],
+        [
+            1718216619,
+            33.4362,
+            -111.8874,
+            1219,
+            85,
+            false
+        ],
+        [
+            1718216627,
+            33.4377,
+            -111.8755,
+            1524,
+            78,
+            false
+        ],
+        [
+            1718216636,
+            33.4408,
+            -111.8622,
+            1524,
+            71,
+            false
+        ],
+        [
+            1718216644,
+            33.4448,
+            -111.8502,
+            1524,
+            65,
+            false
+        ],
+        [
+            1718216661,
+            33.4547,
+            -111.826,
+            1828,
+            63,
+            false
+        ],
+        [
+            1718216677,
+            33.464,
+            -111.8043,
+            2133,
+            62,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-15:21:46",
+    "baro_altitude": 10363.2,
+    "category": 4,
+    "geo_altitude": 10866.12,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204659,
+    "latitude": 38.7805,
+    "longitude": -98.0896,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2575",
+    "time_position": 1718204658,
+    "true_track": 248.06,
+    "velocity": 231.28,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 115,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KPHX",
+    "estDepartureAirportHorizDistance": 882,
+    "estDepartureAirportVertDistance": 4,
+    "firstSeen": 1718216506,
+    "lastSeen": 1718216677
+}

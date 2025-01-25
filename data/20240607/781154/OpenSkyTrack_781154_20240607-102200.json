@@ -1,0 +1,112 @@
+{
+    "callsign": "CSN3669 ",
+    "endTime": "2024/06/07-09:19:28",
+    "icao24": "781154",
+    "path": [
+        [
+            1717762661,
+            22.5419,
+            113.9938,
+            2133,
+            60,
+            false
+        ],
+        [
+            1717762668,
+            22.5477,
+            114.0025,
+            2133,
+            52,
+            false
+        ],
+        [
+            1717762671,
+            22.5506,
+            114.0058,
+            2133,
+            41,
+            false
+        ],
+        [
+            1717762676,
+            22.5555,
+            114.0104,
+            2438,
+            41,
+            false
+        ],
+        [
+            1717762694,
+            22.5762,
+            114.0242,
+            2438,
+            29,
+            false
+        ],
+        [
+            1717762701,
+            22.5846,
+            114.0292,
+            2438,
+            28,
+            false
+        ],
+        [
+            1717762731,
+            22.6212,
+            114.0506,
+            2743,
+            28,
+            false
+        ],
+        [
+            1717762768,
+            22.6572,
+            114.0714,
+            3048,
+            28,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-09:17:41",
+    "baro_altitude": 3162.3,
+    "category": 0,
+    "geo_altitude": 3299.46,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762768,
+    "latitude": 22.6572,
+    "longitude": 114.0714,
+    "on_ground": false,
+    "origin_country": "China",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "4220",
+    "time_position": 1717762768,
+    "true_track": 28.15,
+    "velocity": 158.12,
+    "vertical_rate": 5.53,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "VHSK",
+    "estDepartureAirportHorizDistance": 15203,
+    "estDepartureAirportVertDistance": 2232,
+    "firstSeen": 1717762661,
+    "lastSeen": 1717762768
+}

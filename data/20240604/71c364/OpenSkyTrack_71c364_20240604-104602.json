@@ -1,0 +1,104 @@
+{
+    "callsign": "AAR359  ",
+    "endTime": "2024/06/04-10:44:13",
+    "icao24": "71c364",
+    "path": [
+        [
+            1717503772,
+            35.3146,
+            126.5002,
+            10363,
+            200,
+            false
+        ],
+        [
+            1717504568,
+            35.2702,
+            126.4803,
+            10363,
+            200,
+            false
+        ],
+        [
+            1717505449,
+            35.2434,
+            126.4683,
+            10363,
+            200,
+            false
+        ],
+        [
+            1717506059,
+            35.2277,
+            126.4612,
+            10363,
+            200,
+            false
+        ],
+        [
+            1717506922,
+            35.2113,
+            126.4538,
+            10363,
+            200,
+            false
+        ],
+        [
+            1717507754,
+            35.1849,
+            126.442,
+            10363,
+            200,
+            false
+        ],
+        [
+            1717508653,
+            35.1569,
+            126.4296,
+            10363,
+            200,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:22:52",
+    "baro_altitude": 10363.2,
+    "category": 0,
+    "geo_altitude": 10721.34,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504708,
+    "latitude": 35.2627,
+    "longitude": 126.4769,
+    "on_ground": false,
+    "origin_country": "Republic of Korea",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504708,
+    "true_track": 200.12,
+    "velocity": 243.8,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "RK60",
+    "estDepartureAirportHorizDistance": 108495,
+    "estDepartureAirportVertDistance": 10342,
+    "firstSeen": 1717503772,
+    "lastSeen": 1717508653
+}

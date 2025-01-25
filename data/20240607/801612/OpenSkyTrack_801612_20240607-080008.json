@@ -1,0 +1,128 @@
+{
+    "callsign": "AIC587  ",
+    "endTime": "2024/06/07-08:00:12",
+    "icao24": "801612",
+    "path": [
+        [
+            1717757313,
+            13.1551,
+            77.5772,
+            3352,
+            133,
+            false
+        ],
+        [
+            1717757323,
+            13.1476,
+            77.5865,
+            3352,
+            122,
+            false
+        ],
+        [
+            1717757328,
+            13.1447,
+            77.5921,
+            3657,
+            117,
+            false
+        ],
+        [
+            1717757348,
+            13.1396,
+            77.6187,
+            3657,
+            117,
+            false
+        ],
+        [
+            1717757384,
+            13.1357,
+            77.6702,
+            3962,
+            117,
+            false
+        ],
+        [
+            1717757391,
+            13.1347,
+            77.6812,
+            4267,
+            95,
+            false
+        ],
+        [
+            1717757437,
+            13.1277,
+            77.7483,
+            4267,
+            96,
+            false
+        ],
+        [
+            1717757569,
+            13.1055,
+            77.9449,
+            4572,
+            96,
+            false
+        ],
+        [
+            1717757635,
+            13.0939,
+            78.0448,
+            4876,
+            96,
+            false
+        ],
+        [
+            1717758012,
+            13.0199,
+            78.6688,
+            5181,
+            97,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-07:48:33",
+    "baro_altitude": 4564.38,
+    "category": 0,
+    "geo_altitude": 4701.54,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717757434,
+    "latitude": 13.1282,
+    "longitude": 77.7442,
+    "on_ground": false,
+    "origin_country": "India",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717757434,
+    "true_track": 96.14,
+    "velocity": 163.5,
+    "vertical_rate": 2.28,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "VOYK",
+    "estDepartureAirportHorizDistance": 3804,
+    "estDepartureAirportVertDistance": 2622,
+    "firstSeen": 1717757313,
+    "lastSeen": 1717758012
+}

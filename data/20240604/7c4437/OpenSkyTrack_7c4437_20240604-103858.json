@@ -1,0 +1,88 @@
+{
+    "callsign": "NRD     ",
+    "endTime": "2024/06/04-10:35:27",
+    "icao24": "7c4437",
+    "path": [
+        [
+            1717505757,
+            -31.205,
+            150.6445,
+            914,
+            81,
+            false
+        ],
+        [
+            1717506649,
+            -31.2032,
+            150.6557,
+            914,
+            80,
+            false
+        ],
+        [
+            1717506654,
+            -31.203,
+            150.6568,
+            609,
+            77,
+            false
+        ],
+        [
+            1717507498,
+            -31.2015,
+            150.6646,
+            609,
+            76,
+            false
+        ],
+        [
+            1717508127,
+            -31.1998,
+            150.6727,
+            609,
+            76,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:55:57",
+    "baro_altitude": 944.88,
+    "category": 0,
+    "geo_altitude": 967.74,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504596,
+    "latitude": -31.2072,
+    "longitude": 150.6292,
+    "on_ground": false,
+    "origin_country": "Australia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504577,
+    "true_track": 77.47,
+    "velocity": 56.92,
+    "vertical_rate": 0.98,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 54,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "YBZA",
+    "estDepartureAirportHorizDistance": 17350,
+    "estDepartureAirportVertDistance": 944,
+    "firstSeen": 1717505757,
+    "lastSeen": 1717508127
+}

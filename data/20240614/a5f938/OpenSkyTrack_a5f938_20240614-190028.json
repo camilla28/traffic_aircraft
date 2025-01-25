@@ -1,0 +1,72 @@
+{
+    "callsign": "UAL2435 ",
+    "endTime": "2024/06/14-19:00:38",
+    "icao24": "a5f938",
+    "path": [
+        [
+            1718402402,
+            38.9371,
+            -77.4675,
+            0,
+            290,
+            false
+        ],
+        [
+            1718402424,
+            38.9428,
+            -77.4872,
+            0,
+            290,
+            false
+        ],
+        [
+            1718402438,
+            38.9466,
+            -77.5005,
+            304,
+            290,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-19:00:02",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718401724,
+    "latitude": 38.9442,
+    "longitude": -77.4554,
+    "on_ground": true,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718401724,
+    "true_track": 270,
+    "velocity": 2.06,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 465,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KIAD",
+    "estDepartureAirportHorizDistance": 996,
+    "estDepartureAirportVertDistance": 26,
+    "firstSeen": 1718402402,
+    "lastSeen": 1718402438
+}

@@ -1,0 +1,120 @@
+{
+    "callsign": "AAY596  ",
+    "endTime": "2024/06/14-14:13:39",
+    "icao24": "a2b2e1",
+    "path": [
+        [
+            1718385017,
+            39.6914,
+            -86.338,
+            609,
+            212,
+            false
+        ],
+        [
+            1718385035,
+            39.6773,
+            -86.3467,
+            609,
+            194,
+            false
+        ],
+        [
+            1718385044,
+            39.669,
+            -86.3484,
+            609,
+            187,
+            false
+        ],
+        [
+            1718385055,
+            39.6576,
+            -86.3498,
+            609,
+            184,
+            false
+        ],
+        [
+            1718385071,
+            39.6401,
+            -86.3515,
+            609,
+            184,
+            false
+        ],
+        [
+            1718385084,
+            39.627,
+            -86.3529,
+            914,
+            184,
+            false
+        ],
+        [
+            1718385191,
+            39.4799,
+            -86.3661,
+            2133,
+            182,
+            false
+        ],
+        [
+            1718385209,
+            39.4547,
+            -86.3677,
+            2438,
+            183,
+            false
+        ],
+        [
+            1718385219,
+            39.4408,
+            -86.3687,
+            2743,
+            183,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-14:10:17",
+    "baro_altitude": 441.96,
+    "category": 0,
+    "geo_altitude": 434.34,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718380915,
+    "latitude": 39.7535,
+    "longitude": -86.2606,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3464",
+    "time_position": 1718380915,
+    "true_track": 224.45,
+    "velocity": 76.39,
+    "vertical_rate": -3.58,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 521,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KIND",
+    "estDepartureAirportHorizDistance": 4710,
+    "estDepartureAirportVertDistance": 366,
+    "firstSeen": 1718385017,
+    "lastSeen": 1718385219
+}

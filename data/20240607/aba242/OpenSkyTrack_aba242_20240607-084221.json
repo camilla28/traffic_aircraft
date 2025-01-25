@@ -1,0 +1,120 @@
+{
+    "callsign": "LTA8490 ",
+    "endTime": "2024/06/07-08:41:33",
+    "icao24": "aba242",
+    "path": [
+        [
+            1717758747,
+            34.6315,
+            -79.0036,
+            1524,
+            52,
+            false
+        ],
+        [
+            1717758797,
+            34.6476,
+            -78.9782,
+            1524,
+            52,
+            false
+        ],
+        [
+            1717758905,
+            34.6802,
+            -78.9268,
+            1828,
+            52,
+            false
+        ],
+        [
+            1717759386,
+            34.8835,
+            -78.6041,
+            2133,
+            52,
+            false
+        ],
+        [
+            1717760010,
+            35.1501,
+            -78.1765,
+            2133,
+            53,
+            false
+        ],
+        [
+            1717760013,
+            35.1514,
+            -78.1745,
+            1828,
+            53,
+            false
+        ],
+        [
+            1717760322,
+            35.2894,
+            -77.951,
+            1524,
+            53,
+            false
+        ],
+        [
+            1717760454,
+            35.3471,
+            -77.8572,
+            1219,
+            52,
+            false
+        ],
+        [
+            1717760493,
+            35.3637,
+            -77.8302,
+            914,
+            52,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-08:12:27",
+    "baro_altitude": 2186.94,
+    "category": 0,
+    "geo_altitude": 2194.56,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717759294,
+    "latitude": 34.8434,
+    "longitude": -78.668,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717759294,
+    "true_track": 52.45,
+    "velocity": 78.51,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 259,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KLBT",
+    "estDepartureAirportHorizDistance": 5642,
+    "estDepartureAirportVertDistance": 1538,
+    "firstSeen": 1717758747,
+    "lastSeen": 1717760493
+}

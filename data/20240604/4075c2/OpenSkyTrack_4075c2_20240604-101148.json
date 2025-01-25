@@ -1,0 +1,96 @@
+{
+    "callsign": "UBT70N  ",
+    "endTime": "2024/06/04-10:11:47",
+    "icao24": "4075c2",
+    "path": [
+        [
+            1717504288,
+            41.8071,
+            -72.3931,
+            10668,
+            38,
+            false
+        ],
+        [
+            1717504402,
+            41.8106,
+            -72.3894,
+            10668,
+            38,
+            false
+        ],
+        [
+            1717504412,
+            41.7603,
+            -72.4428,
+            10363,
+            38,
+            false
+        ],
+        [
+            1717505302,
+            41.8256,
+            -72.3735,
+            10668,
+            38,
+            false
+        ],
+        [
+            1717506187,
+            41.8428,
+            -72.3553,
+            10668,
+            38,
+            false
+        ],
+        [
+            1717506707,
+            41.8536,
+            -72.3438,
+            10668,
+            38,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:31:28",
+    "baro_altitude": 10812.78,
+    "category": 0,
+    "geo_altitude": 11117.58,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504614,
+    "latitude": 41.8131,
+    "longitude": -72.3867,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504614,
+    "true_track": 38.39,
+    "velocity": 236.93,
+    "vertical_rate": 5.53,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "CT09",
+    "estDepartureAirportHorizDistance": 481,
+    "estDepartureAirportVertDistance": 10548,
+    "firstSeen": 1717504288,
+    "lastSeen": 1717506707
+}

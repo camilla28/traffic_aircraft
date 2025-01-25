@@ -1,0 +1,104 @@
+{
+    "callsign": "DOGGO91 ",
+    "endTime": "2024/05/29-09:55:07",
+    "icao24": "ae1e4a",
+    "path": [
+        [
+            1716987253,
+            29.2559,
+            -100.5068,
+            3962,
+            72,
+            false
+        ],
+        [
+            1716987261,
+            29.2584,
+            -100.4971,
+            3962,
+            74,
+            false
+        ],
+        [
+            1716987278,
+            29.2607,
+            -100.4743,
+            3657,
+            74,
+            false
+        ],
+        [
+            1716987283,
+            29.2605,
+            -100.4671,
+            3657,
+            91,
+            false
+        ],
+        [
+            1716987290,
+            29.2596,
+            -100.4575,
+            3962,
+            97,
+            false
+        ],
+        [
+            1716987299,
+            29.2581,
+            -100.4454,
+            3962,
+            99,
+            false
+        ],
+        [
+            1716987307,
+            29.2565,
+            -100.4342,
+            3657,
+            99,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-09:54:13",
+    "baro_altitude": 3924.3,
+    "category": 13,
+    "geo_altitude": 4175.76,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716987308,
+    "latitude": 29.2565,
+    "longitude": -100.4342,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "4657",
+    "time_position": 1716987307,
+    "true_track": 99.43,
+    "velocity": 135.06,
+    "vertical_rate": -8.78,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 3,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "74TX",
+    "estDepartureAirportHorizDistance": 8347,
+    "estDepartureAirportVertDistance": 3640,
+    "firstSeen": 1716987253,
+    "lastSeen": 1716987307
+}

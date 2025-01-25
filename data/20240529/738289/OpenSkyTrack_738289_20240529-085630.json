@@ -1,0 +1,80 @@
+{
+    "callsign": "ISR174  ",
+    "endTime": "2024/05/29-08:33:56",
+    "icao24": "738289",
+    "path": [
+        [
+            1716982436,
+            33.3826,
+            32.5951,
+            1828,
+            307,
+            false
+        ],
+        [
+            1716982436,
+            33.3826,
+            32.5951,
+            1828,
+            307,
+            false
+        ],
+        [
+            1716982436,
+            33.3826,
+            32.5951,
+            1524,
+            304,
+            false
+        ],
+        [
+            1716982436,
+            33.3826,
+            32.5951,
+            1219,
+            206,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-08:33:56",
+    "baro_altitude": 11277.6,
+    "category": 0,
+    "geo_altitude": 11521.44,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716978991,
+    "latitude": 37.6939,
+    "longitude": 25.2371,
+    "on_ground": false,
+    "origin_country": "Israel",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2253",
+    "time_position": 1716978990,
+    "true_track": 131.2,
+    "velocity": 241.34,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 3,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LCRA",
+    "estDepartureAirportHorizDistance": 139102,
+    "estDepartureAirportVertDistance": 1912,
+    "firstSeen": 1716982436,
+    "lastSeen": 1716982436
+}

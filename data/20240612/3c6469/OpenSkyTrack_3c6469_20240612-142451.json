@@ -1,0 +1,80 @@
+{
+    "callsign": "CFG7DW  ",
+    "endTime": "2024/06/12-14:24:58",
+    "icao24": "3c6469",
+    "path": [
+        [
+            1718213039,
+            39.4232,
+            2.7092,
+            2133,
+            90,
+            false
+        ],
+        [
+            1718213047,
+            39.4233,
+            2.7227,
+            2133,
+            89,
+            false
+        ],
+        [
+            1718213082,
+            39.4244,
+            2.7823,
+            2438,
+            88,
+            false
+        ],
+        [
+            1718213098,
+            39.4249,
+            2.8121,
+            2743,
+            89,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-14:23:59",
+    "baro_altitude": 10668,
+    "category": 0,
+    "geo_altitude": 10805.16,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204675,
+    "latitude": 44.5989,
+    "longitude": 5.5794,
+    "on_ground": false,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1125",
+    "time_position": 1718204675,
+    "true_track": 196.43,
+    "velocity": 200.06,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LEPA",
+    "estDepartureAirportHorizDistance": 14756,
+    "estDepartureAirportVertDistance": 2140,
+    "firstSeen": 1718213039,
+    "lastSeen": 1718213098
+}

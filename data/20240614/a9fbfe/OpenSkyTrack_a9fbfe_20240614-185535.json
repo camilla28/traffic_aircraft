@@ -1,0 +1,112 @@
+{
+    "callsign": "N742WT  ",
+    "endTime": "2024/06/14-18:54:31",
+    "icao24": "a9fbfe",
+    "path": [
+        [
+            1718401249,
+            33.1731,
+            -97.232,
+            609,
+            326,
+            false
+        ],
+        [
+            1718401257,
+            33.177,
+            -97.2346,
+            609,
+            333,
+            false
+        ],
+        [
+            1718401339,
+            33.23,
+            -97.2658,
+            609,
+            332,
+            false
+        ],
+        [
+            1718401339,
+            33.23,
+            -97.2658,
+            609,
+            338,
+            false
+        ],
+        [
+            1718401516,
+            33.3517,
+            -97.3394,
+            914,
+            336,
+            false
+        ],
+        [
+            1718401594,
+            33.3971,
+            -97.3634,
+            1219,
+            335,
+            false
+        ],
+        [
+            1718401659,
+            33.4356,
+            -97.3846,
+            1524,
+            335,
+            false
+        ],
+        [
+            1718402071,
+            33.7356,
+            -97.5496,
+            1828,
+            335,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-18:40:49",
+    "baro_altitude": 1981.2,
+    "category": 0,
+    "geo_altitude": 2080.26,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718401725,
+    "latitude": 33.479,
+    "longitude": -97.4081,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718401725,
+    "true_track": 335.32,
+    "velocity": 91.16,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 501,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "7TS4",
+    "estDepartureAirportHorizDistance": 2631,
+    "estDepartureAirportVertDistance": 434,
+    "firstSeen": 1718401249,
+    "lastSeen": 1718402071
+}

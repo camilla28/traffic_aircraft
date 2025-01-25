@@ -1,0 +1,96 @@
+{
+    "callsign": "UAL2728 ",
+    "endTime": "2024/06/04-10:29:08",
+    "icao24": "aa7f03",
+    "path": [
+        [
+            1717503795,
+            41.2639,
+            -96.8566,
+            10668,
+            96,
+            false
+        ],
+        [
+            1717504634,
+            41.2566,
+            -96.7675,
+            10668,
+            96,
+            false
+        ],
+        [
+            1717505515,
+            41.2495,
+            -96.6804,
+            10668,
+            96,
+            false
+        ],
+        [
+            1717506345,
+            41.242,
+            -96.5904,
+            10668,
+            96,
+            false
+        ],
+        [
+            1717507210,
+            41.2345,
+            -96.5032,
+            10668,
+            96,
+            false
+        ],
+        [
+            1717507748,
+            41.23,
+            -96.4503,
+            10668,
+            96,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:23:15",
+    "baro_altitude": 10668,
+    "category": 0,
+    "geo_altitude": 11041.38,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504639,
+    "latitude": 41.2566,
+    "longitude": -96.7675,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504634,
+    "true_track": 96.19,
+    "velocity": 233.89,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "NE27",
+    "estDepartureAirportHorizDistance": 13857,
+    "estDepartureAirportVertDistance": 10229,
+    "firstSeen": 1717503795,
+    "lastSeen": 1717507748
+}

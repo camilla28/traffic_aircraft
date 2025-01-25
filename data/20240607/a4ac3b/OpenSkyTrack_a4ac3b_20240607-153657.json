@@ -1,0 +1,80 @@
+{
+    "callsign": "N40VZ   ",
+    "endTime": "2024/06/07-15:37:04",
+    "icao24": "a4ac3b",
+    "path": [
+        [
+            1717783384,
+            31.0871,
+            -91.2921,
+            2743,
+            103,
+            false
+        ],
+        [
+            1717784281,
+            30.9403,
+            -90.5844,
+            2743,
+            103,
+            false
+        ],
+        [
+            1717785176,
+            30.785,
+            -89.858,
+            2743,
+            103,
+            false
+        ],
+        [
+            1717785424,
+            30.7417,
+            -89.6587,
+            2743,
+            104,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-15:03:04",
+    "baro_altitude": 2880.36,
+    "category": 0,
+    "geo_altitude": 3048,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717784174,
+    "latitude": 30.9577,
+    "longitude": -90.6677,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717784174,
+    "true_track": 103.95,
+    "velocity": 78.98,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "12MS",
+    "estDepartureAirportHorizDistance": 1653,
+    "estDepartureAirportVertDistance": 2788,
+    "firstSeen": 1717783384,
+    "lastSeen": 1717785415
+}

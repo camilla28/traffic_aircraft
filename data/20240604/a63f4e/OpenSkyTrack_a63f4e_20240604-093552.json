@@ -1,0 +1,72 @@
+{
+    "callsign": "SKW3159 ",
+    "endTime": "2024/06/04-09:17:58",
+    "icao24": "a63f4e",
+    "path": [
+        [
+            1717502276,
+            33.0755,
+            -111.4099,
+            10363,
+            287,
+            false
+        ],
+        [
+            1717503163,
+            33.0946,
+            -111.4799,
+            10363,
+            287,
+            false
+        ],
+        [
+            1717503478,
+            33.0977,
+            -111.4911,
+            10363,
+            288,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:57:56",
+    "baro_altitude": 10363.2,
+    "category": 0,
+    "geo_altitude": 10919.46,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499994,
+    "latitude": 33.0748,
+    "longitude": -111.4074,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499993,
+    "true_track": 287.99,
+    "velocity": 229.88,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "36AZ",
+    "estDepartureAirportHorizDistance": 9960,
+    "estDepartureAirportVertDistance": 9912,
+    "firstSeen": 1717502276,
+    "lastSeen": 1717503478
+}

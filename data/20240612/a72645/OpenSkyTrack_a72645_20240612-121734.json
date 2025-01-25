@@ -1,0 +1,120 @@
+{
+    "callsign": "N56TL   ",
+    "endTime": "2024/06/12-12:17:44",
+    "icao24": "a72645",
+    "path": [
+        [
+            1718202424,
+            35.6041,
+            -86.2218,
+            1828,
+            83,
+            false
+        ],
+        [
+            1718202424,
+            35.6041,
+            -86.2218,
+            1828,
+            80,
+            false
+        ],
+        [
+            1718202526,
+            35.6143,
+            -86.1372,
+            2438,
+            82,
+            false
+        ],
+        [
+            1718202542,
+            35.6158,
+            -86.1229,
+            2438,
+            83,
+            false
+        ],
+        [
+            1718203441,
+            35.7119,
+            -85.1625,
+            2438,
+            82,
+            false
+        ],
+        [
+            1718204337,
+            35.8027,
+            -84.18,
+            2438,
+            84,
+            false
+        ],
+        [
+            1718205235,
+            35.8871,
+            -83.1802,
+            2438,
+            84,
+            false
+        ],
+        [
+            1718205455,
+            35.9068,
+            -82.932,
+            2438,
+            84,
+            false
+        ],
+        [
+            1718205464,
+            35.907,
+            -82.9217,
+            2438,
+            90,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-11:27:04",
+    "baro_altitude": 2712.72,
+    "category": 0,
+    "geo_altitude": 2811.78,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204683,
+    "latitude": 35.8356,
+    "longitude": -83.8049,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718204675,
+    "true_track": 84.17,
+    "velocity": 101.35,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 219,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "TN83",
+    "estDepartureAirportHorizDistance": 13992,
+    "estDepartureAirportVertDistance": 1784,
+    "firstSeen": 1718202424,
+    "lastSeen": 1718205455
+}

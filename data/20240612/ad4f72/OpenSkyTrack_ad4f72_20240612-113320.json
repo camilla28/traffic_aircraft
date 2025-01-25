@@ -1,0 +1,80 @@
+{
+    "callsign": "JBU1436 ",
+    "endTime": "2024/06/12-11:33:18",
+    "icao24": "ad4f72",
+    "path": [
+        [
+            1718202680,
+            20.5183,
+            -70.483,
+            6096,
+            353,
+            false
+        ],
+        [
+            1718202680,
+            20.5183,
+            -70.483,
+            6096,
+            353,
+            false
+        ],
+        [
+            1718202741,
+            20.6417,
+            -70.497,
+            6400,
+            353,
+            false
+        ],
+        [
+            1718202798,
+            20.76,
+            -70.5106,
+            6705,
+            353,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-11:31:20",
+    "baro_altitude": 6164.58,
+    "category": 0,
+    "geo_altitude": 6522.72,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718202655,
+    "latitude": 20.4667,
+    "longitude": -70.4771,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718202655,
+    "true_track": 353.72,
+    "velocity": 225.65,
+    "vertical_rate": 4.55,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1718202680,
+    "lastSeen": 1718202798
+}

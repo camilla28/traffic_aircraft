@@ -1,0 +1,104 @@
+{
+    "callsign": "AEE6JT  ",
+    "endTime": "2024/06/12-08:33:27",
+    "icao24": "4690e1",
+    "path": [
+        [
+            1718191610,
+            37.4148,
+            24.3222,
+            3657,
+            136,
+            false
+        ],
+        [
+            1718191621,
+            37.3987,
+            24.3411,
+            3657,
+            136,
+            false
+        ],
+        [
+            1718191656,
+            37.3481,
+            24.4009,
+            3962,
+            136,
+            false
+        ],
+        [
+            1718191708,
+            37.272,
+            24.4907,
+            4267,
+            136,
+            false
+        ],
+        [
+            1718191926,
+            36.9602,
+            24.8552,
+            4572,
+            136,
+            false
+        ],
+        [
+            1718191947,
+            36.9316,
+            24.8885,
+            4267,
+            136,
+            false
+        ],
+        [
+            1718192007,
+            36.85,
+            24.9833,
+            3962,
+            137,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-08:26:50",
+    "baro_altitude": 4572,
+    "category": 0,
+    "geo_altitude": 4930.14,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718191738,
+    "latitude": 37.2295,
+    "longitude": 24.5408,
+    "on_ground": false,
+    "origin_country": "Greece",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "6740",
+    "time_position": 1718191738,
+    "true_track": 136.81,
+    "velocity": 218.73,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1718191610,
+    "lastSeen": 1718192007
+}

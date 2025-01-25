@@ -1,0 +1,72 @@
+{
+    "callsign": "ECC283  ",
+    "endTime": "2024/06/04-09:50:03",
+    "icao24": "49d53f",
+    "path": [
+        [
+            1717504385,
+            41.4895,
+            45.2878,
+            13106,
+            276,
+            false
+        ],
+        [
+            1717505229,
+            41.4898,
+            45.2833,
+            13106,
+            275,
+            false
+        ],
+        [
+            1717505403,
+            41.4863,
+            45.3278,
+            13106,
+            276,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:33:05",
+    "baro_altitude": 13106.4,
+    "category": 0,
+    "geo_altitude": 13555.98,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504705,
+    "latitude": 41.4896,
+    "longitude": 45.2855,
+    "on_ground": false,
+    "origin_country": "Czech Republic",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504705,
+    "true_track": 276.03,
+    "velocity": 210.54,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717504385,
+    "lastSeen": 1717505403
+}

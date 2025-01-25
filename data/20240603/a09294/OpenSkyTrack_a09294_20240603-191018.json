@@ -1,0 +1,96 @@
+{
+    "callsign": "N136MF  ",
+    "endTime": "2024/06/03-19:06:50",
+    "icao24": "a09294",
+    "path": [
+        [
+            1717452379,
+            38.0215,
+            -84.4917,
+            304,
+            311,
+            false
+        ],
+        [
+            1717452391,
+            38.0252,
+            -84.4971,
+            304,
+            310,
+            false
+        ],
+        [
+            1717452398,
+            38.0273,
+            -84.4999,
+            304,
+            315,
+            false
+        ],
+        [
+            1717452406,
+            38.0289,
+            -84.5022,
+            304,
+            304,
+            false
+        ],
+        [
+            1717452410,
+            38.0294,
+            -84.5035,
+            304,
+            290,
+            false
+        ],
+        [
+            1717452410,
+            38.0294,
+            -84.5035,
+            304,
+            290,
+            false
+        ]
+    ],
+    "startTime": "2024/06/03-19:06:19",
+    "baro_altitude": 457.2,
+    "category": 0,
+    "geo_altitude": 441.96,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717452410,
+    "latitude": 38.0294,
+    "longitude": -84.5035,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717452410,
+    "true_track": 290.81,
+    "velocity": 27.52,
+    "vertical_rate": -3.9,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 270,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KLEX",
+    "estDepartureAirportHorizDistance": 10463,
+    "estDepartureAirportVertDistance": 280,
+    "firstSeen": 1717452379,
+    "lastSeen": 1717452410
+}

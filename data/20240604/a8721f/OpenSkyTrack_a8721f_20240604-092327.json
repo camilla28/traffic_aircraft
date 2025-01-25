@@ -1,0 +1,80 @@
+{
+    "callsign": "LAK643  ",
+    "endTime": "2024/06/04-08:49:21",
+    "icao24": "a8721f",
+    "path": [
+        [
+            1717499460,
+            33.4846,
+            -85.4855,
+            13106,
+            225,
+            false
+        ],
+        [
+            1717500343,
+            33.4363,
+            -85.5447,
+            13106,
+            225,
+            false
+        ],
+        [
+            1717501165,
+            33.397,
+            -85.5929,
+            13106,
+            225,
+            false
+        ],
+        [
+            1717501761,
+            33.3513,
+            -85.6487,
+            13106,
+            225,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:11:00",
+    "baro_altitude": 13106.4,
+    "category": 0,
+    "geo_altitude": 13632.18,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499942,
+    "latitude": 33.4541,
+    "longitude": -85.5228,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499940,
+    "true_track": 225.82,
+    "velocity": 202.28,
+    "vertical_rate": 1.3,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717499460,
+    "lastSeen": 1717501761
+}

@@ -1,0 +1,136 @@
+{
+    "callsign": "EDV4827 ",
+    "endTime": "2024/06/07-16:03:06",
+    "icao24": "a08a85",
+    "path": [
+        [
+            1717786877,
+            43.1121,
+            -77.6835,
+            0,
+            213,
+            false
+        ],
+        [
+            1717786885,
+            43.1068,
+            -77.6877,
+            304,
+            209,
+            false
+        ],
+        [
+            1717786893,
+            43.1022,
+            -77.6913,
+            304,
+            208,
+            false
+        ],
+        [
+            1717786901,
+            43.0971,
+            -77.6945,
+            609,
+            204,
+            false
+        ],
+        [
+            1717786909,
+            43.0921,
+            -77.6973,
+            609,
+            200,
+            false
+        ],
+        [
+            1717786918,
+            43.0864,
+            -77.7001,
+            609,
+            198,
+            false
+        ],
+        [
+            1717786927,
+            43.0801,
+            -77.7024,
+            914,
+            193,
+            false
+        ],
+        [
+            1717786936,
+            43.0735,
+            -77.7045,
+            914,
+            190,
+            false
+        ],
+        [
+            1717786944,
+            43.0678,
+            -77.7053,
+            914,
+            183,
+            false
+        ],
+        [
+            1717786970,
+            43.0441,
+            -77.7075,
+            1219,
+            184,
+            false
+        ],
+        [
+            1717786986,
+            43.0299,
+            -77.7094,
+            1524,
+            185,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-16:01:17",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717784059,
+    "latitude": 43.1265,
+    "longitude": -77.6643,
+    "on_ground": true,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717784059,
+    "true_track": 61.88,
+    "velocity": 0,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 240,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KROC",
+    "estDepartureAirportHorizDistance": 930,
+    "estDepartureAirportVertDistance": 103,
+    "firstSeen": 1717786877,
+    "lastSeen": 1717786986
+}

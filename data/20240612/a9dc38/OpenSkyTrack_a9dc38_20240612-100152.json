@@ -1,0 +1,112 @@
+{
+    "callsign": "N734ZT  ",
+    "endTime": "2024/06/12-10:01:41",
+    "icao24": "a9dc38",
+    "path": [
+        [
+            1718196187,
+            36.192,
+            -83.2748,
+            914,
+            81,
+            false
+        ],
+        [
+            1718196201,
+            36.1929,
+            -83.2673,
+            914,
+            81,
+            false
+        ],
+        [
+            1718196301,
+            36.1994,
+            -83.2147,
+            1219,
+            80,
+            false
+        ],
+        [
+            1718196424,
+            36.2071,
+            -83.1487,
+            1524,
+            82,
+            false
+        ],
+        [
+            1718196558,
+            36.2166,
+            -83.0696,
+            1828,
+            81,
+            false
+        ],
+        [
+            1718196893,
+            36.2407,
+            -82.8588,
+            2133,
+            82,
+            false
+        ],
+        [
+            1718197132,
+            36.2691,
+            -82.7026,
+            2133,
+            73,
+            false
+        ],
+        [
+            1718197301,
+            36.2954,
+            -82.5936,
+            2133,
+            73,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-09:43:07",
+    "baro_altitude": 1935.48,
+    "category": 0,
+    "geo_altitude": 1988.82,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718193965,
+    "latitude": 36.2857,
+    "longitude": -82.634,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718193965,
+    "true_track": 253.36,
+    "velocity": 46.71,
+    "vertical_rate": -0.98,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 204,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KMOR",
+    "estDepartureAirportHorizDistance": 8779,
+    "estDepartureAirportVertDistance": 773,
+    "firstSeen": 1718196187,
+    "lastSeen": 1718197301
+}

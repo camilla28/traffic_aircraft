@@ -1,0 +1,120 @@
+{
+    "callsign": "N98KS   ",
+    "endTime": "2024/06/12-12:40:04",
+    "icao24": "ada9bd",
+    "path": [
+        [
+            1718204668,
+            35.1492,
+            -108.6126,
+            4876,
+            153,
+            false
+        ],
+        [
+            1718204668,
+            35.1492,
+            -108.6126,
+            4876,
+            153,
+            false
+        ],
+        [
+            1718204878,
+            34.9896,
+            -108.5181,
+            5791,
+            154,
+            false
+        ],
+        [
+            1718205034,
+            34.8629,
+            -108.4432,
+            6096,
+            154,
+            false
+        ],
+        [
+            1718205932,
+            33.9648,
+            -107.9168,
+            6400,
+            154,
+            false
+        ],
+        [
+            1718206563,
+            33.3189,
+            -107.5461,
+            6400,
+            154,
+            false
+        ],
+        [
+            1718206620,
+            33.2578,
+            -107.5114,
+            6096,
+            154,
+            false
+        ],
+        [
+            1718206748,
+            33.1122,
+            -107.4284,
+            5791,
+            154,
+            false
+        ],
+        [
+            1718206804,
+            33.0497,
+            -107.3931,
+            5486,
+            154,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-12:04:28",
+    "baro_altitude": 5029.2,
+    "category": 0,
+    "geo_altitude": 5334,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204668,
+    "latitude": 35.1492,
+    "longitude": -108.6126,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718204668,
+    "true_track": 153.89,
+    "velocity": 87.66,
+    "vertical_rate": 4.55,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "NM56",
+    "estDepartureAirportHorizDistance": 74521,
+    "estDepartureAirportVertDistance": 2901,
+    "firstSeen": 1718204668,
+    "lastSeen": 1718206804
+}

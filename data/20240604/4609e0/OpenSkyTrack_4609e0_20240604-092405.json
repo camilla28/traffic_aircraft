@@ -1,0 +1,120 @@
+{
+    "callsign": "OHDTG   ",
+    "endTime": "2024/06/04-09:24:00",
+    "icao24": "4609e0",
+    "path": [
+        [
+            1717499484,
+            61.3988,
+            23.594,
+            304,
+            66,
+            false
+        ],
+        [
+            1717500321,
+            61.4024,
+            23.6107,
+            304,
+            69,
+            false
+        ],
+        [
+            1717500456,
+            61.4027,
+            23.6128,
+            304,
+            71,
+            false
+        ],
+        [
+            1717501254,
+            61.4048,
+            23.6257,
+            304,
+            69,
+            false
+        ],
+        [
+            1717502087,
+            61.4068,
+            23.6369,
+            304,
+            70,
+            false
+        ],
+        [
+            1717502368,
+            61.4075,
+            23.6403,
+            304,
+            67,
+            false
+        ],
+        [
+            1717502725,
+            61.4082,
+            23.6437,
+            304,
+            65,
+            false
+        ],
+        [
+            1717503162,
+            61.4098,
+            23.6507,
+            304,
+            63,
+            false
+        ],
+        [
+            1717503840,
+            61.4124,
+            23.6613,
+            304,
+            62,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:11:24",
+    "baro_altitude": 403.86,
+    "category": 0,
+    "geo_altitude": 335.28,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500016,
+    "latitude": 61.4015,
+    "longitude": 23.6069,
+    "on_ground": false,
+    "origin_country": "Finland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717500014,
+    "true_track": 65.22,
+    "velocity": 58.93,
+    "vertical_rate": -0.98,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 25,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EFTP",
+    "estDepartureAirportHorizDistance": 1813,
+    "estDepartureAirportVertDistance": 284,
+    "firstSeen": 1717499484,
+    "lastSeen": 1717503840
+}

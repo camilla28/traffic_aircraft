@@ -1,0 +1,80 @@
+{
+    "callsign": "LBQ640  ",
+    "endTime": "2024/06/04-08:35:58",
+    "icao24": "a0c581",
+    "path": [
+        [
+            1717498355,
+            30.0016,
+            -90.3019,
+            0,
+            106,
+            false
+        ],
+        [
+            1717499236,
+            30.0005,
+            -90.2977,
+            0,
+            105,
+            false
+        ],
+        [
+            1717500064,
+            29.9998,
+            -90.2946,
+            0,
+            106,
+            false
+        ],
+        [
+            1717500958,
+            29.9989,
+            -90.291,
+            0,
+            105,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:52:35",
+    "baro_altitude": 91.44,
+    "category": 0,
+    "geo_altitude": 53.34,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500032,
+    "latitude": 29.9997,
+    "longitude": -90.2943,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717500032,
+    "true_track": 106.45,
+    "velocity": 56.32,
+    "vertical_rate": -2.93,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 168,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KMSY",
+    "estDepartureAirportHorizDistance": 4324,
+    "estDepartureAirportVertDistance": 113,
+    "firstSeen": 1717498355,
+    "lastSeen": 1717500958
+}

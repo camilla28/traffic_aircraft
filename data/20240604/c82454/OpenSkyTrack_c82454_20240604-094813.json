@@ -1,0 +1,88 @@
+{
+    "callsign": "ZKHYI   ",
+    "endTime": "2024/06/04-09:45:55",
+    "icao24": "c82454",
+    "path": [
+        [
+            1717502967,
+            -43.5377,
+            172.1934,
+            0,
+            77,
+            false
+        ],
+        [
+            1717503657,
+            -43.5362,
+            172.203,
+            0,
+            78,
+            false
+        ],
+        [
+            1717503931,
+            -43.5358,
+            172.206,
+            0,
+            80,
+            false
+        ],
+        [
+            1717504771,
+            -43.5344,
+            172.2192,
+            0,
+            81,
+            false
+        ],
+        [
+            1717505155,
+            -43.534,
+            172.224,
+            0,
+            81,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:09:27",
+    "baro_altitude": 152.4,
+    "category": 0,
+    "geo_altitude": 297.18,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504651,
+    "latitude": -43.5347,
+    "longitude": 172.2173,
+    "on_ground": false,
+    "origin_country": "New Zealand",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504627,
+    "true_track": 81.97,
+    "velocity": 40.52,
+    "vertical_rate": 0.98,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 18,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "NZWL",
+    "estDepartureAirportHorizDistance": 17768,
+    "estDepartureAirportVertDistance": 26,
+    "firstSeen": 1717502967,
+    "lastSeen": 1717505155
+}

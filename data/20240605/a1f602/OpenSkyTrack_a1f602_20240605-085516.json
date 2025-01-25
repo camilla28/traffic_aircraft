@@ -1,0 +1,104 @@
+{
+    "callsign": "N2250X  ",
+    "endTime": "2024/06/05-08:54:53",
+    "icao24": "a1f602",
+    "path": [
+        [
+            1717587747,
+            26.9451,
+            -81.5742,
+            1219,
+            340,
+            false
+        ],
+        [
+            1717587747,
+            26.9451,
+            -81.5742,
+            1219,
+            340,
+            false
+        ],
+        [
+            1717588195,
+            27.1469,
+            -81.6536,
+            2133,
+            335,
+            false
+        ],
+        [
+            1717588195,
+            27.1469,
+            -81.6536,
+            2133,
+            344,
+            false
+        ],
+        [
+            1717588266,
+            27.1823,
+            -81.6657,
+            2133,
+            345,
+            false
+        ],
+        [
+            1717588345,
+            27.222,
+            -81.6802,
+            2438,
+            340,
+            false
+        ],
+        [
+            1717588493,
+            27.307,
+            -81.7151,
+            2438,
+            340,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-08:42:27",
+    "baro_altitude": 518.16,
+    "category": 0,
+    "geo_altitude": 541.02,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717582996,
+    "latitude": 25.9909,
+    "longitude": -80.286,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717582996,
+    "true_track": 272.89,
+    "velocity": 50.99,
+    "vertical_rate": 2.6,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 237,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "6FL3",
+    "estDepartureAirportHorizDistance": 1123,
+    "estDepartureAirportVertDistance": 1444,
+    "firstSeen": 1717587747,
+    "lastSeen": 1717588493
+}

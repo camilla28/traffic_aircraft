@@ -1,0 +1,72 @@
+{
+    "callsign": "N136UT  ",
+    "endTime": "2024/06/14-18:50:29",
+    "icao24": "a0934f",
+    "path": [
+        [
+            1718401741,
+            35.967,
+            -83.2689,
+            609,
+            265,
+            false
+        ],
+        [
+            1718401755,
+            35.9664,
+            -83.2786,
+            609,
+            267,
+            false
+        ],
+        [
+            1718401829,
+            35.9653,
+            -83.3277,
+            609,
+            268,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-18:49:01",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718401725,
+    "latitude": null,
+    "longitude": null,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": null,
+    "true_track": 267.78,
+    "velocity": 53.03,
+    "vertical_rate": 3.25,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 212,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "21TN",
+    "estDepartureAirportHorizDistance": 15517,
+    "estDepartureAirportVertDistance": 512,
+    "firstSeen": 1718401741,
+    "lastSeen": 1718401829
+}

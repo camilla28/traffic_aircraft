@@ -1,0 +1,112 @@
+{
+    "callsign": "IGOOO   ",
+    "endTime": "2024/06/04-08:37:37",
+    "icao24": "300816",
+    "path": [
+        [
+            1717496733,
+            46.0823,
+            13.274,
+            304,
+            331,
+            false
+        ],
+        [
+            1717497626,
+            46.1006,
+            13.2597,
+            304,
+            331,
+            false
+        ],
+        [
+            1717498499,
+            46.1219,
+            13.2431,
+            304,
+            331,
+            false
+        ],
+        [
+            1717499395,
+            46.1472,
+            13.2234,
+            304,
+            331,
+            false
+        ],
+        [
+            1717500294,
+            46.1753,
+            13.2013,
+            304,
+            332,
+            false
+        ],
+        [
+            1717500485,
+            46.1789,
+            13.1986,
+            304,
+            330,
+            false
+        ],
+        [
+            1717500575,
+            46.1808,
+            13.1969,
+            304,
+            328,
+            false
+        ],
+        [
+            1717501057,
+            46.1949,
+            13.1845,
+            304,
+            330,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:25:33",
+    "baro_altitude": 411.48,
+    "category": 0,
+    "geo_altitude": 480.06,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500021,
+    "latitude": 46.1671,
+    "longitude": 13.2077,
+    "on_ground": false,
+    "origin_country": "Italy",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "6261",
+    "time_position": 1717500019,
+    "true_track": 331.49,
+    "velocity": 67.91,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 56,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LIPD",
+    "estDepartureAirportHorizDistance": 8739,
+    "estDepartureAirportVertDistance": 318,
+    "firstSeen": 1717496733,
+    "lastSeen": 1717501057
+}

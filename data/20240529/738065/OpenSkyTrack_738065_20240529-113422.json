@@ -1,0 +1,96 @@
+{
+    "callsign": "ELY545  ",
+    "endTime": "2024/05/29-11:20:33",
+    "icao24": "738065",
+    "path": [
+        [
+            1716990396,
+            33.8167,
+            35.4918,
+            1219,
+            250,
+            false
+        ],
+        [
+            1716990396,
+            33.8167,
+            35.4918,
+            1219,
+            243,
+            false
+        ],
+        [
+            1716991146,
+            33.8148,
+            35.4904,
+            8534,
+            180,
+            false
+        ],
+        [
+            1716991146,
+            33.8148,
+            35.4904,
+            8534,
+            67,
+            false
+        ],
+        [
+            1716992433,
+            33.0091,
+            34.3124,
+            10972,
+            265,
+            false
+        ],
+        [
+            1716992433,
+            33.0091,
+            34.3124,
+            10972,
+            265,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-10:46:36",
+    "baro_altitude": 8778.24,
+    "category": 0,
+    "geo_altitude": 7818.12,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716991239,
+    "latitude": 33.8148,
+    "longitude": 35.4904,
+    "on_ground": false,
+    "origin_country": "Israel",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0475",
+    "time_position": 1716991146,
+    "true_track": 180,
+    "velocity": 0.51,
+    "vertical_rate": 6.83,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 30,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "OLBA",
+    "estDepartureAirportHorizDistance": 562,
+    "estDepartureAirportVertDistance": 1467,
+    "firstSeen": 1716990396,
+    "lastSeen": 1716992433
+}

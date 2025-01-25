@@ -1,0 +1,96 @@
+{
+    "callsign": "TSC207  ",
+    "endTime": "2024/06/05-09:53:57",
+    "icao24": "c06a88",
+    "path": [
+        [
+            1717591967,
+            53.3422,
+            -2.2894,
+            0,
+            231,
+            false
+        ],
+        [
+            1717591986,
+            53.3331,
+            -2.308,
+            0,
+            230,
+            false
+        ],
+        [
+            1717592015,
+            53.3187,
+            -2.3377,
+            304,
+            232,
+            false
+        ],
+        [
+            1717592023,
+            53.3152,
+            -2.3475,
+            304,
+            248,
+            false
+        ],
+        [
+            1717592031,
+            53.314,
+            -2.3588,
+            304,
+            268,
+            false
+        ],
+        [
+            1717592037,
+            53.3145,
+            -2.3676,
+            304,
+            279,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-09:52:47",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717590634,
+    "latitude": 53.3619,
+    "longitude": -2.2775,
+    "on_ground": true,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717590634,
+    "true_track": 45,
+    "velocity": 0,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 75,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EGCC",
+    "estDepartureAirportHorizDistance": 1402,
+    "estDepartureAirportVertDistance": 2,
+    "firstSeen": 1717591967,
+    "lastSeen": 1717592037
+}

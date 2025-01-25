@@ -1,0 +1,128 @@
+{
+    "callsign": "ESETI   ",
+    "endTime": "2024/06/05-07:23:17",
+    "icao24": "511141",
+    "path": [
+        [
+            1717579362,
+            61.0861,
+            22.418,
+            1828,
+            143,
+            false
+        ],
+        [
+            1717579394,
+            61.0717,
+            22.4403,
+            1828,
+            143,
+            false
+        ],
+        [
+            1717579462,
+            61.0406,
+            22.4875,
+            2133,
+            143,
+            false
+        ],
+        [
+            1717579535,
+            61.0079,
+            22.5374,
+            2438,
+            143,
+            false
+        ],
+        [
+            1717579641,
+            60.9609,
+            22.6092,
+            2743,
+            142,
+            false
+        ],
+        [
+            1717580031,
+            60.772,
+            22.891,
+            3048,
+            144,
+            false
+        ],
+        [
+            1717580929,
+            60.3207,
+            23.5552,
+            3352,
+            144,
+            false
+        ],
+        [
+            1717581824,
+            59.8592,
+            24.2073,
+            3352,
+            146,
+            false
+        ],
+        [
+            1717582720,
+            59.3763,
+            24.8644,
+            3352,
+            145,
+            false
+        ],
+        [
+            1717582997,
+            59.2229,
+            25.0676,
+            3352,
+            145,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-06:22:42",
+    "baro_altitude": 3352.8,
+    "category": 0,
+    "geo_altitude": 3390.9,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717582996,
+    "latitude": 59.2235,
+    "longitude": 25.0667,
+    "on_ground": false,
+    "origin_country": "Estonia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "6345",
+    "time_position": 1717582996,
+    "true_track": 145.88,
+    "velocity": 75.2,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 17,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EFVP",
+    "estDepartureAirportHorizDistance": 10736,
+    "estDepartureAirportVertDistance": 1891,
+    "firstSeen": 1717579362,
+    "lastSeen": 1717582997
+}

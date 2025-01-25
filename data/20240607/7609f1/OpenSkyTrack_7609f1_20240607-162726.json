@@ -1,0 +1,72 @@
+{
+    "callsign": "FJL725  ",
+    "endTime": "2024/06/07-15:14:34",
+    "icao24": "7609f1",
+    "path": [
+        [
+            1717783516,
+            31.1992,
+            69.1952,
+            11277,
+            55,
+            false
+        ],
+        [
+            1717784022,
+            31.9032,
+            70.346,
+            11277,
+            53,
+            false
+        ],
+        [
+            1717784074,
+            31.9756,
+            70.4627,
+            10972,
+            54,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-15:05:16",
+    "baro_altitude": 11262.36,
+    "category": 0,
+    "geo_altitude": 11719.56,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717784074,
+    "latitude": 31.9756,
+    "longitude": 70.4627,
+    "on_ground": false,
+    "origin_country": "Pakistan",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717784074,
+    "true_track": 54.09,
+    "velocity": 264.87,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717783516,
+    "lastSeen": 1717784074
+}

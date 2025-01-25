@@ -1,0 +1,104 @@
+{
+    "callsign": "CSN8581 ",
+    "endTime": "2024/06/07-22:08:24",
+    "icao24": "7809fb",
+    "path": [
+        [
+            1717808657,
+            22.4877,
+            113.7795,
+            1524,
+            289,
+            false
+        ],
+        [
+            1717808667,
+            22.4933,
+            113.7697,
+            1524,
+            306,
+            false
+        ],
+        [
+            1717808668,
+            22.4941,
+            113.7687,
+            1524,
+            308,
+            false
+        ],
+        [
+            1717808678,
+            22.5038,
+            113.7607,
+            1524,
+            325,
+            false
+        ],
+        [
+            1717808678,
+            22.5038,
+            113.7607,
+            1524,
+            325,
+            false
+        ],
+        [
+            1717808888,
+            22.5784,
+            113.5355,
+            3352,
+            222,
+            false
+        ],
+        [
+            1717808904,
+            22.5586,
+            113.5162,
+            3352,
+            222,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-22:04:17",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717811521,
+    "latitude": null,
+    "longitude": null,
+    "on_ground": false,
+    "origin_country": "China",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": null,
+    "true_track": 296.22,
+    "velocity": 230.53,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 5,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "ZGSZ",
+    "estDepartureAirportHorizDistance": 37255,
+    "estDepartureAirportVertDistance": 1542,
+    "firstSeen": 1717808657,
+    "lastSeen": 1717808904
+}

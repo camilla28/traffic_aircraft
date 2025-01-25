@@ -1,0 +1,104 @@
+{
+    "callsign": "TAY1SF  ",
+    "endTime": "2024/06/04-09:32:25",
+    "icao24": "440b91",
+    "path": [
+        [
+            1717499245,
+            43.7203,
+            24.9766,
+            9144,
+            221,
+            false
+        ],
+        [
+            1717500056,
+            43.6998,
+            24.9515,
+            9144,
+            221,
+            false
+        ],
+        [
+            1717500940,
+            43.6775,
+            24.9241,
+            9144,
+            221,
+            false
+        ],
+        [
+            1717501827,
+            43.6516,
+            24.8925,
+            9144,
+            221,
+            false
+        ],
+        [
+            1717502667,
+            43.6204,
+            24.8544,
+            9144,
+            221,
+            false
+        ],
+        [
+            1717503530,
+            43.5817,
+            24.8071,
+            9144,
+            221,
+            false
+        ],
+        [
+            1717504345,
+            43.5503,
+            24.7688,
+            9144,
+            221,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:07:25",
+    "baro_altitude": 9144,
+    "category": 0,
+    "geo_altitude": 9479.28,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500020,
+    "latitude": 43.7006,
+    "longitude": 24.9524,
+    "on_ground": false,
+    "origin_country": "Austria",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2645",
+    "time_position": 1717500016,
+    "true_track": 221.65,
+    "velocity": 186.57,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717499245,
+    "lastSeen": 1717504345
+}

@@ -1,0 +1,72 @@
+{
+    "callsign": "SEPTR2  ",
+    "endTime": "2024/05/29-08:48:51",
+    "icao24": "43c8d7",
+    "path": [
+        [
+            1716983331,
+            53.0287,
+            -0.5126,
+            0,
+            267,
+            false
+        ],
+        [
+            1716983331,
+            53.0287,
+            -0.5126,
+            0,
+            267,
+            false
+        ],
+        [
+            1716983331,
+            53.0287,
+            -0.5126,
+            5486,
+            267,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-08:48:51",
+    "baro_altitude": 266.7,
+    "category": 2,
+    "geo_altitude": 274.32,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716978990,
+    "latitude": 53.035,
+    "longitude": -0.4585,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7010",
+    "time_position": 1716978990,
+    "true_track": 260.1,
+    "velocity": 110.71,
+    "vertical_rate": 0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 117,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EGYD",
+    "estDepartureAirportHorizDistance": 1972,
+    "estDepartureAirportVertDistance": 192,
+    "firstSeen": 1716983331,
+    "lastSeen": 1716983331
+}

@@ -1,0 +1,120 @@
+{
+    "callsign": "DAL2905 ",
+    "endTime": "2024/05/29-10:03:25",
+    "icao24": "a34e9d",
+    "path": [
+        [
+            1716987697,
+            37.3611,
+            -121.925,
+            -304,
+            318,
+            false
+        ],
+        [
+            1716987720,
+            37.3731,
+            -121.9377,
+            0,
+            319,
+            false
+        ],
+        [
+            1716987753,
+            37.393,
+            -121.9585,
+            304,
+            320,
+            false
+        ],
+        [
+            1716987767,
+            37.4023,
+            -121.9688,
+            609,
+            318,
+            false
+        ],
+        [
+            1716987774,
+            37.4078,
+            -121.9737,
+            609,
+            332,
+            false
+        ],
+        [
+            1716987782,
+            37.4149,
+            -121.9765,
+            914,
+            352,
+            false
+        ],
+        [
+            1716987789,
+            37.4214,
+            -121.9762,
+            914,
+            8,
+            false
+        ],
+        [
+            1716987797,
+            37.4287,
+            -121.9725,
+            914,
+            32,
+            false
+        ],
+        [
+            1716987805,
+            37.4346,
+            -121.9656,
+            1219,
+            53,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-10:01:37",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716987586,
+    "latitude": 37.3537,
+    "longitude": -121.9153,
+    "on_ground": true,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1716987586,
+    "true_track": 140.62,
+    "velocity": 5.66,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 171,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KSJC",
+    "estDepartureAirportHorizDistance": 735,
+    "estDepartureAirportVertDistance": 56,
+    "firstSeen": 1716987697,
+    "lastSeen": 1716987805
+}

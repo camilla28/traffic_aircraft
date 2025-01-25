@@ -1,0 +1,120 @@
+{
+    "callsign": "N444CR  ",
+    "endTime": "2024/06/12-11:34:52",
+    "icao24": "a559bb",
+    "path": [
+        [
+            1718201823,
+            41.7985,
+            -111.8424,
+            1219,
+            116,
+            false
+        ],
+        [
+            1718201823,
+            41.7985,
+            -111.8424,
+            1219,
+            116,
+            false
+        ],
+        [
+            1718202094,
+            41.8012,
+            -111.8444,
+            1219,
+            97,
+            false
+        ],
+        [
+            1718202385,
+            41.805,
+            -111.8445,
+            1219,
+            97,
+            false
+        ],
+        [
+            1718202385,
+            41.805,
+            -111.8445,
+            1219,
+            101,
+            false
+        ],
+        [
+            1718202401,
+            41.8012,
+            -111.8415,
+            1219,
+            161,
+            false
+        ],
+        [
+            1718202401,
+            41.8012,
+            -111.8415,
+            1219,
+            161,
+            false
+        ],
+        [
+            1718202853,
+            41.7962,
+            -111.8555,
+            1219,
+            253,
+            false
+        ],
+        [
+            1718202892,
+            41.7824,
+            -111.8591,
+            1219,
+            253,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-11:17:03",
+    "baro_altitude": 1432.56,
+    "category": 0,
+    "geo_altitude": 1463.04,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718202401,
+    "latitude": 41.8012,
+    "longitude": -111.8415,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718202401,
+    "true_track": 161.29,
+    "velocity": 33.68,
+    "vertical_rate": 1.63,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 59,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KLGU",
+    "estDepartureAirportHorizDistance": 1047,
+    "estDepartureAirportVertDistance": 43,
+    "firstSeen": 1718201823,
+    "lastSeen": 1718202892
+}

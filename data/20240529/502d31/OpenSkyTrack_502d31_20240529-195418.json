@@ -1,0 +1,72 @@
+{
+    "callsign": "MSA56B  ",
+    "endTime": "2024/05/29-19:54:11",
+    "icao24": "502d31",
+    "path": [
+        [
+            1717023208,
+            45.4201,
+            10.3431,
+            304,
+            136,
+            false
+        ],
+        [
+            1717023231,
+            45.4088,
+            10.3588,
+            304,
+            135,
+            false
+        ],
+        [
+            1717023251,
+            45.3979,
+            10.3744,
+            609,
+            134,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-19:53:28",
+    "baro_altitude": 10370.82,
+    "category": 0,
+    "geo_altitude": 10629.9,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717016382,
+    "latitude": 43.7772,
+    "longitude": 12.805,
+    "on_ground": false,
+    "origin_country": "Latvia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1717016382,
+    "true_track": 305.57,
+    "velocity": 199.86,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 52,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LIPO",
+    "estDepartureAirportHorizDistance": 1117,
+    "estDepartureAirportVertDistance": 234,
+    "firstSeen": 1717023208,
+    "lastSeen": 1717023251
+}

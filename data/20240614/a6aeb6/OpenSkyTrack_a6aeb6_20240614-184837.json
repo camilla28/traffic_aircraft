@@ -1,0 +1,80 @@
+{
+    "callsign": "N53GM   ",
+    "endTime": "2024/06/14-18:48:43",
+    "icao24": "a6aeb6",
+    "path": [
+        [
+            1718399089,
+            42.4258,
+            -91.8565,
+            2438,
+            271,
+            false
+        ],
+        [
+            1718399982,
+            42.4349,
+            -92.7112,
+            2438,
+            270,
+            false
+        ],
+        [
+            1718400868,
+            42.4375,
+            -93.5467,
+            2438,
+            269,
+            false
+        ],
+        [
+            1718401723,
+            42.434,
+            -94.3628,
+            2438,
+            269,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-18:04:49",
+    "baro_altitude": 2567.94,
+    "category": 0,
+    "geo_altitude": 2659.38,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718401723,
+    "latitude": 42.434,
+    "longitude": -94.3628,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5345",
+    "time_position": 1718401723,
+    "true_track": 269.62,
+    "velocity": 78.2,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KIIB",
+    "estDepartureAirportHorizDistance": 8600,
+    "estDepartureAirportVertDistance": 2269,
+    "firstSeen": 1718399089,
+    "lastSeen": 1718401723
+}

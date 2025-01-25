@@ -1,0 +1,80 @@
+{
+    "callsign": "VOE3833 ",
+    "endTime": "2024/06/04-09:42:34",
+    "icao24": "346193",
+    "path": [
+        [
+            1717503384,
+            41.6228,
+            -0.9332,
+            609,
+            299,
+            false
+        ],
+        [
+            1717503384,
+            41.6228,
+            -0.9332,
+            609,
+            300,
+            false
+        ],
+        [
+            1717504162,
+            41.6284,
+            -0.946,
+            304,
+            300,
+            false
+        ],
+        [
+            1717504954,
+            41.6336,
+            -0.958,
+            304,
+            299,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:16:24",
+    "baro_altitude": 518.16,
+    "category": 0,
+    "geo_altitude": 609.6,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504655,
+    "latitude": 41.6323,
+    "longitude": -0.955,
+    "on_ground": false,
+    "origin_country": "Spain",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504653,
+    "true_track": 299.69,
+    "velocity": 63.36,
+    "vertical_rate": -3.25,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 23,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LEZG",
+    "estDepartureAirportHorizDistance": 10213,
+    "estDepartureAirportVertDistance": 346,
+    "firstSeen": 1717503384,
+    "lastSeen": 1717504954
+}

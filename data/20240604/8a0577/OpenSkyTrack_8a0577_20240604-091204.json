@@ -1,0 +1,72 @@
+{
+    "callsign": "KNE8299 ",
+    "endTime": "2024/06/04-09:08:34",
+    "icao24": "8a0577",
+    "path": [
+        [
+            1717501242,
+            35.0531,
+            12.5334,
+            11582,
+            269,
+            false
+        ],
+        [
+            1717502046,
+            35.053,
+            12.4823,
+            11582,
+            270,
+            false
+        ],
+        [
+            1717502914,
+            35.0529,
+            12.4265,
+            11582,
+            269,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:40:42",
+    "baro_altitude": 11582.4,
+    "category": 0,
+    "geo_altitude": 12077.7,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499741,
+    "latitude": 35.0531,
+    "longitude": 12.601,
+    "on_ground": false,
+    "origin_country": "Indonesia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499735,
+    "true_track": 270,
+    "velocity": 219.15,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717501242,
+    "lastSeen": 1717502914
+}

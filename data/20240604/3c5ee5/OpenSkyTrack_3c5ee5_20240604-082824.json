@@ -1,0 +1,160 @@
+{
+    "callsign": "EWG64R  ",
+    "endTime": "2024/06/04-08:28:23",
+    "icao24": "3c5ee5",
+    "path": [
+        [
+            1717492797,
+            50.8996,
+            11.5224,
+            10363,
+            205,
+            false
+        ],
+        [
+            1717493676,
+            50.8427,
+            11.4791,
+            10363,
+            205,
+            false
+        ],
+        [
+            1717494573,
+            50.7776,
+            11.4298,
+            10363,
+            205,
+            false
+        ],
+        [
+            1717495374,
+            50.6972,
+            11.3692,
+            10363,
+            205,
+            false
+        ],
+        [
+            1717495374,
+            50.6972,
+            11.3692,
+            10058,
+            205,
+            false
+        ],
+        [
+            1717496271,
+            50.6156,
+            11.3078,
+            10363,
+            205,
+            false
+        ],
+        [
+            1717497167,
+            50.5533,
+            11.2611,
+            10363,
+            205,
+            false
+        ],
+        [
+            1717498028,
+            50.4729,
+            11.2011,
+            10363,
+            205,
+            false
+        ],
+        [
+            1717498041,
+            50.4827,
+            11.2084,
+            10668,
+            205,
+            false
+        ],
+        [
+            1717498910,
+            50.412,
+            11.1557,
+            10363,
+            205,
+            false
+        ],
+        [
+            1717499184,
+            50.3918,
+            11.1407,
+            10363,
+            205,
+            false
+        ],
+        [
+            1717499184,
+            50.3918,
+            11.1407,
+            10058,
+            205,
+            false
+        ],
+        [
+            1717500020,
+            50.3307,
+            11.0953,
+            10363,
+            205,
+            false
+        ],
+        [
+            1717500503,
+            50.2975,
+            11.0706,
+            10363,
+            205,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-06:19:57",
+    "baro_altitude": 10363.2,
+    "category": 0,
+    "geo_altitude": 10561.32,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500024,
+    "latitude": 50.3307,
+    "longitude": 11.0953,
+    "on_ground": false,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1717500020,
+    "true_track": 205.42,
+    "velocity": 207.33,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDOU",
+    "estDepartureAirportHorizDistance": 27846,
+    "estDepartureAirportVertDistance": 10063,
+    "firstSeen": 1717492797,
+    "lastSeen": 1717500503
+}

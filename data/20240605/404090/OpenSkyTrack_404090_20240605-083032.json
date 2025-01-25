@@ -1,0 +1,112 @@
+{
+    "callsign": "GBYEA   ",
+    "endTime": "2024/06/05-08:30:32",
+    "icao24": "404090",
+    "path": [
+        [
+            1717586993,
+            52.6085,
+            -1.0621,
+            304,
+            290,
+            false
+        ],
+        [
+            1717586997,
+            52.609,
+            -1.0636,
+            304,
+            315,
+            false
+        ],
+        [
+            1717587003,
+            52.6105,
+            -1.0655,
+            304,
+            327,
+            false
+        ],
+        [
+            1717587008,
+            52.6119,
+            -1.0663,
+            304,
+            350,
+            false
+        ],
+        [
+            1717587015,
+            52.6142,
+            -1.0667,
+            304,
+            359,
+            false
+        ],
+        [
+            1717587021,
+            52.6159,
+            -1.0664,
+            304,
+            0,
+            false
+        ],
+        [
+            1717587025,
+            52.6172,
+            -1.0657,
+            304,
+            18,
+            false
+        ],
+        [
+            1717587032,
+            52.6192,
+            -1.0628,
+            304,
+            46,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-08:29:53",
+    "baro_altitude": 632.46,
+    "category": 0,
+    "geo_altitude": 670.56,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717582996,
+    "latitude": 52.1928,
+    "longitude": -1.618,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717582996,
+    "true_track": 90,
+    "velocity": 61.73,
+    "vertical_rate": -1.3,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 138,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EGBG",
+    "estDepartureAirportHorizDistance": 1871,
+    "estDepartureAirportVertDistance": 314,
+    "firstSeen": 1717586993,
+    "lastSeen": 1717587032
+}

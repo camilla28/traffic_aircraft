@@ -1,0 +1,72 @@
+{
+    "callsign": "HAL6    ",
+    "endTime": "2024/05/28-19:41:41",
+    "icao24": "a46e8d",
+    "path": [
+        [
+            1716935857,
+            34.591,
+            -122.0418,
+            12192,
+            73,
+            false
+        ],
+        [
+            1716935997,
+            34.6838,
+            -121.66,
+            12192,
+            73,
+            false
+        ],
+        [
+            1716936101,
+            34.7523,
+            -121.3742,
+            12496,
+            73,
+            false
+        ]
+    ],
+    "startTime": "2024/05/28-19:37:37",
+    "baro_altitude": 12390.12,
+    "category": 0,
+    "geo_altitude": 12763.5,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716935961,
+    "latitude": 34.6597,
+    "longitude": -121.7599,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1716935961,
+    "true_track": 73.64,
+    "velocity": 261.11,
+    "vertical_rate": 5.85,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1716935857,
+    "lastSeen": 1716936101
+}

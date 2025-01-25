@@ -1,0 +1,120 @@
+{
+    "callsign": "QTR8145 ",
+    "endTime": "2024/06/05-07:26:41",
+    "icao24": "06a30b",
+    "path": [
+        [
+            1717581747,
+            28.505,
+            49.0228,
+            9753,
+            325,
+            false
+        ],
+        [
+            1717582278,
+            29.4359,
+            48.307,
+            9753,
+            328,
+            false
+        ],
+        [
+            1717582587,
+            30.0026,
+            47.929,
+            9753,
+            328,
+            false
+        ],
+        [
+            1717582587,
+            30.0026,
+            47.929,
+            9753,
+            310,
+            false
+        ],
+        [
+            1717582985,
+            30.5363,
+            47.2281,
+            10363,
+            310,
+            false
+        ],
+        [
+            1717582993,
+            30.547,
+            47.2141,
+            10363,
+            313,
+            false
+        ],
+        [
+            1717583005,
+            30.5637,
+            47.194,
+            10363,
+            315,
+            false
+        ],
+        [
+            1717583022,
+            30.5896,
+            47.1663,
+            10363,
+            319,
+            false
+        ],
+        [
+            1717583201,
+            30.8738,
+            46.9,
+            10363,
+            320,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-07:02:27",
+    "baro_altitude": 10363.2,
+    "category": 0,
+    "geo_altitude": 10980.42,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717582996,
+    "latitude": 30.547,
+    "longitude": 47.2141,
+    "on_ground": false,
+    "origin_country": "Qatar",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717582993,
+    "true_track": 313.15,
+    "velocity": 224.93,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717581747,
+    "lastSeen": 1717583201
+}

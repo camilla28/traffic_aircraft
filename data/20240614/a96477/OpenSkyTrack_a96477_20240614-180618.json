@@ -1,0 +1,120 @@
+{
+    "callsign": "N704LU  ",
+    "endTime": "2024/06/14-18:06:10",
+    "icao24": "a96477",
+    "path": [
+        [
+            1718396328,
+            39.0875,
+            -78.1779,
+            914,
+            205,
+            false
+        ],
+        [
+            1718396415,
+            39.0571,
+            -78.196,
+            914,
+            205,
+            false
+        ],
+        [
+            1718396524,
+            39.0182,
+            -78.219,
+            1219,
+            205,
+            false
+        ],
+        [
+            1718396636,
+            38.9781,
+            -78.2432,
+            1524,
+            204,
+            false
+        ],
+        [
+            1718396930,
+            38.853,
+            -78.3173,
+            1828,
+            205,
+            false
+        ],
+        [
+            1718397827,
+            38.4583,
+            -78.5497,
+            1524,
+            205,
+            false
+        ],
+        [
+            1718398723,
+            38.073,
+            -78.7739,
+            1524,
+            204,
+            false
+        ],
+        [
+            1718398950,
+            37.9774,
+            -78.8291,
+            1524,
+            204,
+            false
+        ],
+        [
+            1718399170,
+            37.8857,
+            -78.882,
+            1828,
+            204,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-17:18:48",
+    "baro_altitude": 1851.66,
+    "category": 0,
+    "geo_altitude": 1889.76,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718396795,
+    "latitude": 38.9121,
+    "longitude": -78.2823,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718396795,
+    "true_track": 204.81,
+    "velocity": 52.71,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 400,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KOKV",
+    "estDepartureAirportHorizDistance": 6809,
+    "estDepartureAirportVertDistance": 700,
+    "firstSeen": 1718396328,
+    "lastSeen": 1718399170
+}

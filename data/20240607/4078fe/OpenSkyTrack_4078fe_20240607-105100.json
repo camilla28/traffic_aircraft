@@ -1,0 +1,104 @@
+{
+    "callsign": "EXS1AX  ",
+    "endTime": "2024/06/07-10:50:54",
+    "icao24": "4078fe",
+    "path": [
+        [
+            1717768182,
+            52.4409,
+            -1.7335,
+            0,
+            144,
+            false
+        ],
+        [
+            1717768192,
+            52.4343,
+            -1.7259,
+            0,
+            144,
+            false
+        ],
+        [
+            1717768210,
+            52.4223,
+            -1.7127,
+            304,
+            146,
+            false
+        ],
+        [
+            1717768219,
+            52.4158,
+            -1.7066,
+            304,
+            152,
+            false
+        ],
+        [
+            1717768228,
+            52.4086,
+            -1.7014,
+            609,
+            157,
+            false
+        ],
+        [
+            1717768243,
+            52.3954,
+            -1.695,
+            609,
+            166,
+            false
+        ],
+        [
+            1717768254,
+            52.385,
+            -1.6907,
+            609,
+            164,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-10:49:42",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762858,
+    "latitude": 52.4498,
+    "longitude": -1.7434,
+    "on_ground": true,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5362",
+    "time_position": 1717762792,
+    "true_track": 146.25,
+    "velocity": 28.29,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 121,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EGBB",
+    "estDepartureAirportHorizDistance": 1453,
+    "estDepartureAirportVertDistance": 45,
+    "firstSeen": 1717768182,
+    "lastSeen": 1717768254
+}

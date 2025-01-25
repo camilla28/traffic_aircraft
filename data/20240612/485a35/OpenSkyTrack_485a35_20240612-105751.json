@@ -1,0 +1,168 @@
+{
+    "callsign": "KLM34A  ",
+    "endTime": "2024/06/12-10:57:58",
+    "icao24": "485a35",
+    "path": [
+        [
+            1718200545,
+            60.3141,
+            5.2105,
+            304,
+            349,
+            false
+        ],
+        [
+            1718200562,
+            60.3273,
+            5.2058,
+            304,
+            350,
+            false
+        ],
+        [
+            1718200571,
+            60.3349,
+            5.2021,
+            304,
+            342,
+            false
+        ],
+        [
+            1718200579,
+            60.341,
+            5.1945,
+            609,
+            322,
+            false
+        ],
+        [
+            1718200587,
+            60.3456,
+            5.1817,
+            609,
+            300,
+            false
+        ],
+        [
+            1718200595,
+            60.3478,
+            5.1665,
+            609,
+            280,
+            false
+        ],
+        [
+            1718200604,
+            60.3472,
+            5.1472,
+            914,
+            260,
+            false
+        ],
+        [
+            1718200612,
+            60.3439,
+            5.1308,
+            914,
+            242,
+            false
+        ],
+        [
+            1718200621,
+            60.3377,
+            5.1162,
+            1219,
+            223,
+            false
+        ],
+        [
+            1718200629,
+            60.3296,
+            5.1062,
+            1219,
+            207,
+            false
+        ],
+        [
+            1718200638,
+            60.3194,
+            5.1006,
+            1524,
+            189,
+            false
+        ],
+        [
+            1718200646,
+            60.3099,
+            5.1009,
+            1524,
+            176,
+            false
+        ],
+        [
+            1718200654,
+            60.3002,
+            5.1039,
+            1524,
+            169,
+            false
+        ],
+        [
+            1718200670,
+            60.2799,
+            5.1123,
+            1828,
+            168,
+            false
+        ],
+        [
+            1718200678,
+            60.27,
+            5.1166,
+            2133,
+            167,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-10:55:45",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194056,
+    "latitude": 60.2898,
+    "longitude": 5.2226,
+    "on_ground": true,
+    "origin_country": "Kingdom of the Netherlands",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0152",
+    "time_position": 1718194056,
+    "true_track": 171.56,
+    "velocity": 8.23,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 8,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "ENBR",
+    "estDepartureAirportHorizDistance": 2320,
+    "estDepartureAirportVertDistance": 352,
+    "firstSeen": 1718200545,
+    "lastSeen": 1718200678
+}

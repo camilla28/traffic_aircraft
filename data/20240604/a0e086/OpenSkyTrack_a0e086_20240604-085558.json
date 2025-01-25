@@ -1,0 +1,104 @@
+{
+    "callsign": "AAL577  ",
+    "endTime": "2024/06/04-08:54:27",
+    "icao24": "a0e086",
+    "path": [
+        [
+            1717496808,
+            35.1774,
+            -100.1149,
+            8229,
+            318,
+            false
+        ],
+        [
+            1717497703,
+            35.2048,
+            -100.1447,
+            8229,
+            318,
+            false
+        ],
+        [
+            1717498575,
+            35.2253,
+            -100.1672,
+            8229,
+            318,
+            false
+        ],
+        [
+            1717499442,
+            35.2602,
+            -100.2054,
+            8229,
+            318,
+            false
+        ],
+        [
+            1717500327,
+            35.2899,
+            -100.238,
+            8229,
+            318,
+            false
+        ],
+        [
+            1717501214,
+            35.321,
+            -100.272,
+            8229,
+            318,
+            false
+        ],
+        [
+            1717502067,
+            35.3498,
+            -100.3036,
+            8229,
+            318,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:26:48",
+    "baro_altitude": 8526.78,
+    "category": 0,
+    "geo_altitude": 8915.4,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499998,
+    "latitude": 35.2823,
+    "longitude": -100.2295,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499997,
+    "true_track": 318.03,
+    "velocity": 226.94,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "K2F1",
+    "estDepartureAirportHorizDistance": 65380,
+    "estDepartureAirportVertDistance": 7812,
+    "firstSeen": 1717496808,
+    "lastSeen": 1717502067
+}

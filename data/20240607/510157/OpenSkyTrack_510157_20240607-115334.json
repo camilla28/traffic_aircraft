@@ -1,0 +1,80 @@
+{
+    "callsign": null,
+    "endTime": "2024/06/07-11:44:57",
+    "icao24": "510157",
+    "path": [
+        [
+            1717771405,
+            54.0485,
+            28.5888,
+            304,
+            156,
+            false
+        ],
+        [
+            1717771464,
+            54.05,
+            28.6232,
+            304,
+            156,
+            false
+        ],
+        [
+            1717771490,
+            54.0434,
+            28.6289,
+            304,
+            182,
+            false
+        ],
+        [
+            1717771497,
+            54.0409,
+            28.6288,
+            304,
+            182,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-11:43:25",
+    "baro_altitude": 464.82,
+    "category": 0,
+    "geo_altitude": 518.16,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762769,
+    "latitude": 54.0506,
+    "longitude": 28.6575,
+    "on_ground": false,
+    "origin_country": "Belarus",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717762769,
+    "true_track": 315.55,
+    "velocity": 38.2,
+    "vertical_rate": 1.3,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 6,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "UMMS",
+    "estDepartureAirportHorizDistance": 40908,
+    "estDepartureAirportVertDistance": 131,
+    "firstSeen": 1717771405,
+    "lastSeen": 1717771497
+}

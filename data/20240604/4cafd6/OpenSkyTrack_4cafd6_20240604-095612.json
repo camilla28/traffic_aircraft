@@ -1,0 +1,88 @@
+{
+    "callsign": "SAS2749 ",
+    "endTime": "2024/06/04-09:55:45",
+    "icao24": "4cafd6",
+    "path": [
+        [
+            1717503966,
+            55.963,
+            20.5622,
+            3657,
+            282,
+            false
+        ],
+        [
+            1717504450,
+            55.9685,
+            20.5186,
+            3657,
+            282,
+            false
+        ],
+        [
+            1717505318,
+            55.9767,
+            20.4535,
+            3962,
+            282,
+            false
+        ],
+        [
+            1717505511,
+            55.9784,
+            20.4401,
+            3962,
+            282,
+            false
+        ],
+        [
+            1717505745,
+            55.9835,
+            20.3994,
+            4267,
+            282,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:26:06",
+    "baro_altitude": 4023.36,
+    "category": 0,
+    "geo_altitude": 4099.56,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504642,
+    "latitude": 55.9727,
+    "longitude": 20.4854,
+    "on_ground": false,
+    "origin_country": "Ireland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504639,
+    "true_track": 282.64,
+    "velocity": 173.98,
+    "vertical_rate": 10.4,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717503966,
+    "lastSeen": 1717505745
+}

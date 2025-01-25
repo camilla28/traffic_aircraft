@@ -1,0 +1,120 @@
+{
+    "callsign": "UAE29V  ",
+    "endTime": "2024/06/12-08:40:58",
+    "icao24": "896218",
+    "path": [
+        [
+            1718192157,
+            25.2522,
+            55.373,
+            0,
+            300,
+            false
+        ],
+        [
+            1718192198,
+            25.2693,
+            55.342,
+            0,
+            300,
+            false
+        ],
+        [
+            1718192237,
+            25.2878,
+            55.3087,
+            304,
+            301,
+            false
+        ],
+        [
+            1718192256,
+            25.2979,
+            55.2911,
+            609,
+            303,
+            false
+        ],
+        [
+            1718192264,
+            25.3029,
+            55.2831,
+            609,
+            304,
+            false
+        ],
+        [
+            1718192314,
+            25.3371,
+            55.2292,
+            914,
+            304,
+            false
+        ],
+        [
+            1718192379,
+            25.358,
+            55.1457,
+            1828,
+            267,
+            false
+        ],
+        [
+            1718192379,
+            25.358,
+            55.1457,
+            1828,
+            267,
+            false
+        ],
+        [
+            1718192458,
+            25.3527,
+            55.0315,
+            2438,
+            267,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-08:35:57",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718191737,
+    "latitude": 25.2423,
+    "longitude": 55.3871,
+    "on_ground": true,
+    "origin_country": "United Arab Emirates",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718191737,
+    "true_track": 345.94,
+    "velocity": 5.66,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 21,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "OMDB",
+    "estDepartureAirportHorizDistance": 1253,
+    "estDepartureAirportVertDistance": 103,
+    "firstSeen": 1718192157,
+    "lastSeen": 1718192458
+}

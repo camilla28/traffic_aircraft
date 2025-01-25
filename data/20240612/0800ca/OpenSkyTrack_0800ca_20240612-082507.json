@@ -1,0 +1,128 @@
+{
+    "callsign": "5HTFA   ",
+    "endTime": "2024/06/12-08:24:20",
+    "icao24": "0800ca",
+    "path": [
+        [
+            1718191225,
+            -6.6755,
+            39.2501,
+            609,
+            176,
+            false
+        ],
+        [
+            1718191316,
+            -6.7392,
+            39.2534,
+            609,
+            177,
+            false
+        ],
+        [
+            1718191416,
+            -6.8058,
+            39.2565,
+            304,
+            179,
+            false
+        ],
+        [
+            1718191435,
+            -6.8188,
+            39.2565,
+            304,
+            180,
+            false
+        ],
+        [
+            1718191442,
+            -6.8232,
+            39.256,
+            304,
+            195,
+            false
+        ],
+        [
+            1718191449,
+            -6.8266,
+            39.2539,
+            304,
+            219,
+            false
+        ],
+        [
+            1718191453,
+            -6.8285,
+            39.2522,
+            304,
+            224,
+            false
+        ],
+        [
+            1718191456,
+            -6.8296,
+            39.251,
+            304,
+            224,
+            false
+        ],
+        [
+            1718191460,
+            -6.8318,
+            39.249,
+            0,
+            223,
+            false
+        ],
+        [
+            1718191460,
+            -6.8318,
+            39.249,
+            0,
+            226,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-08:20:25",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718191161,
+    "latitude": null,
+    "longitude": null,
+    "on_ground": false,
+    "origin_country": "United Republic of Tanzania",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": null,
+    "true_track": 176.7,
+    "velocity": 80.39,
+    "vertical_rate": -1.63,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 9,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "HTDA",
+    "estDepartureAirportHorizDistance": 23125,
+    "estDepartureAirportVertDistance": 683,
+    "firstSeen": 1718191225,
+    "lastSeen": 1718191460
+}

@@ -1,0 +1,120 @@
+{
+    "callsign": "SKY148  ",
+    "endTime": "2024/06/04-09:22:51",
+    "icao24": "8681b7",
+    "path": [
+        [
+            1717498963,
+            33.1105,
+            131.0563,
+            5791,
+            78,
+            false
+        ],
+        [
+            1717499795,
+            33.128,
+            131.1584,
+            5791,
+            78,
+            false
+        ],
+        [
+            1717500694,
+            33.1395,
+            131.2255,
+            5791,
+            78,
+            false
+        ],
+        [
+            1717501492,
+            33.148,
+            131.2754,
+            5791,
+            78,
+            false
+        ],
+        [
+            1717502388,
+            33.1742,
+            131.4297,
+            5791,
+            78,
+            false
+        ],
+        [
+            1717503216,
+            33.1775,
+            131.449,
+            5791,
+            78,
+            false
+        ],
+        [
+            1717503500,
+            33.182,
+            131.4751,
+            5791,
+            78,
+            false
+        ],
+        [
+            1717503771,
+            33.2917,
+            131.8393,
+            5486,
+            78,
+            false
+        ],
+        [
+            1717503771,
+            33.2917,
+            131.8393,
+            5486,
+            58,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:02:43",
+    "baro_altitude": 5791.2,
+    "category": 0,
+    "geo_altitude": 5974.08,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499974,
+    "latitude": 33.1296,
+    "longitude": 131.1679,
+    "on_ground": false,
+    "origin_country": "Japan",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499974,
+    "true_track": 78.53,
+    "velocity": 214.7,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717498963,
+    "lastSeen": 1717503771
+}

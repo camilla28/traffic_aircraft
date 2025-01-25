@@ -1,0 +1,120 @@
+{
+    "callsign": "N228GG  ",
+    "endTime": "2024/06/07-10:56:27",
+    "icao24": "a1ff56",
+    "path": [
+        [
+            1717768400,
+            43.9116,
+            4.9012,
+            0,
+            350,
+            false
+        ],
+        [
+            1717768421,
+            43.9185,
+            4.8994,
+            0,
+            348,
+            false
+        ],
+        [
+            1717768450,
+            43.9287,
+            4.8968,
+            0,
+            350,
+            false
+        ],
+        [
+            1717768456,
+            43.9312,
+            4.8962,
+            304,
+            348,
+            false
+        ],
+        [
+            1717768478,
+            43.9382,
+            4.8937,
+            304,
+            347,
+            false
+        ],
+        [
+            1717768525,
+            43.9545,
+            4.889,
+            304,
+            347,
+            false
+        ],
+        [
+            1717768540,
+            43.96,
+            4.8875,
+            609,
+            348,
+            false
+        ],
+        [
+            1717768568,
+            43.9706,
+            4.8851,
+            609,
+            350,
+            false
+        ],
+        [
+            1717768587,
+            43.9773,
+            4.8836,
+            609,
+            351,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-10:53:20",
+    "baro_altitude": 2438.4,
+    "category": 0,
+    "geo_altitude": 2613.66,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762945,
+    "latitude": 43.4815,
+    "longitude": 5.565,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1717762944,
+    "true_track": 311.19,
+    "velocity": 54.69,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 73,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFMV",
+    "estDepartureAirportHorizDistance": 475,
+    "estDepartureAirportVertDistance": 53,
+    "firstSeen": 1717768400,
+    "lastSeen": 1717768587
+}

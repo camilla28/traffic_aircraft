@@ -1,0 +1,128 @@
+{
+    "callsign": "PAL509  ",
+    "endTime": "2024/05/29-10:10:50",
+    "icao24": "758306",
+    "path": [
+        [
+            1716988099,
+            14.5033,
+            121.0099,
+            0,
+            241,
+            false
+        ],
+        [
+            1716988122,
+            14.4948,
+            120.993,
+            304,
+            242,
+            false
+        ],
+        [
+            1716988166,
+            14.4775,
+            120.9577,
+            609,
+            244,
+            false
+        ],
+        [
+            1716988189,
+            14.4664,
+            120.9343,
+            914,
+            242,
+            false
+        ],
+        [
+            1716988198,
+            14.4601,
+            120.9259,
+            914,
+            227,
+            false
+        ],
+        [
+            1716988205,
+            14.4538,
+            120.9209,
+            1219,
+            215,
+            false
+        ],
+        [
+            1716988212,
+            14.4469,
+            120.9173,
+            1219,
+            204,
+            false
+        ],
+        [
+            1716988220,
+            14.4384,
+            120.9137,
+            1219,
+            201,
+            false
+        ],
+        [
+            1716988242,
+            14.4139,
+            120.9044,
+            1524,
+            200,
+            false
+        ],
+        [
+            1716988250,
+            14.4049,
+            120.901,
+            1828,
+            200,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-10:08:19",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716987452,
+    "latitude": 14.5137,
+    "longitude": 121.0258,
+    "on_ground": true,
+    "origin_country": "Philippines",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1716987452,
+    "true_track": 59.06,
+    "velocity": 2.57,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 25,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "RPLL",
+    "estDepartureAirportHorizDistance": 790,
+    "estDepartureAirportVertDistance": 167,
+    "firstSeen": 1716988099,
+    "lastSeen": 1716988250
+}

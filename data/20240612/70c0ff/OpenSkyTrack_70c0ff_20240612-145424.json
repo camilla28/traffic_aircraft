@@ -1,0 +1,80 @@
+{
+    "callsign": "OMS254  ",
+    "endTime": "2024/06/12-13:22:33",
+    "icao24": "70c0ff",
+    "path": [
+        [
+            1718208471,
+            25.0761,
+            56.5759,
+            2133,
+            102,
+            false
+        ],
+        [
+            1718208497,
+            25.0682,
+            56.6152,
+            2438,
+            102,
+            false
+        ],
+        [
+            1718209353,
+            24.1784,
+            57.9071,
+            4572,
+            134,
+            false
+        ],
+        [
+            1718209353,
+            24.1784,
+            57.9071,
+            4572,
+            134,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-13:07:51",
+    "baro_altitude": 3634.74,
+    "category": 0,
+    "geo_altitude": 3817.62,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204525,
+    "latitude": 24.6028,
+    "longitude": 56.8864,
+    "on_ground": false,
+    "origin_country": "Oman",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718204513,
+    "true_track": 316.77,
+    "velocity": 164.5,
+    "vertical_rate": -7.8,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1718208471,
+    "lastSeen": 1718209353
+}

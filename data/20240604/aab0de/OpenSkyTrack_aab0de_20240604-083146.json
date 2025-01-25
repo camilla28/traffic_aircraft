@@ -1,0 +1,136 @@
+{
+    "callsign": "SWA1041 ",
+    "endTime": "2024/06/04-08:30:12",
+    "icao24": "aab0de",
+    "path": [
+        [
+            1717492214,
+            33.0039,
+            -112.3184,
+            10972,
+            288,
+            false
+        ],
+        [
+            1717493067,
+            33.0062,
+            -112.3269,
+            10972,
+            288,
+            false
+        ],
+        [
+            1717493916,
+            33.0094,
+            -112.3387,
+            10972,
+            288,
+            false
+        ],
+        [
+            1717494763,
+            33.0124,
+            -112.3493,
+            10972,
+            288,
+            false
+        ],
+        [
+            1717495431,
+            33.0133,
+            -112.3525,
+            10972,
+            288,
+            false
+        ],
+        [
+            1717496296,
+            33.0151,
+            -112.3592,
+            10972,
+            288,
+            false
+        ],
+        [
+            1717497189,
+            33.019,
+            -112.3732,
+            10972,
+            288,
+            false
+        ],
+        [
+            1717498064,
+            33.0216,
+            -112.3827,
+            10972,
+            288,
+            false
+        ],
+        [
+            1717498919,
+            33.0242,
+            -112.3922,
+            10972,
+            288,
+            false
+        ],
+        [
+            1717499786,
+            33.0275,
+            -112.404,
+            10972,
+            288,
+            false
+        ],
+        [
+            1717500612,
+            33.0306,
+            -112.4152,
+            10972,
+            288,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-06:10:14",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": 11536.68,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500027,
+    "latitude": 33.0283,
+    "longitude": -112.4067,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717500023,
+    "true_track": 288.15,
+    "velocity": 232.8,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 6,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "AZ78",
+    "estDepartureAirportHorizDistance": 3486,
+    "estDepartureAirportVertDistance": 10539,
+    "firstSeen": 1717492214,
+    "lastSeen": 1717500612
+}

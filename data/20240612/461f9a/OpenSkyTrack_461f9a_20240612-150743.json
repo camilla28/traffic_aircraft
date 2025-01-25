@@ -1,0 +1,272 @@
+{
+    "callsign": "FIN2EG  ",
+    "endTime": "2024/06/12-15:07:46",
+    "icao24": "461f9a",
+    "path": [
+        [
+            1718215100,
+            52.3352,
+            4.7094,
+            -304,
+            3,
+            false
+        ],
+        [
+            1718215122,
+            52.3499,
+            4.7109,
+            -304,
+            3,
+            false
+        ],
+        [
+            1718215141,
+            52.3642,
+            4.712,
+            0,
+            2,
+            false
+        ],
+        [
+            1718215176,
+            52.3907,
+            4.7142,
+            304,
+            3,
+            false
+        ],
+        [
+            1718215242,
+            52.4536,
+            4.7211,
+            609,
+            4,
+            false
+        ],
+        [
+            1718215267,
+            52.4831,
+            4.7249,
+            914,
+            3,
+            false
+        ],
+        [
+            1718215283,
+            52.5021,
+            4.7269,
+            1219,
+            3,
+            false
+        ],
+        [
+            1718215300,
+            52.5222,
+            4.7289,
+            1524,
+            5,
+            false
+        ],
+        [
+            1718215308,
+            52.5311,
+            4.732,
+            1524,
+            16,
+            false
+        ],
+        [
+            1718215317,
+            52.5409,
+            4.7401,
+            1828,
+            33,
+            false
+        ],
+        [
+            1718215325,
+            52.5485,
+            4.7514,
+            1828,
+            48,
+            false
+        ],
+        [
+            1718215334,
+            52.5546,
+            4.7662,
+            1828,
+            63,
+            false
+        ],
+        [
+            1718215342,
+            52.5585,
+            4.7824,
+            2133,
+            70,
+            false
+        ],
+        [
+            1718215350,
+            52.5627,
+            4.7977,
+            2133,
+            60,
+            false
+        ],
+        [
+            1718215359,
+            52.5702,
+            4.8138,
+            2133,
+            46,
+            false
+        ],
+        [
+            1718215367,
+            52.5774,
+            4.8255,
+            2133,
+            43,
+            false
+        ],
+        [
+            1718215375,
+            52.5853,
+            4.837,
+            2438,
+            40,
+            false
+        ],
+        [
+            1718215392,
+            52.6026,
+            4.8604,
+            2438,
+            38,
+            false
+        ],
+        [
+            1718215416,
+            52.6275,
+            4.8936,
+            2743,
+            39,
+            false
+        ],
+        [
+            1718215424,
+            52.6355,
+            4.9048,
+            3048,
+            40,
+            false
+        ],
+        [
+            1718215441,
+            52.6528,
+            4.9305,
+            3048,
+            43,
+            false
+        ],
+        [
+            1718215442,
+            52.6539,
+            4.9322,
+            3048,
+            43,
+            false
+        ],
+        [
+            1718215515,
+            52.7353,
+            5.0624,
+            3352,
+            43,
+            false
+        ],
+        [
+            1718215540,
+            52.7654,
+            5.1102,
+            3657,
+            43,
+            false
+        ],
+        [
+            1718215573,
+            52.8053,
+            5.1736,
+            3962,
+            44,
+            false
+        ],
+        [
+            1718215597,
+            52.8346,
+            5.2205,
+            4267,
+            44,
+            false
+        ],
+        [
+            1718215633,
+            52.8776,
+            5.2889,
+            4572,
+            43,
+            false
+        ],
+        [
+            1718215666,
+            52.92,
+            5.3567,
+            4876,
+            44,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-14:58:20",
+    "baro_altitude": 8382,
+    "category": 0,
+    "geo_altitude": 8313.42,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204674,
+    "latitude": 53.4486,
+    "longitude": 7.1446,
+    "on_ground": false,
+    "origin_country": "Finland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7675",
+    "time_position": 1718204674,
+    "true_track": 225.96,
+    "velocity": 196.1,
+    "vertical_rate": -5.2,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 61,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EHAM",
+    "estDepartureAirportHorizDistance": 4743,
+    "estDepartureAirportVertDistance": 42,
+    "firstSeen": 1718215100,
+    "lastSeen": 1718215666
+}

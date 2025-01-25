@@ -1,0 +1,112 @@
+{
+    "callsign": "SCRCH52 ",
+    "endTime": "2024/06/04-08:55:48",
+    "icao24": "ae6ba2",
+    "path": [
+        [
+            1717498715,
+            32.6193,
+            -117.1026,
+            304,
+            323,
+            false
+        ],
+        [
+            1717499581,
+            32.626,
+            -117.1086,
+            304,
+            322,
+            false
+        ],
+        [
+            1717499991,
+            32.6299,
+            -117.1122,
+            304,
+            320,
+            false
+        ],
+        [
+            1717500148,
+            32.6314,
+            -117.1138,
+            304,
+            318,
+            false
+        ],
+        [
+            1717500330,
+            32.6333,
+            -117.116,
+            304,
+            315,
+            false
+        ],
+        [
+            1717501073,
+            32.6381,
+            -117.1218,
+            304,
+            313,
+            false
+        ],
+        [
+            1717501493,
+            32.6413,
+            -117.1261,
+            304,
+            310,
+            false
+        ],
+        [
+            1717502148,
+            32.6461,
+            -117.1329,
+            304,
+            309,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:58:35",
+    "baro_altitude": 502.92,
+    "category": 13,
+    "geo_altitude": 464.82,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500025,
+    "latitude": 32.6303,
+    "longitude": -117.1126,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717500025,
+    "true_track": 319.56,
+    "velocity": 59.48,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 99,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KNRS",
+    "estDepartureAirportHorizDistance": 5996,
+    "estDepartureAirportVertDistance": 503,
+    "firstSeen": 1717498715,
+    "lastSeen": 1717502148
+}

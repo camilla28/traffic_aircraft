@@ -1,0 +1,112 @@
+{
+    "callsign": "F213    ",
+    "endTime": "2024/06/04-09:04:25",
+    "icao24": "030012",
+    "path": [
+        [
+            1717496707,
+            47.0346,
+            7.2323,
+            11887,
+            209,
+            false
+        ],
+        [
+            1717497579,
+            47.0192,
+            7.2194,
+            11887,
+            210,
+            false
+        ],
+        [
+            1717498454,
+            47.003,
+            7.2057,
+            11887,
+            209,
+            false
+        ],
+        [
+            1717499278,
+            46.982,
+            7.1879,
+            11887,
+            209,
+            false
+        ],
+        [
+            1717500167,
+            46.9643,
+            7.1731,
+            11887,
+            209,
+            false
+        ],
+        [
+            1717501059,
+            46.946,
+            7.1577,
+            11887,
+            209,
+            false
+        ],
+        [
+            1717501948,
+            46.9303,
+            7.1445,
+            11887,
+            210,
+            false
+        ],
+        [
+            1717502665,
+            46.917,
+            7.1333,
+            11887,
+            209,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:25:07",
+    "baro_altitude": 11887.2,
+    "category": 0,
+    "geo_altitude": 12131.04,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500019,
+    "latitude": 46.9666,
+    "longitude": 7.175,
+    "on_ground": false,
+    "origin_country": "Botswana",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2517",
+    "time_position": 1717500019,
+    "true_track": 209.91,
+    "velocity": 259.96,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSZP",
+    "estDepartureAirportHorizDistance": 6172,
+    "estDepartureAirportVertDistance": 11449,
+    "firstSeen": 1717496707,
+    "lastSeen": 1717502665
+}

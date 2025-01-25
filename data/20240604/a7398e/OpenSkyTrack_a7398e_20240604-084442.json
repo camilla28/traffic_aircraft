@@ -1,0 +1,80 @@
+{
+    "callsign": "ASA636  ",
+    "endTime": "2024/06/04-08:44:02",
+    "icao24": "a7398e",
+    "path": [
+        [
+            1717499467,
+            44.3242,
+            -121.1379,
+            12192,
+            165,
+            false
+        ],
+        [
+            1717500363,
+            44.2707,
+            -121.1188,
+            12192,
+            165,
+            false
+        ],
+        [
+            1717501255,
+            44.206,
+            -121.096,
+            12192,
+            165,
+            false
+        ],
+        [
+            1717501442,
+            44.4245,
+            -121.1734,
+            12192,
+            165,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:11:07",
+    "baro_altitude": 12489.18,
+    "category": 0,
+    "geo_altitude": 12832.08,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500036,
+    "latitude": 44.2963,
+    "longitude": -121.1279,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499941,
+    "true_track": 165.34,
+    "velocity": 262.16,
+    "vertical_rate": 8.78,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 2,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KRDM",
+    "estDepartureAirportHorizDistance": 31966,
+    "estDepartureAirportVertDistance": 11550,
+    "firstSeen": 1717499467,
+    "lastSeen": 1717501442
+}

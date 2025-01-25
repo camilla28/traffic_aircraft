@@ -1,0 +1,96 @@
+{
+    "callsign": "DTG596  ",
+    "endTime": "2024/06/04-08:57:51",
+    "icao24": "51408c",
+    "path": [
+        [
+            1717498968,
+            33.8184,
+            35.4908,
+            11582,
+            0,
+            false
+        ],
+        [
+            1717499824,
+            33.8184,
+            35.4908,
+            11582,
+            0,
+            false
+        ],
+        [
+            1717500555,
+            33.8184,
+            35.4908,
+            11582,
+            0,
+            false
+        ],
+        [
+            1717501366,
+            33.8184,
+            35.4908,
+            11582,
+            0,
+            false
+        ],
+        [
+            1717502254,
+            33.8184,
+            35.4908,
+            11582,
+            0,
+            false
+        ],
+        [
+            1717502271,
+            33.8184,
+            35.4908,
+            11582,
+            0,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:02:48",
+    "baro_altitude": 11582.4,
+    "category": 0,
+    "geo_altitude": 10622.28,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499976,
+    "latitude": 33.8184,
+    "longitude": 35.4908,
+    "on_ground": false,
+    "origin_country": "Georgia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499976,
+    "true_track": 0,
+    "velocity": 0,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "OLBA",
+    "estDepartureAirportHorizDistance": 140080,
+    "estDepartureAirportVertDistance": 11555,
+    "firstSeen": 1717498968,
+    "lastSeen": 1717502271
+}

@@ -1,0 +1,136 @@
+{
+    "callsign": "CSN6758 ",
+    "endTime": "2024/06/14-13:10:48",
+    "icao24": "78109c",
+    "path": [
+        [
+            1718380865,
+            22.4819,
+            113.723,
+            1828,
+            228,
+            false
+        ],
+        [
+            1718380874,
+            22.4751,
+            113.7153,
+            1828,
+            224,
+            false
+        ],
+        [
+            1718380874,
+            22.4751,
+            113.7153,
+            1828,
+            222,
+            false
+        ],
+        [
+            1718381133,
+            22.2153,
+            113.4483,
+            4267,
+            247,
+            false
+        ],
+        [
+            1718381138,
+            22.2124,
+            113.4406,
+            4267,
+            248,
+            false
+        ],
+        [
+            1718381273,
+            22.1432,
+            113.2549,
+            4572,
+            248,
+            false
+        ],
+        [
+            1718381283,
+            22.1211,
+            113.2006,
+            4876,
+            248,
+            false
+        ],
+        [
+            1718381319,
+            22.0933,
+            113.1337,
+            5181,
+            245,
+            false
+        ],
+        [
+            1718381337,
+            22.08,
+            113.1018,
+            5486,
+            245,
+            false
+        ],
+        [
+            1718381379,
+            22.0482,
+            113.0254,
+            5791,
+            245,
+            false
+        ],
+        [
+            1718381448,
+            21.9977,
+            112.8974,
+            6096,
+            247,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-13:01:05",
+    "baro_altitude": 1973.58,
+    "category": 0,
+    "geo_altitude": 2019.3,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718380880,
+    "latitude": 22.4751,
+    "longitude": 113.7153,
+    "on_ground": false,
+    "origin_country": "China",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718380874,
+    "true_track": 224.23,
+    "velocity": 134.97,
+    "vertical_rate": 9.1,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 5,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "ZGSZ",
+    "estDepartureAirportHorizDistance": 72326,
+    "estDepartureAirportVertDistance": 1923,
+    "firstSeen": 1718380865,
+    "lastSeen": 1718381448
+}

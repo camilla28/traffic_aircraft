@@ -1,0 +1,152 @@
+{
+    "callsign": "TGW898  ",
+    "endTime": "2024/06/12-14:45:31",
+    "icao24": "76bd49",
+    "path": [
+        [
+            1718213799,
+            1.3416,
+            103.9904,
+            0,
+            23,
+            false
+        ],
+        [
+            1718213826,
+            1.3625,
+            103.9992,
+            0,
+            21,
+            false
+        ],
+        [
+            1718213863,
+            1.3929,
+            104.0114,
+            304,
+            23,
+            false
+        ],
+        [
+            1718213889,
+            1.4159,
+            104.0213,
+            304,
+            23,
+            false
+        ],
+        [
+            1718213951,
+            1.4754,
+            104.0582,
+            1219,
+            23,
+            false
+        ],
+        [
+            1718214033,
+            1.4461,
+            104.1539,
+            1828,
+            114,
+            false
+        ],
+        [
+            1718214033,
+            1.4461,
+            104.1539,
+            1828,
+            114,
+            false
+        ],
+        [
+            1718214227,
+            1.3345,
+            104.3998,
+            3962,
+            104,
+            false
+        ],
+        [
+            1718214233,
+            1.3323,
+            104.4096,
+            3962,
+            98,
+            false
+        ],
+        [
+            1718214241,
+            1.3307,
+            104.4225,
+            3962,
+            93,
+            false
+        ],
+        [
+            1718214244,
+            1.3304,
+            104.4266,
+            3962,
+            93,
+            false
+        ],
+        [
+            1718214259,
+            1.3311,
+            104.4519,
+            3962,
+            88,
+            false
+        ],
+        [
+            1718214331,
+            1.3342,
+            104.5779,
+            3962,
+            88,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-14:36:39",
+    "baro_altitude": 9471.66,
+    "category": 0,
+    "geo_altitude": 10142.22,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204674,
+    "latitude": -0.5225,
+    "longitude": 104.2073,
+    "on_ground": false,
+    "origin_country": "Singapore",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718204674,
+    "true_track": 348.41,
+    "velocity": 245.77,
+    "vertical_rate": -10.08,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 19,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "WSSS",
+    "estDepartureAirportHorizDistance": 1032,
+    "estDepartureAirportVertDistance": 16,
+    "firstSeen": 1718213799,
+    "lastSeen": 1718214331
+}

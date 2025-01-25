@@ -1,0 +1,104 @@
+{
+    "callsign": "ANZ174L ",
+    "endTime": "2024/06/04-08:31:52",
+    "icao24": "c818da",
+    "path": [
+        [
+            1717498203,
+            -37.704,
+            176.2679,
+            5181,
+            293,
+            false
+        ],
+        [
+            1717499020,
+            -37.6957,
+            176.244,
+            5181,
+            293,
+            false
+        ],
+        [
+            1717499886,
+            -37.6782,
+            176.1938,
+            5181,
+            294,
+            false
+        ],
+        [
+            1717500084,
+            -37.6755,
+            176.1871,
+            5181,
+            296,
+            false
+        ],
+        [
+            1717500278,
+            -37.6744,
+            176.1845,
+            5181,
+            299,
+            false
+        ],
+        [
+            1717500538,
+            -37.6721,
+            176.1797,
+            5181,
+            301,
+            false
+        ],
+        [
+            1717500712,
+            -37.6673,
+            176.17,
+            5181,
+            300,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:50:03",
+    "baro_altitude": 5181.6,
+    "category": 0,
+    "geo_altitude": 5394.96,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499957,
+    "latitude": -37.6777,
+    "longitude": 176.1925,
+    "on_ground": false,
+    "origin_country": "New Zealand",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499945,
+    "true_track": 296.07,
+    "velocity": 132.29,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "NZTG",
+    "estDepartureAirportHorizDistance": 7536,
+    "estDepartureAirportVertDistance": 5185,
+    "firstSeen": 1717498203,
+    "lastSeen": 1717500712
+}

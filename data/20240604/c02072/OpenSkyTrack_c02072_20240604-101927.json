@@ -1,0 +1,72 @@
+{
+    "callsign": "CFMHL   ",
+    "endTime": "2024/06/04-10:18:13",
+    "icao24": "c02072",
+    "path": [
+        [
+            1717505430,
+            49.3221,
+            -123.0117,
+            2133,
+            5,
+            false
+        ],
+        [
+            1717506305,
+            49.3274,
+            -123.011,
+            2133,
+            5,
+            false
+        ],
+        [
+            1717507093,
+            49.3315,
+            -123.0103,
+            2133,
+            5,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:50:30",
+    "baro_altitude": 2118.36,
+    "category": 0,
+    "geo_altitude": 2057.4,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504445,
+    "latitude": 49.3177,
+    "longitude": -123.0124,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504425,
+    "true_track": 5.79,
+    "velocity": 147.89,
+    "vertical_rate": 8.13,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 7,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "WN08",
+    "estDepartureAirportHorizDistance": 79556,
+    "estDepartureAirportVertDistance": 1981,
+    "firstSeen": 1717505430,
+    "lastSeen": 1717507093
+}

@@ -1,0 +1,88 @@
+{
+    "callsign": "WMT496  ",
+    "endTime": "2024/06/05-09:33:38",
+    "icao24": "471f65",
+    "path": [
+        [
+            1717590711,
+            37.6692,
+            15.9078,
+            5181,
+            38,
+            false
+        ],
+        [
+            1717590730,
+            37.6999,
+            15.9384,
+            5181,
+            38,
+            false
+        ],
+        [
+            1717590735,
+            37.7073,
+            15.9458,
+            5486,
+            38,
+            false
+        ],
+        [
+            1717590772,
+            37.7639,
+            16.0024,
+            5791,
+            38,
+            false
+        ],
+        [
+            1717590818,
+            37.8389,
+            16.0777,
+            6096,
+            38,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-09:31:51",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717590581,
+    "latitude": null,
+    "longitude": null,
+    "on_ground": false,
+    "origin_country": "Hungary",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": null,
+    "true_track": 80.27,
+    "velocity": 200.95,
+    "vertical_rate": 10.73,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717590711,
+    "lastSeen": 1717590818
+}

@@ -1,0 +1,72 @@
+{
+    "callsign": "CAP4263 ",
+    "endTime": "2024/06/07-14:20:49",
+    "icao24": "a857fd",
+    "path": [
+        [
+            1717780364,
+            32.5888,
+            -95.6232,
+            1828,
+            321,
+            false
+        ],
+        [
+            1717780752,
+            32.7776,
+            -95.7966,
+            1828,
+            321,
+            false
+        ],
+        [
+            1717780849,
+            32.8144,
+            -95.8306,
+            1524,
+            321,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-14:12:44",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717779697,
+    "latitude": null,
+    "longitude": null,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": null,
+    "true_track": 322.87,
+    "velocity": 69.04,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 421,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "51TX",
+    "estDepartureAirportHorizDistance": 7169,
+    "estDepartureAirportVertDistance": 1801,
+    "firstSeen": 1717780364,
+    "lastSeen": 1717780849
+}

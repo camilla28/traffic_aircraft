@@ -1,0 +1,112 @@
+{
+    "callsign": "N9512Y  ",
+    "endTime": "2024/06/14-18:42:23",
+    "icao24": "ad3b13",
+    "path": [
+        [
+            1718400531,
+            31.7427,
+            -81.3084,
+            1828,
+            6,
+            false
+        ],
+        [
+            1718400617,
+            31.8078,
+            -81.2994,
+            1828,
+            8,
+            false
+        ],
+        [
+            1718400655,
+            31.8368,
+            -81.2941,
+            1828,
+            9,
+            false
+        ],
+        [
+            1718400663,
+            31.8426,
+            -81.2928,
+            1828,
+            11,
+            false
+        ],
+        [
+            1718400876,
+            32.001,
+            -81.2563,
+            1828,
+            9,
+            false
+        ],
+        [
+            1718400907,
+            32.024,
+            -81.2518,
+            1828,
+            9,
+            false
+        ],
+        [
+            1718401194,
+            32.2329,
+            -81.2132,
+            1828,
+            8,
+            false
+        ],
+        [
+            1718401343,
+            32.342,
+            -81.195,
+            1828,
+            5,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-18:28:51",
+    "baro_altitude": 2133.6,
+    "category": 0,
+    "geo_altitude": 2209.8,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718399327,
+    "latitude": 30.8538,
+    "longitude": -81.4232,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718399327,
+    "true_track": 357.12,
+    "velocity": 81.9,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 5,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "9GA2",
+    "estDepartureAirportHorizDistance": 10680,
+    "estDepartureAirportVertDistance": 2129,
+    "firstSeen": 1718400531,
+    "lastSeen": 1718401343
+}

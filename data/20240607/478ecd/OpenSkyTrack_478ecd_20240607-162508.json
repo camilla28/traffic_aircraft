@@ -1,0 +1,208 @@
+{
+    "callsign": "WIF594  ",
+    "endTime": "2024/06/07-16:24:45",
+    "icao24": "478ecd",
+    "path": [
+        [
+            1717787875,
+            58.1639,
+            8.0262,
+            914,
+            267,
+            false
+        ],
+        [
+            1717787898,
+            58.1639,
+            8.0244,
+            914,
+            267,
+            false
+        ],
+        [
+            1717787952,
+            58.2175,
+            7.9453,
+            1828,
+            335,
+            false
+        ],
+        [
+            1717787961,
+            58.2263,
+            7.9376,
+            1828,
+            334,
+            false
+        ],
+        [
+            1717787978,
+            58.2424,
+            7.9228,
+            2133,
+            334,
+            false
+        ],
+        [
+            1717787996,
+            58.2594,
+            7.9068,
+            2438,
+            332,
+            false
+        ],
+        [
+            1717788000,
+            58.2632,
+            7.9031,
+            2438,
+            331,
+            false
+        ],
+        [
+            1717788013,
+            58.2754,
+            7.8899,
+            2743,
+            327,
+            false
+        ],
+        [
+            1717788024,
+            58.2852,
+            7.8774,
+            2743,
+            324,
+            false
+        ],
+        [
+            1717788042,
+            58.301,
+            7.8549,
+            3048,
+            322,
+            false
+        ],
+        [
+            1717788061,
+            58.318,
+            7.8305,
+            3352,
+            322,
+            false
+        ],
+        [
+            1717788078,
+            58.3323,
+            7.8099,
+            3657,
+            322,
+            false
+        ],
+        [
+            1717788107,
+            58.3577,
+            7.7734,
+            3962,
+            323,
+            false
+        ],
+        [
+            1717788124,
+            58.373,
+            7.752,
+            4267,
+            323,
+            false
+        ],
+        [
+            1717788151,
+            58.3969,
+            7.7188,
+            4572,
+            323,
+            false
+        ],
+        [
+            1717788176,
+            58.4192,
+            7.6876,
+            4876,
+            323,
+            false
+        ],
+        [
+            1717788193,
+            58.434,
+            7.667,
+            5181,
+            324,
+            false
+        ],
+        [
+            1717788218,
+            58.4558,
+            7.6366,
+            5486,
+            323,
+            false
+        ],
+        [
+            1717788273,
+            58.505,
+            7.5673,
+            5791,
+            323,
+            false
+        ],
+        [
+            1717788285,
+            58.513,
+            7.5558,
+            6096,
+            323,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-16:17:55",
+    "baro_altitude": 4663.44,
+    "category": 0,
+    "geo_altitude": 4564.38,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717784179,
+    "latitude": 59.9938,
+    "longitude": 5.4701,
+    "on_ground": false,
+    "origin_country": "Norway",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717784179,
+    "true_track": 145.4,
+    "velocity": 116.87,
+    "vertical_rate": 10.73,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 14,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "ENCN",
+    "estDepartureAirportHorizDistance": 5620,
+    "estDepartureAirportVertDistance": 988,
+    "firstSeen": 1717787875,
+    "lastSeen": 1717788285
+}

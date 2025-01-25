@@ -1,0 +1,128 @@
+{
+    "callsign": "AAL126  ",
+    "endTime": "2024/05/29-10:02:40",
+    "icao24": "aaef89",
+    "path": [
+        [
+            1716987679,
+            38.8483,
+            -77.0374,
+            0,
+            355,
+            false
+        ],
+        [
+            1716987697,
+            38.8595,
+            -77.0386,
+            0,
+            354,
+            false
+        ],
+        [
+            1716987704,
+            38.8641,
+            -77.0392,
+            0,
+            352,
+            false
+        ],
+        [
+            1716987713,
+            38.8694,
+            -77.0412,
+            304,
+            337,
+            false
+        ],
+        [
+            1716987720,
+            38.8732,
+            -77.0443,
+            304,
+            326,
+            false
+        ],
+        [
+            1716987728,
+            38.8776,
+            -77.0485,
+            304,
+            322,
+            false
+        ],
+        [
+            1716987736,
+            38.8825,
+            -77.0534,
+            304,
+            321,
+            false
+        ],
+        [
+            1716987744,
+            38.8875,
+            -77.0588,
+            304,
+            319,
+            false
+        ],
+        [
+            1716987753,
+            38.8936,
+            -77.0656,
+            609,
+            318,
+            false
+        ],
+        [
+            1716987760,
+            38.8983,
+            -77.0713,
+            609,
+            313,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-10:01:19",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716987585,
+    "latitude": 38.8416,
+    "longitude": -77.0374,
+    "on_ground": true,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1716987585,
+    "true_track": 95.62,
+    "velocity": 3.34,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 505,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KDCA",
+    "estDepartureAirportHorizDistance": 427,
+    "estDepartureAirportVertDistance": 4,
+    "firstSeen": 1716987679,
+    "lastSeen": 1716987760
+}

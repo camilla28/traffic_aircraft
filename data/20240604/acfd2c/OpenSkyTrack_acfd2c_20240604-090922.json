@@ -1,0 +1,104 @@
+{
+    "callsign": "AAL1712 ",
+    "endTime": "2024/06/04-08:56:26",
+    "icao24": "acfd2c",
+    "path": [
+        [
+            1717496980,
+            41.8383,
+            -85.4884,
+            10058,
+            77,
+            false
+        ],
+        [
+            1717497870,
+            41.8412,
+            -85.4717,
+            10058,
+            77,
+            false
+        ],
+        [
+            1717498764,
+            41.8441,
+            -85.4544,
+            10058,
+            77,
+            false
+        ],
+        [
+            1717499609,
+            41.8477,
+            -85.4333,
+            10058,
+            77,
+            false
+        ],
+        [
+            1717500507,
+            41.8512,
+            -85.4122,
+            10058,
+            77,
+            false
+        ],
+        [
+            1717501393,
+            41.855,
+            -85.3896,
+            10058,
+            77,
+            false
+        ],
+        [
+            1717502186,
+            41.8564,
+            -85.3811,
+            10058,
+            77,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:29:40",
+    "baro_altitude": 10172.7,
+    "category": 1,
+    "geo_altitude": 10591.8,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500029,
+    "latitude": 41.8496,
+    "longitude": -85.4215,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717500025,
+    "true_track": 77.28,
+    "velocity": 249.98,
+    "vertical_rate": -4.55,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KIRS",
+    "estDepartureAirportHorizDistance": 5150,
+    "estDepartureAirportVertDistance": 9997,
+    "firstSeen": 1717496980,
+    "lastSeen": 1717502186
+}

@@ -1,0 +1,144 @@
+{
+    "callsign": "NWS039  ",
+    "endTime": "2024/06/14-18:08:28",
+    "icao24": "151e39",
+    "path": [
+        [
+            1718399023,
+            56.0712,
+            37.3573,
+            609,
+            160,
+            false
+        ],
+        [
+            1718399023,
+            56.0712,
+            37.3573,
+            609,
+            138,
+            false
+        ],
+        [
+            1718399055,
+            56.0238,
+            37.513,
+            914,
+            139,
+            false
+        ],
+        [
+            1718399055,
+            56.0238,
+            37.513,
+            914,
+            146,
+            false
+        ],
+        [
+            1718399114,
+            55.7018,
+            38.6363,
+            1219,
+            182,
+            false
+        ],
+        [
+            1718399114,
+            55.7018,
+            38.6363,
+            1219,
+            103,
+            false
+        ],
+        [
+            1718399174,
+            55.425,
+            39.4049,
+            1524,
+            142,
+            false
+        ],
+        [
+            1718399174,
+            55.425,
+            39.4049,
+            1524,
+            108,
+            false
+        ],
+        [
+            1718399236,
+            54.3069,
+            38.0628,
+            2438,
+            144,
+            false
+        ],
+        [
+            1718399236,
+            54.3069,
+            38.0628,
+            2438,
+            227,
+            false
+        ],
+        [
+            1718399308,
+            57.9937,
+            38.3208,
+            3048,
+            50,
+            false
+        ],
+        [
+            1718399308,
+            57.9937,
+            38.3208,
+            3048,
+            50,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-18:03:43",
+    "baro_altitude": 3314.7,
+    "category": 0,
+    "geo_altitude": 3307.08,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718399391,
+    "latitude": 57.9937,
+    "longitude": 38.3208,
+    "on_ground": false,
+    "origin_country": "Russian Federation",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718399308,
+    "true_track": 50.22,
+    "velocity": 348.11,
+    "vertical_rate": 4.88,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 14,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "UUEE",
+    "estDepartureAirportHorizDistance": 11531,
+    "estDepartureAirportVertDistance": 473,
+    "firstSeen": 1718399023,
+    "lastSeen": 1718399308
+}

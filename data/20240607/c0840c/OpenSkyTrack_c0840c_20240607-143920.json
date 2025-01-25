@@ -1,0 +1,136 @@
+{
+    "callsign": "CGYAD   ",
+    "endTime": "2024/06/07-14:39:19",
+    "icao24": "c0840c",
+    "path": [
+        [
+            1717781807,
+            53.4372,
+            -113.1296,
+            914,
+            11,
+            false
+        ],
+        [
+            1717781816,
+            53.4408,
+            -113.1274,
+            914,
+            34,
+            false
+        ],
+        [
+            1717781823,
+            53.4429,
+            -113.1232,
+            914,
+            58,
+            false
+        ],
+        [
+            1717781828,
+            53.4439,
+            -113.1196,
+            914,
+            72,
+            false
+        ],
+        [
+            1717781842,
+            53.4438,
+            -113.1081,
+            914,
+            98,
+            false
+        ],
+        [
+            1717781851,
+            53.4432,
+            -113.1006,
+            1219,
+            96,
+            false
+        ],
+        [
+            1717781880,
+            53.4417,
+            -113.0758,
+            1219,
+            94,
+            false
+        ],
+        [
+            1717781887,
+            53.4415,
+            -113.0701,
+            1219,
+            93,
+            false
+        ],
+        [
+            1717781917,
+            53.4408,
+            -113.0421,
+            1219,
+            95,
+            false
+        ],
+        [
+            1717781921,
+            53.4405,
+            -113.0381,
+            1219,
+            97,
+            false
+        ],
+        [
+            1717781959,
+            53.4374,
+            -113.0033,
+            1219,
+            98,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-14:36:47",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717781747,
+    "latitude": 53.4268,
+    "longitude": -113.1133,
+    "on_ground": true,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717781747,
+    "true_track": 298.12,
+    "velocity": 27.78,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 56,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "CEZ3",
+    "estDepartureAirportHorizDistance": 1425,
+    "estDepartureAirportVertDistance": 263,
+    "firstSeen": 1717781807,
+    "lastSeen": 1717781959
+}

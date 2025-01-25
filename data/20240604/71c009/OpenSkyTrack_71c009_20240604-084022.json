@@ -1,0 +1,72 @@
+{
+    "callsign": "KAL092  ",
+    "endTime": "2024/06/04-08:38:05",
+    "icao24": "71c009",
+    "path": [
+        [
+            1717499870,
+            37.3383,
+            137.3675,
+            10972,
+            245,
+            false
+        ],
+        [
+            1717500452,
+            37.3331,
+            137.3534,
+            10972,
+            245,
+            false
+        ],
+        [
+            1717501085,
+            37.3279,
+            137.3392,
+            10972,
+            245,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:17:50",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": 11186.16,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500023,
+    "latitude": 37.3365,
+    "longitude": 137.3626,
+    "on_ground": false,
+    "origin_country": "Republic of Korea",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499976,
+    "true_track": 245.36,
+    "velocity": 233.19,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717499870,
+    "lastSeen": 1717501085
+}

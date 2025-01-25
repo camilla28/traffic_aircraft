@@ -1,0 +1,120 @@
+{
+    "callsign": "BCS6359 ",
+    "endTime": "2024/06/15-12:10:42",
+    "icao24": "3c5433",
+    "path": [
+        [
+            1718464150,
+            40.5447,
+            -3.5564,
+            1219,
+            12,
+            false
+        ],
+        [
+            1718464161,
+            40.5614,
+            -3.5507,
+            1524,
+            15,
+            false
+        ],
+        [
+            1718464179,
+            40.5795,
+            -3.5435,
+            1524,
+            17,
+            false
+        ],
+        [
+            1718464188,
+            40.5889,
+            -3.5392,
+            1828,
+            22,
+            false
+        ],
+        [
+            1718464197,
+            40.5982,
+            -3.5329,
+            1828,
+            32,
+            false
+        ],
+        [
+            1718464206,
+            40.6058,
+            -3.5251,
+            2133,
+            42,
+            false
+        ],
+        [
+            1718464215,
+            40.6144,
+            -3.5151,
+            2133,
+            41,
+            false
+        ],
+        [
+            1718464234,
+            40.6324,
+            -3.4954,
+            2438,
+            40,
+            false
+        ],
+        [
+            1718464242,
+            40.6407,
+            -3.4857,
+            2743,
+            42,
+            false
+        ]
+    ],
+    "startTime": "2024/06/15-12:09:10",
+    "baro_altitude": null,
+    "category": 1,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718463433,
+    "latitude": 40.4737,
+    "longitude": -3.5685,
+    "on_ground": true,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718463433,
+    "true_track": 320.62,
+    "velocity": 12.35,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 28,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LEMD",
+    "estDepartureAirportHorizDistance": 8094,
+    "estDepartureAirportVertDistance": 686,
+    "firstSeen": 1718464150,
+    "lastSeen": 1718464242
+}

@@ -1,0 +1,248 @@
+{
+    "callsign": "AB237   ",
+    "endTime": "2024/06/15-12:07:20",
+    "icao24": "c0484c",
+    "path": [
+        [
+            1718463095,
+            46.6267,
+            -80.7975,
+            304,
+            29,
+            false
+        ],
+        [
+            1718463106,
+            46.6316,
+            -80.7933,
+            304,
+            32,
+            false
+        ],
+        [
+            1718463133,
+            46.6437,
+            -80.7819,
+            304,
+            34,
+            false
+        ],
+        [
+            1718463142,
+            46.648,
+            -80.7768,
+            304,
+            42,
+            false
+        ],
+        [
+            1718463151,
+            46.6515,
+            -80.7699,
+            609,
+            66,
+            false
+        ],
+        [
+            1718463153,
+            46.652,
+            -80.7681,
+            609,
+            72,
+            false
+        ],
+        [
+            1718463153,
+            46.652,
+            -80.7681,
+            609,
+            72,
+            false
+        ],
+        [
+            1718463183,
+            46.651,
+            -80.7507,
+            609,
+            107,
+            false
+        ],
+        [
+            1718463220,
+            46.6409,
+            -80.7088,
+            914,
+            107,
+            false
+        ],
+        [
+            1718463256,
+            46.6341,
+            -80.6758,
+            1219,
+            107,
+            false
+        ],
+        [
+            1718463300,
+            46.626,
+            -80.6351,
+            1524,
+            106,
+            false
+        ],
+        [
+            1718463356,
+            46.6146,
+            -80.5794,
+            1828,
+            106,
+            false
+        ],
+        [
+            1718463392,
+            46.6071,
+            -80.5418,
+            2133,
+            106,
+            false
+        ],
+        [
+            1718463436,
+            46.5989,
+            -80.5012,
+            2438,
+            105,
+            false
+        ],
+        [
+            1718463480,
+            46.5884,
+            -80.4491,
+            2743,
+            106,
+            false
+        ],
+        [
+            1718463524,
+            46.5786,
+            -80.401,
+            3048,
+            106,
+            false
+        ],
+        [
+            1718463577,
+            46.5668,
+            -80.3427,
+            3352,
+            106,
+            false
+        ],
+        [
+            1718463623,
+            46.5562,
+            -80.2904,
+            3657,
+            106,
+            false
+        ],
+        [
+            1718463670,
+            46.5449,
+            -80.2354,
+            3962,
+            106,
+            false
+        ],
+        [
+            1718463715,
+            46.5341,
+            -80.1825,
+            4267,
+            106,
+            false
+        ],
+        [
+            1718463811,
+            46.5212,
+            -80.1199,
+            4572,
+            106,
+            false
+        ],
+        [
+            1718463828,
+            46.5068,
+            -80.0509,
+            4876,
+            106,
+            false
+        ],
+        [
+            1718463875,
+            46.4928,
+            -79.9835,
+            5181,
+            106,
+            false
+        ],
+        [
+            1718463955,
+            46.4704,
+            -79.8755,
+            5486,
+            106,
+            false
+        ],
+        [
+            1718464040,
+            46.4416,
+            -79.7374,
+            5791,
+            107,
+            false
+        ]
+    ],
+    "startTime": "2024/06/15-11:51:35",
+    "baro_altitude": 4084.32,
+    "category": 0,
+    "geo_altitude": 4168.14,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718463647,
+    "latitude": 46.5504,
+    "longitude": -80.2624,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718463647,
+    "true_track": 106.64,
+    "velocity": 93.43,
+    "vertical_rate": 7.48,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 24,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "CYSB",
+    "estDepartureAirportHorizDistance": 199,
+    "estDepartureAirportVertDistance": 42,
+    "firstSeen": 1718463095,
+    "lastSeen": 1718464040
+}

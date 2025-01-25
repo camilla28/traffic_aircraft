@@ -1,0 +1,144 @@
+{
+    "callsign": "DLH3LY  ",
+    "endTime": "2024/06/12-11:13:29",
+    "icao24": "3c66a2",
+    "path": [
+        [
+            1718201469,
+            48.3657,
+            11.8046,
+            304,
+            83,
+            false
+        ],
+        [
+            1718201513,
+            48.3696,
+            11.8513,
+            609,
+            82,
+            false
+        ],
+        [
+            1718201522,
+            48.3711,
+            11.8623,
+            914,
+            75,
+            false
+        ],
+        [
+            1718201530,
+            48.3745,
+            11.8716,
+            914,
+            56,
+            false
+        ],
+        [
+            1718201538,
+            48.381,
+            11.8794,
+            914,
+            32,
+            false
+        ],
+        [
+            1718201548,
+            48.3897,
+            11.883,
+            914,
+            9,
+            false
+        ],
+        [
+            1718201556,
+            48.3992,
+            11.8819,
+            914,
+            349,
+            false
+        ],
+        [
+            1718201566,
+            48.4091,
+            11.8763,
+            914,
+            335,
+            false
+        ],
+        [
+            1718201574,
+            48.4177,
+            11.8671,
+            1219,
+            320,
+            false
+        ],
+        [
+            1718201583,
+            48.4254,
+            11.8547,
+            1219,
+            309,
+            false
+        ],
+        [
+            1718201592,
+            48.4324,
+            11.8415,
+            1219,
+            308,
+            false
+        ],
+        [
+            1718201609,
+            48.446,
+            11.8167,
+            1524,
+            310,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-11:11:09",
+    "baro_altitude": 4983.48,
+    "category": 0,
+    "geo_altitude": 5128.26,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194259,
+    "latitude": 47.6892,
+    "longitude": 11.3336,
+    "on_ground": false,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1718194259,
+    "true_track": 0.14,
+    "velocity": 216.58,
+    "vertical_rate": -12.68,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 115,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDDM",
+    "estDepartureAirportHorizDistance": 1469,
+    "estDepartureAirportVertDistance": 80,
+    "firstSeen": 1718201469,
+    "lastSeen": 1718201609
+}

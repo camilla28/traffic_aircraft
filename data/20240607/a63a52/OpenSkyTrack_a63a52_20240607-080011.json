@@ -1,0 +1,96 @@
+{
+    "callsign": "PPCGM   ",
+    "endTime": "2024/06/07-08:00:12",
+    "icao24": "a63a52",
+    "path": [
+        [
+            1717756652,
+            -21.1009,
+            -54.5311,
+            2438,
+            164,
+            false
+        ],
+        [
+            1717757524,
+            -21.8685,
+            -54.301,
+            2438,
+            164,
+            false
+        ],
+        [
+            1717757661,
+            -21.9957,
+            -54.2626,
+            2133,
+            164,
+            false
+        ],
+        [
+            1717757804,
+            -22.127,
+            -54.2229,
+            1828,
+            164,
+            false
+        ],
+        [
+            1717757956,
+            -22.2642,
+            -54.1814,
+            1524,
+            164,
+            false
+        ],
+        [
+            1717758012,
+            -22.3148,
+            -54.1661,
+            1219,
+            164,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-07:37:32",
+    "baro_altitude": 2438.4,
+    "category": 0,
+    "geo_altitude": 2598.42,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717757435,
+    "latitude": -21.7891,
+    "longitude": -54.325,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717757434,
+    "true_track": 164.21,
+    "velocity": 102.11,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 64,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "SJTJ",
+    "estDepartureAirportHorizDistance": 8624,
+    "estDepartureAirportVertDistance": 1996,
+    "firstSeen": 1717756652,
+    "lastSeen": 1717758012
+}

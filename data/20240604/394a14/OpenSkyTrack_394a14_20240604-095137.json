@@ -1,0 +1,80 @@
+{
+    "callsign": "AFR5T   ",
+    "endTime": "2024/06/04-09:51:17",
+    "icao24": "394a14",
+    "path": [
+        [
+            1717503014,
+            54.0919,
+            -10.6407,
+            11582,
+            111,
+            false
+        ],
+        [
+            1717503841,
+            54.0601,
+            -10.5035,
+            11582,
+            111,
+            false
+        ],
+        [
+            1717504631,
+            54.0303,
+            -10.3763,
+            11582,
+            111,
+            false
+        ],
+        [
+            1717505477,
+            53.9891,
+            -10.201,
+            11582,
+            111,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:10:14",
+    "baro_altitude": 11582.4,
+    "category": 0,
+    "geo_altitude": 11795.76,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504642,
+    "latitude": 54.0303,
+    "longitude": -10.3763,
+    "on_ground": false,
+    "origin_country": "France",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "6303",
+    "time_position": 1717504631,
+    "true_track": 111.69,
+    "velocity": 292.32,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717503014,
+    "lastSeen": 1717505477
+}

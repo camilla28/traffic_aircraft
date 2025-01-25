@@ -1,0 +1,224 @@
+{
+    "callsign": "N999CA  ",
+    "endTime": "2024/05/29-11:06:02",
+    "icao24": "adf445",
+    "path": [
+        [
+            1716990955,
+            29.885,
+            -95.1894,
+            4267,
+            328,
+            false
+        ],
+        [
+            1716990963,
+            29.8954,
+            -95.1967,
+            4267,
+            328,
+            false
+        ],
+        [
+            1716990974,
+            29.9106,
+            -95.2075,
+            4572,
+            328,
+            false
+        ],
+        [
+            1716990997,
+            29.9395,
+            -95.2279,
+            4876,
+            328,
+            false
+        ],
+        [
+            1716991015,
+            29.9643,
+            -95.2454,
+            5181,
+            328,
+            false
+        ],
+        [
+            1716991047,
+            30.0067,
+            -95.2754,
+            5486,
+            328,
+            false
+        ],
+        [
+            1716991070,
+            30.0391,
+            -95.2984,
+            5791,
+            328,
+            false
+        ],
+        [
+            1716991103,
+            30.0846,
+            -95.3306,
+            6096,
+            328,
+            false
+        ],
+        [
+            1716991129,
+            30.121,
+            -95.3565,
+            6400,
+            328,
+            false
+        ],
+        [
+            1716991162,
+            30.1693,
+            -95.3908,
+            6705,
+            328,
+            false
+        ],
+        [
+            1716991191,
+            30.2126,
+            -95.4215,
+            7010,
+            328,
+            false
+        ],
+        [
+            1716991218,
+            30.2525,
+            -95.45,
+            7315,
+            328,
+            false
+        ],
+        [
+            1716991248,
+            30.2978,
+            -95.4822,
+            7620,
+            328,
+            false
+        ],
+        [
+            1716991281,
+            30.3445,
+            -95.5155,
+            7924,
+            328,
+            false
+        ],
+        [
+            1716991332,
+            30.4213,
+            -95.5704,
+            8229,
+            328,
+            false
+        ],
+        [
+            1716991388,
+            30.4874,
+            -95.6177,
+            8534,
+            328,
+            false
+        ],
+        [
+            1716991403,
+            30.5287,
+            -95.647,
+            8839,
+            329,
+            false
+        ],
+        [
+            1716991411,
+            30.543,
+            -95.6558,
+            8839,
+            333,
+            false
+        ],
+        [
+            1716991428,
+            30.5707,
+            -95.6706,
+            8839,
+            335,
+            false
+        ],
+        [
+            1716991490,
+            30.6748,
+            -95.7263,
+            9144,
+            335,
+            false
+        ],
+        [
+            1716991539,
+            30.7585,
+            -95.7712,
+            9448,
+            335,
+            false
+        ],
+        [
+            1716991562,
+            30.7977,
+            -95.7922,
+            9753,
+            335,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-10:55:55",
+    "baro_altitude": 7901.94,
+    "category": 0,
+    "geo_altitude": 8313.42,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716991249,
+    "latitude": 30.2978,
+    "longitude": -95.4822,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7442",
+    "time_position": 1716991248,
+    "true_track": 328.24,
+    "velocity": 190.59,
+    "vertical_rate": 9.43,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "8TX7",
+    "estDepartureAirportHorizDistance": 6581,
+    "estDepartureAirportVertDistance": 4285,
+    "firstSeen": 1716990955,
+    "lastSeen": 1716991562
+}

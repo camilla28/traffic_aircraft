@@ -1,0 +1,80 @@
+{
+    "callsign": "JBU82   ",
+    "endTime": "2024/06/12-14:59:44",
+    "icao24": "a898a9",
+    "path": [
+        [
+            1718215140,
+            29.9369,
+            -95.243,
+            914,
+            92,
+            false
+        ],
+        [
+            1718215149,
+            29.937,
+            -95.2312,
+            914,
+            92,
+            false
+        ],
+        [
+            1718215167,
+            29.9377,
+            -95.2055,
+            1219,
+            88,
+            false
+        ],
+        [
+            1718215184,
+            29.9381,
+            -95.1816,
+            1219,
+            88,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-14:59:00",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": 11536.68,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204674,
+    "latitude": 33.7199,
+    "longitude": -90.8375,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1762",
+    "time_position": 1718204674,
+    "true_track": 222.02,
+    "velocity": 223.66,
+    "vertical_rate": 0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 261,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KIAH",
+    "estDepartureAirportHorizDistance": 9995,
+    "estDepartureAirportVertDistance": 1006,
+    "firstSeen": 1718215140,
+    "lastSeen": 1718215184
+}

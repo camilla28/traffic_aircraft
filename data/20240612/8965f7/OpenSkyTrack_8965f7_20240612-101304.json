@@ -1,0 +1,128 @@
+{
+    "callsign": "ABY154  ",
+    "endTime": "2024/06/12-09:13:06",
+    "icao24": "8965f7",
+    "path": [
+        [
+            1718193920,
+            25.3251,
+            55.5281,
+            0,
+            302,
+            false
+        ],
+        [
+            1718193945,
+            25.3348,
+            55.5111,
+            0,
+            302,
+            false
+        ],
+        [
+            1718193996,
+            25.3577,
+            55.471,
+            304,
+            302,
+            false
+        ],
+        [
+            1718194058,
+            25.3917,
+            55.4118,
+            609,
+            302,
+            false
+        ],
+        [
+            1718194079,
+            25.4057,
+            55.3874,
+            914,
+            303,
+            false
+        ],
+        [
+            1718194113,
+            25.4287,
+            55.3484,
+            1219,
+            303,
+            false
+        ],
+        [
+            1718194318,
+            25.449,
+            55.0645,
+            2133,
+            238,
+            false
+        ],
+        [
+            1718194318,
+            25.449,
+            55.0645,
+            2133,
+            238,
+            false
+        ],
+        [
+            1718194386,
+            25.3948,
+            54.9802,
+            2743,
+            234,
+            false
+        ],
+        [
+            1718194386,
+            25.3948,
+            54.9802,
+            2743,
+            234,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-09:05:20",
+    "baro_altitude": 1463.04,
+    "category": 0,
+    "geo_altitude": 1440.18,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194115,
+    "latitude": 25.4287,
+    "longitude": 55.3484,
+    "on_ground": false,
+    "origin_country": "United Arab Emirates",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718194113,
+    "true_track": 303.27,
+    "velocity": 137.83,
+    "vertical_rate": 12.03,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 22,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "OMSJ",
+    "estDepartureAirportHorizDistance": 1398,
+    "estDepartureAirportVertDistance": 110,
+    "firstSeen": 1718193920,
+    "lastSeen": 1718194386
+}

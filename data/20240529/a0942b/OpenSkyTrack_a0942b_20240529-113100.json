@@ -1,0 +1,104 @@
+{
+    "callsign": "N1362T  ",
+    "endTime": "2024/05/29-10:55:35",
+    "icao24": "a0942b",
+    "path": [
+        [
+            1716989431,
+            38.2932,
+            -104.4277,
+            1524,
+            77,
+            false
+        ],
+        [
+            1716989441,
+            38.2947,
+            -104.4193,
+            1524,
+            77,
+            false
+        ],
+        [
+            1716989513,
+            38.3037,
+            -104.3625,
+            1828,
+            78,
+            false
+        ],
+        [
+            1716989591,
+            38.3136,
+            -104.2965,
+            2133,
+            79,
+            false
+        ],
+        [
+            1716989654,
+            38.3212,
+            -104.2444,
+            2438,
+            79,
+            false
+        ],
+        [
+            1716990547,
+            38.4381,
+            -103.3896,
+            2743,
+            80,
+            false
+        ],
+        [
+            1716990935,
+            38.4882,
+            -103.0129,
+            2743,
+            80,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-10:30:31",
+    "baro_altitude": 2819.4,
+    "category": 0,
+    "geo_altitude": 2941.32,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716990935,
+    "latitude": 38.4882,
+    "longitude": -103.0129,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1716990935,
+    "true_track": 80.31,
+    "velocity": 85.59,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 147,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KPUB",
+    "estDepartureAirportHorizDistance": 5696,
+    "estDepartureAirportVertDistance": 304,
+    "firstSeen": 1716989431,
+    "lastSeen": 1716990935
+}

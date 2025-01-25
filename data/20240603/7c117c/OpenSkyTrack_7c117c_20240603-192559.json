@@ -1,0 +1,96 @@
+{
+    "callsign": "DQM     ",
+    "endTime": "2024/06/03-19:16:38",
+    "icao24": "7c117c",
+    "path": [
+        [
+            1717452310,
+            -31.9518,
+            150.6397,
+            1828,
+            294,
+            false
+        ],
+        [
+            1717452338,
+            -31.9438,
+            150.6218,
+            1828,
+            294,
+            false
+        ],
+        [
+            1717452341,
+            -31.9428,
+            150.6198,
+            1828,
+            300,
+            false
+        ],
+        [
+            1717452341,
+            -31.9428,
+            150.6198,
+            1828,
+            297,
+            false
+        ],
+        [
+            1717452778,
+            -31.8025,
+            150.3054,
+            1828,
+            298,
+            false
+        ],
+        [
+            1717452998,
+            -31.7286,
+            150.1424,
+            1828,
+            298,
+            false
+        ]
+    ],
+    "startTime": "2024/06/03-19:05:10",
+    "baro_altitude": 1920.24,
+    "category": 0,
+    "geo_altitude": 1996.44,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717452569,
+    "latitude": -31.8709,
+    "longitude": 150.459,
+    "on_ground": false,
+    "origin_country": "Australia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717452568,
+    "true_track": 295.88,
+    "velocity": 76.62,
+    "vertical_rate": 0.98,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 51,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "YSCO",
+    "estDepartureAirportHorizDistance": 20473,
+    "estDepartureAirportVertDistance": 1723,
+    "firstSeen": 1717452310,
+    "lastSeen": 1717452998
+}

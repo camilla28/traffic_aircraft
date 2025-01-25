@@ -1,0 +1,136 @@
+{
+    "callsign": "UAL2013 ",
+    "endTime": "2024/06/14-13:25:16",
+    "icao24": "a94bff",
+    "path": [
+        [
+            1718382077,
+            33.947,
+            -118.4545,
+            304,
+            264,
+            false
+        ],
+        [
+            1718382114,
+            33.9433,
+            -118.4984,
+            304,
+            263,
+            false
+        ],
+        [
+            1718382125,
+            33.942,
+            -118.5125,
+            609,
+            264,
+            false
+        ],
+        [
+            1718382153,
+            33.9393,
+            -118.5496,
+            914,
+            265,
+            false
+        ],
+        [
+            1718382181,
+            33.9367,
+            -118.5892,
+            1219,
+            265,
+            false
+        ],
+        [
+            1718382208,
+            33.9337,
+            -118.6305,
+            1524,
+            265,
+            false
+        ],
+        [
+            1718382226,
+            33.9315,
+            -118.6577,
+            1828,
+            263,
+            false
+        ],
+        [
+            1718382255,
+            33.9271,
+            -118.7041,
+            2133,
+            264,
+            false
+        ],
+        [
+            1718382262,
+            33.9261,
+            -118.7155,
+            2438,
+            263,
+            false
+        ],
+        [
+            1718382298,
+            33.9212,
+            -118.7726,
+            2743,
+            264,
+            false
+        ],
+        [
+            1718382316,
+            33.9187,
+            -118.8022,
+            3048,
+            264,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-13:21:17",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718380966,
+    "latitude": 33.9397,
+    "longitude": -118.4007,
+    "on_ground": true,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718380966,
+    "true_track": 182.81,
+    "velocity": 1.8,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 131,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KLAX",
+    "estDepartureAirportHorizDistance": 3359,
+    "estDepartureAirportVertDistance": 335,
+    "firstSeen": 1718382077,
+    "lastSeen": 1718382316
+}

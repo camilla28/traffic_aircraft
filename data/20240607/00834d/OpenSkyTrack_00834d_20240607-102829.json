@@ -1,0 +1,104 @@
+{
+    "callsign": "LNK658U ",
+    "endTime": "2024/06/07-09:46:41",
+    "icao24": "00834d",
+    "path": [
+        [
+            1717762898,
+            -25.2282,
+            29.3138,
+            10972,
+            231,
+            false
+        ],
+        [
+            1717762898,
+            -25.2282,
+            29.3138,
+            10972,
+            231,
+            false
+        ],
+        [
+            1717763459,
+            -25.835,
+            28.4604,
+            11582,
+            229,
+            false
+        ],
+        [
+            1717763466,
+            -25.8433,
+            28.4498,
+            11582,
+            228,
+            false
+        ],
+        [
+            1717763488,
+            -25.8696,
+            28.4186,
+            11277,
+            226,
+            false
+        ],
+        [
+            1717764331,
+            -26.8381,
+            27.2791,
+            11582,
+            226,
+            false
+        ],
+        [
+            1717764401,
+            -26.925,
+            27.1754,
+            11582,
+            226,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-09:21:38",
+    "baro_altitude": 11064.24,
+    "category": 0,
+    "geo_altitude": 11628.12,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762898,
+    "latitude": -25.2282,
+    "longitude": 29.3138,
+    "on_ground": false,
+    "origin_country": "South Africa",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717762898,
+    "true_track": 231.85,
+    "velocity": 198.21,
+    "vertical_rate": 4.55,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "FAGL",
+    "estDepartureAirportHorizDistance": 49005,
+    "estDepartureAirportVertDistance": 10134,
+    "firstSeen": 1717762898,
+    "lastSeen": 1717764401
+}

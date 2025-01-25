@@ -1,0 +1,104 @@
+{
+    "callsign": "SWA4104 ",
+    "endTime": "2024/06/04-08:55:21",
+    "icao24": "aab09a",
+    "path": [
+        [
+            1717500005,
+            32.7364,
+            -117.201,
+            0,
+            286,
+            false
+        ],
+        [
+            1717500763,
+            32.7385,
+            -117.2089,
+            0,
+            286,
+            false
+        ],
+        [
+            1717501412,
+            32.7419,
+            -117.2236,
+            304,
+            284,
+            false
+        ],
+        [
+            1717501960,
+            32.7446,
+            -117.2358,
+            304,
+            285,
+            false
+        ],
+        [
+            1717501964,
+            32.7452,
+            -117.2384,
+            609,
+            285,
+            false
+        ],
+        [
+            1717501978,
+            32.745,
+            -117.2379,
+            304,
+            285,
+            false
+        ],
+        [
+            1717502121,
+            32.7456,
+            -117.2403,
+            609,
+            284,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:20:05",
+    "baro_altitude": 121.92,
+    "category": 0,
+    "geo_altitude": 53.34,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500034,
+    "latitude": 32.7363,
+    "longitude": -117.2006,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717500034,
+    "true_track": 286.57,
+    "velocity": 84.8,
+    "vertical_rate": 17.56,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 109,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KSAN",
+    "estDepartureAirportHorizDistance": 1007,
+    "estDepartureAirportVertDistance": 124,
+    "firstSeen": 1717500005,
+    "lastSeen": 1717502121
+}

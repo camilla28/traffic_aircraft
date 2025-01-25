@@ -1,0 +1,96 @@
+{
+    "callsign": "AAL2876 ",
+    "endTime": "2024/06/04-08:45:56",
+    "icao24": "a8d5bd",
+    "path": [
+        [
+            1717497800,
+            35.917,
+            -112.1429,
+            8534,
+            349,
+            false
+        ],
+        [
+            1717498496,
+            35.9229,
+            -112.1444,
+            8534,
+            348,
+            false
+        ],
+        [
+            1717499307,
+            35.9301,
+            -112.1463,
+            8534,
+            347,
+            false
+        ],
+        [
+            1717500196,
+            35.9376,
+            -112.1484,
+            8534,
+            346,
+            false
+        ],
+        [
+            1717501315,
+            35.9446,
+            -112.1505,
+            8534,
+            345,
+            false
+        ],
+        [
+            1717501556,
+            35.9469,
+            -112.1513,
+            8534,
+            345,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:43:20",
+    "baro_altitude": 8549.64,
+    "category": 4,
+    "geo_altitude": 8983.98,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499926,
+    "latitude": 35.9345,
+    "longitude": -112.1475,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499926,
+    "true_track": 347.1,
+    "velocity": 239.61,
+    "vertical_rate": 1.63,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KGCN",
+    "estDepartureAirportHorizDistance": 3952,
+    "estDepartureAirportVertDistance": 6527,
+    "firstSeen": 1717497800,
+    "lastSeen": 1717501556
+}

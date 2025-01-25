@@ -1,0 +1,136 @@
+{
+    "callsign": "RPA9936 ",
+    "endTime": "2024/06/04-14:48:16",
+    "icao24": "a01f73",
+    "path": [
+        [
+            1717521163,
+            39.5989,
+            -87.9389,
+            8839,
+            269,
+            false
+        ],
+        [
+            1717521440,
+            39.5986,
+            -87.9774,
+            8839,
+            269,
+            false
+        ],
+        [
+            1717521446,
+            39.5985,
+            -87.9881,
+            9144,
+            269,
+            false
+        ],
+        [
+            1717521457,
+            39.5987,
+            -87.9673,
+            8839,
+            269,
+            false
+        ],
+        [
+            1717522195,
+            39.5977,
+            -88.0759,
+            9144,
+            269,
+            false
+        ],
+        [
+            1717522200,
+            39.5976,
+            -88.0857,
+            9448,
+            269,
+            false
+        ],
+        [
+            1717522217,
+            39.5976,
+            -88.0846,
+            9144,
+            269,
+            false
+        ],
+        [
+            1717522221,
+            39.5976,
+            -88.0881,
+            9448,
+            269,
+            false
+        ],
+        [
+            1717522231,
+            39.5977,
+            -88.0795,
+            9144,
+            269,
+            false
+        ],
+        [
+            1717522982,
+            39.5964,
+            -88.1972,
+            9448,
+            269,
+            false
+        ],
+        [
+            1717523296,
+            39.5959,
+            -88.2496,
+            9753,
+            269,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-14:12:43",
+    "baro_altitude": 9707.88,
+    "category": 0,
+    "geo_altitude": 10111.74,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717522848,
+    "latitude": 39.5966,
+    "longitude": -88.1895,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717522845,
+    "true_track": 269.19,
+    "velocity": 219.69,
+    "vertical_rate": 9.43,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "IS13",
+    "estDepartureAirportHorizDistance": 7465,
+    "estDepartureAirportVertDistance": 8797,
+    "firstSeen": 1717521163,
+    "lastSeen": 1717523296
+}

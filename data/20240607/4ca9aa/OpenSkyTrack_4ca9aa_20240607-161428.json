@@ -1,0 +1,72 @@
+{
+    "callsign": "RYR84CV ",
+    "endTime": "2024/06/07-16:14:27",
+    "icao24": "4ca9aa",
+    "path": [
+        [
+            1717787612,
+            50.0759,
+            19.7719,
+            0,
+            256,
+            false
+        ],
+        [
+            1717787624,
+            50.0735,
+            19.7568,
+            304,
+            256,
+            false
+        ],
+        [
+            1717787667,
+            50.0656,
+            19.7004,
+            609,
+            258,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-16:13:32",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717784178,
+    "latitude": 50.0732,
+    "longitude": 19.7692,
+    "on_ground": true,
+    "origin_country": "Ireland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1717784178,
+    "true_track": 135,
+    "velocity": 4.89,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 41,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EPKK",
+    "estDepartureAirportHorizDistance": 200,
+    "estDepartureAirportVertDistance": 33,
+    "firstSeen": 1717787612,
+    "lastSeen": 1717787667
+}

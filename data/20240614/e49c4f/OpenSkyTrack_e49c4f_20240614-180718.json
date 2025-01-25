@@ -1,0 +1,112 @@
+{
+    "callsign": "PSSTB   ",
+    "endTime": "2024/06/14-17:21:19",
+    "icao24": "e49c4f",
+    "path": [
+        [
+            1718388634,
+            -13.5805,
+            -46.2631,
+            9144,
+            201,
+            false
+        ],
+        [
+            1718389529,
+            -14.6454,
+            -46.6955,
+            9144,
+            201,
+            false
+        ],
+        [
+            1718390424,
+            -15.7131,
+            -47.1337,
+            9144,
+            201,
+            false
+        ],
+        [
+            1718391316,
+            -16.7851,
+            -47.5786,
+            9144,
+            201,
+            false
+        ],
+        [
+            1718391464,
+            -16.9642,
+            -47.6535,
+            9144,
+            202,
+            false
+        ],
+        [
+            1718395314,
+            -21.5677,
+            -49.6368,
+            9144,
+            202,
+            false
+        ],
+        [
+            1718396211,
+            -22.6127,
+            -50.1052,
+            9144,
+            202,
+            false
+        ],
+        [
+            1718396479,
+            -22.9253,
+            -50.2467,
+            9144,
+            202,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-15:10:34",
+    "baro_altitude": 9144,
+    "category": 0,
+    "geo_altitude": 9753.6,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718396484,
+    "latitude": -22.9253,
+    "longitude": -50.2467,
+    "on_ground": false,
+    "origin_country": "Brazil",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718396479,
+    "true_track": 202.54,
+    "velocity": 140.92,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "SJUA",
+    "estDepartureAirportHorizDistance": 13901,
+    "estDepartureAirportVertDistance": 8198,
+    "firstSeen": 1718388634,
+    "lastSeen": 1718396479
+}

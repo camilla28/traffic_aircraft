@@ -1,0 +1,80 @@
+{
+    "callsign": "VXP516  ",
+    "endTime": "2024/06/14-11:02:35",
+    "icao24": "aaf656",
+    "path": [
+        [
+            1718373686,
+            34.5111,
+            -79.1179,
+            5791,
+            16,
+            false
+        ],
+        [
+            1718373686,
+            34.5111,
+            -79.1179,
+            5791,
+            16,
+            false
+        ],
+        [
+            1718373730,
+            34.5766,
+            -79.0813,
+            6400,
+            26,
+            false
+        ],
+        [
+            1718373755,
+            34.6369,
+            -79.0465,
+            6705,
+            25,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-11:01:26",
+    "baro_altitude": 6057.9,
+    "category": 0,
+    "geo_altitude": 6339.84,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718373683,
+    "latitude": 34.5076,
+    "longitude": -79.1192,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718373682,
+    "true_track": 15.26,
+    "velocity": 211.16,
+    "vertical_rate": 12.35,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 2,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "NC70",
+    "estDepartureAirportHorizDistance": 70912,
+    "estDepartureAirportVertDistance": 6047,
+    "firstSeen": 1718373686,
+    "lastSeen": 1718373755
+}

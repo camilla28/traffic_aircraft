@@ -1,0 +1,104 @@
+{
+    "callsign": "N800SG  ",
+    "endTime": "2024/06/14-17:12:18",
+    "icao24": "aae374",
+    "path": [
+        [
+            1718395680,
+            40.6531,
+            -73.8017,
+            0,
+            27,
+            false
+        ],
+        [
+            1718395688,
+            40.6565,
+            -73.7995,
+            0,
+            24,
+            false
+        ],
+        [
+            1718395712,
+            40.6678,
+            -73.7927,
+            0,
+            26,
+            false
+        ],
+        [
+            1718395768,
+            40.7005,
+            -73.7722,
+            304,
+            25,
+            false
+        ],
+        [
+            1718395776,
+            40.7059,
+            -73.7683,
+            304,
+            30,
+            false
+        ],
+        [
+            1718395878,
+            40.7666,
+            -73.7173,
+            304,
+            33,
+            false
+        ],
+        [
+            1718395938,
+            40.8013,
+            -73.6866,
+            304,
+            34,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-17:08:00",
+    "baro_altitude": 320.04,
+    "category": 0,
+    "geo_altitude": 266.7,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718395762,
+    "latitude": 40.6966,
+    "longitude": -73.7746,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0321",
+    "time_position": 1718395762,
+    "true_track": 25.22,
+    "velocity": 78.47,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 291,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KJFK",
+    "estDepartureAirportHorizDistance": 2557,
+    "estDepartureAirportVertDistance": 133,
+    "firstSeen": 1718395680,
+    "lastSeen": 1718395938
+}

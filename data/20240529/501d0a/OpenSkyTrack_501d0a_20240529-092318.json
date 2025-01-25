@@ -1,0 +1,104 @@
+{
+    "callsign": "CTN35RL ",
+    "endTime": "2024/05/29-09:21:41",
+    "icao24": "501d0a",
+    "path": [
+        [
+            1716985120,
+            43.6204,
+            15.9311,
+            3048,
+            312,
+            false
+        ],
+        [
+            1716985155,
+            43.6546,
+            15.879,
+            3048,
+            312,
+            false
+        ],
+        [
+            1716985191,
+            43.6938,
+            15.8192,
+            3352,
+            312,
+            false
+        ],
+        [
+            1716985228,
+            43.736,
+            15.755,
+            3657,
+            312,
+            false
+        ],
+        [
+            1716985253,
+            43.7639,
+            15.7125,
+            3962,
+            312,
+            false
+        ],
+        [
+            1716985263,
+            43.7756,
+            15.6948,
+            4267,
+            312,
+            false
+        ],
+        [
+            1716985301,
+            43.8192,
+            15.6281,
+            4572,
+            312,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-09:18:40",
+    "baro_altitude": 8161.02,
+    "category": 0,
+    "geo_altitude": 8382,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716978991,
+    "latitude": 44.7174,
+    "longitude": 15.7042,
+    "on_ground": false,
+    "origin_country": "Croatia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2230",
+    "time_position": 1716978990,
+    "true_track": 169.48,
+    "velocity": 211.39,
+    "vertical_rate": -9.75,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1716985120,
+    "lastSeen": 1716985301
+}

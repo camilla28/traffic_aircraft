@@ -1,0 +1,120 @@
+{
+    "callsign": "G20302  ",
+    "endTime": "2024/06/14-13:18:05",
+    "icao24": "ae5118",
+    "path": [
+        [
+            1718380745,
+            40.4366,
+            -76.5452,
+            304,
+            88,
+            false
+        ],
+        [
+            1718380755,
+            40.4383,
+            -76.5364,
+            304,
+            58,
+            false
+        ],
+        [
+            1718380763,
+            40.4406,
+            -76.5321,
+            304,
+            55,
+            false
+        ],
+        [
+            1718380773,
+            40.4432,
+            -76.5264,
+            609,
+            61,
+            false
+        ],
+        [
+            1718380782,
+            40.4452,
+            -76.521,
+            609,
+            66,
+            false
+        ],
+        [
+            1718380791,
+            40.4468,
+            -76.5154,
+            609,
+            70,
+            false
+        ],
+        [
+            1718380819,
+            40.4511,
+            -76.4976,
+            609,
+            73,
+            false
+        ],
+        [
+            1718381713,
+            40.5973,
+            -75.8206,
+            609,
+            74,
+            false
+        ],
+        [
+            1718381885,
+            40.6256,
+            -75.6872,
+            609,
+            74,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-12:59:05",
+    "baro_altitude": 769.62,
+    "category": 0,
+    "geo_altitude": 762,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718380974,
+    "latitude": 40.4761,
+    "longitude": -76.3831,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718380974,
+    "true_track": 73.93,
+    "velocity": 66.92,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 527,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KMUI",
+    "estDepartureAirportHorizDistance": 1676,
+    "estDepartureAirportVertDistance": 293,
+    "firstSeen": 1718380745,
+    "lastSeen": 1718381885
+}

@@ -1,0 +1,80 @@
+{
+    "callsign": "IBB5WU  ",
+    "endTime": "2024/06/04-08:47:01",
+    "icao24": "347645",
+    "path": [
+        [
+            1717499173,
+            38.1725,
+            -8.1584,
+            10668,
+            214,
+            false
+        ],
+        [
+            1717499983,
+            38.1487,
+            -8.1793,
+            10668,
+            214,
+            false
+        ],
+        [
+            1717500877,
+            38.1308,
+            -8.195,
+            10668,
+            214,
+            false
+        ],
+        [
+            1717501621,
+            38.1107,
+            -8.2126,
+            10668,
+            214,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:06:13",
+    "baro_altitude": 10668,
+    "category": 0,
+    "geo_altitude": 11125.2,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499984,
+    "latitude": 38.1487,
+    "longitude": -8.1793,
+    "on_ground": false,
+    "origin_country": "Spain",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2602",
+    "time_position": 1717499983,
+    "true_track": 214.77,
+    "velocity": 233.61,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717499173,
+    "lastSeen": 1717501621
+}

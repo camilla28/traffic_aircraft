@@ -1,0 +1,128 @@
+{
+    "callsign": "N80FG   ",
+    "endTime": "2024/06/12-10:56:52",
+    "icao24": "aae008",
+    "path": [
+        [
+            1718200393,
+            35.865,
+            -78.7971,
+            0,
+            222,
+            false
+        ],
+        [
+            1718200403,
+            35.8617,
+            -78.7996,
+            0,
+            195,
+            false
+        ],
+        [
+            1718200412,
+            35.8589,
+            -78.7997,
+            0,
+            167,
+            false
+        ],
+        [
+            1718200422,
+            35.8557,
+            -78.798,
+            304,
+            149,
+            false
+        ],
+        [
+            1718200446,
+            35.8479,
+            -78.7926,
+            304,
+            147,
+            false
+        ],
+        [
+            1718200512,
+            35.8258,
+            -78.7754,
+            304,
+            148,
+            false
+        ],
+        [
+            1718200555,
+            35.81,
+            -78.7637,
+            609,
+            150,
+            false
+        ],
+        [
+            1718200571,
+            35.8031,
+            -78.7591,
+            609,
+            151,
+            false
+        ],
+        [
+            1718200579,
+            35.7997,
+            -78.7569,
+            609,
+            153,
+            false
+        ],
+        [
+            1718200612,
+            35.7854,
+            -78.7485,
+            609,
+            153,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-10:53:13",
+    "baro_altitude": 1965.96,
+    "category": 0,
+    "geo_altitude": 2004.06,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194258,
+    "latitude": 35.5872,
+    "longitude": -78.1287,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3212",
+    "time_position": 1718194258,
+    "true_track": 297.35,
+    "velocity": 50.39,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 326,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KRDU",
+    "estDepartureAirportHorizDistance": 1522,
+    "estDepartureAirportVertDistance": 96,
+    "firstSeen": 1718200393,
+    "lastSeen": 1718200612
+}

@@ -1,0 +1,120 @@
+{
+    "callsign": "RYR5VP  ",
+    "endTime": "2024/06/04-09:11:59",
+    "icao24": "4cae51",
+    "path": [
+        [
+            1717496575,
+            38.246,
+            -3.0644,
+            11582,
+            78,
+            false
+        ],
+        [
+            1717497418,
+            38.2516,
+            -3.0305,
+            11582,
+            78,
+            false
+        ],
+        [
+            1717498259,
+            38.2568,
+            -2.9992,
+            11582,
+            78,
+            false
+        ],
+        [
+            1717499105,
+            38.2584,
+            -2.9897,
+            11582,
+            78,
+            false
+        ],
+        [
+            1717499995,
+            38.266,
+            -2.9433,
+            11582,
+            78,
+            false
+        ],
+        [
+            1717500893,
+            38.272,
+            -2.906,
+            11582,
+            78,
+            false
+        ],
+        [
+            1717501791,
+            38.2782,
+            -2.868,
+            11582,
+            78,
+            false
+        ],
+        [
+            1717502689,
+            38.283,
+            -2.8382,
+            11582,
+            78,
+            false
+        ],
+        [
+            1717503119,
+            38.2866,
+            -2.8159,
+            11582,
+            78,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:22:55",
+    "baro_altitude": 11582.4,
+    "category": 0,
+    "geo_altitude": 11978.64,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500029,
+    "latitude": 38.266,
+    "longitude": -2.9433,
+    "on_ground": false,
+    "origin_country": "Ireland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717500029,
+    "true_track": 78.33,
+    "velocity": 239.02,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LEBE",
+    "estDepartureAirportHorizDistance": 559518,
+    "estDepartureAirportVertDistance": 11039,
+    "firstSeen": 1717496575,
+    "lastSeen": 1717503119
+}

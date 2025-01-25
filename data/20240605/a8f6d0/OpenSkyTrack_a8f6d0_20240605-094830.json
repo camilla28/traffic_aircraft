@@ -1,0 +1,80 @@
+{
+    "callsign": "N677MD  ",
+    "endTime": "2024/06/05-09:46:11",
+    "icao24": "a8f6d0",
+    "path": [
+        [
+            1717591545,
+            27.0661,
+            -82.4633,
+            304,
+            339,
+            false
+        ],
+        [
+            1717591552,
+            27.0703,
+            -82.4651,
+            304,
+            338,
+            false
+        ],
+        [
+            1717591556,
+            27.0728,
+            -82.4662,
+            304,
+            335,
+            false
+        ],
+        [
+            1717591571,
+            27.0814,
+            -82.4707,
+            304,
+            335,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-09:45:45",
+    "baro_altitude": 914.4,
+    "category": 0,
+    "geo_altitude": 906.78,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717590636,
+    "latitude": 27.2237,
+    "longitude": -82.5171,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0123",
+    "time_position": 1717590636,
+    "true_track": 156.15,
+    "velocity": 82.69,
+    "vertical_rate": -0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 196,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KVNC",
+    "estDepartureAirportHorizDistance": 2209,
+    "estDepartureAirportVertDistance": 558,
+    "firstSeen": 1717591545,
+    "lastSeen": 1717591571
+}

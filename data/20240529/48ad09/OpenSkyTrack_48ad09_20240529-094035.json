@@ -1,0 +1,136 @@
+{
+    "callsign": "LOT797  ",
+    "endTime": "2024/05/29-09:40:29",
+    "icao24": "48ad09",
+    "path": [
+        [
+            1716986322,
+            52.1478,
+            20.983,
+            304,
+            150,
+            false
+        ],
+        [
+            1716986342,
+            52.1347,
+            20.9956,
+            304,
+            149,
+            false
+        ],
+        [
+            1716986357,
+            52.1241,
+            21.0058,
+            609,
+            149,
+            false
+        ],
+        [
+            1716986365,
+            52.1176,
+            21.0123,
+            609,
+            144,
+            false
+        ],
+        [
+            1716986372,
+            52.1129,
+            21.0194,
+            609,
+            130,
+            false
+        ],
+        [
+            1716986379,
+            52.1093,
+            21.0285,
+            609,
+            115,
+            false
+        ],
+        [
+            1716986386,
+            52.1072,
+            21.0391,
+            914,
+            99,
+            false
+        ],
+        [
+            1716986393,
+            52.1072,
+            21.0504,
+            914,
+            80,
+            false
+        ],
+        [
+            1716986401,
+            52.1096,
+            21.0626,
+            914,
+            67,
+            false
+        ],
+        [
+            1716986408,
+            52.1126,
+            21.0734,
+            914,
+            65,
+            false
+        ],
+        [
+            1716986429,
+            52.1216,
+            21.1064,
+            1219,
+            66,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-09:38:42",
+    "baro_altitude": 3429,
+    "category": 0,
+    "geo_altitude": 3543.3,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716978990,
+    "latitude": 52.165,
+    "longitude": 20.258,
+    "on_ground": false,
+    "origin_country": "Poland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1716978989,
+    "true_track": 117.01,
+    "velocity": 149.55,
+    "vertical_rate": -5.53,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 31,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EPWA",
+    "estDepartureAirportHorizDistance": 2129,
+    "estDepartureAirportVertDistance": 255,
+    "firstSeen": 1716986322,
+    "lastSeen": 1716986429
+}

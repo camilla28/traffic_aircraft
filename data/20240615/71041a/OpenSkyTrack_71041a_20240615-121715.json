@@ -1,0 +1,120 @@
+{
+    "callsign": "SVA1040 ",
+    "endTime": "2024/06/15-12:13:08",
+    "icao24": "71041a",
+    "path": [
+        [
+            1718463595,
+            24.8443,
+            46.5655,
+            3352,
+            119,
+            false
+        ],
+        [
+            1718463605,
+            24.8359,
+            46.5756,
+            3352,
+            138,
+            false
+        ],
+        [
+            1718463613,
+            24.8278,
+            46.5827,
+            3352,
+            142,
+            false
+        ],
+        [
+            1718463651,
+            24.7878,
+            46.6144,
+            3352,
+            144,
+            false
+        ],
+        [
+            1718463739,
+            24.6977,
+            46.6856,
+            3048,
+            143,
+            false
+        ],
+        [
+            1718464233,
+            24.7817,
+            46.7944,
+            1524,
+            330,
+            false
+        ],
+        [
+            1718464262,
+            24.8026,
+            46.7812,
+            1524,
+            330,
+            false
+        ],
+        [
+            1718464330,
+            24.8508,
+            46.7508,
+            1219,
+            330,
+            false
+        ],
+        [
+            1718464388,
+            24.8807,
+            46.7319,
+            914,
+            329,
+            false
+        ]
+    ],
+    "startTime": "2024/06/15-11:59:55",
+    "baro_altitude": 3368.04,
+    "category": 0,
+    "geo_altitude": 3550.92,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718463647,
+    "latitude": 24.7918,
+    "longitude": 46.6112,
+    "on_ground": false,
+    "origin_country": "Saudi Arabia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718463647,
+    "true_track": 144.46,
+    "velocity": 141.61,
+    "vertical_rate": -1.95,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1718463595,
+    "lastSeen": 1718464388
+}

@@ -1,0 +1,88 @@
+{
+    "callsign": "FFAB123 ",
+    "endTime": "2024/06/04-09:51:18",
+    "icao24": "46ec4d",
+    "path": [
+        [
+            1717502347,
+            38.257,
+            24.6679,
+            304,
+            330,
+            false
+        ],
+        [
+            1717503243,
+            38.2638,
+            24.6631,
+            304,
+            330,
+            false
+        ],
+        [
+            1717504125,
+            38.2711,
+            24.6579,
+            304,
+            331,
+            false
+        ],
+        [
+            1717504961,
+            38.2761,
+            24.6546,
+            304,
+            333,
+            false
+        ],
+        [
+            1717505478,
+            38.2806,
+            24.6517,
+            304,
+            333,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:59:07",
+    "baro_altitude": 358.14,
+    "category": 0,
+    "geo_altitude": 396.24,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504648,
+    "latitude": 38.2751,
+    "longitude": 24.6552,
+    "on_ground": false,
+    "origin_country": "Greece",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504648,
+    "true_track": 332.58,
+    "velocity": 61.43,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 16,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LGKN",
+    "estDepartureAirportHorizDistance": 64029,
+    "estDepartureAirportVertDistance": 150,
+    "firstSeen": 1717502347,
+    "lastSeen": 1717505478
+}

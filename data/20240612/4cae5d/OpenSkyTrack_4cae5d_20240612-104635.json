@@ -1,0 +1,72 @@
+{
+    "callsign": "EIHLX   ",
+    "endTime": "2024/06/12-10:46:37",
+    "icao24": "4cae5d",
+    "path": [
+        [
+            1718199969,
+            53.4001,
+            -6.5821,
+            304,
+            125,
+            false
+        ],
+        [
+            1718199975,
+            53.3983,
+            -6.5781,
+            304,
+            130,
+            false
+        ],
+        [
+            1718199997,
+            53.3915,
+            -6.5646,
+            304,
+            130,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-10:46:09",
+    "baro_altitude": 822.96,
+    "category": 0,
+    "geo_altitude": 937.26,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194259,
+    "latitude": 52.903,
+    "longitude": -9.346,
+    "on_ground": false,
+    "origin_country": "Ireland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718194259,
+    "true_track": 13.91,
+    "velocity": 55.65,
+    "vertical_rate": -0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 25,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EIWT",
+    "estDepartureAirportHorizDistance": 8474,
+    "estDepartureAirportVertDistance": 373,
+    "firstSeen": 1718199969,
+    "lastSeen": 1718199997
+}

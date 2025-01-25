@@ -1,0 +1,104 @@
+{
+    "callsign": "EJU48GV ",
+    "endTime": "2024/06/14-18:15:05",
+    "icao24": "440237",
+    "path": [
+        [
+            1718399619,
+            48.7266,
+            2.3358,
+            0,
+            241,
+            false
+        ],
+        [
+            1718399644,
+            48.7189,
+            2.3132,
+            304,
+            242,
+            false
+        ],
+        [
+            1718399651,
+            48.7168,
+            2.3073,
+            609,
+            240,
+            false
+        ],
+        [
+            1718399659,
+            48.7143,
+            2.3011,
+            609,
+            238,
+            false
+        ],
+        [
+            1718399674,
+            48.7094,
+            2.2899,
+            914,
+            235,
+            false
+        ],
+        [
+            1718399698,
+            48.7008,
+            2.2712,
+            914,
+            235,
+            false
+        ],
+        [
+            1718399705,
+            48.6976,
+            2.2642,
+            1219,
+            235,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-18:13:39",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718399390,
+    "latitude": null,
+    "longitude": null,
+    "on_ground": true,
+    "origin_country": "Austria",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7604",
+    "time_position": null,
+    "true_track": 56.25,
+    "velocity": 5.14,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 87,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFPO",
+    "estDepartureAirportHorizDistance": 2422,
+    "estDepartureAirportVertDistance": 109,
+    "firstSeen": 1718399619,
+    "lastSeen": 1718399705
+}

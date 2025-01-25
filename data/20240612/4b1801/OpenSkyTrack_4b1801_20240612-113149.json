@@ -1,0 +1,144 @@
+{
+    "callsign": "SWR1047 ",
+    "endTime": "2024/06/12-11:31:54",
+    "icao24": "4b1801",
+    "path": [
+        [
+            1718202535,
+            53.6473,
+            9.9816,
+            0,
+            333,
+            false
+        ],
+        [
+            1718202552,
+            53.6559,
+            9.9741,
+            304,
+            332,
+            false
+        ],
+        [
+            1718202578,
+            53.6697,
+            9.962,
+            609,
+            333,
+            false
+        ],
+        [
+            1718202612,
+            53.6897,
+            9.9449,
+            914,
+            332,
+            false
+        ],
+        [
+            1718202630,
+            53.7026,
+            9.9336,
+            1219,
+            331,
+            false
+        ],
+        [
+            1718202639,
+            53.7091,
+            9.925,
+            1219,
+            315,
+            false
+        ],
+        [
+            1718202648,
+            53.7133,
+            9.9136,
+            1524,
+            293,
+            false
+        ],
+        [
+            1718202657,
+            53.7146,
+            9.9001,
+            1524,
+            271,
+            false
+        ],
+        [
+            1718202665,
+            53.7134,
+            9.887,
+            1524,
+            257,
+            false
+        ],
+        [
+            1718202674,
+            53.7109,
+            9.8723,
+            1828,
+            252,
+            false
+        ],
+        [
+            1718202683,
+            53.7078,
+            9.8574,
+            1828,
+            248,
+            false
+        ],
+        [
+            1718202714,
+            53.7068,
+            9.8535,
+            1828,
+            246,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-11:28:55",
+    "baro_altitude": 1767.84,
+    "category": 0,
+    "geo_altitude": 1798.32,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718202660,
+    "latitude": 53.7144,
+    "longitude": 9.8952,
+    "on_ground": false,
+    "origin_country": "Switzerland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1111",
+    "time_position": 1718202660,
+    "true_track": 264.68,
+    "velocity": 105.4,
+    "vertical_rate": 10.4,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 82,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDDH",
+    "estDepartureAirportHorizDistance": 1883,
+    "estDepartureAirportVertDistance": 220,
+    "firstSeen": 1718202535,
+    "lastSeen": 1718202714
+}

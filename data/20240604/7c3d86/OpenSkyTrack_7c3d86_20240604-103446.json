@@ -1,0 +1,72 @@
+{
+    "callsign": "MFS     ",
+    "endTime": "2024/06/04-10:30:34",
+    "icao24": "7c3d86",
+    "path": [
+        [
+            1717506166,
+            -37.4295,
+            145.0496,
+            609,
+            142,
+            false
+        ],
+        [
+            1717507014,
+            -37.4305,
+            145.0505,
+            609,
+            142,
+            false
+        ],
+        [
+            1717507834,
+            -37.4314,
+            145.0514,
+            609,
+            141,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-10:02:46",
+    "baro_altitude": 731.52,
+    "category": 0,
+    "geo_altitude": 731.52,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504611,
+    "latitude": -37.4287,
+    "longitude": 145.0487,
+    "on_ground": false,
+    "origin_country": "Australia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1200",
+    "time_position": 1717504611,
+    "true_track": 143.13,
+    "velocity": 56.59,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 89,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "YRSY",
+    "estDepartureAirportHorizDistance": 27809,
+    "estDepartureAirportVertDistance": 624,
+    "firstSeen": 1717506166,
+    "lastSeen": 1717507834
+}

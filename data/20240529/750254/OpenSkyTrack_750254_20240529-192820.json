@@ -1,0 +1,120 @@
+{
+    "callsign": "MAS195  ",
+    "endTime": "2024/05/29-18:40:48",
+    "icao24": "750254",
+    "path": [
+        [
+            1717015620,
+            15.1143,
+            76.9589,
+            11277,
+            123,
+            false
+        ],
+        [
+            1717016519,
+            14.0406,
+            78.6013,
+            11277,
+            123,
+            false
+        ],
+        [
+            1717016747,
+            13.7654,
+            79.0119,
+            11277,
+            121,
+            false
+        ],
+        [
+            1717016756,
+            13.7565,
+            79.0274,
+            11277,
+            119,
+            false
+        ],
+        [
+            1717016762,
+            13.7499,
+            79.0399,
+            11277,
+            118,
+            false
+        ],
+        [
+            1717016770,
+            13.7431,
+            79.0533,
+            11277,
+            116,
+            false
+        ],
+        [
+            1717017666,
+            12.934,
+            80.8053,
+            11277,
+            115,
+            false
+        ],
+        [
+            1717018564,
+            12.1222,
+            82.5277,
+            11277,
+            115,
+            false
+        ],
+        [
+            1717018848,
+            11.8654,
+            83.0657,
+            11277,
+            115,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-17:47:00",
+    "baro_altitude": 11277.6,
+    "category": 0,
+    "geo_altitude": 12001.5,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717016382,
+    "latitude": 14.2056,
+    "longitude": 78.3509,
+    "on_ground": false,
+    "origin_country": "Malaysia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717016382,
+    "true_track": 123.93,
+    "velocity": 238.71,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "VOBI",
+    "estDepartureAirportHorizDistance": 8465,
+    "estDepartureAirportVertDistance": 11268,
+    "firstSeen": 1717015620,
+    "lastSeen": 1717018848
+}

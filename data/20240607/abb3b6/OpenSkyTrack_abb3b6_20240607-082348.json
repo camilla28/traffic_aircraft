@@ -1,0 +1,112 @@
+{
+    "callsign": "AAL1547 ",
+    "endTime": "2024/06/07-08:23:52",
+    "icao24": "abb3b6",
+    "path": [
+        [
+            1717759228,
+            32.9086,
+            -97.0299,
+            0,
+            180,
+            false
+        ],
+        [
+            1717759263,
+            32.8834,
+            -97.0301,
+            0,
+            180,
+            false
+        ],
+        [
+            1717759282,
+            32.8683,
+            -97.0301,
+            304,
+            180,
+            false
+        ],
+        [
+            1717759334,
+            32.8214,
+            -97.0304,
+            609,
+            180,
+            false
+        ],
+        [
+            1717759375,
+            32.7761,
+            -97.0307,
+            914,
+            180,
+            false
+        ],
+        [
+            1717759397,
+            32.7502,
+            -97.0306,
+            1219,
+            179,
+            false
+        ],
+        [
+            1717759426,
+            32.7149,
+            -97.0297,
+            1524,
+            176,
+            false
+        ],
+        [
+            1717759432,
+            32.7081,
+            -97.0286,
+            1828,
+            171,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-08:20:28",
+    "baro_altitude": 662.94,
+    "category": 1,
+    "geo_altitude": 662.94,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717759294,
+    "latitude": 32.8589,
+    "longitude": -97.0302,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717759294,
+    "true_track": 180.33,
+    "velocity": 90.54,
+    "vertical_rate": 6.18,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 493,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KDFW",
+    "estDepartureAirportHorizDistance": 1515,
+    "estDepartureAirportVertDistance": 9,
+    "firstSeen": 1717759228,
+    "lastSeen": 1717759432
+}

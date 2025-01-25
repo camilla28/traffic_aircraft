@@ -1,0 +1,112 @@
+{
+    "callsign": "N833JD  ",
+    "endTime": "2024/06/14-13:06:40",
+    "icao24": "ab644b",
+    "path": [
+        [
+            1718379182,
+            34.7765,
+            -102.8003,
+            3352,
+            226,
+            false
+        ],
+        [
+            1718379303,
+            34.7132,
+            -102.8805,
+            3352,
+            226,
+            false
+        ],
+        [
+            1718379311,
+            34.7033,
+            -102.8902,
+            3352,
+            216,
+            false
+        ],
+        [
+            1718380206,
+            34.1535,
+            -103.3891,
+            3352,
+            217,
+            false
+        ],
+        [
+            1718380217,
+            34.1382,
+            -103.4034,
+            3352,
+            221,
+            false
+        ],
+        [
+            1718380227,
+            34.1286,
+            -103.4156,
+            3352,
+            228,
+            false
+        ],
+        [
+            1718381119,
+            33.655,
+            -104.0406,
+            3352,
+            227,
+            false
+        ],
+        [
+            1718381200,
+            33.6124,
+            -104.0965,
+            3352,
+            227,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-12:33:02",
+    "baro_altitude": 3619.5,
+    "category": 0,
+    "geo_altitude": 3832.86,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718380973,
+    "latitude": 33.7328,
+    "longitude": -103.939,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718380973,
+    "true_track": 227.61,
+    "velocity": 87.76,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 2,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "NM15",
+    "estDepartureAirportHorizDistance": 539849,
+    "estDepartureAirportVertDistance": 1917,
+    "firstSeen": 1718379182,
+    "lastSeen": 1718381200
+}

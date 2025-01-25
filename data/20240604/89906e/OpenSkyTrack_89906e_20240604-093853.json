@@ -1,0 +1,120 @@
+{
+    "callsign": "EVA107  ",
+    "endTime": "2024/06/04-09:37:51",
+    "icao24": "89906e",
+    "path": [
+        [
+            1717480771,
+            32.6321,
+            132.1746,
+            10363,
+            236,
+            false
+        ],
+        [
+            1717481078,
+            32.6072,
+            132.131,
+            10363,
+            235,
+            false
+        ],
+        [
+            1717500379,
+            25.7581,
+            122.2566,
+            9144,
+            228,
+            false
+        ],
+        [
+            1717501190,
+            25.737,
+            122.2302,
+            9144,
+            228,
+            false
+        ],
+        [
+            1717501927,
+            25.7156,
+            122.2033,
+            9144,
+            228,
+            false
+        ],
+        [
+            1717502708,
+            25.6878,
+            122.1685,
+            9144,
+            228,
+            false
+        ],
+        [
+            1717503481,
+            25.6667,
+            122.1423,
+            9144,
+            228,
+            false
+        ],
+        [
+            1717504352,
+            25.6413,
+            122.1106,
+            9144,
+            228,
+            false
+        ],
+        [
+            1717504671,
+            25.6335,
+            122.101,
+            9144,
+            228,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-02:59:31",
+    "baro_altitude": 9144,
+    "category": 0,
+    "geo_altitude": 9776.46,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504710,
+    "latitude": 25.6335,
+    "longitude": 122.101,
+    "on_ground": false,
+    "origin_country": "Taiwan",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504671,
+    "true_track": 228.35,
+    "velocity": 236.85,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717480771,
+    "lastSeen": 1717504671
+}

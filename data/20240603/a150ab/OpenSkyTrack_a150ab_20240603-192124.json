@@ -1,0 +1,120 @@
+{
+    "callsign": "N184MR  ",
+    "endTime": "2024/06/03-19:21:21",
+    "icao24": "a150ab",
+    "path": [
+        [
+            1717451711,
+            43.7036,
+            -76.1142,
+            1828,
+            190,
+            false
+        ],
+        [
+            1717451715,
+            43.7012,
+            -76.1148,
+            1828,
+            190,
+            false
+        ],
+        [
+            1717452613,
+            43.0611,
+            -76.2721,
+            2438,
+            190,
+            false
+        ],
+        [
+            1717452646,
+            43.0367,
+            -76.2783,
+            2438,
+            192,
+            false
+        ],
+        [
+            1717452665,
+            43.0229,
+            -76.2829,
+            2438,
+            194,
+            false
+        ],
+        [
+            1717452950,
+            42.8197,
+            -76.3552,
+            2438,
+            192,
+            false
+        ],
+        [
+            1717453027,
+            42.7626,
+            -76.3702,
+            2438,
+            190,
+            false
+        ],
+        [
+            1717453032,
+            42.7589,
+            -76.371,
+            2438,
+            189,
+            false
+        ],
+        [
+            1717453281,
+            42.571,
+            -76.4146,
+            2438,
+            189,
+            false
+        ]
+    ],
+    "startTime": "2024/06/03-18:55:11",
+    "baro_altitude": 2590.8,
+    "category": 0,
+    "geo_altitude": 2628.9,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717452569,
+    "latitude": 43.0935,
+    "longitude": -76.264,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717452569,
+    "true_track": 189.99,
+    "velocity": 83.06,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 196,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "1NY3",
+    "estDepartureAirportHorizDistance": 16509,
+    "estDepartureAirportVertDistance": 1901,
+    "firstSeen": 1717451711,
+    "lastSeen": 1717453281
+}

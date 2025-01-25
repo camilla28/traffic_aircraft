@@ -1,0 +1,96 @@
+{
+    "callsign": "SDM6299 ",
+    "endTime": "2024/06/11-23:52:01",
+    "icao24": "155c2a",
+    "path": [
+        [
+            1718160604,
+            55.8885,
+            37.1542,
+            1524,
+            242,
+            false
+        ],
+        [
+            1718160604,
+            55.8885,
+            37.1542,
+            1524,
+            246,
+            false
+        ],
+        [
+            1718160691,
+            55.6562,
+            36.8717,
+            3048,
+            257,
+            false
+        ],
+        [
+            1718160691,
+            55.6562,
+            36.8717,
+            3048,
+            265,
+            false
+        ],
+        [
+            1718160721,
+            55.9921,
+            37.2273,
+            3352,
+            301,
+            false
+        ],
+        [
+            1718160721,
+            55.9921,
+            37.2273,
+            3352,
+            21,
+            false
+        ]
+    ],
+    "startTime": "2024/06/11-23:50:04",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194215,
+    "latitude": null,
+    "longitude": null,
+    "on_ground": false,
+    "origin_country": "Russian Federation",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": null,
+    "true_track": 83.05,
+    "velocity": 1463.53,
+    "vertical_rate": -11.05,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 14,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "UUEE",
+    "estDepartureAirportHorizDistance": 175360,
+    "estDepartureAirportVertDistance": 1456,
+    "firstSeen": 1718160604,
+    "lastSeen": 1718160721
+}

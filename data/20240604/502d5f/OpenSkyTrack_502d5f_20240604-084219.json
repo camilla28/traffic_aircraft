@@ -1,0 +1,120 @@
+{
+    "callsign": "BTI6B5  ",
+    "endTime": "2024/06/04-08:42:09",
+    "icao24": "502d5f",
+    "path": [
+        [
+            1717495291,
+            48.0555,
+            18.0703,
+            11582,
+            203,
+            false
+        ],
+        [
+            1717496188,
+            47.9801,
+            18.0227,
+            11582,
+            202,
+            false
+        ],
+        [
+            1717497001,
+            47.8994,
+            17.9718,
+            11582,
+            203,
+            false
+        ],
+        [
+            1717497810,
+            47.8162,
+            17.9195,
+            11582,
+            202,
+            false
+        ],
+        [
+            1717498688,
+            47.7411,
+            17.8725,
+            11582,
+            202,
+            false
+        ],
+        [
+            1717499529,
+            47.6695,
+            17.8279,
+            11582,
+            202,
+            false
+        ],
+        [
+            1717500370,
+            47.5678,
+            17.7646,
+            11582,
+            202,
+            false
+        ],
+        [
+            1717501250,
+            47.4766,
+            17.7081,
+            11582,
+            202,
+            false
+        ],
+        [
+            1717501329,
+            47.4757,
+            17.7076,
+            11582,
+            203,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:01:31",
+    "baro_altitude": 11582.4,
+    "category": 0,
+    "geo_altitude": 11780.52,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500025,
+    "latitude": 47.6052,
+    "longitude": 17.7878,
+    "on_ground": false,
+    "origin_country": "Latvia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1717500020,
+    "true_track": 203.38,
+    "velocity": 219.13,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LZSY",
+    "estDepartureAirportHorizDistance": 31905,
+    "estDepartureAirportVertDistance": 11465,
+    "firstSeen": 1717495291,
+    "lastSeen": 1717501329
+}

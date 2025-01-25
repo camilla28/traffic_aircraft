@@ -1,0 +1,112 @@
+{
+    "callsign": "MBU6633 ",
+    "endTime": "2024/06/12-14:37:16",
+    "icao24": "452113",
+    "path": [
+        [
+            1718213358,
+            39.726,
+            19.7287,
+            1828,
+            313,
+            false
+        ],
+        [
+            1718213376,
+            39.742,
+            19.7069,
+            1828,
+            313,
+            false
+        ],
+        [
+            1718213397,
+            39.7608,
+            19.6809,
+            2133,
+            312,
+            false
+        ],
+        [
+            1718213421,
+            39.7818,
+            19.6517,
+            2438,
+            312,
+            false
+        ],
+        [
+            1718213436,
+            39.795,
+            19.6334,
+            2743,
+            312,
+            false
+        ],
+        [
+            1718213449,
+            39.8056,
+            19.6186,
+            3048,
+            313,
+            false
+        ],
+        [
+            1718213823,
+            40.2334,
+            19.0602,
+            6400,
+            331,
+            false
+        ],
+        [
+            1718213836,
+            40.2549,
+            19.0449,
+            6400,
+            331,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-14:29:18",
+    "baro_altitude": 10668,
+    "category": 0,
+    "geo_altitude": 10980.42,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204674,
+    "latitude": 45.9713,
+    "longitude": 16.2036,
+    "on_ground": false,
+    "origin_country": "Bulgaria",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "4536",
+    "time_position": 1718204674,
+    "true_track": 154.12,
+    "velocity": 231,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 11,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LGKR",
+    "estDepartureAirportHorizDistance": 20557,
+    "estDepartureAirportVertDistance": 1849,
+    "firstSeen": 1718213358,
+    "lastSeen": 1718213836
+}

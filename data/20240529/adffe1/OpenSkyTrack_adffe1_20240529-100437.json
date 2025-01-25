@@ -1,0 +1,160 @@
+{
+    "callsign": "STEER32 ",
+    "endTime": "2024/05/29-10:04:32",
+    "icao24": "adffe1",
+    "path": [
+        [
+            1716987571,
+            29.5007,
+            -100.7484,
+            3657,
+            358,
+            false
+        ],
+        [
+            1716987578,
+            29.5152,
+            -100.7498,
+            3657,
+            355,
+            false
+        ],
+        [
+            1716987585,
+            29.5297,
+            -100.7511,
+            3657,
+            355,
+            false
+        ],
+        [
+            1716987592,
+            29.5428,
+            -100.7511,
+            3657,
+            4,
+            false
+        ],
+        [
+            1716987599,
+            29.5573,
+            -100.7492,
+            3962,
+            6,
+            false
+        ],
+        [
+            1716987607,
+            29.5727,
+            -100.7469,
+            3962,
+            8,
+            false
+        ],
+        [
+            1716987621,
+            29.598,
+            -100.7416,
+            4267,
+            10,
+            false
+        ],
+        [
+            1716987628,
+            29.6122,
+            -100.739,
+            4572,
+            8,
+            false
+        ],
+        [
+            1716987642,
+            29.6387,
+            -100.735,
+            4572,
+            6,
+            false
+        ],
+        [
+            1716987673,
+            29.6994,
+            -100.727,
+            4876,
+            6,
+            false
+        ],
+        [
+            1716987697,
+            29.7498,
+            -100.7206,
+            5181,
+            6,
+            false
+        ],
+        [
+            1716987754,
+            29.8642,
+            -100.7071,
+            4876,
+            7,
+            false
+        ],
+        [
+            1716987774,
+            29.9056,
+            -100.7013,
+            5181,
+            7,
+            false
+        ],
+        [
+            1716987872,
+            30.1234,
+            -100.6734,
+            4876,
+            5,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-09:59:31",
+    "baro_altitude": 3870.96,
+    "category": 13,
+    "geo_altitude": 4008.12,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716987586,
+    "latitude": 29.5318,
+    "longitude": -100.7513,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1716987586,
+    "true_track": 355.15,
+    "velocity": 218.91,
+    "vertical_rate": 5.2,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 2,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "23TS",
+    "estDepartureAirportHorizDistance": 8734,
+    "estDepartureAirportVertDistance": 3433,
+    "firstSeen": 1716987571,
+    "lastSeen": 1716987872
+}

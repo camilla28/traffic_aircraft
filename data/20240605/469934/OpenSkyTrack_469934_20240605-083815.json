@@ -1,0 +1,72 @@
+{
+    "callsign": "SEH4JT  ",
+    "endTime": "2024/06/05-07:20:16",
+    "icao24": "469934",
+    "path": [
+        [
+            1717582682,
+            37.57,
+            24.3983,
+            3048,
+            144,
+            false
+        ],
+        [
+            1717582742,
+            37.5214,
+            24.4415,
+            3048,
+            144,
+            false
+        ],
+        [
+            1717582816,
+            37.4548,
+            24.5007,
+            3352,
+            144,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-07:18:02",
+    "baro_altitude": 3352.8,
+    "category": 0,
+    "geo_altitude": 3573.78,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717582817,
+    "latitude": 37.4548,
+    "longitude": 24.5007,
+    "on_ground": false,
+    "origin_country": "Greece",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1461",
+    "time_position": 1717582816,
+    "true_track": 144.7,
+    "velocity": 131.75,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717582682,
+    "lastSeen": 1717582816
+}

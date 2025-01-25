@@ -1,0 +1,104 @@
+{
+    "callsign": "QTR99N  ",
+    "endTime": "2024/06/04-08:23:58",
+    "icao24": "06a2b7",
+    "path": [
+        [
+            1717495507,
+            46.9021,
+            -67.9278,
+            9448,
+            41,
+            false
+        ],
+        [
+            1717496351,
+            46.9464,
+            -67.8702,
+            9448,
+            41,
+            false
+        ],
+        [
+            1717497238,
+            47.0134,
+            -67.7823,
+            9448,
+            41,
+            false
+        ],
+        [
+            1717498114,
+            47.0452,
+            -67.7403,
+            9448,
+            42,
+            false
+        ],
+        [
+            1717498978,
+            47.0805,
+            -67.6937,
+            9448,
+            42,
+            false
+        ],
+        [
+            1717499828,
+            47.1093,
+            -67.6555,
+            9448,
+            42,
+            false
+        ],
+        [
+            1717500238,
+            47.1242,
+            -67.6358,
+            9448,
+            42,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:05:07",
+    "baro_altitude": 9448.8,
+    "category": 0,
+    "geo_altitude": 9715.5,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499967,
+    "latitude": 47.1177,
+    "longitude": -67.6444,
+    "on_ground": false,
+    "origin_country": "Qatar",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499967,
+    "true_track": 42.17,
+    "velocity": 242.93,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "ME16",
+    "estDepartureAirportHorizDistance": 9955,
+    "estDepartureAirportVertDistance": 9221,
+    "firstSeen": 1717495507,
+    "lastSeen": 1717500238
+}

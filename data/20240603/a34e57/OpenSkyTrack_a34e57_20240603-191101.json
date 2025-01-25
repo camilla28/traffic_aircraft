@@ -1,0 +1,112 @@
+{
+    "callsign": "N312AZ  ",
+    "endTime": "2024/06/03-19:09:13",
+    "icao24": "a34e57",
+    "path": [
+        [
+            1717451958,
+            39.5574,
+            -83.2453,
+            1219,
+            3,
+            false
+        ],
+        [
+            1717452214,
+            39.7305,
+            -83.2336,
+            1219,
+            1,
+            false
+        ],
+        [
+            1717452222,
+            39.7351,
+            -83.234,
+            1219,
+            352,
+            false
+        ],
+        [
+            1717452266,
+            39.7648,
+            -83.2391,
+            1219,
+            352,
+            false
+        ],
+        [
+            1717452378,
+            39.8447,
+            -83.2512,
+            914,
+            352,
+            false
+        ],
+        [
+            1717452384,
+            39.8489,
+            -83.2518,
+            914,
+            358,
+            false
+        ],
+        [
+            1717452384,
+            39.8489,
+            -83.2518,
+            914,
+            2,
+            false
+        ],
+        [
+            1717452553,
+            39.9635,
+            -83.2444,
+            914,
+            2,
+            false
+        ]
+    ],
+    "startTime": "2024/06/03-18:59:18",
+    "baro_altitude": 922.02,
+    "category": 0,
+    "geo_altitude": 914.4,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717452555,
+    "latitude": 39.9635,
+    "longitude": -83.2444,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717452553,
+    "true_track": 2.32,
+    "velocity": 76.2,
+    "vertical_rate": -0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 375,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KI23",
+    "estDepartureAirportHorizDistance": 15067,
+    "estDepartureAirportVertDistance": 935,
+    "firstSeen": 1717451958,
+    "lastSeen": 1717452553
+}

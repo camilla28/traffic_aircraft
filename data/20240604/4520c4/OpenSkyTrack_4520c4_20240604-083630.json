@@ -1,0 +1,72 @@
+{
+    "callsign": "BCS3TW  ",
+    "endTime": "2024/06/04-08:36:21",
+    "icao24": "4520c4",
+    "path": [
+        [
+            1717500016,
+            51.6995,
+            -2.2667,
+            10058,
+            103,
+            false
+        ],
+        [
+            1717500870,
+            51.6973,
+            -2.2525,
+            10058,
+            104,
+            false
+        ],
+        [
+            1717500981,
+            51.6968,
+            -2.2489,
+            10058,
+            103,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:20:16",
+    "baro_altitude": 10066.02,
+    "category": 0,
+    "geo_altitude": 10271.76,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500025,
+    "latitude": 51.6995,
+    "longitude": -2.2667,
+    "on_ground": false,
+    "origin_country": "Bulgaria",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1170",
+    "time_position": 1717500016,
+    "true_track": 103.81,
+    "velocity": 247.92,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EGBP",
+    "estDepartureAirportHorizDistance": 233009,
+    "estDepartureAirportVertDistance": 9934,
+    "firstSeen": 1717500016,
+    "lastSeen": 1717500981
+}

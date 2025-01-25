@@ -1,0 +1,104 @@
+{
+    "callsign": "ANA741  ",
+    "endTime": "2024/06/04-09:00:30",
+    "icao24": "84b7b6",
+    "path": [
+        [
+            1717498030,
+            35.7868,
+            139.8244,
+            3352,
+            22,
+            false
+        ],
+        [
+            1717498756,
+            35.7931,
+            139.8277,
+            3352,
+            24,
+            false
+        ],
+        [
+            1717499583,
+            35.8022,
+            139.8328,
+            3352,
+            24,
+            false
+        ],
+        [
+            1717500470,
+            35.8128,
+            139.8387,
+            3352,
+            24,
+            false
+        ],
+        [
+            1717501350,
+            35.8235,
+            139.8447,
+            3352,
+            24,
+            false
+        ],
+        [
+            1717502249,
+            35.8354,
+            139.8512,
+            3352,
+            23,
+            false
+        ],
+        [
+            1717502430,
+            35.8354,
+            139.8512,
+            3352,
+            23,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:47:10",
+    "baro_altitude": 3528.06,
+    "category": 0,
+    "geo_altitude": 3611.88,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500027,
+    "latitude": 35.8071,
+    "longitude": 139.8355,
+    "on_ground": false,
+    "origin_country": "Japan",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2172",
+    "time_position": 1717500027,
+    "true_track": 24.56,
+    "velocity": 170.81,
+    "vertical_rate": 6.18,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717498030,
+    "lastSeen": 1717502430
+}

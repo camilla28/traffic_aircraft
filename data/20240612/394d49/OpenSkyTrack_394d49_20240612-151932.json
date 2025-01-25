@@ -1,0 +1,112 @@
+{
+    "callsign": "TJT58CB ",
+    "endTime": "2024/06/12-15:19:39",
+    "icao24": "394d49",
+    "path": [
+        [
+            1718216273,
+            45.6266,
+            8.724,
+            304,
+            350,
+            false
+        ],
+        [
+            1718216290,
+            45.638,
+            8.7212,
+            304,
+            348,
+            false
+        ],
+        [
+            1718216297,
+            45.6421,
+            8.7191,
+            304,
+            327,
+            false
+        ],
+        [
+            1718216297,
+            45.6421,
+            8.7191,
+            304,
+            327,
+            false
+        ],
+        [
+            1718216328,
+            45.6431,
+            8.7181,
+            609,
+            321,
+            false
+        ],
+        [
+            1718216337,
+            45.6481,
+            8.6842,
+            914,
+            278,
+            false
+        ],
+        [
+            1718216345,
+            45.6495,
+            8.6742,
+            914,
+            282,
+            false
+        ],
+        [
+            1718216379,
+            45.655,
+            8.6397,
+            1219,
+            284,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-15:17:53",
+    "baro_altitude": 7315.2,
+    "category": 0,
+    "geo_altitude": 7536.18,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204675,
+    "latitude": 44.6727,
+    "longitude": 9.7866,
+    "on_ground": false,
+    "origin_country": "France",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1718204675,
+    "true_track": 272.41,
+    "velocity": 122.55,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 70,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LIMC",
+    "estDepartureAirportHorizDistance": 492,
+    "estDepartureAirportVertDistance": 70,
+    "firstSeen": 1718216273,
+    "lastSeen": 1718216379
+}

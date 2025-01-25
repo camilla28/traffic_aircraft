@@ -1,0 +1,136 @@
+{
+    "callsign": null,
+    "endTime": "2024/06/04-09:41:36",
+    "icao24": "c0532c",
+    "path": [
+        [
+            1717502354,
+            50.9255,
+            1.2879,
+            914,
+            279,
+            false
+        ],
+        [
+            1717502354,
+            50.9255,
+            1.2879,
+            914,
+            283,
+            false
+        ],
+        [
+            1717502495,
+            50.927,
+            1.2779,
+            914,
+            285,
+            false
+        ],
+        [
+            1717502495,
+            50.927,
+            1.2779,
+            914,
+            287,
+            false
+        ],
+        [
+            1717502765,
+            50.9288,
+            1.2702,
+            914,
+            287,
+            false
+        ],
+        [
+            1717502765,
+            50.9288,
+            1.2702,
+            914,
+            294,
+            false
+        ],
+        [
+            1717503075,
+            50.9337,
+            1.2543,
+            914,
+            296,
+            false
+        ],
+        [
+            1717503549,
+            50.9387,
+            1.2394,
+            914,
+            297,
+            false
+        ],
+        [
+            1717503549,
+            50.9387,
+            1.2394,
+            914,
+            57,
+            false
+        ],
+        [
+            1717504432,
+            51.0152,
+            1.4556,
+            914,
+            56,
+            false
+        ],
+        [
+            1717504896,
+            51.0259,
+            1.4814,
+            914,
+            56,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:59:14",
+    "baro_altitude": 1059.18,
+    "category": 0,
+    "geo_altitude": 1127.76,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504636,
+    "latitude": 51.0192,
+    "longitude": 1.4653,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504636,
+    "true_track": 56.75,
+    "velocity": 92.89,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 86,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EGMD",
+    "estDepartureAirportHorizDistance": 26032,
+    "estDepartureAirportVertDistance": 1047,
+    "firstSeen": 1717502354,
+    "lastSeen": 1717504896
+}

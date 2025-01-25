@@ -1,0 +1,72 @@
+{
+    "callsign": "RYR67ZZ ",
+    "endTime": "2024/06/07-11:44:53",
+    "icao24": "4cad11",
+    "path": [
+        [
+            1717771418,
+            40.4496,
+            -3.5402,
+            914,
+            143,
+            false
+        ],
+        [
+            1717771445,
+            40.4321,
+            -3.5226,
+            1219,
+            143,
+            false
+        ],
+        [
+            1717771493,
+            40.3997,
+            -3.4898,
+            1524,
+            143,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-11:43:38",
+    "baro_altitude": 160.02,
+    "category": 0,
+    "geo_altitude": 213.36,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762944,
+    "latitude": 37.0183,
+    "longitude": -7.9913,
+    "on_ground": false,
+    "origin_country": "Ireland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717762943,
+    "true_track": 282.07,
+    "velocity": 83.65,
+    "vertical_rate": 9.43,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 30,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LEMD",
+    "estDepartureAirportHorizDistance": 2669,
+    "estDepartureAirportVertDistance": 488,
+    "firstSeen": 1717771418,
+    "lastSeen": 1717771493
+}

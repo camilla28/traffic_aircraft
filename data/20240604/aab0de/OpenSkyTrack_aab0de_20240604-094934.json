@@ -1,0 +1,96 @@
+{
+    "callsign": "SWA1041 ",
+    "endTime": "2024/06/04-09:48:46",
+    "icao24": "aab0de",
+    "path": [
+        [
+            1717503077,
+            33.037,
+            -112.4383,
+            10972,
+            288,
+            false
+        ],
+        [
+            1717503700,
+            33.0386,
+            -112.4442,
+            10972,
+            287,
+            false
+        ],
+        [
+            1717504275,
+            34.4632,
+            -118.0736,
+            12192,
+            315,
+            false
+        ],
+        [
+            1717504290,
+            34.4632,
+            -118.0736,
+            12192,
+            315,
+            false
+        ],
+        [
+            1717505170,
+            34.532,
+            -118.1566,
+            12192,
+            315,
+            false
+        ],
+        [
+            1717505326,
+            34.5335,
+            -118.1584,
+            12192,
+            315,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:11:17",
+    "baro_altitude": 12192,
+    "category": 0,
+    "geo_altitude": 12816.84,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504646,
+    "latitude": 34.4873,
+    "longitude": -118.1027,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504646,
+    "true_track": 314.9,
+    "velocity": 212.8,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "AZ13",
+    "estDepartureAirportHorizDistance": 14716,
+    "estDepartureAirportVertDistance": 10543,
+    "firstSeen": 1717503077,
+    "lastSeen": 1717505326
+}

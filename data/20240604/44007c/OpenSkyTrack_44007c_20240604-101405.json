@@ -1,0 +1,72 @@
+{
+    "callsign": "AUA66   ",
+    "endTime": "2024/06/04-10:03:38",
+    "icao24": "44007c",
+    "path": [
+        [
+            1717504428,
+            54.1859,
+            1.2144,
+            11887,
+            118,
+            false
+        ],
+        [
+            1717505323,
+            54.1714,
+            1.26,
+            11887,
+            118,
+            false
+        ],
+        [
+            1717506218,
+            54.1922,
+            1.1946,
+            11887,
+            118,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:33:48",
+    "baro_altitude": 11887.2,
+    "category": 0,
+    "geo_altitude": 12047.22,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504671,
+    "latitude": 54.1822,
+    "longitude": 1.2261,
+    "on_ground": false,
+    "origin_country": "Austria",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504670,
+    "true_track": 118.53,
+    "velocity": 268.19,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717504428,
+    "lastSeen": 1717506218
+}

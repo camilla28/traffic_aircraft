@@ -1,0 +1,96 @@
+{
+    "callsign": "FIAMM03 ",
+    "endTime": "2024/06/04-10:37:17",
+    "icao24": "33fce7",
+    "path": [
+        [
+            1717504355,
+            45.0845,
+            9.2245,
+            304,
+            156,
+            false
+        ],
+        [
+            1717505247,
+            45.0611,
+            9.2384,
+            304,
+            157,
+            false
+        ],
+        [
+            1717506095,
+            45.0432,
+            9.2491,
+            304,
+            157,
+            false
+        ],
+        [
+            1717506904,
+            45.0264,
+            9.2591,
+            304,
+            156,
+            false
+        ],
+        [
+            1717507609,
+            45.0109,
+            9.2683,
+            304,
+            157,
+            false
+        ],
+        [
+            1717508237,
+            44.9993,
+            9.2752,
+            304,
+            156,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:32:35",
+    "baro_altitude": 441.96,
+    "category": 0,
+    "geo_altitude": 502.92,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504683,
+    "latitude": 45.0791,
+    "longitude": 9.2278,
+    "on_ground": false,
+    "origin_country": "Italy",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504683,
+    "true_track": 157.86,
+    "velocity": 65.53,
+    "vertical_rate": 1.63,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 47,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LILH",
+    "estDepartureAirportHorizDistance": 22001,
+    "estDepartureAirportVertDistance": 305,
+    "firstSeen": 1717504355,
+    "lastSeen": 1717508237
+}

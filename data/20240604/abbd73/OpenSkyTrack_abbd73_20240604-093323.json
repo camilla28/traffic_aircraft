@@ -1,0 +1,104 @@
+{
+    "callsign": "SWA364  ",
+    "endTime": "2024/06/04-08:53:28",
+    "icao24": "abbd73",
+    "path": [
+        [
+            1717498221,
+            30.7061,
+            -93.004,
+            9144,
+            260,
+            false
+        ],
+        [
+            1717499083,
+            30.6996,
+            -93.047,
+            9144,
+            259,
+            false
+        ],
+        [
+            1717499255,
+            30.7001,
+            -93.0436,
+            9144,
+            259,
+            false
+        ],
+        [
+            1717500153,
+            30.6907,
+            -93.1039,
+            9144,
+            259,
+            false
+        ],
+        [
+            1717500451,
+            30.689,
+            -93.115,
+            9144,
+            259,
+            false
+        ],
+        [
+            1717501534,
+            30.6809,
+            -93.1667,
+            9144,
+            259,
+            false
+        ],
+        [
+            1717502008,
+            30.6765,
+            -93.195,
+            9144,
+            259,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:50:21",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500028,
+    "latitude": null,
+    "longitude": null,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": null,
+    "true_track": 259.68,
+    "velocity": 221.19,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "44LA",
+    "estDepartureAirportHorizDistance": 9286,
+    "estDepartureAirportVertDistance": 9110,
+    "firstSeen": 1717498221,
+    "lastSeen": 1717502008
+}

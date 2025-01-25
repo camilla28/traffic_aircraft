@@ -1,0 +1,80 @@
+{
+    "callsign": "EJU58LP ",
+    "endTime": "2024/06/04-09:40:25",
+    "icao24": "440daf",
+    "path": [
+        [
+            1717502934,
+            48.0196,
+            13.5948,
+            9753,
+            27,
+            false
+        ],
+        [
+            1717503831,
+            48.0509,
+            13.6193,
+            9753,
+            27,
+            false
+        ],
+        [
+            1717504659,
+            48.0769,
+            13.6396,
+            9753,
+            27,
+            false
+        ],
+        [
+            1717504825,
+            48.0843,
+            13.6454,
+            9753,
+            27,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:08:54",
+    "baro_altitude": 9761.22,
+    "category": 0,
+    "geo_altitude": 9974.58,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504669,
+    "latitude": 48.0769,
+    "longitude": 13.6396,
+    "on_ground": false,
+    "origin_country": "Austria",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1717504659,
+    "true_track": 27.61,
+    "velocity": 226.42,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717502934,
+    "lastSeen": 1717504825
+}

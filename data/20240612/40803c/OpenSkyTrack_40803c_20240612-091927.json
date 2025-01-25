@@ -1,0 +1,80 @@
+{
+    "callsign": "EXS11KE ",
+    "endTime": "2024/06/12-09:19:34",
+    "icao24": "40803c",
+    "path": [
+        [
+            1718192805,
+            35.484,
+            -9.9488,
+            10972,
+            29,
+            false
+        ],
+        [
+            1718193701,
+            37.1551,
+            -8.7687,
+            10972,
+            30,
+            false
+        ],
+        [
+            1718194596,
+            38.7607,
+            -7.5761,
+            10972,
+            30,
+            false
+        ],
+        [
+            1718194774,
+            39.0671,
+            -7.341,
+            10972,
+            31,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-08:46:45",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": 11369.04,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194259,
+    "latitude": 38.1649,
+    "longitude": -8.0255,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "6241",
+    "time_position": 1718194259,
+    "true_track": 30.52,
+    "velocity": 229.92,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1718192805,
+    "lastSeen": 1718194774
+}

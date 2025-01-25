@@ -1,0 +1,208 @@
+{
+    "callsign": "SAS1273 ",
+    "endTime": "2024/06/14-18:54:52",
+    "icao24": "5110e8",
+    "path": [
+        [
+            1718401504,
+            55.5977,
+            12.6121,
+            0,
+            219,
+            false
+        ],
+        [
+            1718401519,
+            55.5901,
+            12.601,
+            0,
+            220,
+            false
+        ],
+        [
+            1718401563,
+            55.5661,
+            12.5638,
+            304,
+            221,
+            false
+        ],
+        [
+            1718401571,
+            55.5617,
+            12.556,
+            609,
+            230,
+            false
+        ],
+        [
+            1718401578,
+            55.5587,
+            12.5477,
+            609,
+            244,
+            false
+        ],
+        [
+            1718401586,
+            55.5568,
+            12.5369,
+            609,
+            258,
+            false
+        ],
+        [
+            1718401594,
+            55.5567,
+            12.525,
+            609,
+            276,
+            false
+        ],
+        [
+            1718401601,
+            55.5585,
+            12.5148,
+            609,
+            294,
+            false
+        ],
+        [
+            1718401608,
+            55.5615,
+            12.505,
+            609,
+            300,
+            false
+        ],
+        [
+            1718401615,
+            55.5652,
+            12.4948,
+            609,
+            303,
+            false
+        ],
+        [
+            1718401652,
+            55.5838,
+            12.4462,
+            914,
+            303,
+            false
+        ],
+        [
+            1718401695,
+            55.6054,
+            12.387,
+            1219,
+            302,
+            false
+        ],
+        [
+            1718401741,
+            55.6285,
+            12.3237,
+            1524,
+            302,
+            false
+        ],
+        [
+            1718401793,
+            55.6551,
+            12.2507,
+            1828,
+            302,
+            false
+        ],
+        [
+            1718401832,
+            55.6751,
+            12.1957,
+            2133,
+            302,
+            false
+        ],
+        [
+            1718401880,
+            55.6988,
+            12.1312,
+            2438,
+            302,
+            false
+        ],
+        [
+            1718401939,
+            55.7277,
+            12.0502,
+            2743,
+            302,
+            false
+        ],
+        [
+            1718402003,
+            55.7452,
+            12.0019,
+            3048,
+            302,
+            false
+        ],
+        [
+            1718402065,
+            55.7917,
+            11.8721,
+            3352,
+            302,
+            false
+        ],
+        [
+            1718402092,
+            55.8057,
+            11.833,
+            3657,
+            302,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-18:45:04",
+    "baro_altitude": 1684.02,
+    "category": 0,
+    "geo_altitude": 1706.88,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718401725,
+    "latitude": 55.6205,
+    "longitude": 12.3458,
+    "on_ground": false,
+    "origin_country": "Estonia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0206",
+    "time_position": 1718401725,
+    "true_track": 302.75,
+    "velocity": 104.6,
+    "vertical_rate": 6.83,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 48,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EKCH",
+    "estDepartureAirportHorizDistance": 3554,
+    "estDepartureAirportVertDistance": 215,
+    "firstSeen": 1718401504,
+    "lastSeen": 1718402092
+}

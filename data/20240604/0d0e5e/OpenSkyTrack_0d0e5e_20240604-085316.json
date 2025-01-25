@@ -1,0 +1,112 @@
+{
+    "callsign": "VIV1137 ",
+    "endTime": "2024/06/04-08:32:42",
+    "icao24": "0d0e5e",
+    "path": [
+        [
+            1717496049,
+            19.6081,
+            -98.5608,
+            3962,
+            264,
+            false
+        ],
+        [
+            1717496847,
+            19.6065,
+            -98.5806,
+            3962,
+            265,
+            false
+        ],
+        [
+            1717497684,
+            19.6049,
+            -98.6007,
+            3962,
+            265,
+            false
+        ],
+        [
+            1717498000,
+            19.6046,
+            -98.6043,
+            3962,
+            265,
+            false
+        ],
+        [
+            1717498883,
+            19.6032,
+            -98.6223,
+            3657,
+            265,
+            false
+        ],
+        [
+            1717499707,
+            19.6024,
+            -98.6328,
+            3657,
+            265,
+            false
+        ],
+        [
+            1717500444,
+            19.6014,
+            -98.646,
+            3657,
+            265,
+            false
+        ],
+        [
+            1717500762,
+            19.6008,
+            -98.6547,
+            3657,
+            265,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:14:09",
+    "baro_altitude": 3802.38,
+    "category": 0,
+    "geo_altitude": 4046.22,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499980,
+    "latitude": 19.6021,
+    "longitude": -98.6378,
+    "on_ground": false,
+    "origin_country": "Mexico",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499967,
+    "true_track": 265.46,
+    "velocity": 130.05,
+    "vertical_rate": -6.5,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 4,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "MMTA",
+    "estDepartureAirportHorizDistance": 41325,
+    "estDepartureAirportVertDistance": 1759,
+    "firstSeen": 1717496049,
+    "lastSeen": 1717500762
+}

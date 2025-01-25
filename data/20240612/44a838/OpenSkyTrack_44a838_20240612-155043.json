@@ -1,0 +1,80 @@
+{
+    "callsign": "JAF3KJ  ",
+    "endTime": "2024/06/12-15:45:35",
+    "icao24": "44a838",
+    "path": [
+        [
+            1718216627,
+            31.3849,
+            -14.4668,
+            10972,
+            31,
+            false
+        ],
+        [
+            1718216805,
+            31.723,
+            -14.2209,
+            10972,
+            32,
+            false
+        ],
+        [
+            1718217700,
+            33.3811,
+            -12.984,
+            10972,
+            32,
+            false
+        ],
+        [
+            1718217935,
+            33.8146,
+            -12.6509,
+            10972,
+            32,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-15:23:47",
+    "baro_altitude": 11277.6,
+    "category": 0,
+    "geo_altitude": 11719.56,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204674,
+    "latitude": 37.881,
+    "longitude": -12.4081,
+    "on_ground": false,
+    "origin_country": "Belgium",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7123",
+    "time_position": 1718204402,
+    "true_track": 208.78,
+    "velocity": 238.3,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1718216627,
+    "lastSeen": 1718217935
+}

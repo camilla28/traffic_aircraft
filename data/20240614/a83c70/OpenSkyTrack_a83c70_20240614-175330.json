@@ -1,0 +1,80 @@
+{
+    "callsign": "N63LU   ",
+    "endTime": "2024/06/14-17:50:49",
+    "icao24": "a83c70",
+    "path": [
+        [
+            1718397795,
+            28.0105,
+            -82.1553,
+            304,
+            273,
+            false
+        ],
+        [
+            1718397795,
+            28.0105,
+            -82.1553,
+            304,
+            273,
+            false
+        ],
+        [
+            1718398007,
+            28.0101,
+            -82.1432,
+            304,
+            301,
+            false
+        ],
+        [
+            1718398249,
+            28.0105,
+            -82.1431,
+            304,
+            301,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-17:43:15",
+    "baro_altitude": 365.76,
+    "category": 0,
+    "geo_altitude": 350.52,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718396744,
+    "latitude": 28.0124,
+    "longitude": -82.1581,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718396744,
+    "true_track": 271.3,
+    "velocity": 45.28,
+    "vertical_rate": -1.63,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 298,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KPCM",
+    "estDepartureAirportHorizDistance": 1219,
+    "estDepartureAirportVertDistance": 288,
+    "firstSeen": 1718397795,
+    "lastSeen": 1718398249
+}

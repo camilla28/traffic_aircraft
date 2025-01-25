@@ -1,0 +1,128 @@
+{
+    "callsign": "CSZ9847 ",
+    "endTime": "2024/06/05-07:26:56",
+    "icao24": "7809d9",
+    "path": [
+        [
+            1717582811,
+            22.5426,
+            113.9907,
+            2133,
+            57,
+            false
+        ],
+        [
+            1717582821,
+            22.5502,
+            114.0034,
+            2133,
+            57,
+            false
+        ],
+        [
+            1717582842,
+            22.5661,
+            114.0302,
+            2438,
+            57,
+            false
+        ],
+        [
+            1717582865,
+            22.5838,
+            114.0602,
+            2743,
+            57,
+            false
+        ],
+        [
+            1717582897,
+            22.6083,
+            114.1012,
+            3048,
+            56,
+            false
+        ],
+        [
+            1717582933,
+            22.6394,
+            114.151,
+            3352,
+            55,
+            false
+        ],
+        [
+            1717582933,
+            22.6394,
+            114.151,
+            3657,
+            55,
+            false
+        ],
+        [
+            1717583087,
+            22.7873,
+            114.3872,
+            4267,
+            56,
+            false
+        ],
+        [
+            1717583087,
+            22.7873,
+            114.3872,
+            4572,
+            56,
+            false
+        ],
+        [
+            1717583216,
+            22.9122,
+            114.5908,
+            5181,
+            56,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-07:20:11",
+    "baro_altitude": 3695.7,
+    "category": 0,
+    "geo_altitude": 3741.42,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717582976,
+    "latitude": 22.6394,
+    "longitude": 114.151,
+    "on_ground": false,
+    "origin_country": "China",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3152",
+    "time_position": 1717582933,
+    "true_track": 55.89,
+    "velocity": 175.22,
+    "vertical_rate": 3.58,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "VHSK",
+    "estDepartureAirportHorizDistance": 15313,
+    "estDepartureAirportVertDistance": 2278,
+    "firstSeen": 1717582811,
+    "lastSeen": 1717583216
+}

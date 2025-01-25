@@ -1,0 +1,80 @@
+{
+    "callsign": "OKPHO   ",
+    "endTime": "2024/06/04-09:02:40",
+    "icao24": "49d387",
+    "path": [
+        [
+            1717500000,
+            50.9998,
+            6.3378,
+            13106,
+            126,
+            false
+        ],
+        [
+            1717500842,
+            50.9724,
+            6.3974,
+            13106,
+            126,
+            false
+        ],
+        [
+            1717501737,
+            50.9397,
+            6.4683,
+            13106,
+            125,
+            false
+        ],
+        [
+            1717502560,
+            50.906,
+            6.5412,
+            13106,
+            126,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:20:00",
+    "baro_altitude": 13106.4,
+    "category": 0,
+    "geo_altitude": 13350.24,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500024,
+    "latitude": 50.9993,
+    "longitude": 6.3388,
+    "on_ground": false,
+    "origin_country": "Czech Republic",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717500014,
+    "true_track": 126.01,
+    "velocity": 225.76,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717500000,
+    "lastSeen": 1717502560
+}

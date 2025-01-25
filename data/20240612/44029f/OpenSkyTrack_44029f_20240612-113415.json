@@ -1,0 +1,128 @@
+{
+    "callsign": "AUA653  ",
+    "endTime": "2024/06/12-11:34:22",
+    "icao24": "44029f",
+    "path": [
+        [
+            1718202768,
+            48.1122,
+            16.566,
+            0,
+            295,
+            false
+        ],
+        [
+            1718202793,
+            48.1196,
+            16.5436,
+            0,
+            295,
+            false
+        ],
+        [
+            1718202802,
+            48.1223,
+            16.5338,
+            304,
+            284,
+            false
+        ],
+        [
+            1718202811,
+            48.1224,
+            16.5244,
+            304,
+            261,
+            false
+        ],
+        [
+            1718202819,
+            48.1204,
+            16.5158,
+            304,
+            242,
+            false
+        ],
+        [
+            1718202828,
+            48.1155,
+            16.5074,
+            609,
+            222,
+            false
+        ],
+        [
+            1718202836,
+            48.1102,
+            16.5008,
+            609,
+            216,
+            false
+        ],
+        [
+            1718202845,
+            48.1031,
+            16.4939,
+            609,
+            211,
+            false
+        ],
+        [
+            1718202853,
+            48.0964,
+            16.488,
+            609,
+            209,
+            false
+        ],
+        [
+            1718202862,
+            48.0882,
+            16.4812,
+            609,
+            208,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-11:32:48",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718202659,
+    "latitude": 48.1104,
+    "longitude": 16.5765,
+    "on_ground": true,
+    "origin_country": "Austria",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718202659,
+    "true_track": 185.62,
+    "velocity": 6.69,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 87,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LOWW",
+    "estDepartureAirportHorizDistance": 275,
+    "estDepartureAirportVertDistance": 30,
+    "firstSeen": 1718202768,
+    "lastSeen": 1718202862
+}

@@ -1,0 +1,96 @@
+{
+    "callsign": "SAT106  ",
+    "endTime": "2024/06/14-18:04:32",
+    "icao24": "495246",
+    "path": [
+        [
+            1718399014,
+            36.9833,
+            -25.1719,
+            304,
+            354,
+            false
+        ],
+        [
+            1718399023,
+            36.9892,
+            -25.1727,
+            304,
+            354,
+            false
+        ],
+        [
+            1718399047,
+            37.0074,
+            -25.175,
+            609,
+            355,
+            false
+        ],
+        [
+            1718399054,
+            37.0135,
+            -25.1758,
+            914,
+            353,
+            false
+        ],
+        [
+            1718399064,
+            37.0213,
+            -25.177,
+            914,
+            352,
+            false
+        ],
+        [
+            1718399072,
+            37.0278,
+            -25.1783,
+            1219,
+            350,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-18:03:34",
+    "baro_altitude": 929.64,
+    "category": 0,
+    "geo_altitude": 1143,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718396795,
+    "latitude": 37.1623,
+    "longitude": -25.2081,
+    "on_ground": false,
+    "origin_country": "Portugal",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718396795,
+    "true_track": 167.13,
+    "velocity": 122.43,
+    "vertical_rate": -6.5,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LPAZ",
+    "estDepartureAirportHorizDistance": 1328,
+    "estDepartureAirportVertDistance": 325,
+    "firstSeen": 1718399014,
+    "lastSeen": 1718399072
+}

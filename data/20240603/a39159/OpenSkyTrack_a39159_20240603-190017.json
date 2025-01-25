@@ -1,0 +1,120 @@
+{
+    "callsign": "N329SK  ",
+    "endTime": "2024/06/03-19:00:17",
+    "icao24": "a39159",
+    "path": [
+        [
+            1717450021,
+            34.4911,
+            -79.2801,
+            5181,
+            33,
+            false
+        ],
+        [
+            1717450065,
+            34.5199,
+            -79.2567,
+            5181,
+            33,
+            false
+        ],
+        [
+            1717450149,
+            34.5746,
+            -79.2121,
+            5486,
+            34,
+            false
+        ],
+        [
+            1717450608,
+            34.9782,
+            -78.8812,
+            5791,
+            31,
+            false
+        ],
+        [
+            1717450615,
+            34.9845,
+            -78.8769,
+            5791,
+            27,
+            false
+        ],
+        [
+            1717450622,
+            34.9918,
+            -78.8728,
+            5791,
+            22,
+            false
+        ],
+        [
+            1717450629,
+            34.9989,
+            -78.8698,
+            5791,
+            17,
+            false
+        ],
+        [
+            1717451525,
+            35.9097,
+            -78.5028,
+            5791,
+            18,
+            false
+        ],
+        [
+            1717452017,
+            36.4047,
+            -78.2996,
+            5791,
+            18,
+            false
+        ]
+    ],
+    "startTime": "2024/06/03-18:27:01",
+    "baro_altitude": 5791.2,
+    "category": 0,
+    "geo_altitude": 6035.04,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717451528,
+    "latitude": 35.9128,
+    "longitude": -78.5015,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3013",
+    "time_position": 1717451528,
+    "true_track": 18.51,
+    "velocity": 116.64,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 2,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KDLC",
+    "estDepartureAirportHorizDistance": 9106,
+    "estDepartureAirportVertDistance": 5202,
+    "firstSeen": 1717450021,
+    "lastSeen": 1717452017
+}

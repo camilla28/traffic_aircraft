@@ -1,0 +1,96 @@
+{
+    "callsign": "SCU42   ",
+    "endTime": "2024/06/07-15:04:00",
+    "icao24": "ab1614",
+    "path": [
+        [
+            1717783383,
+            35.9647,
+            -96.0564,
+            914,
+            229,
+            false
+        ],
+        [
+            1717783393,
+            35.9629,
+            -96.0591,
+            914,
+            229,
+            false
+        ],
+        [
+            1717783393,
+            35.9629,
+            -96.0591,
+            914,
+            225,
+            false
+        ],
+        [
+            1717783438,
+            35.9539,
+            -96.0723,
+            1219,
+            227,
+            false
+        ],
+        [
+            1717783440,
+            35.9535,
+            -96.0729,
+            1219,
+            229,
+            false
+        ],
+        [
+            1717783440,
+            35.9535,
+            -96.0729,
+            1219,
+            204,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-15:03:03",
+    "baro_altitude": 1303.02,
+    "category": 0,
+    "geo_altitude": 1333.5,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717784179,
+    "latitude": 35.9535,
+    "longitude": -96.0729,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717783440,
+    "true_track": 193.71,
+    "velocity": 43.42,
+    "vertical_rate": 1.95,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 268,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "OL23",
+    "estDepartureAirportHorizDistance": 4809,
+    "estDepartureAirportVertDistance": 950,
+    "firstSeen": 1717783383,
+    "lastSeen": 1717783440
+}

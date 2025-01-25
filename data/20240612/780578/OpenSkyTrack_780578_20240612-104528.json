@@ -1,0 +1,144 @@
+{
+    "callsign": "CDG1200 ",
+    "endTime": "2024/06/12-09:12:09",
+    "icao24": "780578",
+    "path": [
+        [
+            1718193975,
+            22.2477,
+            113.6143,
+            3962,
+            36,
+            false
+        ],
+        [
+            1718194051,
+            22.3562,
+            113.7066,
+            3962,
+            37,
+            false
+        ],
+        [
+            1718194057,
+            22.3651,
+            113.7131,
+            3962,
+            33,
+            false
+        ],
+        [
+            1718194058,
+            22.3675,
+            113.7149,
+            3962,
+            31,
+            false
+        ],
+        [
+            1718194067,
+            22.3822,
+            113.7242,
+            4267,
+            31,
+            false
+        ],
+        [
+            1718194074,
+            22.3921,
+            113.7297,
+            4267,
+            26,
+            false
+        ],
+        [
+            1718194078,
+            22.3989,
+            113.7332,
+            4267,
+            25,
+            false
+        ],
+        [
+            1718194078,
+            22.3989,
+            113.7332,
+            4267,
+            21,
+            false
+        ],
+        [
+            1718194177,
+            22.5675,
+            113.8073,
+            4267,
+            22,
+            false
+        ],
+        [
+            1718194219,
+            22.6399,
+            113.8389,
+            4572,
+            22,
+            false
+        ],
+        [
+            1718194219,
+            22.6399,
+            113.8389,
+            4876,
+            22,
+            false
+        ],
+        [
+            1718194329,
+            22.8336,
+            113.9241,
+            5791,
+            22,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-09:06:15",
+    "baro_altitude": 4907.28,
+    "category": 0,
+    "geo_altitude": 5189.22,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194256,
+    "latitude": 22.6399,
+    "longitude": 113.8389,
+    "on_ground": false,
+    "origin_country": "China",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3137",
+    "time_position": 1718194219,
+    "true_track": 22.22,
+    "velocity": 209.5,
+    "vertical_rate": 7.8,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "VMMC",
+    "estDepartureAirportHorizDistance": 68821,
+    "estDepartureAirportVertDistance": 4200,
+    "firstSeen": 1718193975,
+    "lastSeen": 1718194329
+}

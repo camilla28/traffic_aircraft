@@ -1,0 +1,72 @@
+{
+    "callsign": "CFG9AP  ",
+    "endTime": "2024/06/04-10:11:29",
+    "icao24": "3c6475",
+    "path": [
+        [
+            1717505747,
+            38.9474,
+            1.5539,
+            609,
+            242,
+            false
+        ],
+        [
+            1717506555,
+            38.9451,
+            1.5484,
+            609,
+            242,
+            false
+        ],
+        [
+            1717506689,
+            38.9447,
+            1.5473,
+            609,
+            242,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:55:47",
+    "baro_altitude": 868.68,
+    "category": 0,
+    "geo_altitude": 975.36,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504714,
+    "latitude": 38.9504,
+    "longitude": 1.5615,
+    "on_ground": false,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3064",
+    "time_position": 1717504525,
+    "true_track": 242.79,
+    "velocity": 102.39,
+    "vertical_rate": -3.58,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 5,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LEIB",
+    "estDepartureAirportHorizDistance": 17698,
+    "estDepartureAirportVertDistance": 830,
+    "firstSeen": 1717505747,
+    "lastSeen": 1717506689
+}

@@ -1,0 +1,88 @@
+{
+    "callsign": "DWI1545 ",
+    "endTime": "2024/06/03-18:29:33",
+    "icao24": "0c4182",
+    "path": [
+        [
+            1717440695,
+            18.3393,
+            -69.929,
+            2438,
+            264,
+            false
+        ],
+        [
+            1717440695,
+            18.3393,
+            -69.929,
+            2438,
+            264,
+            false
+        ],
+        [
+            1717449747,
+            15.6029,
+            -87.6352,
+            11887,
+            249,
+            false
+        ],
+        [
+            1717450139,
+            15.3182,
+            -88.405,
+            11887,
+            249,
+            false
+        ],
+        [
+            1717450173,
+            15.2928,
+            -88.4733,
+            11582,
+            249,
+            false
+        ]
+    ],
+    "startTime": "2024/06/03-15:51:35",
+    "baro_altitude": 1615.44,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717451500,
+    "latitude": null,
+    "longitude": null,
+    "on_ground": false,
+    "origin_country": "Dominican Republic",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": null,
+    "true_track": 196.96,
+    "velocity": 75.83,
+    "vertical_rate": -5.53,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "MDCZ",
+    "estDepartureAirportHorizDistance": 104745,
+    "estDepartureAirportVertDistance": 1432,
+    "firstSeen": 1717440695,
+    "lastSeen": 1717450173
+}

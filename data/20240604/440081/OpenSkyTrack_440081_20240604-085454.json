@@ -1,0 +1,104 @@
+{
+    "callsign": "AUA88   ",
+    "endTime": "2024/06/04-08:34:53",
+    "icao24": "440081",
+    "path": [
+        [
+            1717499643,
+            41.7778,
+            -73.3534,
+            7924,
+            4,
+            false
+        ],
+        [
+            1717500229,
+            41.7968,
+            -73.3515,
+            7924,
+            4,
+            false
+        ],
+        [
+            1717500289,
+            41.8042,
+            -73.3507,
+            8229,
+            4,
+            false
+        ],
+        [
+            1717500385,
+            41.7355,
+            -73.3576,
+            7924,
+            4,
+            false
+        ],
+        [
+            1717500413,
+            41.8111,
+            -73.35,
+            8229,
+            4,
+            false
+        ],
+        [
+            1717500438,
+            41.7395,
+            -73.3572,
+            7924,
+            4,
+            false
+        ],
+        [
+            1717500893,
+            41.8262,
+            -73.3485,
+            8229,
+            4,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:14:03",
+    "baro_altitude": 8214.36,
+    "category": 0,
+    "geo_altitude": 8496.3,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499989,
+    "latitude": 41.7936,
+    "longitude": -73.3518,
+    "on_ground": false,
+    "origin_country": "Austria",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499989,
+    "true_track": 4.31,
+    "velocity": 219.26,
+    "vertical_rate": 6.5,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 2,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "CT44",
+    "estDepartureAirportHorizDistance": 4426,
+    "estDepartureAirportVertDistance": 7755,
+    "firstSeen": 1717499643,
+    "lastSeen": 1717500893
+}

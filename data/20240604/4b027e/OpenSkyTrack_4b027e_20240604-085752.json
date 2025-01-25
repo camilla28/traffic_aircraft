@@ -1,0 +1,88 @@
+{
+    "callsign": "EZS49ZU ",
+    "endTime": "2024/06/04-08:57:22",
+    "icao24": "4b027e",
+    "path": [
+        [
+            1717499510,
+            44.718,
+            2.8651,
+            11277,
+            232,
+            false
+        ],
+        [
+            1717500370,
+            44.7035,
+            2.8387,
+            11277,
+            232,
+            false
+        ],
+        [
+            1717501266,
+            44.6904,
+            2.8148,
+            11277,
+            232,
+            false
+        ],
+        [
+            1717502064,
+            44.6823,
+            2.8002,
+            11277,
+            232,
+            false
+        ],
+        [
+            1717502242,
+            44.6802,
+            2.7963,
+            11277,
+            232,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:11:50",
+    "baro_altitude": 11277.6,
+    "category": 0,
+    "geo_altitude": 11551.92,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500034,
+    "latitude": 44.7093,
+    "longitude": 2.8493,
+    "on_ground": false,
+    "origin_country": "Switzerland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5723",
+    "time_position": 1717500030,
+    "true_track": 232.5,
+    "velocity": 242.52,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717499510,
+    "lastSeen": 1717502242
+}

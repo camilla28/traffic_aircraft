@@ -1,0 +1,80 @@
+{
+    "callsign": "T7LCNH  ",
+    "endTime": "2024/06/12-08:43:43",
+    "icao24": "500345",
+    "path": [
+        [
+            1718191807,
+            44.015,
+            17.3815,
+            8229,
+            336,
+            false
+        ],
+        [
+            1718192096,
+            44.3665,
+            17.1688,
+            8229,
+            337,
+            false
+        ],
+        [
+            1718192102,
+            44.3745,
+            17.1647,
+            8229,
+            341,
+            false
+        ],
+        [
+            1718192623,
+            45.055,
+            16.87,
+            8229,
+            342,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-08:30:07",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718191728,
+    "latitude": null,
+    "longitude": null,
+    "on_ground": false,
+    "origin_country": "San Marino",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": null,
+    "true_track": 336.62,
+    "velocity": 149.08,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1718191807,
+    "lastSeen": 1718192623
+}

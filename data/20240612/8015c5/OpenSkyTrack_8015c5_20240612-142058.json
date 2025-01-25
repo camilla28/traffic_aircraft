@@ -1,0 +1,144 @@
+{
+    "callsign": "VTI161  ",
+    "endTime": "2024/06/12-14:21:02",
+    "icao24": "8015c5",
+    "path": [
+        [
+            1718212661,
+            28.5682,
+            77.0796,
+            304,
+            283,
+            false
+        ],
+        [
+            1718212738,
+            28.5876,
+            76.996,
+            609,
+            284,
+            false
+        ],
+        [
+            1718212771,
+            28.5977,
+            76.9524,
+            914,
+            284,
+            false
+        ],
+        [
+            1718212796,
+            28.6055,
+            76.9184,
+            1219,
+            284,
+            false
+        ],
+        [
+            1718212804,
+            28.6078,
+            76.9079,
+            1524,
+            284,
+            false
+        ],
+        [
+            1718212813,
+            28.6102,
+            76.8954,
+            1524,
+            278,
+            false
+        ],
+        [
+            1718212821,
+            28.6104,
+            76.884,
+            1524,
+            265,
+            false
+        ],
+        [
+            1718212829,
+            28.6085,
+            76.8728,
+            1524,
+            251,
+            false
+        ],
+        [
+            1718212837,
+            28.6038,
+            76.8617,
+            1828,
+            239,
+            false
+        ],
+        [
+            1718212846,
+            28.5962,
+            76.8517,
+            1828,
+            222,
+            false
+        ],
+        [
+            1718212854,
+            28.5877,
+            76.8449,
+            1828,
+            208,
+            false
+        ],
+        [
+            1718212862,
+            28.5779,
+            76.8407,
+            2133,
+            193,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-14:17:41",
+    "baro_altitude": 381,
+    "category": 0,
+    "geo_altitude": 213.36,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204642,
+    "latitude": 28.5403,
+    "longitude": 77.0977,
+    "on_ground": false,
+    "origin_country": "India",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0335",
+    "time_position": 1718204635,
+    "true_track": 283.36,
+    "velocity": 73.5,
+    "vertical_rate": -2.93,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 15,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "VIDP",
+    "estDepartureAirportHorizDistance": 1445,
+    "estDepartureAirportVertDistance": 266,
+    "firstSeen": 1718212661,
+    "lastSeen": 1718212862
+}

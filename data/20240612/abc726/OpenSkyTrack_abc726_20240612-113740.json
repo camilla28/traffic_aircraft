@@ -1,0 +1,128 @@
+{
+    "callsign": "N858XJ  ",
+    "endTime": "2024/06/12-11:01:46",
+    "icao24": "abc726",
+    "path": [
+        [
+            1718199791,
+            32.6417,
+            -85.4152,
+            914,
+            179,
+            false
+        ],
+        [
+            1718199811,
+            32.6336,
+            -85.4151,
+            914,
+            180,
+            false
+        ],
+        [
+            1718200012,
+            32.5537,
+            -85.4116,
+            1524,
+            176,
+            false
+        ],
+        [
+            1718200019,
+            32.5508,
+            -85.4114,
+            1524,
+            176,
+            false
+        ],
+        [
+            1718200030,
+            32.5465,
+            -85.4112,
+            1524,
+            179,
+            false
+        ],
+        [
+            1718200074,
+            32.528,
+            -85.4105,
+            1524,
+            179,
+            false
+        ],
+        [
+            1718200639,
+            32.2522,
+            -85.3989,
+            1828,
+            177,
+            false
+        ],
+        [
+            1718200639,
+            32.2522,
+            -85.3989,
+            1828,
+            182,
+            false
+        ],
+        [
+            1718200906,
+            32.1187,
+            -85.401,
+            1828,
+            180,
+            false
+        ],
+        [
+            1718200906,
+            32.1187,
+            -85.401,
+            1828,
+            165,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-10:43:11",
+    "baro_altitude": 2125.98,
+    "category": 0,
+    "geo_altitude": 2148.84,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718202579,
+    "latitude": 32.1187,
+    "longitude": -85.401,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718200906,
+    "true_track": 164.05,
+    "velocity": 56.18,
+    "vertical_rate": -1.95,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 296,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KAUO",
+    "estDepartureAirportHorizDistance": 3441,
+    "estDepartureAirportVertDistance": 890,
+    "firstSeen": 1718199791,
+    "lastSeen": 1718200906
+}

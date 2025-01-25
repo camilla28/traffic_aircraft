@@ -1,0 +1,80 @@
+{
+    "callsign": "PGT32EH ",
+    "endTime": "2024/06/04-10:14:10",
+    "icao24": "4b8e45",
+    "path": [
+        [
+            1717504333,
+            43.2983,
+            25.9003,
+            11582,
+            313,
+            false
+        ],
+        [
+            1717505224,
+            43.2817,
+            25.9245,
+            11582,
+            313,
+            false
+        ],
+        [
+            1717506098,
+            43.3175,
+            25.8723,
+            11582,
+            313,
+            false
+        ],
+        [
+            1717506850,
+            43.3141,
+            25.8773,
+            11582,
+            313,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:32:13",
+    "baro_altitude": 11582.4,
+    "category": 0,
+    "geo_altitude": 11963.4,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504710,
+    "latitude": 43.3014,
+    "longitude": 25.8958,
+    "on_ground": false,
+    "origin_country": "Turkey",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5361",
+    "time_position": 1717504703,
+    "true_track": 313.26,
+    "velocity": 227.46,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717504333,
+    "lastSeen": 1717506850
+}

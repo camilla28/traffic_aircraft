@@ -1,0 +1,224 @@
+{
+    "callsign": "CGGNT   ",
+    "endTime": "2024/06/12-12:33:09",
+    "icao24": "c055e6",
+    "path": [
+        [
+            1718203178,
+            53.0092,
+            -112.8432,
+            1828,
+            162,
+            false
+        ],
+        [
+            1718203207,
+            52.9888,
+            -112.8323,
+            1828,
+            162,
+            false
+        ],
+        [
+            1718203241,
+            52.9634,
+            -112.8185,
+            2133,
+            162,
+            false
+        ],
+        [
+            1718203289,
+            52.9281,
+            -112.7993,
+            2438,
+            161,
+            false
+        ],
+        [
+            1718203370,
+            52.8697,
+            -112.7675,
+            2743,
+            161,
+            false
+        ],
+        [
+            1718203429,
+            52.8264,
+            -112.7441,
+            3048,
+            162,
+            false
+        ],
+        [
+            1718203494,
+            52.7762,
+            -112.717,
+            3352,
+            162,
+            false
+        ],
+        [
+            1718203501,
+            52.7709,
+            -112.7155,
+            3657,
+            176,
+            false
+        ],
+        [
+            1718203512,
+            52.7624,
+            -112.717,
+            3657,
+            189,
+            false
+        ],
+        [
+            1718203520,
+            52.7563,
+            -112.7175,
+            3657,
+            179,
+            false
+        ],
+        [
+            1718203529,
+            52.7495,
+            -112.7176,
+            3657,
+            181,
+            false
+        ],
+        [
+            1718203536,
+            52.744,
+            -112.7179,
+            3657,
+            182,
+            false
+        ],
+        [
+            1718203717,
+            52.577,
+            -112.7386,
+            3962,
+            184,
+            false
+        ],
+        [
+            1718203727,
+            52.5666,
+            -112.7385,
+            3962,
+            173,
+            false
+        ],
+        [
+            1718203735,
+            52.5586,
+            -112.7373,
+            3962,
+            177,
+            false
+        ],
+        [
+            1718204628,
+            51.6439,
+            -112.6706,
+            3962,
+            177,
+            false
+        ],
+        [
+            1718205527,
+            50.7306,
+            -112.6061,
+            3962,
+            177,
+            false
+        ],
+        [
+            1718206163,
+            50.1319,
+            -112.5656,
+            3962,
+            177,
+            false
+        ],
+        [
+            1718206232,
+            50.0647,
+            -112.5613,
+            3657,
+            177,
+            false
+        ],
+        [
+            1718206263,
+            50.0332,
+            -112.5592,
+            3352,
+            177,
+            false
+        ],
+        [
+            1718206330,
+            49.9638,
+            -112.5546,
+            3048,
+            177,
+            false
+        ],
+        [
+            1718206389,
+            49.9097,
+            -112.551,
+            2438,
+            177,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-11:39:38",
+    "baro_altitude": 4008.12,
+    "category": 0,
+    "geo_altitude": 3962.4,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204674,
+    "latitude": 51.5982,
+    "longitude": -112.6673,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718204674,
+    "true_track": 177.4,
+    "velocity": 113.29,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 64,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "CEQ3",
+    "estDepartureAirportHorizDistance": 4067,
+    "estDepartureAirportVertDistance": 1218,
+    "firstSeen": 1718203178,
+    "lastSeen": 1718206389
+}

@@ -1,0 +1,80 @@
+{
+    "callsign": "EJU83CR ",
+    "endTime": "2024/06/14-18:13:31",
+    "icao24": "440248",
+    "path": [
+        [
+            1718399572,
+            47.6096,
+            7.5155,
+            304,
+            154,
+            false
+        ],
+        [
+            1718399580,
+            47.6046,
+            7.519,
+            0,
+            154,
+            false
+        ],
+        [
+            1718399595,
+            47.5943,
+            7.526,
+            304,
+            155,
+            false
+        ],
+        [
+            1718399611,
+            47.5838,
+            7.5331,
+            609,
+            155,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-18:12:52",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718399391,
+    "latitude": 47.618,
+    "longitude": 7.5123,
+    "on_ground": true,
+    "origin_country": "Austria",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "6726",
+    "time_position": 1718399391,
+    "true_track": 303.75,
+    "velocity": 6.69,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 129,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSZM",
+    "estDepartureAirportHorizDistance": 2502,
+    "estDepartureAirportVertDistance": 35,
+    "firstSeen": 1718399572,
+    "lastSeen": 1718399611
+}

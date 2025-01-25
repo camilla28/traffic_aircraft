@@ -1,0 +1,88 @@
+{
+    "callsign": "CGHPF   ",
+    "endTime": "2024/06/07-09:24:48",
+    "icao24": "c058b0",
+    "path": [
+        [
+            1717762672,
+            48.2365,
+            -67.2991,
+            7315,
+            97,
+            false
+        ],
+        [
+            1717762682,
+            48.2347,
+            -67.2777,
+            7315,
+            97,
+            false
+        ],
+        [
+            1717762713,
+            48.2297,
+            -67.2165,
+            7010,
+            97,
+            false
+        ],
+        [
+            1717762713,
+            48.2297,
+            -67.2165,
+            6400,
+            97,
+            false
+        ],
+        [
+            1717763088,
+            48.1664,
+            -66.4766,
+            4267,
+            97,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-09:17:52",
+    "baro_altitude": 6492.24,
+    "category": 0,
+    "geo_altitude": 6560.82,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762902,
+    "latitude": 48.2297,
+    "longitude": -67.2165,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": true,
+    "squawk": "6324",
+    "time_position": 1717762713,
+    "true_track": 97.3,
+    "velocity": 145.74,
+    "vertical_rate": -8.13,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "CTF3",
+    "estDepartureAirportHorizDistance": 9335,
+    "estDepartureAirportVertDistance": 7303,
+    "firstSeen": 1717762672,
+    "lastSeen": 1717763088
+}

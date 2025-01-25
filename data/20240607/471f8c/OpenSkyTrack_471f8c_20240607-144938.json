@@ -1,0 +1,120 @@
+{
+    "callsign": "WMT746  ",
+    "endTime": "2024/06/07-14:49:37",
+    "icao24": "471f8c",
+    "path": [
+        [
+            1717781408,
+            47.0615,
+            26.7783,
+            5791,
+            264,
+            false
+        ],
+        [
+            1717781408,
+            47.0615,
+            26.7783,
+            5791,
+            264,
+            false
+        ],
+        [
+            1717781508,
+            47.0436,
+            26.5246,
+            7010,
+            263,
+            false
+        ],
+        [
+            1717782171,
+            46.9142,
+            24.892,
+            10972,
+            262,
+            false
+        ],
+        [
+            1717782192,
+            46.8966,
+            24.6923,
+            11277,
+            262,
+            false
+        ],
+        [
+            1717782363,
+            46.8538,
+            24.2181,
+            11582,
+            262,
+            false
+        ],
+        [
+            1717782411,
+            46.8415,
+            24.0873,
+            11277,
+            262,
+            false
+        ],
+        [
+            1717782506,
+            46.8244,
+            23.9104,
+            11582,
+            261,
+            false
+        ],
+        [
+            1717782577,
+            46.7981,
+            23.6336,
+            11277,
+            261,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-14:30:08",
+    "baro_altitude": 7078.98,
+    "category": 0,
+    "geo_altitude": 7421.88,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717781655,
+    "latitude": 47.0436,
+    "longitude": 26.5246,
+    "on_ground": false,
+    "origin_country": "Hungary",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717781508,
+    "true_track": 263.61,
+    "velocity": 203.44,
+    "vertical_rate": 8.78,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717781408,
+    "lastSeen": 1717782577
+}

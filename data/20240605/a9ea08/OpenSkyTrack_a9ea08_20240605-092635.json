@@ -1,0 +1,80 @@
+{
+    "callsign": "PHM036  ",
+    "endTime": "2024/06/05-09:18:52",
+    "icao24": "a9ea08",
+    "path": [
+        [
+            1717588560,
+            29.5481,
+            -90.6318,
+            304,
+            131,
+            false
+        ],
+        [
+            1717588589,
+            29.5392,
+            -90.6195,
+            304,
+            128,
+            false
+        ],
+        [
+            1717589471,
+            29.2181,
+            -90.1559,
+            304,
+            129,
+            false
+        ],
+        [
+            1717589932,
+            29.0498,
+            -89.9221,
+            304,
+            129,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-08:56:00",
+    "baro_altitude": 563.88,
+    "category": 0,
+    "geo_altitude": 563.88,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717589728,
+    "latitude": 29.1235,
+    "longitude": -90.0245,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717589728,
+    "true_track": 129.45,
+    "velocity": 63.96,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 162,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KHUM",
+    "estDepartureAirportHorizDistance": 3435,
+    "estDepartureAirportVertDistance": 408,
+    "firstSeen": 1717588560,
+    "lastSeen": 1717589932
+}

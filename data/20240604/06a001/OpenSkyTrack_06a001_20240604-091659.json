@@ -1,0 +1,120 @@
+{
+    "callsign": "A7HHK   ",
+    "endTime": "2024/06/04-09:16:15",
+    "icao24": "06a001",
+    "path": [
+        [
+            1717490892,
+            41.2159,
+            35.0408,
+            10363,
+            289,
+            false
+        ],
+        [
+            1717491087,
+            41.2174,
+            35.0356,
+            10363,
+            289,
+            false
+        ],
+        [
+            1717498451,
+            45.219,
+            23.3571,
+            10972,
+            298,
+            false
+        ],
+        [
+            1717499085,
+            45.2348,
+            23.3151,
+            10972,
+            297,
+            false
+        ],
+        [
+            1717499969,
+            45.259,
+            23.2503,
+            10972,
+            297,
+            false
+        ],
+        [
+            1717500777,
+            45.2802,
+            23.1933,
+            10972,
+            297,
+            false
+        ],
+        [
+            1717501644,
+            45.5102,
+            22.5689,
+            10972,
+            297,
+            false
+        ],
+        [
+            1717502543,
+            45.3828,
+            22.9167,
+            10972,
+            297,
+            false
+        ],
+        [
+            1717503375,
+            45.5726,
+            22.3967,
+            10972,
+            297,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-05:48:12",
+    "baro_altitude": 10972.8,
+    "category": 6,
+    "geo_altitude": 11262.36,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500018,
+    "latitude": 45.2617,
+    "longitude": 23.2428,
+    "on_ground": false,
+    "origin_country": "Qatar",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3271",
+    "time_position": 1717500018,
+    "true_track": 297.87,
+    "velocity": 232.2,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717490892,
+    "lastSeen": 1717503375
+}

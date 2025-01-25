@@ -1,0 +1,104 @@
+{
+    "callsign": "EIN39A  ",
+    "endTime": "2024/05/29-09:08:00",
+    "icao24": "4ca92d",
+    "path": [
+        [
+            1716984378,
+            53.6222,
+            9.9716,
+            0,
+            230,
+            false
+        ],
+        [
+            1716984403,
+            53.6122,
+            9.9509,
+            304,
+            230,
+            false
+        ],
+        [
+            1716984430,
+            53.6018,
+            9.9301,
+            609,
+            230,
+            false
+        ],
+        [
+            1716984455,
+            53.5917,
+            9.9097,
+            914,
+            230,
+            false
+        ],
+        [
+            1716984460,
+            53.589,
+            9.9046,
+            914,
+            226,
+            false
+        ],
+        [
+            1716984467,
+            53.5857,
+            9.8992,
+            914,
+            224,
+            false
+        ],
+        [
+            1716984480,
+            53.5781,
+            9.8874,
+            1219,
+            222,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-09:06:18",
+    "baro_altitude": 6690.36,
+    "category": 0,
+    "geo_altitude": 6751.32,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716978991,
+    "latitude": 53.6724,
+    "longitude": 8.2456,
+    "on_ground": false,
+    "origin_country": "Ireland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0515",
+    "time_position": 1716978990,
+    "true_track": 77.25,
+    "velocity": 212.04,
+    "vertical_rate": -11.7,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 83,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDDH",
+    "estDepartureAirportHorizDistance": 1140,
+    "estDepartureAirportVertDistance": 189,
+    "firstSeen": 1716984378,
+    "lastSeen": 1716984480
+}

@@ -1,0 +1,72 @@
+{
+    "callsign": "CVK7151 ",
+    "endTime": "2024/06/05-08:38:06",
+    "icao24": "5082a0",
+    "path": [
+        [
+            1717587448,
+            50.1103,
+            21.992,
+            304,
+            270,
+            false
+        ],
+        [
+            1717587475,
+            50.1099,
+            21.9621,
+            304,
+            268,
+            false
+        ],
+        [
+            1717587486,
+            50.1097,
+            21.9495,
+            609,
+            268,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-08:37:28",
+    "baro_altitude": 228.6,
+    "category": 0,
+    "geo_altitude": 274.32,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717582958,
+    "latitude": 50.1095,
+    "longitude": 22.0518,
+    "on_ground": false,
+    "origin_country": "Ukraine",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1366",
+    "time_position": 1717582958,
+    "true_track": 271.59,
+    "velocity": 74.11,
+    "vertical_rate": -4.88,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 30,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EPRZ",
+    "estDepartureAirportHorizDistance": 1499,
+    "estDepartureAirportVertDistance": 121,
+    "firstSeen": 1717587448,
+    "lastSeen": 1717587486
+}

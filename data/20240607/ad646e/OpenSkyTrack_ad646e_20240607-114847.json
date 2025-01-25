@@ -1,0 +1,184 @@
+{
+    "callsign": "JBU1573 ",
+    "endTime": "2024/06/07-11:48:45",
+    "icao24": "ad646e",
+    "path": [
+        [
+            1717771485,
+            40.6931,
+            -74.1682,
+            0,
+            205,
+            false
+        ],
+        [
+            1717771513,
+            40.6743,
+            -74.1801,
+            0,
+            205,
+            false
+        ],
+        [
+            1717771522,
+            40.6669,
+            -74.1832,
+            304,
+            190,
+            false
+        ],
+        [
+            1717771541,
+            40.6506,
+            -74.1848,
+            304,
+            190,
+            false
+        ],
+        [
+            1717771551,
+            40.6427,
+            -74.1894,
+            304,
+            209,
+            false
+        ],
+        [
+            1717771561,
+            40.6359,
+            -74.1983,
+            609,
+            231,
+            false
+        ],
+        [
+            1717771571,
+            40.6316,
+            -74.2107,
+            609,
+            251,
+            false
+        ],
+        [
+            1717771579,
+            40.63,
+            -74.2229,
+            609,
+            262,
+            false
+        ],
+        [
+            1717771590,
+            40.6289,
+            -74.239,
+            609,
+            265,
+            false
+        ],
+        [
+            1717771600,
+            40.6282,
+            -74.2552,
+            609,
+            267,
+            false
+        ],
+        [
+            1717771619,
+            40.6271,
+            -74.2864,
+            914,
+            267,
+            false
+        ],
+        [
+            1717771637,
+            40.6259,
+            -74.3152,
+            1219,
+            266,
+            false
+        ],
+        [
+            1717771657,
+            40.6246,
+            -74.347,
+            1524,
+            266,
+            false
+        ],
+        [
+            1717771686,
+            40.623,
+            -74.391,
+            1828,
+            267,
+            false
+        ],
+        [
+            1717771706,
+            40.622,
+            -74.4229,
+            2133,
+            267,
+            false
+        ],
+        [
+            1717771714,
+            40.6217,
+            -74.4368,
+            2438,
+            269,
+            false
+        ],
+        [
+            1717771725,
+            40.6226,
+            -74.4542,
+            2438,
+            276,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-11:44:45",
+    "baro_altitude": 10668,
+    "category": 0,
+    "geo_altitude": 10866.12,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762945,
+    "latitude": 41.9325,
+    "longitude": -83.0176,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7375",
+    "time_position": 1717762944,
+    "true_track": 90.53,
+    "velocity": 278.84,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 325,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KEWR",
+    "estDepartureAirportHorizDistance": 120,
+    "estDepartureAirportVertDistance": 101,
+    "firstSeen": 1717771485,
+    "lastSeen": 1717771725
+}

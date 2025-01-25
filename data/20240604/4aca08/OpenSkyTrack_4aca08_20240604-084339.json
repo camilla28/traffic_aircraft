@@ -1,0 +1,120 @@
+{
+    "callsign": "NSZ5504 ",
+    "endTime": "2024/06/04-08:43:23",
+    "icao24": "4aca08",
+    "path": [
+        [
+            1717496706,
+            42.4118,
+            5.6647,
+            10972,
+            53,
+            false
+        ],
+        [
+            1717497594,
+            42.4437,
+            5.7227,
+            10972,
+            53,
+            false
+        ],
+        [
+            1717498453,
+            42.4787,
+            5.787,
+            10972,
+            53,
+            false
+        ],
+        [
+            1717499275,
+            42.5219,
+            5.8664,
+            10972,
+            53,
+            false
+        ],
+        [
+            1717500173,
+            42.5615,
+            5.9393,
+            10972,
+            53,
+            false
+        ],
+        [
+            1717501061,
+            42.6101,
+            6.0262,
+            10972,
+            51,
+            false
+        ],
+        [
+            1717501204,
+            42.6145,
+            6.033,
+            10972,
+            48,
+            false
+        ],
+        [
+            1717501269,
+            42.6189,
+            6.0395,
+            10972,
+            47,
+            false
+        ],
+        [
+            1717501403,
+            42.6276,
+            6.0517,
+            10972,
+            45,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:25:06",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": 11209.02,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500019,
+    "latitude": 42.5596,
+    "longitude": 5.9357,
+    "on_ground": false,
+    "origin_country": "Sweden",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5573",
+    "time_position": 1717500019,
+    "true_track": 53.57,
+    "velocity": 241.69,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717496706,
+    "lastSeen": 1717501403
+}

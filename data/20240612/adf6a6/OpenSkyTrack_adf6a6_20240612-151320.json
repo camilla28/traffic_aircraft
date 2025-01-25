@@ -1,0 +1,96 @@
+{
+    "callsign": "N99910  ",
+    "endTime": "2024/06/12-15:13:26",
+    "icao24": "adf6a6",
+    "path": [
+        [
+            1718213480,
+            35.3695,
+            -89.6523,
+            1828,
+            44,
+            false
+        ],
+        [
+            1718214371,
+            35.8559,
+            -89.0746,
+            1828,
+            44,
+            false
+        ],
+        [
+            1718215263,
+            36.3424,
+            -88.4875,
+            1828,
+            44,
+            false
+        ],
+        [
+            1718215309,
+            36.3676,
+            -88.4573,
+            1828,
+            46,
+            false
+        ],
+        [
+            1718215442,
+            36.4396,
+            -88.3681,
+            1828,
+            44,
+            false
+        ],
+        [
+            1718216006,
+            36.7452,
+            -87.9928,
+            1828,
+            44,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-14:31:20",
+    "baro_altitude": 1158.24,
+    "category": 0,
+    "geo_altitude": 1196.34,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204632,
+    "latitude": 35.3887,
+    "longitude": -89.5779,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5245",
+    "time_position": 1718204626,
+    "true_track": 223.9,
+    "velocity": 94.96,
+    "vertical_rate": -0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 89,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "TN58",
+    "estDepartureAirportHorizDistance": 2497,
+    "estDepartureAirportVertDistance": 2002,
+    "firstSeen": 1718213480,
+    "lastSeen": 1718216006
+}

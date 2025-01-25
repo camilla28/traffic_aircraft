@@ -1,0 +1,136 @@
+{
+    "callsign": "AUR9LG  ",
+    "endTime": "2024/06/12-15:51:23",
+    "icao24": "503cf8",
+    "path": [
+        [
+            1718218089,
+            51.1452,
+            -0.217,
+            0,
+            261,
+            false
+        ],
+        [
+            1718218098,
+            51.1443,
+            -0.2267,
+            304,
+            262,
+            false
+        ],
+        [
+            1718218106,
+            51.1434,
+            -0.2358,
+            304,
+            258,
+            false
+        ],
+        [
+            1718218115,
+            51.1419,
+            -0.246,
+            304,
+            255,
+            false
+        ],
+        [
+            1718218140,
+            51.137,
+            -0.2747,
+            304,
+            255,
+            false
+        ],
+        [
+            1718218183,
+            51.1294,
+            -0.325,
+            609,
+            257,
+            false
+        ],
+        [
+            1718218224,
+            51.1229,
+            -0.3745,
+            914,
+            258,
+            false
+        ],
+        [
+            1718218258,
+            51.1172,
+            -0.416,
+            1219,
+            257,
+            false
+        ],
+        [
+            1718218266,
+            51.1158,
+            -0.4261,
+            1524,
+            254,
+            false
+        ],
+        [
+            1718218274,
+            51.1138,
+            -0.4354,
+            1524,
+            246,
+            false
+        ],
+        [
+            1718218283,
+            51.1095,
+            -0.4447,
+            1524,
+            222,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-15:48:09",
+    "baro_altitude": 5791.2,
+    "category": 0,
+    "geo_altitude": 5890.26,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204675,
+    "latitude": 53.8818,
+    "longitude": -2.7222,
+    "on_ground": false,
+    "origin_country": "Lithuania",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5463",
+    "time_position": 1718204675,
+    "true_track": 156.9,
+    "velocity": 152.12,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 112,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EGKK",
+    "estDepartureAirportHorizDistance": 1363,
+    "estDepartureAirportVertDistance": 235,
+    "firstSeen": 1718218089,
+    "lastSeen": 1718218283
+}

@@ -1,0 +1,80 @@
+{
+    "callsign": "SIA346  ",
+    "endTime": "2024/06/04-08:48:31",
+    "icao24": "76cef9",
+    "path": [
+        [
+            1717499766,
+            45.77,
+            21.8562,
+            10972,
+            289,
+            false
+        ],
+        [
+            1717500661,
+            45.7984,
+            21.74,
+            10972,
+            289,
+            false
+        ],
+        [
+            1717501560,
+            45.8337,
+            21.595,
+            10972,
+            289,
+            false
+        ],
+        [
+            1717501711,
+            45.841,
+            21.5647,
+            10972,
+            289,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:16:06",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": 11209.02,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500035,
+    "latitude": 45.7774,
+    "longitude": 21.8258,
+    "on_ground": false,
+    "origin_country": "Singapore",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717500035,
+    "true_track": 289.22,
+    "velocity": 237.54,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717499766,
+    "lastSeen": 1717501711
+}

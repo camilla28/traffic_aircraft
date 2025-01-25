@@ -1,0 +1,120 @@
+{
+    "callsign": "SWA391  ",
+    "endTime": "2024/06/04-10:39:54",
+    "icao24": "ac1701",
+    "path": [
+        [
+            1717503043,
+            39.8773,
+            -104.6264,
+            1524,
+            90,
+            false
+        ],
+        [
+            1717503363,
+            39.8773,
+            -104.6243,
+            1524,
+            90,
+            false
+        ],
+        [
+            1717503719,
+            34.6904,
+            -101.3249,
+            12496,
+            150,
+            false
+        ],
+        [
+            1717504569,
+            34.6112,
+            -101.2708,
+            12496,
+            150,
+            false
+        ],
+        [
+            1717505464,
+            34.5523,
+            -101.2309,
+            12496,
+            150,
+            false
+        ],
+        [
+            1717506345,
+            34.482,
+            -101.1833,
+            12496,
+            150,
+            false
+        ],
+        [
+            1717507160,
+            34.4097,
+            -101.1344,
+            12496,
+            150,
+            false
+        ],
+        [
+            1717507984,
+            34.3225,
+            -101.0754,
+            12496,
+            150,
+            false
+        ],
+        [
+            1717508394,
+            34.2855,
+            -101.0504,
+            12496,
+            150,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:10:43",
+    "baro_altitude": 12496.8,
+    "category": 0,
+    "geo_altitude": 12984.48,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504714,
+    "latitude": 34.6035,
+    "longitude": -101.2656,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504714,
+    "true_track": 150.71,
+    "velocity": 232.4,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 171,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KDEN",
+    "estDepartureAirportHorizDistance": 4338,
+    "estDepartureAirportVertDistance": 120,
+    "firstSeen": 1717503043,
+    "lastSeen": 1717508394
+}

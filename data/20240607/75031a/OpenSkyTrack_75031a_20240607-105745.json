@@ -1,0 +1,80 @@
+{
+    "callsign": "MAS2606 ",
+    "endTime": "2024/06/07-09:20:07",
+    "icao24": "75031a",
+    "path": [
+        [
+            1717762572,
+            2.6631,
+            102.1,
+            3657,
+            63,
+            false
+        ],
+        [
+            1717762572,
+            2.6631,
+            102.1,
+            3657,
+            56,
+            false
+        ],
+        [
+            1717762796,
+            2.8912,
+            102.4231,
+            5486,
+            63,
+            false
+        ],
+        [
+            1717762807,
+            2.8998,
+            102.4405,
+            5486,
+            63,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-09:16:12",
+    "baro_altitude": 5600.7,
+    "category": 0,
+    "geo_altitude": 5844.54,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762807,
+    "latitude": 2.8998,
+    "longitude": 102.4405,
+    "on_ground": false,
+    "origin_country": "Malaysia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717762807,
+    "true_track": 63.75,
+    "velocity": 208.21,
+    "vertical_rate": 10.4,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717762572,
+    "lastSeen": 1717762807
+}

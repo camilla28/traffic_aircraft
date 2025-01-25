@@ -1,0 +1,128 @@
+{
+    "callsign": "N205MN  ",
+    "endTime": "2024/06/07-10:06:42",
+    "icao24": "a1a5b6",
+    "path": [
+        [
+            1717762351,
+            45.7193,
+            -94.7097,
+            1219,
+            86,
+            false
+        ],
+        [
+            1717762410,
+            45.7217,
+            -94.662,
+            1219,
+            86,
+            false
+        ],
+        [
+            1717762551,
+            45.7278,
+            -94.5536,
+            1524,
+            84,
+            false
+        ],
+        [
+            1717762696,
+            45.7345,
+            -94.4383,
+            1828,
+            85,
+            false
+        ],
+        [
+            1717762851,
+            45.7413,
+            -94.3156,
+            2133,
+            85,
+            false
+        ],
+        [
+            1717763028,
+            45.7475,
+            -94.1686,
+            2438,
+            88,
+            false
+        ],
+        [
+            1717763092,
+            45.7493,
+            -94.1103,
+            2743,
+            86,
+            false
+        ],
+        [
+            1717763988,
+            45.8014,
+            -93.1084,
+            2743,
+            87,
+            false
+        ],
+        [
+            1717764864,
+            45.8432,
+            -92.1348,
+            2743,
+            86,
+            false
+        ],
+        [
+            1717765602,
+            45.8636,
+            -91.3093,
+            2743,
+            88,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-09:12:31",
+    "baro_altitude": 2590.8,
+    "category": 0,
+    "geo_altitude": 2560.32,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762945,
+    "latitude": 45.7453,
+    "longitude": -94.2391,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717762945,
+    "true_track": 86.37,
+    "velocity": 64.95,
+    "vertical_rate": 1.63,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 222,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "4MN0",
+    "estDepartureAirportHorizDistance": 12700,
+    "estDepartureAirportVertDistance": 960,
+    "firstSeen": 1717762351,
+    "lastSeen": 1717765602
+}

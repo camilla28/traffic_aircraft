@@ -1,0 +1,72 @@
+{
+    "callsign": "VOI1900 ",
+    "endTime": "2024/06/04-09:43:44",
+    "icao24": "0d0b8a",
+    "path": [
+        [
+            1717503481,
+            39.3352,
+            -88.4001,
+            10668,
+            69,
+            false
+        ],
+        [
+            1717504338,
+            39.3388,
+            -88.3874,
+            10668,
+            70,
+            false
+        ],
+        [
+            1717505024,
+            39.342,
+            -88.3763,
+            10668,
+            70,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:18:01",
+    "baro_altitude": 10675.62,
+    "category": 0,
+    "geo_altitude": 11155.68,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504691,
+    "latitude": 39.3404,
+    "longitude": -88.382,
+    "on_ground": false,
+    "origin_country": "Mexico",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504662,
+    "true_track": 70.01,
+    "velocity": 245.25,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "6LL0",
+    "estDepartureAirportHorizDistance": 2479,
+    "estDepartureAirportVertDistance": 10473,
+    "firstSeen": 1717503481,
+    "lastSeen": 1717505024
+}

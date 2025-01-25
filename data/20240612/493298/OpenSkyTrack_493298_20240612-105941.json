@@ -1,0 +1,120 @@
+{
+    "callsign": "NJE231U ",
+    "endTime": "2024/06/12-10:59:47",
+    "icao24": "493298",
+    "path": [
+        [
+            1718200646,
+            43.0591,
+            6.0184,
+            2133,
+            261,
+            false
+        ],
+        [
+            1718200671,
+            43.0544,
+            5.978,
+            2438,
+            260,
+            false
+        ],
+        [
+            1718200712,
+            43.046,
+            5.907,
+            2743,
+            262,
+            false
+        ],
+        [
+            1718200720,
+            43.046,
+            5.8934,
+            3048,
+            277,
+            false
+        ],
+        [
+            1718200728,
+            43.0477,
+            5.8809,
+            3048,
+            282,
+            false
+        ],
+        [
+            1718200747,
+            43.0531,
+            5.8498,
+            3352,
+            283,
+            false
+        ],
+        [
+            1718200763,
+            43.0586,
+            5.8198,
+            3657,
+            284,
+            false
+        ],
+        [
+            1718200780,
+            43.064,
+            5.7904,
+            3962,
+            284,
+            false
+        ],
+        [
+            1718200787,
+            43.0672,
+            5.7761,
+            4267,
+            290,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-10:57:26",
+    "baro_altitude": 3817.62,
+    "category": 0,
+    "geo_altitude": 3916.68,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194259,
+    "latitude": 43.5066,
+    "longitude": 7.2517,
+    "on_ground": false,
+    "origin_country": "Portugal",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2770",
+    "time_position": 1718194259,
+    "true_track": 179.42,
+    "velocity": 151.25,
+    "vertical_rate": -7.8,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 11,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFTH",
+    "estDepartureAirportHorizDistance": 10299,
+    "estDepartureAirportVertDistance": 2375,
+    "firstSeen": 1718200646,
+    "lastSeen": 1718200787
+}

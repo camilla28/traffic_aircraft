@@ -1,0 +1,96 @@
+{
+    "callsign": "N61615  ",
+    "endTime": "2024/06/12-14:35:00",
+    "icao24": "a807a1",
+    "path": [
+        [
+            1718213601,
+            40.7768,
+            -79.9503,
+            304,
+            252,
+            false
+        ],
+        [
+            1718213640,
+            40.7726,
+            -79.9676,
+            304,
+            251,
+            false
+        ],
+        [
+            1718213675,
+            40.7702,
+            -79.9773,
+            609,
+            251,
+            false
+        ],
+        [
+            1718213684,
+            40.7723,
+            -79.9848,
+            609,
+            318,
+            false
+        ],
+        [
+            1718213693,
+            40.7753,
+            -79.9877,
+            609,
+            321,
+            false
+        ],
+        [
+            1718213700,
+            40.7772,
+            -79.9899,
+            609,
+            316,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-14:33:21",
+    "baro_altitude": 883.92,
+    "category": 0,
+    "geo_altitude": 906.78,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204674,
+    "latitude": 40.7374,
+    "longitude": -80.1108,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718204674,
+    "true_track": 72.42,
+    "velocity": 54.5,
+    "vertical_rate": -2.28,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 321,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KBTP",
+    "estDepartureAirportHorizDistance": 158,
+    "estDepartureAirportVertDistance": 45,
+    "firstSeen": 1718213601,
+    "lastSeen": 1718213700
+}

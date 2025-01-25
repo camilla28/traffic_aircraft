@@ -1,0 +1,144 @@
+{
+    "callsign": "T7SEB   ",
+    "endTime": "2024/06/12-08:49:55",
+    "icao24": "500297",
+    "path": [
+        [
+            1718190545,
+            48.751,
+            2.1163,
+            0,
+            233,
+            false
+        ],
+        [
+            1718190777,
+            48.7507,
+            2.1167,
+            0,
+            270,
+            false
+        ],
+        [
+            1718190779,
+            48.7508,
+            2.1166,
+            0,
+            0,
+            false
+        ],
+        [
+            1718191372,
+            48.7504,
+            2.1168,
+            0,
+            0,
+            false
+        ],
+        [
+            1718191580,
+            48.7511,
+            2.1169,
+            0,
+            0,
+            false
+        ],
+        [
+            1718192008,
+            48.7509,
+            2.1165,
+            0,
+            0,
+            false
+        ],
+        [
+            1718192100,
+            48.7512,
+            2.1151,
+            0,
+            0,
+            false
+        ],
+        [
+            1718192100,
+            48.7512,
+            2.1151,
+            0,
+            236,
+            false
+        ],
+        [
+            1718192119,
+            48.7509,
+            2.1165,
+            0,
+            236,
+            false
+        ],
+        [
+            1718192139,
+            48.7509,
+            2.1165,
+            0,
+            0,
+            false
+        ],
+        [
+            1718192784,
+            48.7511,
+            2.117,
+            0,
+            0,
+            false
+        ],
+        [
+            1718192995,
+            48.7515,
+            2.1183,
+            0,
+            0,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-08:09:05",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718191737,
+    "latitude": 48.7507,
+    "longitude": 2.1163,
+    "on_ground": true,
+    "origin_country": "San Marino",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718191736,
+    "true_track": 236.25,
+    "velocity": 0.06,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 86,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFPN",
+    "estDepartureAirportHorizDistance": 746,
+    "estDepartureAirportVertDistance": 80,
+    "firstSeen": 1718190545,
+    "lastSeen": 1718192978
+}

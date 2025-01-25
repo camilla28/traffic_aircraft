@@ -1,0 +1,144 @@
+{
+    "callsign": "WUP453  ",
+    "endTime": "2024/06/12-14:49:14",
+    "icao24": "a57ef6",
+    "path": [
+        [
+            1718214319,
+            30.0472,
+            -90.0298,
+            0,
+            1,
+            false
+        ],
+        [
+            1718214336,
+            30.0594,
+            -90.0291,
+            0,
+            1,
+            false
+        ],
+        [
+            1718214354,
+            30.075,
+            -90.0284,
+            304,
+            1,
+            false
+        ],
+        [
+            1718214372,
+            30.0892,
+            -90.0282,
+            609,
+            2,
+            false
+        ],
+        [
+            1718214411,
+            30.0979,
+            -90.0276,
+            914,
+            0,
+            false
+        ],
+        [
+            1718214444,
+            30.1346,
+            -90.0696,
+            1828,
+            304,
+            false
+        ],
+        [
+            1718214470,
+            30.1511,
+            -90.0969,
+            2133,
+            304,
+            false
+        ],
+        [
+            1718214487,
+            30.1625,
+            -90.1163,
+            2438,
+            304,
+            false
+        ],
+        [
+            1718214496,
+            30.1681,
+            -90.1255,
+            2743,
+            304,
+            false
+        ],
+        [
+            1718214504,
+            30.1738,
+            -90.1355,
+            2743,
+            300,
+            false
+        ],
+        [
+            1718214512,
+            30.1781,
+            -90.1458,
+            2743,
+            293,
+            false
+        ],
+        [
+            1718214554,
+            30.2006,
+            -90.21,
+            2743,
+            292,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-14:45:19",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204545,
+    "latitude": 30.0384,
+    "longitude": -90.0286,
+    "on_ground": true,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718204545,
+    "true_track": 177.19,
+    "velocity": 11.83,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 150,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KNEW",
+    "estDepartureAirportHorizDistance": 556,
+    "estDepartureAirportVertDistance": 50,
+    "firstSeen": 1718214319,
+    "lastSeen": 1718214554
+}

@@ -1,0 +1,72 @@
+{
+    "callsign": "MTU95   ",
+    "endTime": "2024/05/29-10:12:52",
+    "icao24": "a7b11f",
+    "path": [
+        [
+            1716988165,
+            35.7345,
+            -86.385,
+            609,
+            2,
+            false
+        ],
+        [
+            1716988333,
+            35.8065,
+            -86.3813,
+            609,
+            2,
+            false
+        ],
+        [
+            1716988372,
+            35.8222,
+            -86.3805,
+            304,
+            2,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-10:09:25",
+    "baro_altitude": 1463.04,
+    "category": 0,
+    "geo_altitude": 1531.62,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716987337,
+    "latitude": 35.3302,
+    "longitude": -86.5671,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1716987337,
+    "true_track": 15.42,
+    "velocity": 61.9,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 222,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "TN83",
+    "estDepartureAirportHorizDistance": 10040,
+    "estDepartureAirportVertDistance": 466,
+    "firstSeen": 1716988165,
+    "lastSeen": 1716988358
+}

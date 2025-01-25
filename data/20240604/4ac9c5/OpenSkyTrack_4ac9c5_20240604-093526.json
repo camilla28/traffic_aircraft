@@ -1,0 +1,120 @@
+{
+    "callsign": "BLX465  ",
+    "endTime": "2024/06/04-09:35:03",
+    "icao24": "4ac9c5",
+    "path": [
+        [
+            1717497944,
+            53.5652,
+            15.3915,
+            11277,
+            154,
+            false
+        ],
+        [
+            1717498824,
+            53.4963,
+            15.4469,
+            11277,
+            154,
+            false
+        ],
+        [
+            1717499691,
+            53.4305,
+            15.4997,
+            11277,
+            154,
+            false
+        ],
+        [
+            1717500582,
+            53.3531,
+            15.5616,
+            11277,
+            154,
+            false
+        ],
+        [
+            1717501458,
+            53.2853,
+            15.6152,
+            11277,
+            154,
+            false
+        ],
+        [
+            1717502356,
+            53.2204,
+            15.666,
+            11277,
+            154,
+            false
+        ],
+        [
+            1717503228,
+            53.1558,
+            15.7171,
+            11277,
+            154,
+            false
+        ],
+        [
+            1717504121,
+            53.0916,
+            15.7676,
+            11277,
+            154,
+            false
+        ],
+        [
+            1717504503,
+            53.055,
+            15.7962,
+            11277,
+            154,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:45:44",
+    "baro_altitude": 11277.6,
+    "category": 0,
+    "geo_altitude": 11468.1,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499991,
+    "latitude": 53.4108,
+    "longitude": 15.5156,
+    "on_ground": false,
+    "origin_country": "Sweden",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "4527",
+    "time_position": 1717499990,
+    "true_track": 154.44,
+    "velocity": 234.93,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717497944,
+    "lastSeen": 1717504503
+}

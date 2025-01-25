@@ -1,0 +1,120 @@
+{
+    "callsign": "TAY2PO  ",
+    "endTime": "2024/06/04-08:53:40",
+    "icao24": "4407e8",
+    "path": [
+        [
+            1717499485,
+            49.0257,
+            2.0587,
+            6400,
+            270,
+            false
+        ],
+        [
+            1717499701,
+            49.0258,
+            2.0518,
+            6400,
+            270,
+            false
+        ],
+        [
+            1717499729,
+            49.0258,
+            2.0465,
+            6705,
+            270,
+            false
+        ],
+        [
+            1717499752,
+            49.0258,
+            2.0542,
+            6400,
+            270,
+            false
+        ],
+        [
+            1717499767,
+            49.0258,
+            2.0465,
+            6705,
+            270,
+            false
+        ],
+        [
+            1717499843,
+            49.0258,
+            2.0453,
+            6400,
+            270,
+            false
+        ],
+        [
+            1717500682,
+            49.0261,
+            2.0173,
+            6705,
+            270,
+            false
+        ],
+        [
+            1717501551,
+            49.0263,
+            1.9978,
+            6705,
+            270,
+            false
+        ],
+        [
+            1717502020,
+            49.0264,
+            1.9794,
+            6705,
+            270,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:11:25",
+    "baro_altitude": 6736.08,
+    "category": 0,
+    "geo_altitude": 6888.48,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500035,
+    "latitude": 49.0258,
+    "longitude": 2.0427,
+    "on_ground": false,
+    "origin_country": "Austria",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7650",
+    "time_position": 1717500035,
+    "true_track": 270.77,
+    "velocity": 190.88,
+    "vertical_rate": 9.75,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFPT",
+    "estDepartureAirportHorizDistance": 7996,
+    "estDepartureAirportVertDistance": 6576,
+    "firstSeen": 1717499485,
+    "lastSeen": 1717502020
+}

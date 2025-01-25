@@ -1,0 +1,272 @@
+{
+    "callsign": "SMB755  ",
+    "endTime": "2024/06/07-08:24:50",
+    "icao24": "500239",
+    "path": [
+        [
+            1717754901,
+            24.8911,
+            55.1711,
+            0,
+            300,
+            false
+        ],
+        [
+            1717754930,
+            24.9009,
+            55.1531,
+            0,
+            299,
+            false
+        ],
+        [
+            1717754954,
+            24.9097,
+            55.1368,
+            304,
+            301,
+            false
+        ],
+        [
+            1717754998,
+            24.9285,
+            55.1033,
+            609,
+            301,
+            false
+        ],
+        [
+            1717755037,
+            24.9491,
+            55.0663,
+            914,
+            301,
+            false
+        ],
+        [
+            1717755067,
+            24.9667,
+            55.0347,
+            1219,
+            301,
+            false
+        ],
+        [
+            1717755092,
+            24.9816,
+            55.0076,
+            1524,
+            301,
+            false
+        ],
+        [
+            1717755118,
+            24.9971,
+            54.9795,
+            1828,
+            301,
+            false
+        ],
+        [
+            1717755122,
+            25,
+            54.9745,
+            1828,
+            303,
+            false
+        ],
+        [
+            1717755128,
+            25.0037,
+            54.9687,
+            1828,
+            305,
+            false
+        ],
+        [
+            1717755134,
+            25.0079,
+            54.9625,
+            1828,
+            307,
+            false
+        ],
+        [
+            1717755139,
+            25.0117,
+            54.9572,
+            2133,
+            309,
+            false
+        ],
+        [
+            1717755146,
+            25.0168,
+            54.9507,
+            2133,
+            310,
+            false
+        ],
+        [
+            1717755187,
+            25.0511,
+            54.9058,
+            2438,
+            310,
+            false
+        ],
+        [
+            1717755218,
+            25.0766,
+            54.8725,
+            2743,
+            309,
+            false
+        ],
+        [
+            1717755243,
+            25.0974,
+            54.8454,
+            3048,
+            310,
+            false
+        ],
+        [
+            1717755301,
+            25.1474,
+            54.78,
+            3657,
+            309,
+            false
+        ],
+        [
+            1717755337,
+            25.1796,
+            54.7379,
+            3962,
+            310,
+            false
+        ],
+        [
+            1717755367,
+            25.2075,
+            54.7013,
+            4267,
+            310,
+            false
+        ],
+        [
+            1717755392,
+            25.232,
+            54.6693,
+            4572,
+            309,
+            false
+        ],
+        [
+            1717755403,
+            25.2427,
+            54.6552,
+            4876,
+            309,
+            false
+        ],
+        [
+            1717758508,
+            27.4155,
+            48.6049,
+            12192,
+            298,
+            false
+        ],
+        [
+            1717758943,
+            27.8259,
+            47.7677,
+            12192,
+            298,
+            false
+        ],
+        [
+            1717758959,
+            27.8394,
+            47.7363,
+            12192,
+            294,
+            false
+        ],
+        [
+            1717758971,
+            27.848,
+            47.7131,
+            12192,
+            291,
+            false
+        ],
+        [
+            1717758981,
+            27.8549,
+            47.6924,
+            12192,
+            290,
+            false
+        ],
+        [
+            1717759490,
+            28.1884,
+            46.6303,
+            12192,
+            290,
+            false
+        ],
+        [
+            1717759490,
+            28.1884,
+            46.6303,
+            12192,
+            293,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-07:08:21",
+    "baro_altitude": 12192,
+    "category": 0,
+    "geo_altitude": 12961.62,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717759266,
+    "latitude": 28.0385,
+    "longitude": 47.0985,
+    "on_ground": false,
+    "origin_country": "San Marino",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717759266,
+    "true_track": 289.08,
+    "velocity": 217.19,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 19,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "OMDW",
+    "estDepartureAirportHorizDistance": 1297,
+    "estDepartureAirportVertDistance": 102,
+    "firstSeen": 1717754901,
+    "lastSeen": 1717759490
+}

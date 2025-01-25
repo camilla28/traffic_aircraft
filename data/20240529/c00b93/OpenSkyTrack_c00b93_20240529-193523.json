@@ -1,0 +1,96 @@
+{
+    "callsign": "JZA749  ",
+    "endTime": "2024/05/29-19:35:16",
+    "icao24": "c00b93",
+    "path": [
+        [
+            1717022021,
+            43.6643,
+            -79.6188,
+            0,
+            46,
+            false
+        ],
+        [
+            1717022045,
+            43.6744,
+            -79.6042,
+            0,
+            46,
+            false
+        ],
+        [
+            1717022051,
+            43.677,
+            -79.6,
+            304,
+            49,
+            false
+        ],
+        [
+            1717022065,
+            43.6825,
+            -79.5906,
+            304,
+            51,
+            false
+        ],
+        [
+            1717022103,
+            43.7012,
+            -79.5593,
+            609,
+            49,
+            false
+        ],
+        [
+            1717022116,
+            43.7086,
+            -79.5472,
+            914,
+            48,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-19:33:41",
+    "baro_altitude": 3436.62,
+    "category": 0,
+    "geo_altitude": 3459.48,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717016383,
+    "latitude": 43.341,
+    "longitude": -79.3712,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": true,
+    "squawk": "0777",
+    "time_position": 1717016382,
+    "true_track": 342.8,
+    "velocity": 151.33,
+    "vertical_rate": -4.55,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 226,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "CYYZ",
+    "estDepartureAirportHorizDistance": 1618,
+    "estDepartureAirportVertDistance": 36,
+    "firstSeen": 1717022021,
+    "lastSeen": 1717022116
+}

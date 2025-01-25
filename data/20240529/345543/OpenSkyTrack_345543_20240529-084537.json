@@ -1,0 +1,120 @@
+{
+    "callsign": "ANE79RM ",
+    "endTime": "2024/05/29-08:45:26",
+    "icao24": "345543",
+    "path": [
+        [
+            1716983070,
+            36.5418,
+            -6.1349,
+            2133,
+            132,
+            false
+        ],
+        [
+            1716983073,
+            36.5399,
+            -6.1315,
+            2133,
+            124,
+            false
+        ],
+        [
+            1716983083,
+            36.5358,
+            -6.1186,
+            2438,
+            107,
+            false
+        ],
+        [
+            1716983089,
+            36.5346,
+            -6.1099,
+            2438,
+            100,
+            false
+        ],
+        [
+            1716983093,
+            36.5344,
+            -6.1044,
+            2438,
+            92,
+            false
+        ],
+        [
+            1716983093,
+            36.5344,
+            -6.1044,
+            2438,
+            78,
+            false
+        ],
+        [
+            1716983113,
+            36.5403,
+            -6.0773,
+            2743,
+            78,
+            false
+        ],
+        [
+            1716983126,
+            36.5511,
+            -6.0617,
+            2743,
+            39,
+            false
+        ],
+        [
+            1716983126,
+            36.5511,
+            -6.0617,
+            2743,
+            29,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-08:44:30",
+    "baro_altitude": 1790.7,
+    "category": 4,
+    "geo_altitude": 1950.72,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716978990,
+    "latitude": 37.1215,
+    "longitude": -5.8741,
+    "on_ground": false,
+    "origin_country": "Spain",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1716978990,
+    "true_track": 203.14,
+    "velocity": 134.83,
+    "vertical_rate": -3.58,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LEGC",
+    "estDepartureAirportHorizDistance": 184743,
+    "estDepartureAirportVertDistance": 1751,
+    "firstSeen": 1716983070,
+    "lastSeen": 1716983126
+}

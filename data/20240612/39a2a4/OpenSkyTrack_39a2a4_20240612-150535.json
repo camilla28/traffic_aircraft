@@ -1,0 +1,160 @@
+{
+    "callsign": "FHIVE   ",
+    "endTime": "2024/06/12-14:57:48",
+    "icao24": "39a2a4",
+    "path": [
+        [
+            1718214645,
+            43.5462,
+            6.9511,
+            0,
+            173,
+            false
+        ],
+        [
+            1718214679,
+            43.5305,
+            6.9534,
+            0,
+            173,
+            false
+        ],
+        [
+            1718214688,
+            43.526,
+            6.9539,
+            0,
+            181,
+            false
+        ],
+        [
+            1718214695,
+            43.5221,
+            6.9524,
+            304,
+            205,
+            false
+        ],
+        [
+            1718214705,
+            43.5184,
+            6.9481,
+            304,
+            229,
+            false
+        ],
+        [
+            1718214713,
+            43.5163,
+            6.9423,
+            304,
+            250,
+            false
+        ],
+        [
+            1718214722,
+            43.5151,
+            6.9359,
+            304,
+            259,
+            false
+        ],
+        [
+            1718214731,
+            43.5147,
+            6.9297,
+            304,
+            267,
+            false
+        ],
+        [
+            1718214798,
+            43.5132,
+            6.8725,
+            609,
+            269,
+            false
+        ],
+        [
+            1718214856,
+            43.5136,
+            6.8207,
+            914,
+            270,
+            false
+        ],
+        [
+            1718214864,
+            43.5142,
+            6.8132,
+            914,
+            281,
+            false
+        ],
+        [
+            1718214868,
+            43.515,
+            6.8092,
+            914,
+            287,
+            false
+        ],
+        [
+            1718214900,
+            43.5216,
+            6.7783,
+            914,
+            285,
+            false
+        ],
+        [
+            1718215068,
+            43.5493,
+            6.6282,
+            914,
+            283,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-14:50:45",
+    "baro_altitude": 556.26,
+    "category": 0,
+    "geo_altitude": 655.32,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204539,
+    "latitude": 48.2198,
+    "longitude": 2.3037,
+    "on_ground": false,
+    "origin_country": "France",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7042",
+    "time_position": 1718204537,
+    "true_track": 152.26,
+    "velocity": 89.51,
+    "vertical_rate": -0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 32,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFMD",
+    "estDepartureAirportHorizDistance": 527,
+    "estDepartureAirportVertDistance": 49,
+    "firstSeen": 1718214645,
+    "lastSeen": 1718215068
+}

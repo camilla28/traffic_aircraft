@@ -1,0 +1,80 @@
+{
+    "callsign": "AXB930  ",
+    "endTime": "2024/06/14-13:02:49",
+    "icao24": "80162d",
+    "path": [
+        [
+            1718380341,
+            25.4913,
+            55.1664,
+            10668,
+            107,
+            false
+        ],
+        [
+            1718380905,
+            25.09,
+            56.5111,
+            10668,
+            108,
+            false
+        ],
+        [
+            1718380932,
+            25.0681,
+            56.574,
+            10668,
+            112,
+            false
+        ],
+        [
+            1718380969,
+            25.0366,
+            56.6597,
+            10668,
+            112,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-12:52:21",
+    "baro_altitude": 10668,
+    "category": 0,
+    "geo_altitude": 11369.04,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718380969,
+    "latitude": 25.0366,
+    "longitude": 56.6597,
+    "on_ground": false,
+    "origin_country": "India",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718380969,
+    "true_track": 112.06,
+    "velocity": 252.01,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1718380341,
+    "lastSeen": 1718380969
+}

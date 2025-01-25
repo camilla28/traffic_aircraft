@@ -1,0 +1,80 @@
+{
+    "callsign": "BAW8TD  ",
+    "endTime": "2024/06/07-11:09:15",
+    "icao24": "40649f",
+    "path": [
+        [
+            1717769314,
+            51.4776,
+            -0.4619,
+            -304,
+            90,
+            false
+        ],
+        [
+            1717769326,
+            51.4777,
+            -0.4755,
+            0,
+            270,
+            false
+        ],
+        [
+            1717769336,
+            51.4776,
+            -0.4868,
+            0,
+            269,
+            false
+        ],
+        [
+            1717769355,
+            51.4776,
+            -0.5083,
+            304,
+            270,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-11:08:34",
+    "baro_altitude": 2430.78,
+    "category": 0,
+    "geo_altitude": 2537.46,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762945,
+    "latitude": 51.3282,
+    "longitude": 0.0436,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5733",
+    "time_position": 1717762945,
+    "true_track": 291.34,
+    "velocity": 118.75,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 120,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EGLL",
+    "estDepartureAirportHorizDistance": 1037,
+    "estDepartureAirportVertDistance": 40,
+    "firstSeen": 1717769314,
+    "lastSeen": 1717769355
+}

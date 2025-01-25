@@ -1,0 +1,88 @@
+{
+    "callsign": "DWI1091 ",
+    "endTime": "2024/06/05-09:29:23",
+    "icao24": "0c4354",
+    "path": [
+        [
+            1717536123,
+            32.5083,
+            -77.8999,
+            11582,
+            177,
+            false
+        ],
+        [
+            1717536963,
+            30.7025,
+            -77.7723,
+            11582,
+            176,
+            false
+        ],
+        [
+            1717590355,
+            18.3754,
+            -69.9414,
+            2743,
+            274,
+            false
+        ],
+        [
+            1717590355,
+            18.3754,
+            -69.9414,
+            2743,
+            274,
+            false
+        ],
+        [
+            1717590563,
+            18.4011,
+            -70.2731,
+            4876,
+            274,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-18:22:03",
+    "baro_altitude": 4876.8,
+    "category": 0,
+    "geo_altitude": 5158.74,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717590564,
+    "latitude": 18.4011,
+    "longitude": -70.2731,
+    "on_ground": false,
+    "origin_country": "Dominican Republic",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717590563,
+    "true_track": 274.56,
+    "velocity": 181.14,
+    "vertical_rate": 11.7,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717536123,
+    "lastSeen": 1717590563
+}

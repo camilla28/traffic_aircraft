@@ -1,0 +1,80 @@
+{
+    "callsign": "GOIA    ",
+    "endTime": "2024/06/04-10:05:59",
+    "icao24": "c06a71",
+    "path": [
+        [
+            1717504360,
+            51.1566,
+            -113.9091,
+            2133,
+            122,
+            false
+        ],
+        [
+            1717505244,
+            51.1554,
+            -113.9061,
+            2133,
+            122,
+            false
+        ],
+        [
+            1717505921,
+            51.1536,
+            -113.9018,
+            2133,
+            122,
+            false
+        ],
+        [
+            1717506359,
+            51.1531,
+            -113.9006,
+            2133,
+            122,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:32:40",
+    "baro_altitude": 2232.66,
+    "category": 0,
+    "geo_altitude": 2065.02,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504532,
+    "latitude": 51.1561,
+    "longitude": -113.908,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504516,
+    "true_track": 122.77,
+    "velocity": 97.89,
+    "vertical_rate": 4.23,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 65,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "CYYC",
+    "estDepartureAirportHorizDistance": 109436,
+    "estDepartureAirportVertDistance": 1140,
+    "firstSeen": 1717504360,
+    "lastSeen": 1717506359
+}

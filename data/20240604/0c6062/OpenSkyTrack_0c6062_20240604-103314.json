@@ -1,0 +1,80 @@
+{
+    "callsign": "BWA520  ",
+    "endTime": "2024/06/04-10:28:35",
+    "icao24": "0c6062",
+    "path": [
+        [
+            1717505309,
+            17.8347,
+            -64.9945,
+            11582,
+            345,
+            false
+        ],
+        [
+            1717506184,
+            17.8965,
+            -65.0115,
+            11582,
+            345,
+            false
+        ],
+        [
+            1717507067,
+            17.9957,
+            -65.0386,
+            11582,
+            345,
+            false
+        ],
+        [
+            1717507715,
+            18.0206,
+            -65.0454,
+            11582,
+            345,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:48:29",
+    "baro_altitude": 11582.4,
+    "category": 0,
+    "geo_altitude": 12321.54,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504671,
+    "latitude": 17.7871,
+    "longitude": -64.9816,
+    "on_ground": false,
+    "origin_country": "Trinidad and Tobago",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504670,
+    "true_track": 345.44,
+    "velocity": 233.33,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717505309,
+    "lastSeen": 1717507715
+}

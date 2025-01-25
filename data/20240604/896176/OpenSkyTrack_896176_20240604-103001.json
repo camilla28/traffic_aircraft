@@ -1,0 +1,72 @@
+{
+    "callsign": "UAE248  ",
+    "endTime": "2024/06/04-09:46:34",
+    "icao24": "896176",
+    "path": [
+        [
+            1717504051,
+            -28.1228,
+            -48.8402,
+            11887,
+            48,
+            false
+        ],
+        [
+            1717504843,
+            -28.0997,
+            -48.8113,
+            11887,
+            47,
+            false
+        ],
+        [
+            1717505194,
+            -28.0929,
+            -48.8028,
+            11887,
+            47,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:27:31",
+    "baro_altitude": 11887.2,
+    "category": 0,
+    "geo_altitude": 12268.2,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504494,
+    "latitude": -28.114,
+    "longitude": -48.8293,
+    "on_ground": false,
+    "origin_country": "United Arab Emirates",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504486,
+    "true_track": 48.05,
+    "velocity": 273.21,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717504051,
+    "lastSeen": 1717505194
+}

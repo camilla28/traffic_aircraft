@@ -1,0 +1,112 @@
+{
+    "callsign": "IGO215  ",
+    "endTime": "2024/05/29-11:02:42",
+    "icao24": "80161a",
+    "path": [
+        [
+            1716991171,
+            30.3369,
+            76.8337,
+            3657,
+            180,
+            false
+        ],
+        [
+            1716991200,
+            30.3011,
+            76.8334,
+            3962,
+            180,
+            false
+        ],
+        [
+            1716991231,
+            30.2592,
+            76.8329,
+            4267,
+            180,
+            false
+        ],
+        [
+            1716991264,
+            30.2135,
+            76.8324,
+            4572,
+            180,
+            false
+        ],
+        [
+            1716991296,
+            30.1676,
+            76.832,
+            4876,
+            180,
+            false
+        ],
+        [
+            1716991321,
+            30.1307,
+            76.8316,
+            5181,
+            180,
+            false
+        ],
+        [
+            1716991356,
+            30.077,
+            76.8311,
+            5486,
+            180,
+            false
+        ],
+        [
+            1716991362,
+            30.0673,
+            76.8311,
+            5791,
+            180,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-10:59:31",
+    "baro_altitude": 4686.3,
+    "category": 0,
+    "geo_altitude": 4831.08,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716991248,
+    "latitude": 30.2367,
+    "longitude": 76.8326,
+    "on_ground": false,
+    "origin_country": "India",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1716991248,
+    "true_track": 180.57,
+    "velocity": 154.34,
+    "vertical_rate": 10.08,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "VIAM",
+    "estDepartureAirportHorizDistance": 135581,
+    "estDepartureAirportVertDistance": 3624,
+    "firstSeen": 1716991171,
+    "lastSeen": 1716991362
+}

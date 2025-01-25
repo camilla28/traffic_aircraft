@@ -1,0 +1,296 @@
+{
+    "callsign": "EIN605P ",
+    "endTime": "2024/06/05-08:33:31",
+    "icao24": "4ca63a",
+    "path": [
+        [
+            1717586911,
+            52.291,
+            4.7427,
+            0,
+            236,
+            false
+        ],
+        [
+            1717586917,
+            52.2888,
+            4.7371,
+            0,
+            236,
+            false
+        ],
+        [
+            1717586942,
+            52.2796,
+            4.7142,
+            304,
+            237,
+            false
+        ],
+        [
+            1717586948,
+            52.2769,
+            4.7073,
+            609,
+            237,
+            false
+        ],
+        [
+            1717586954,
+            52.2745,
+            4.7016,
+            609,
+            233,
+            false
+        ],
+        [
+            1717586961,
+            52.271,
+            4.6951,
+            609,
+            226,
+            false
+        ],
+        [
+            1717586978,
+            52.2605,
+            4.6775,
+            609,
+            226,
+            false
+        ],
+        [
+            1717586984,
+            52.2572,
+            4.6703,
+            609,
+            238,
+            false
+        ],
+        [
+            1717586989,
+            52.2554,
+            4.6631,
+            609,
+            253,
+            false
+        ],
+        [
+            1717586995,
+            52.2546,
+            4.6525,
+            609,
+            270,
+            false
+        ],
+        [
+            1717587000,
+            52.2554,
+            4.6448,
+            914,
+            284,
+            false
+        ],
+        [
+            1717587005,
+            52.2577,
+            4.6357,
+            914,
+            298,
+            false
+        ],
+        [
+            1717587011,
+            52.2616,
+            4.6275,
+            914,
+            314,
+            false
+        ],
+        [
+            1717587015,
+            52.266,
+            4.6217,
+            914,
+            325,
+            false
+        ],
+        [
+            1717587020,
+            52.2711,
+            4.6165,
+            914,
+            331,
+            false
+        ],
+        [
+            1717587027,
+            52.2777,
+            4.6115,
+            1219,
+            337,
+            false
+        ],
+        [
+            1717587031,
+            52.2831,
+            4.6082,
+            1219,
+            341,
+            false
+        ],
+        [
+            1717587038,
+            52.2905,
+            4.6048,
+            1219,
+            345,
+            false
+        ],
+        [
+            1717587044,
+            52.2974,
+            4.6021,
+            1524,
+            347,
+            false
+        ],
+        [
+            1717587057,
+            52.3135,
+            4.5969,
+            1524,
+            348,
+            false
+        ],
+        [
+            1717587077,
+            52.3384,
+            4.5882,
+            1828,
+            346,
+            false
+        ],
+        [
+            1717587088,
+            52.3521,
+            4.5826,
+            2133,
+            345,
+            false
+        ],
+        [
+            1717587095,
+            52.3607,
+            4.5786,
+            2133,
+            343,
+            false
+        ],
+        [
+            1717587119,
+            52.3914,
+            4.563,
+            2438,
+            341,
+            false
+        ],
+        [
+            1717587126,
+            52.3992,
+            4.5583,
+            2743,
+            336,
+            false
+        ],
+        [
+            1717587131,
+            52.4049,
+            4.5534,
+            2743,
+            330,
+            false
+        ],
+        [
+            1717587136,
+            52.4104,
+            4.547,
+            2743,
+            320,
+            false
+        ],
+        [
+            1717587141,
+            52.4148,
+            4.5399,
+            2743,
+            312,
+            false
+        ],
+        [
+            1717587147,
+            52.4196,
+            4.5306,
+            3048,
+            309,
+            false
+        ],
+        [
+            1717587171,
+            52.4387,
+            4.4914,
+            3048,
+            308,
+            false
+        ],
+        [
+            1717587211,
+            52.4756,
+            4.4171,
+            3352,
+            309,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-08:28:31",
+    "baro_altitude": 922.02,
+    "category": 0,
+    "geo_altitude": 975.36,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717582996,
+    "latitude": 52.3509,
+    "longitude": 5.1603,
+    "on_ground": false,
+    "origin_country": "Ireland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2254",
+    "time_position": 1717582996,
+    "true_track": 192.29,
+    "velocity": 106.35,
+    "vertical_rate": -4.55,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 63,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EHAM",
+    "estDepartureAirportHorizDistance": 2233,
+    "estDepartureAirportVertDistance": 178,
+    "firstSeen": 1717586911,
+    "lastSeen": 1717587211
+}

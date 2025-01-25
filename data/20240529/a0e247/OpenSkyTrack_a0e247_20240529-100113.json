@@ -1,0 +1,136 @@
+{
+    "callsign": "N156UM  ",
+    "endTime": "2024/05/29-10:01:04",
+    "icao24": "a0e247",
+    "path": [
+        [
+            1716986145,
+            42.2854,
+            -83.728,
+            0,
+            279,
+            false
+        ],
+        [
+            1716986166,
+            42.2862,
+            -83.7344,
+            304,
+            280,
+            false
+        ],
+        [
+            1716986173,
+            42.287,
+            -83.7372,
+            304,
+            304,
+            false
+        ],
+        [
+            1716986180,
+            42.2889,
+            -83.7389,
+            304,
+            346,
+            false
+        ],
+        [
+            1716986186,
+            42.2911,
+            -83.7388,
+            304,
+            13,
+            false
+        ],
+        [
+            1716986194,
+            42.2939,
+            -83.7371,
+            304,
+            32,
+            false
+        ],
+        [
+            1716986201,
+            42.2961,
+            -83.735,
+            304,
+            32,
+            false
+        ],
+        [
+            1716986209,
+            42.2987,
+            -83.7332,
+            609,
+            26,
+            false
+        ],
+        [
+            1716986237,
+            42.3094,
+            -83.7261,
+            609,
+            26,
+            false
+        ],
+        [
+            1716987129,
+            42.8185,
+            -83.3797,
+            609,
+            26,
+            false
+        ],
+        [
+            1716987664,
+            43.1245,
+            -83.1687,
+            609,
+            26,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-09:35:45",
+    "baro_altitude": 883.92,
+    "category": 0,
+    "geo_altitude": 876.3,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716987582,
+    "latitude": 43.0752,
+    "longitude": -83.203,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1716987578,
+    "true_track": 26.75,
+    "velocity": 70.86,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 330,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KARB",
+    "estDepartureAirportHorizDistance": 7097,
+    "estDepartureAirportVertDistance": 33,
+    "firstSeen": 1716986145,
+    "lastSeen": 1716987664
+}

@@ -1,0 +1,120 @@
+{
+    "callsign": "IOZZM   ",
+    "endTime": "2024/06/07-11:06:22",
+    "icao24": "300860",
+    "path": [
+        [
+            1717769090,
+            44.6448,
+            11.9585,
+            304,
+            65,
+            false
+        ],
+        [
+            1717769090,
+            44.6448,
+            11.9585,
+            304,
+            65,
+            false
+        ],
+        [
+            1717769115,
+            44.6488,
+            11.9732,
+            304,
+            73,
+            false
+        ],
+        [
+            1717769124,
+            44.6498,
+            11.978,
+            304,
+            73,
+            false
+        ],
+        [
+            1717769133,
+            44.6511,
+            11.9839,
+            304,
+            70,
+            false
+        ],
+        [
+            1717769133,
+            44.6511,
+            11.9839,
+            304,
+            68,
+            false
+        ],
+        [
+            1717769164,
+            44.6567,
+            12.0019,
+            304,
+            66,
+            false
+        ],
+        [
+            1717769173,
+            44.658,
+            12.0068,
+            304,
+            70,
+            false
+        ],
+        [
+            1717769182,
+            44.6593,
+            12.0122,
+            304,
+            71,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-11:04:50",
+    "baro_altitude": 640.08,
+    "category": 0,
+    "geo_altitude": 777.24,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762945,
+    "latitude": 44.7841,
+    "longitude": 11.9751,
+    "on_ground": false,
+    "origin_country": "Italy",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7017",
+    "time_position": 1717762945,
+    "true_track": 219.89,
+    "velocity": 44.92,
+    "vertical_rate": -1.3,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 50,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LIDV",
+    "estDepartureAirportHorizDistance": 27901,
+    "estDepartureAirportVertDistance": 390,
+    "firstSeen": 1717769090,
+    "lastSeen": 1717769182
+}

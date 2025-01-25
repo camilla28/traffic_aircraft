@@ -1,0 +1,128 @@
+{
+    "callsign": "VOE9BB  ",
+    "endTime": "2024/06/04-10:04:01",
+    "icao24": "34761a",
+    "path": [
+        [
+            1717503113,
+            43.1877,
+            8.2061,
+            11277,
+            122,
+            false
+        ],
+        [
+            1717503923,
+            43.1364,
+            8.3141,
+            11277,
+            122,
+            false
+        ],
+        [
+            1717504734,
+            43.0895,
+            8.4125,
+            11277,
+            123,
+            false
+        ],
+        [
+            1717505629,
+            43.0509,
+            8.4933,
+            11277,
+            123,
+            false
+        ],
+        [
+            1717505736,
+            43.0445,
+            8.5067,
+            11277,
+            123,
+            false
+        ],
+        [
+            1717505739,
+            43.0439,
+            8.508,
+            10972,
+            123,
+            false
+        ],
+        [
+            1717505883,
+            43.0379,
+            8.5206,
+            11277,
+            123,
+            false
+        ],
+        [
+            1717505910,
+            43.0427,
+            8.5105,
+            10972,
+            123,
+            false
+        ],
+        [
+            1717505924,
+            43.0385,
+            8.5193,
+            11277,
+            123,
+            false
+        ],
+        [
+            1717506241,
+            43.0199,
+            8.5582,
+            10972,
+            123,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:11:53",
+    "baro_altitude": 11277.6,
+    "category": 0,
+    "geo_altitude": 11513.82,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504713,
+    "latitude": 43.089,
+    "longitude": 8.4136,
+    "on_ground": false,
+    "origin_country": "Spain",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2375",
+    "time_position": 1717504710,
+    "true_track": 123.06,
+    "velocity": 233.87,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717503113,
+    "lastSeen": 1717506241
+}

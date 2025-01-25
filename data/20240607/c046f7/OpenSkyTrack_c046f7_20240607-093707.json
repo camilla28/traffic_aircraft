@@ -1,0 +1,112 @@
+{
+    "callsign": "WJA229  ",
+    "endTime": "2024/06/07-09:34:39",
+    "icao24": "c046f7",
+    "path": [
+        [
+            1717761185,
+            45.7397,
+            -65.6829,
+            9753,
+            302,
+            false
+        ],
+        [
+            1717761227,
+            45.7832,
+            -65.782,
+            9753,
+            302,
+            false
+        ],
+        [
+            1717761244,
+            45.8008,
+            -65.8223,
+            10058,
+            302,
+            false
+        ],
+        [
+            1717761317,
+            45.8761,
+            -65.9945,
+            10363,
+            301,
+            false
+        ],
+        [
+            1717761391,
+            45.9504,
+            -66.1654,
+            10668,
+            301,
+            false
+        ],
+        [
+            1717762285,
+            46.8512,
+            -68.2809,
+            10972,
+            301,
+            false
+        ],
+        [
+            1717763180,
+            47.7678,
+            -70.6011,
+            10972,
+            299,
+            false
+        ],
+        [
+            1717763679,
+            48.2823,
+            -71.9866,
+            10972,
+            298,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-08:53:05",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": 11216.64,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762927,
+    "latitude": 47.5063,
+    "longitude": -69.9186,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3163",
+    "time_position": 1717762926,
+    "true_track": 299.82,
+    "velocity": 230.67,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "CCY3",
+    "estDepartureAirportHorizDistance": 5527,
+    "estDepartureAirportVertDistance": 9679,
+    "firstSeen": 1717761185,
+    "lastSeen": 1717763679
+}

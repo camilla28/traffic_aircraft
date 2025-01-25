@@ -1,0 +1,96 @@
+{
+    "callsign": "SCU8    ",
+    "endTime": "2024/06/07-18:38:05",
+    "icao24": "a6faee",
+    "path": [
+        [
+            1717796089,
+            36.2625,
+            -94.3582,
+            609,
+            258,
+            false
+        ],
+        [
+            1717796151,
+            36.2578,
+            -94.3878,
+            914,
+            259,
+            false
+        ],
+        [
+            1717796162,
+            36.2571,
+            -94.3931,
+            914,
+            261,
+            false
+        ],
+        [
+            1717796237,
+            36.2529,
+            -94.4277,
+            914,
+            260,
+            false
+        ],
+        [
+            1717796255,
+            36.2518,
+            -94.4357,
+            1219,
+            258,
+            false
+        ],
+        [
+            1717796285,
+            36.2496,
+            -94.4488,
+            1219,
+            260,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-18:34:49",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717794303,
+    "latitude": null,
+    "longitude": null,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": null,
+    "true_track": 79.65,
+    "velocity": 60.14,
+    "vertical_rate": -0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 257,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KXNA",
+    "estDepartureAirportHorizDistance": 5092,
+    "estDepartureAirportVertDistance": 415,
+    "firstSeen": 1717796089,
+    "lastSeen": 1717796285
+}

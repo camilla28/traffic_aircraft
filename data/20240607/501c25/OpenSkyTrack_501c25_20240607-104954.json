@@ -1,0 +1,184 @@
+{
+    "callsign": "CTN8A   ",
+    "endTime": "2024/06/07-10:49:53",
+    "icao24": "501c25",
+    "path": [
+        [
+            1717767836,
+            45.7195,
+            16.2963,
+            1828,
+            144,
+            false
+        ],
+        [
+            1717767844,
+            45.7116,
+            16.304,
+            1828,
+            145,
+            false
+        ],
+        [
+            1717767861,
+            45.6931,
+            16.3222,
+            2133,
+            144,
+            false
+        ],
+        [
+            1717767889,
+            45.663,
+            16.3531,
+            2438,
+            144,
+            false
+        ],
+        [
+            1717767906,
+            45.6435,
+            16.3732,
+            2743,
+            143,
+            false
+        ],
+        [
+            1717767943,
+            45.6,
+            16.4181,
+            3048,
+            144,
+            false
+        ],
+        [
+            1717767970,
+            45.5646,
+            16.4543,
+            3352,
+            144,
+            false
+        ],
+        [
+            1717767988,
+            45.5404,
+            16.4789,
+            3657,
+            144,
+            false
+        ],
+        [
+            1717768007,
+            45.5162,
+            16.5037,
+            3962,
+            144,
+            false
+        ],
+        [
+            1717768032,
+            45.482,
+            16.5387,
+            4267,
+            144,
+            false
+        ],
+        [
+            1717768059,
+            45.4463,
+            16.5751,
+            4572,
+            144,
+            false
+        ],
+        [
+            1717768084,
+            45.4108,
+            16.6111,
+            4876,
+            144,
+            false
+        ],
+        [
+            1717768111,
+            45.3717,
+            16.6508,
+            5181,
+            144,
+            false
+        ],
+        [
+            1717768132,
+            45.3415,
+            16.6814,
+            5486,
+            144,
+            false
+        ],
+        [
+            1717768172,
+            45.2878,
+            16.7356,
+            5791,
+            144,
+            false
+        ],
+        [
+            1717768183,
+            45.2661,
+            16.7574,
+            6096,
+            144,
+            false
+        ],
+        [
+            1717768193,
+            45.2504,
+            16.7714,
+            6096,
+            151,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-10:43:56",
+    "baro_altitude": 1043.94,
+    "category": 0,
+    "geo_altitude": 1173.48,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762804,
+    "latitude": 45.8979,
+    "longitude": 16.3051,
+    "on_ground": false,
+    "origin_country": "Croatia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1717762804,
+    "true_track": 227.47,
+    "velocity": 109.6,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 49,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LDZI",
+    "estDepartureAirportHorizDistance": 4553,
+    "estDepartureAirportVertDistance": 1943,
+    "firstSeen": 1717767836,
+    "lastSeen": 1717768193
+}

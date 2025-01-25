@@ -1,0 +1,120 @@
+{
+    "callsign": "N492HB  ",
+    "endTime": "2024/05/29-10:56:51",
+    "icao24": "a61837",
+    "path": [
+        [
+            1716990606,
+            18.4548,
+            -69.9056,
+            0,
+            249,
+            false
+        ],
+        [
+            1716990606,
+            18.4548,
+            -69.9056,
+            0,
+            304,
+            false
+        ],
+        [
+            1716990896,
+            18.4604,
+            -69.9438,
+            0,
+            344,
+            false
+        ],
+        [
+            1716990915,
+            18.4699,
+            -69.9463,
+            0,
+            346,
+            false
+        ],
+        [
+            1716990924,
+            18.4778,
+            -69.9488,
+            0,
+            341,
+            false
+        ],
+        [
+            1716990997,
+            18.5187,
+            -69.9626,
+            0,
+            339,
+            false
+        ],
+        [
+            1716991005,
+            18.5229,
+            -69.9643,
+            0,
+            338,
+            false
+        ],
+        [
+            1716991011,
+            18.5259,
+            -69.9656,
+            0,
+            336,
+            false
+        ],
+        [
+            1716991011,
+            18.5259,
+            -69.9656,
+            0,
+            335,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-10:50:06",
+    "baro_altitude": 137.16,
+    "category": 0,
+    "geo_altitude": 160.02,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716991028,
+    "latitude": 18.5259,
+    "longitude": -69.9656,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1716991011,
+    "true_track": 335.1,
+    "velocity": 63.52,
+    "vertical_rate": -0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 30,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "MDJB",
+    "estDepartureAirportHorizDistance": 15569,
+    "estDepartureAirportVertDistance": 53,
+    "firstSeen": 1716990606,
+    "lastSeen": 1716991011
+}

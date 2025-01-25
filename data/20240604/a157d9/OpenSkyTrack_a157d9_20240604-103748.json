@@ -1,0 +1,80 @@
+{
+    "callsign": "RTY186  ",
+    "endTime": "2024/06/04-10:37:17",
+    "icao24": "a157d9",
+    "path": [
+        [
+            1717507772,
+            40.4227,
+            -105.0181,
+            1828,
+            156,
+            false
+        ],
+        [
+            1717508069,
+            40.4211,
+            -105.0172,
+            1828,
+            158,
+            false
+        ],
+        [
+            1717508077,
+            40.4193,
+            -105.0163,
+            1828,
+            160,
+            false
+        ],
+        [
+            1717508237,
+            40.418,
+            -105.0157,
+            1828,
+            160,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-10:29:32",
+    "baro_altitude": 1889.76,
+    "category": 0,
+    "geo_altitude": 1828.8,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504606,
+    "latitude": 40.4326,
+    "longitude": -105.0238,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504606,
+    "true_track": 156.8,
+    "velocity": 62.69,
+    "vertical_rate": -1.3,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 167,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KFNL",
+    "estDepartureAirportHorizDistance": 3287,
+    "estDepartureAirportVertDistance": 345,
+    "firstSeen": 1717507772,
+    "lastSeen": 1717508237
+}

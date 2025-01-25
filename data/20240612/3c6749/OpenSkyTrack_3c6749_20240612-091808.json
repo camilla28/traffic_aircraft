@@ -1,0 +1,80 @@
+{
+    "callsign": "DLH8FM  ",
+    "endTime": "2024/06/12-09:18:15",
+    "icao24": "3c6749",
+    "path": [
+        [
+            1718194649,
+            50.0776,
+            19.7834,
+            0,
+            258,
+            false
+        ],
+        [
+            1718194654,
+            50.0769,
+            19.7784,
+            0,
+            258,
+            false
+        ],
+        [
+            1718194681,
+            50.0728,
+            19.7487,
+            304,
+            257,
+            false
+        ],
+        [
+            1718194695,
+            50.0707,
+            19.7335,
+            609,
+            257,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-09:17:29",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194259,
+    "latitude": 50.0738,
+    "longitude": 19.799,
+    "on_ground": true,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": true,
+    "squawk": "4415",
+    "time_position": 1718194258,
+    "true_track": 78.75,
+    "velocity": 0,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 42,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EPKK",
+    "estDepartureAirportHorizDistance": 319,
+    "estDepartureAirportVertDistance": 58,
+    "firstSeen": 1718194649,
+    "lastSeen": 1718194695
+}

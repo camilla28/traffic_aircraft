@@ -1,0 +1,104 @@
+{
+    "callsign": "SDM6308 ",
+    "endTime": "2024/06/04-09:53:02",
+    "icao24": "155c5f",
+    "path": [
+        [
+            1717502235,
+            64.5276,
+            40.7092,
+            1828,
+            240,
+            false
+        ],
+        [
+            1717502335,
+            64.524,
+            40.6943,
+            1828,
+            240,
+            false
+        ],
+        [
+            1717502951,
+            64.5133,
+            40.6519,
+            2133,
+            239,
+            false
+        ],
+        [
+            1717503544,
+            64.5032,
+            40.6133,
+            2438,
+            238,
+            false
+        ],
+        [
+            1717504366,
+            64.4877,
+            40.5559,
+            2743,
+            237,
+            false
+        ],
+        [
+            1717505029,
+            64.4723,
+            40.4992,
+            3048,
+            237,
+            false
+        ],
+        [
+            1717505582,
+            64.4588,
+            40.45,
+            3352,
+            237,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:57:15",
+    "baro_altitude": 3169.92,
+    "category": 0,
+    "geo_altitude": 3032.76,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504692,
+    "latitude": 64.4813,
+    "longitude": 40.532,
+    "on_ground": false,
+    "origin_country": "Russian Federation",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504692,
+    "true_track": 237.76,
+    "velocity": 146.58,
+    "vertical_rate": 18.21,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "ULAA",
+    "estDepartureAirportHorizDistance": 8087,
+    "estDepartureAirportVertDistance": 1992,
+    "firstSeen": 1717502235,
+    "lastSeen": 1717505582
+}

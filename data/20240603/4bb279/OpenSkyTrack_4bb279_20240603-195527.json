@@ -1,0 +1,120 @@
+{
+    "callsign": "THY9YM  ",
+    "endTime": "2024/06/03-19:18:12",
+    "icao24": "4bb279",
+    "path": [
+        [
+            1717452633,
+            24.4436,
+            54.6364,
+            304,
+            306,
+            false
+        ],
+        [
+            1717452640,
+            24.4467,
+            54.6318,
+            304,
+            306,
+            false
+        ],
+        [
+            1717452678,
+            24.4659,
+            54.6034,
+            609,
+            307,
+            false
+        ],
+        [
+            1717452918,
+            24.6907,
+            54.3707,
+            2438,
+            318,
+            false
+        ],
+        [
+            1717452931,
+            24.7048,
+            54.3568,
+            2438,
+            317,
+            false
+        ],
+        [
+            1717452956,
+            24.732,
+            54.3299,
+            2743,
+            317,
+            false
+        ],
+        [
+            1717452988,
+            24.7663,
+            54.2952,
+            3048,
+            316,
+            false
+        ],
+        [
+            1717453059,
+            24.8522,
+            54.2073,
+            3352,
+            317,
+            false
+        ],
+        [
+            1717453092,
+            24.8953,
+            54.1633,
+            3657,
+            317,
+            false
+        ]
+    ],
+    "startTime": "2024/06/03-19:10:33",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717452259,
+    "latitude": 24.4406,
+    "longitude": 54.6437,
+    "on_ground": true,
+    "origin_country": "Turkey",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717452259,
+    "true_track": 129.38,
+    "velocity": 7.72,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 22,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "OMAA",
+    "estDepartureAirportHorizDistance": 1510,
+    "estDepartureAirportVertDistance": 277,
+    "firstSeen": 1717452633,
+    "lastSeen": 1717453092
+}

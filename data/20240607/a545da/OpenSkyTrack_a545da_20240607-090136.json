@@ -1,0 +1,104 @@
+{
+    "callsign": "N439PH  ",
+    "endTime": "2024/06/07-08:55:33",
+    "icao24": "a545da",
+    "path": [
+        [
+            1717761103,
+            29.6899,
+            -90.5912,
+            304,
+            178,
+            false
+        ],
+        [
+            1717761196,
+            29.6381,
+            -90.5893,
+            304,
+            178,
+            false
+        ],
+        [
+            1717761201,
+            29.6352,
+            -90.5894,
+            304,
+            180,
+            false
+        ],
+        [
+            1717761223,
+            29.6219,
+            -90.5896,
+            304,
+            180,
+            false
+        ],
+        [
+            1717761288,
+            29.5837,
+            -90.5884,
+            304,
+            178,
+            false
+        ],
+        [
+            1717761328,
+            29.56,
+            -90.5867,
+            304,
+            175,
+            false
+        ],
+        [
+            1717761333,
+            29.5574,
+            -90.5865,
+            304,
+            175,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-08:51:43",
+    "baro_altitude": 586.74,
+    "category": 0,
+    "geo_altitude": 541.02,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717761333,
+    "latitude": 29.5574,
+    "longitude": -90.5865,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717761333,
+    "true_track": 175.53,
+    "velocity": 66.05,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 170,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "4LA9",
+    "estDepartureAirportHorizDistance": 6614,
+    "estDepartureAirportVertDistance": 598,
+    "firstSeen": 1717761103,
+    "lastSeen": 1717761333
+}

@@ -1,0 +1,80 @@
+{
+    "callsign": "PHPKX   ",
+    "endTime": "2024/06/07-08:49:06",
+    "icao24": "484fd4",
+    "path": [
+        [
+            1717760909,
+            48.9626,
+            2.4165,
+            304,
+            246,
+            false
+        ],
+        [
+            1717760915,
+            48.9608,
+            2.4103,
+            304,
+            246,
+            false
+        ],
+        [
+            1717760926,
+            48.9575,
+            2.3986,
+            609,
+            246,
+            false
+        ],
+        [
+            1717760946,
+            48.9513,
+            2.3768,
+            914,
+            246,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-08:48:29",
+    "baro_altitude": 30.48,
+    "category": 0,
+    "geo_altitude": 167.64,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717759038,
+    "latitude": 48.9656,
+    "longitude": 2.457,
+    "on_ground": false,
+    "origin_country": "Kingdom of the Netherlands",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1717759032,
+    "true_track": 266.21,
+    "velocity": 70.12,
+    "vertical_rate": -4.23,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 87,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFPB",
+    "estDepartureAirportHorizDistance": 1440,
+    "estDepartureAirportVertDistance": 398,
+    "firstSeen": 1717760909,
+    "lastSeen": 1717760946
+}

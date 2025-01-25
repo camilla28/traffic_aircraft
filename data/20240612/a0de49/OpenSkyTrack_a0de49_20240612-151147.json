@@ -1,0 +1,80 @@
+{
+    "callsign": "N155RR  ",
+    "endTime": "2024/06/12-15:11:46",
+    "icao24": "a0de49",
+    "path": [
+        [
+            1718215885,
+            40.7255,
+            -74.1199,
+            0,
+            191,
+            false
+        ],
+        [
+            1718215893,
+            40.7216,
+            -74.1207,
+            0,
+            185,
+            false
+        ],
+        [
+            1718215901,
+            40.717,
+            -74.1208,
+            0,
+            179,
+            false
+        ],
+        [
+            1718215906,
+            40.7141,
+            -74.1207,
+            0,
+            177,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-15:11:25",
+    "baro_altitude": 716.28,
+    "category": 0,
+    "geo_altitude": 746.76,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204674,
+    "latitude": 40.7728,
+    "longitude": -74.5024,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718204674,
+    "true_track": 196.12,
+    "velocity": 68.54,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 320,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KEWR",
+    "estDepartureAirportHorizDistance": 5583,
+    "estDepartureAirportVertDistance": 55,
+    "firstSeen": 1718215885,
+    "lastSeen": 1718215906
+}

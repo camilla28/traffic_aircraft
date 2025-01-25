@@ -1,0 +1,80 @@
+{
+    "callsign": "CHX89   ",
+    "endTime": "2024/05/29-19:21:11",
+    "icao24": "3ddc6b",
+    "path": [
+        [
+            1717021146,
+            49.4172,
+            11.8843,
+            609,
+            153,
+            false
+        ],
+        [
+            1717021237,
+            49.3734,
+            11.9177,
+            609,
+            151,
+            false
+        ],
+        [
+            1717021252,
+            49.3661,
+            11.9242,
+            609,
+            149,
+            false
+        ],
+        [
+            1717021271,
+            49.3574,
+            11.9324,
+            609,
+            147,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-19:19:06",
+    "baro_altitude": 967.74,
+    "category": 0,
+    "geo_altitude": 1013.46,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717016383,
+    "latitude": 49.0806,
+    "longitude": 12.1699,
+    "on_ground": false,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0020",
+    "time_position": 1717016383,
+    "true_track": 29.01,
+    "velocity": 64.71,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 138,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDPQ",
+    "estDepartureAirportHorizDistance": 15669,
+    "estDepartureAirportVertDistance": 488,
+    "firstSeen": 1717021146,
+    "lastSeen": 1717021271
+}

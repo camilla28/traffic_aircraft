@@ -1,0 +1,120 @@
+{
+    "callsign": "CHH7220 ",
+    "endTime": "2024/06/14-13:05:26",
+    "icao24": "782019",
+    "path": [
+        [
+            1718379635,
+            26.6634,
+            120.2495,
+            10363,
+            213,
+            false
+        ],
+        [
+            1718380206,
+            25.6977,
+            119.5437,
+            10363,
+            214,
+            false
+        ],
+        [
+            1718380217,
+            25.6484,
+            119.501,
+            10363,
+            223,
+            false
+        ],
+        [
+            1718380577,
+            25.0957,
+            118.9228,
+            10363,
+            222,
+            false
+        ],
+        [
+            1718380587,
+            25.0791,
+            118.9079,
+            10363,
+            214,
+            false
+        ],
+        [
+            1718380598,
+            25.058,
+            118.8941,
+            10363,
+            208,
+            false
+        ],
+        [
+            1718380893,
+            24.5168,
+            118.5611,
+            10363,
+            211,
+            false
+        ],
+        [
+            1718380917,
+            24.495,
+            118.5447,
+            10363,
+            214,
+            false
+        ],
+        [
+            1718381126,
+            24.1577,
+            118.2904,
+            10363,
+            214,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-12:40:35",
+    "baro_altitude": 10393.68,
+    "category": 0,
+    "geo_altitude": 11132.82,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718380973,
+    "latitude": 24.3657,
+    "longitude": 118.4467,
+    "on_ground": false,
+    "origin_country": "China",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718380973,
+    "true_track": 214.75,
+    "velocity": 239.17,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1718379635,
+    "lastSeen": 1718381126
+}

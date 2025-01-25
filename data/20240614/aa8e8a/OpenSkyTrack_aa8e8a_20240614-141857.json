@@ -1,0 +1,160 @@
+{
+    "callsign": "N78DT   ",
+    "endTime": "2024/06/14-14:17:38",
+    "icao24": "aa8e8a",
+    "path": [
+        [
+            1718384453,
+            32.6748,
+            -96.8619,
+            0,
+            138,
+            false
+        ],
+        [
+            1718384463,
+            32.6712,
+            -96.8587,
+            0,
+            145,
+            false
+        ],
+        [
+            1718384472,
+            32.6671,
+            -96.8564,
+            304,
+            166,
+            false
+        ],
+        [
+            1718384480,
+            32.6626,
+            -96.8572,
+            304,
+            204,
+            false
+        ],
+        [
+            1718384485,
+            32.6602,
+            -96.8587,
+            304,
+            210,
+            false
+        ],
+        [
+            1718384532,
+            32.6374,
+            -96.8743,
+            304,
+            208,
+            false
+        ],
+        [
+            1718384611,
+            32.5984,
+            -96.8994,
+            609,
+            209,
+            false
+        ],
+        [
+            1718384811,
+            32.4752,
+            -96.9788,
+            914,
+            208,
+            false
+        ],
+        [
+            1718384914,
+            32.4142,
+            -97.0183,
+            1219,
+            208,
+            false
+        ],
+        [
+            1718384974,
+            32.3786,
+            -97.0412,
+            1524,
+            208,
+            false
+        ],
+        [
+            1718384983,
+            32.3733,
+            -97.0447,
+            1524,
+            212,
+            false
+        ],
+        [
+            1718385001,
+            32.3625,
+            -97.0537,
+            1524,
+            214,
+            false
+        ],
+        [
+            1718385139,
+            32.2724,
+            -97.1267,
+            1828,
+            214,
+            false
+        ],
+        [
+            1718385458,
+            32.0603,
+            -97.3082,
+            1828,
+            214,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-14:00:53",
+    "baro_altitude": 2110.74,
+    "category": 0,
+    "geo_altitude": 2217.42,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718380973,
+    "latitude": 32.2885,
+    "longitude": -97.4646,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718380963,
+    "true_track": 57.61,
+    "velocity": 81.63,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 497,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KRBD",
+    "estDepartureAirportHorizDistance": 739,
+    "estDepartureAirportVertDistance": 57,
+    "firstSeen": 1718384453,
+    "lastSeen": 1718385458
+}

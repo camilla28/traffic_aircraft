@@ -1,0 +1,80 @@
+{
+    "callsign": "OAL7KT  ",
+    "endTime": "2024/06/12-10:32:04",
+    "icao24": "46bc4a",
+    "path": [
+        [
+            1718198421,
+            36.496,
+            23.2122,
+            1524,
+            37,
+            false
+        ],
+        [
+            1718198490,
+            36.5607,
+            23.2705,
+            1524,
+            34,
+            false
+        ],
+        [
+            1718198497,
+            36.5674,
+            23.2761,
+            1524,
+            33,
+            false
+        ],
+        [
+            1718199124,
+            37.1832,
+            23.7524,
+            1524,
+            32,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-10:20:21",
+    "baro_altitude": 1996.44,
+    "category": 0,
+    "geo_altitude": 2171.7,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194259,
+    "latitude": 36.9155,
+    "longitude": 23.4374,
+    "on_ground": false,
+    "origin_country": "Greece",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718194259,
+    "true_track": 212.25,
+    "velocity": 125.31,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 14,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LGKC",
+    "estDepartureAirportHorizDistance": 29868,
+    "estDepartureAirportVertDistance": 1342,
+    "firstSeen": 1718198421,
+    "lastSeen": 1718199124
+}

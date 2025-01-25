@@ -1,0 +1,144 @@
+{
+    "callsign": "NKS320  ",
+    "endTime": "2024/06/07-11:46:48",
+    "icao24": "ad775d",
+    "path": [
+        [
+            1717771483,
+            28.4405,
+            -81.2956,
+            304,
+            1,
+            false
+        ],
+        [
+            1717771493,
+            28.4478,
+            -81.2955,
+            304,
+            0,
+            false
+        ],
+        [
+            1717771502,
+            28.4537,
+            -81.2951,
+            304,
+            15,
+            false
+        ],
+        [
+            1717771511,
+            28.4604,
+            -81.2921,
+            304,
+            26,
+            false
+        ],
+        [
+            1717771522,
+            28.4673,
+            -81.2881,
+            609,
+            28,
+            false
+        ],
+        [
+            1717771531,
+            28.4737,
+            -81.2838,
+            609,
+            32,
+            false
+        ],
+        [
+            1717771550,
+            28.4878,
+            -81.2729,
+            609,
+            34,
+            false
+        ],
+        [
+            1717771570,
+            28.5051,
+            -81.26,
+            914,
+            32,
+            false
+        ],
+        [
+            1717771579,
+            28.5143,
+            -81.2547,
+            914,
+            20,
+            false
+        ],
+        [
+            1717771589,
+            28.5253,
+            -81.2522,
+            914,
+            4,
+            false
+        ],
+        [
+            1717771599,
+            28.5384,
+            -81.2513,
+            914,
+            2,
+            false
+        ],
+        [
+            1717771608,
+            28.5502,
+            -81.2508,
+            1219,
+            2,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-11:44:43",
+    "baro_altitude": 8839.2,
+    "category": 0,
+    "geo_altitude": 9311.64,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762944,
+    "latitude": 30.4826,
+    "longitude": -82.4886,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7730",
+    "time_position": 1717762944,
+    "true_track": 142.22,
+    "velocity": 246.04,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 305,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KMCO",
+    "estDepartureAirportHorizDistance": 1791,
+    "estDepartureAirportVertDistance": 283,
+    "firstSeen": 1717771483,
+    "lastSeen": 1717771608
+}

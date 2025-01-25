@@ -1,0 +1,152 @@
+{
+    "callsign": "DAL1613 ",
+    "endTime": "2024/06/12-15:02:55",
+    "icao24": "ac85ce",
+    "path": [
+        [
+            1718215164,
+            44.8831,
+            -93.2232,
+            0,
+            121,
+            false
+        ],
+        [
+            1718215201,
+            44.8682,
+            -93.1887,
+            304,
+            119,
+            false
+        ],
+        [
+            1718215210,
+            44.8655,
+            -93.1784,
+            609,
+            101,
+            false
+        ],
+        [
+            1718215219,
+            44.8651,
+            -93.1677,
+            609,
+            88,
+            false
+        ],
+        [
+            1718215227,
+            44.8656,
+            -93.1569,
+            609,
+            85,
+            false
+        ],
+        [
+            1718215251,
+            44.8674,
+            -93.1216,
+            609,
+            86,
+            false
+        ],
+        [
+            1718215283,
+            44.8694,
+            -93.0651,
+            914,
+            86,
+            false
+        ],
+        [
+            1718215293,
+            44.8712,
+            -93.0481,
+            914,
+            75,
+            false
+        ],
+        [
+            1718215301,
+            44.8758,
+            -93.0336,
+            1219,
+            59,
+            false
+        ],
+        [
+            1718215309,
+            44.8828,
+            -93.0216,
+            1219,
+            44,
+            false
+        ],
+        [
+            1718215317,
+            44.8924,
+            -93.011,
+            1219,
+            36,
+            false
+        ],
+        [
+            1718215360,
+            44.9407,
+            -92.9647,
+            1524,
+            34,
+            false
+        ],
+        [
+            1718215375,
+            44.9588,
+            -92.9471,
+            1828,
+            34,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-14:59:24",
+    "baro_altitude": 10058.4,
+    "category": 0,
+    "geo_altitude": 10492.74,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204676,
+    "latitude": 43.7989,
+    "longitude": -104.0564,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718204676,
+    "true_track": 76.54,
+    "velocity": 274.01,
+    "vertical_rate": 0.98,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 252,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KMSP",
+    "estDepartureAirportHorizDistance": 165,
+    "estDepartureAirportVertDistance": 40,
+    "firstSeen": 1718215164,
+    "lastSeen": 1718215375
+}

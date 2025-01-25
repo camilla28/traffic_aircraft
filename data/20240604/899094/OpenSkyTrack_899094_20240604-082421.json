@@ -1,0 +1,144 @@
+{
+    "callsign": "EVA197  ",
+    "endTime": "2024/06/04-08:24:20",
+    "icao24": "899094",
+    "path": [
+        [
+            1717498163,
+            35.7737,
+            140.3686,
+            0,
+            328,
+            false
+        ],
+        [
+            1717498567,
+            35.7827,
+            140.3614,
+            0,
+            326,
+            false
+        ],
+        [
+            1717498696,
+            35.7871,
+            140.358,
+            304,
+            327,
+            false
+        ],
+        [
+            1717498729,
+            35.7842,
+            140.3602,
+            0,
+            327,
+            false
+        ],
+        [
+            1717499003,
+            35.793,
+            140.3537,
+            304,
+            329,
+            false
+        ],
+        [
+            1717499516,
+            35.8043,
+            140.346,
+            304,
+            330,
+            false
+        ],
+        [
+            1717499520,
+            35.8058,
+            140.3449,
+            609,
+            330,
+            false
+        ],
+        [
+            1717499569,
+            35.805,
+            140.3454,
+            304,
+            330,
+            false
+        ],
+        [
+            1717500069,
+            35.8242,
+            140.3321,
+            609,
+            330,
+            false
+        ],
+        [
+            1717500080,
+            35.8246,
+            140.3318,
+            914,
+            329,
+            false
+        ],
+        [
+            1717500133,
+            35.8235,
+            140.3325,
+            609,
+            329,
+            false
+        ],
+        [
+            1717500260,
+            35.8273,
+            140.3299,
+            914,
+            329,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:49:23",
+    "baro_altitude": 815.34,
+    "category": 0,
+    "geo_altitude": 845.82,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499981,
+    "latitude": 35.8189,
+    "longitude": 140.3359,
+    "on_ground": false,
+    "origin_country": "Taiwan",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3741",
+    "time_position": 1717499981,
+    "true_track": 330.11,
+    "velocity": 99.1,
+    "vertical_rate": 13.66,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 16,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "RJAA",
+    "estDepartureAirportHorizDistance": 24321,
+    "estDepartureAirportVertDistance": 109,
+    "firstSeen": 1717498163,
+    "lastSeen": 1717500260
+}

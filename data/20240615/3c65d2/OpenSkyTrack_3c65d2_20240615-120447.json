@@ -1,0 +1,88 @@
+{
+    "callsign": "DLH88Y  ",
+    "endTime": "2024/06/15-12:04:54",
+    "icao24": "3c65d2",
+    "path": [
+        [
+            1718463848,
+            36.394,
+            28.0475,
+            304,
+            250,
+            false
+        ],
+        [
+            1718463866,
+            36.3882,
+            28.0275,
+            609,
+            250,
+            false
+        ],
+        [
+            1718463875,
+            36.3857,
+            28.0174,
+            609,
+            254,
+            false
+        ],
+        [
+            1718463885,
+            36.3848,
+            28.0049,
+            609,
+            267,
+            false
+        ],
+        [
+            1718463894,
+            36.3848,
+            27.993,
+            914,
+            270,
+            false
+        ]
+    ],
+    "startTime": "2024/06/15-12:04:08",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718463648,
+    "latitude": 36.4097,
+    "longitude": 28.1042,
+    "on_ground": true,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718463648,
+    "true_track": 334.69,
+    "velocity": 2.57,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 14,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LGRP",
+    "estDepartureAirportHorizDistance": 2530,
+    "estDepartureAirportVertDistance": 596,
+    "firstSeen": 1718463848,
+    "lastSeen": 1718463894
+}

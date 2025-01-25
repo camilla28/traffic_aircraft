@@ -1,0 +1,72 @@
+{
+    "callsign": "WVL     ",
+    "endTime": "2024/06/03-19:09:24",
+    "icao24": "7c725f",
+    "path": [
+        [
+            1717452366,
+            -35.3782,
+            146.601,
+            1524,
+            336,
+            false
+        ],
+        [
+            1717452366,
+            -35.3782,
+            146.601,
+            1524,
+            340,
+            false
+        ],
+        [
+            1717452564,
+            -35.2307,
+            146.5362,
+            1524,
+            339,
+            false
+        ]
+    ],
+    "startTime": "2024/06/03-19:06:06",
+    "baro_altitude": 1798.32,
+    "category": 0,
+    "geo_altitude": 1836.42,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717452568,
+    "latitude": -35.2307,
+    "longitude": 146.5362,
+    "on_ground": false,
+    "origin_country": "Australia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717452564,
+    "true_track": 339.16,
+    "velocity": 85.32,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 52,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "YCOR",
+    "estDepartureAirportHorizDistance": 72009,
+    "estDepartureAirportVertDistance": 1655,
+    "firstSeen": 1717452366,
+    "lastSeen": 1717452564
+}

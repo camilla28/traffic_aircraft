@@ -1,0 +1,80 @@
+{
+    "callsign": "NHZ505  ",
+    "endTime": "2024/06/12-10:12:47",
+    "icao24": "4078fa",
+    "path": [
+        [
+            1718196853,
+            57.7838,
+            -0.4946,
+            304,
+            243,
+            false
+        ],
+        [
+            1718197717,
+            57.5305,
+            -1.4125,
+            304,
+            242,
+            false
+        ],
+        [
+            1718197876,
+            57.4828,
+            -1.581,
+            304,
+            242,
+            false
+        ],
+        [
+            1718197967,
+            57.4553,
+            -1.6778,
+            0,
+            242,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-09:54:13",
+    "baro_altitude": 868.68,
+    "category": 0,
+    "geo_altitude": 952.5,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194259,
+    "latitude": 57.4967,
+    "longitude": -1.3324,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718194259,
+    "true_track": 59.83,
+    "velocity": 76.76,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EGPD",
+    "estDepartureAirportHorizDistance": 120665,
+    "estDepartureAirportVertDistance": 505,
+    "firstSeen": 1718196853,
+    "lastSeen": 1718197958
+}

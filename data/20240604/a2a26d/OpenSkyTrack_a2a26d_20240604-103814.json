@@ -1,0 +1,72 @@
+{
+    "callsign": "SWA155  ",
+    "endTime": "2024/06/04-09:53:12",
+    "icao24": "a2a26d",
+    "path": [
+        [
+            1717504024,
+            33.7576,
+            -118.3363,
+            9753,
+            334,
+            false
+        ],
+        [
+            1717504862,
+            33.7745,
+            -118.3457,
+            9753,
+            335,
+            false
+        ],
+        [
+            1717505592,
+            33.7876,
+            -118.3526,
+            9753,
+            336,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:27:04",
+    "baro_altitude": 9913.62,
+    "category": 0,
+    "geo_altitude": 10431.78,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504713,
+    "latitude": 33.7726,
+    "longitude": -118.3447,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504712,
+    "true_track": 335.32,
+    "velocity": 230.42,
+    "vertical_rate": 9.1,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KTOA",
+    "estDepartureAirportHorizDistance": 5533,
+    "estDepartureAirportVertDistance": 9813,
+    "firstSeen": 1717504024,
+    "lastSeen": 1717505592
+}

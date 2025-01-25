@@ -1,0 +1,104 @@
+{
+    "callsign": "N2468Y  ",
+    "endTime": "2024/06/07-15:50:13",
+    "icao24": "a249d0",
+    "path": [
+        [
+            1717783798,
+            43.5472,
+            -121.5895,
+            3048,
+            32,
+            false
+        ],
+        [
+            1717784135,
+            43.7412,
+            -121.4231,
+            3048,
+            30,
+            false
+        ],
+        [
+            1717784372,
+            43.8827,
+            -121.313,
+            3048,
+            28,
+            false
+        ],
+        [
+            1717784925,
+            44.2101,
+            -121.0754,
+            3048,
+            26,
+            false
+        ],
+        [
+            1717784975,
+            44.24,
+            -121.0561,
+            3048,
+            24,
+            false
+        ],
+        [
+            1717785659,
+            44.6525,
+            -120.8043,
+            3048,
+            23,
+            false
+        ],
+        [
+            1717786213,
+            44.9756,
+            -120.5992,
+            3048,
+            23,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-15:09:58",
+    "baro_altitude": 3185.16,
+    "category": 0,
+    "geo_altitude": 3291.84,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717784171,
+    "latitude": 43.7625,
+    "longitude": -121.4058,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717784171,
+    "true_track": 30.23,
+    "velocity": 75.62,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 26,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "K5S2",
+    "estDepartureAirportHorizDistance": 28720,
+    "estDepartureAirportVertDistance": 1719,
+    "firstSeen": 1717783798,
+    "lastSeen": 1717786213
+}

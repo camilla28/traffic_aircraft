@@ -1,0 +1,80 @@
+{
+    "callsign": "NJE783D ",
+    "endTime": "2024/06/04-10:03:20",
+    "icao24": "494119",
+    "path": [
+        [
+            1717503642,
+            53.4964,
+            0.4231,
+            10972,
+            280,
+            false
+        ],
+        [
+            1717504500,
+            53.5092,
+            0.3097,
+            10972,
+            280,
+            false
+        ],
+        [
+            1717505398,
+            53.5206,
+            0.2094,
+            10972,
+            280,
+            false
+        ],
+        [
+            1717506200,
+            53.5338,
+            0.0918,
+            10972,
+            280,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:20:42",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": 11125.2,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504676,
+    "latitude": 53.5112,
+    "longitude": 0.2922,
+    "on_ground": false,
+    "origin_country": "Portugal",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7341",
+    "time_position": 1717504672,
+    "true_track": 280.8,
+    "velocity": 203.2,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717503642,
+    "lastSeen": 1717506200
+}

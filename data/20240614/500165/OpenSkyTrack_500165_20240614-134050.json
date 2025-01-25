@@ -1,0 +1,272 @@
+{
+    "callsign": "T7BSG   ",
+    "endTime": "2024/06/14-13:15:05",
+    "icao24": "500165",
+    "path": [
+        [
+            1718380536,
+            45.7187,
+            16.1932,
+            1524,
+            141,
+            false
+        ],
+        [
+            1718380566,
+            45.6982,
+            16.2166,
+            1828,
+            141,
+            false
+        ],
+        [
+            1718380587,
+            45.6833,
+            16.2334,
+            2133,
+            141,
+            false
+        ],
+        [
+            1718380645,
+            45.6362,
+            16.2876,
+            2438,
+            140,
+            false
+        ],
+        [
+            1718380673,
+            45.6112,
+            16.3171,
+            2743,
+            140,
+            false
+        ],
+        [
+            1718380692,
+            45.595,
+            16.3364,
+            3048,
+            140,
+            false
+        ],
+        [
+            1718380746,
+            45.5494,
+            16.3894,
+            3352,
+            140,
+            false
+        ],
+        [
+            1718380780,
+            45.5125,
+            16.4319,
+            3657,
+            140,
+            false
+        ],
+        [
+            1718380823,
+            45.4704,
+            16.4807,
+            3962,
+            140,
+            false
+        ],
+        [
+            1718380865,
+            45.4288,
+            16.5287,
+            4267,
+            140,
+            false
+        ],
+        [
+            1718380904,
+            45.3902,
+            16.5735,
+            4572,
+            140,
+            false
+        ],
+        [
+            1718380951,
+            45.3425,
+            16.628,
+            4876,
+            140,
+            false
+        ],
+        [
+            1718381008,
+            45.291,
+            16.687,
+            5181,
+            140,
+            false
+        ],
+        [
+            1718381026,
+            45.2661,
+            16.7158,
+            5486,
+            140,
+            false
+        ],
+        [
+            1718381037,
+            45.2549,
+            16.728,
+            5486,
+            143,
+            false
+        ],
+        [
+            1718381046,
+            45.2453,
+            16.7378,
+            5486,
+            144,
+            false
+        ],
+        [
+            1718381104,
+            45.1836,
+            16.7996,
+            5791,
+            144,
+            false
+        ],
+        [
+            1718381148,
+            45.1374,
+            16.8466,
+            6096,
+            144,
+            false
+        ],
+        [
+            1718381199,
+            45.0836,
+            16.902,
+            6400,
+            143,
+            false
+        ],
+        [
+            1718381274,
+            45.0244,
+            16.9627,
+            6705,
+            144,
+            false
+        ],
+        [
+            1718381356,
+            44.9047,
+            17.0833,
+            7010,
+            144,
+            false
+        ],
+        [
+            1718381367,
+            44.8905,
+            17.0968,
+            7010,
+            148,
+            false
+        ],
+        [
+            1718381504,
+            44.6986,
+            17.2464,
+            7010,
+            151,
+            false
+        ],
+        [
+            1718381542,
+            44.6426,
+            17.2879,
+            6705,
+            152,
+            false
+        ],
+        [
+            1718381604,
+            44.5465,
+            17.3564,
+            6400,
+            153,
+            false
+        ],
+        [
+            1718381640,
+            44.4921,
+            17.3948,
+            6096,
+            153,
+            false
+        ],
+        [
+            1718381672,
+            44.4437,
+            17.4287,
+            5791,
+            153,
+            false
+        ],
+        [
+            1718381705,
+            44.3959,
+            17.4626,
+            5486,
+            152,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-12:55:36",
+    "baro_altitude": 5280.66,
+    "category": 0,
+    "geo_altitude": 5516.88,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718380973,
+    "latitude": 45.3209,
+    "longitude": 16.6528,
+    "on_ground": false,
+    "origin_country": "San Marino",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718380972,
+    "true_track": 141.28,
+    "velocity": 146.38,
+    "vertical_rate": 5.85,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 49,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LDZB",
+    "estDepartureAirportHorizDistance": 9187,
+    "estDepartureAirportVertDistance": 1686,
+    "firstSeen": 1718380536,
+    "lastSeen": 1718381705
+}

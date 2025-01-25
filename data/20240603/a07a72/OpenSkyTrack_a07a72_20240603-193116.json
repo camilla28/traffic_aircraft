@@ -1,0 +1,104 @@
+{
+    "callsign": "N13SK   ",
+    "endTime": "2024/06/03-19:31:13",
+    "icao24": "a07a72",
+    "path": [
+        [
+            1717453681,
+            27.4362,
+            -80.5782,
+            914,
+            164,
+            false
+        ],
+        [
+            1717453711,
+            27.4212,
+            -80.5737,
+            914,
+            161,
+            false
+        ],
+        [
+            1717453743,
+            27.4054,
+            -80.5677,
+            914,
+            161,
+            false
+        ],
+        [
+            1717453763,
+            27.3964,
+            -80.564,
+            914,
+            158,
+            false
+        ],
+        [
+            1717453809,
+            27.3745,
+            -80.555,
+            914,
+            161,
+            false
+        ],
+        [
+            1717453816,
+            27.3709,
+            -80.554,
+            914,
+            165,
+            false
+        ],
+        [
+            1717453873,
+            27.3429,
+            -80.5451,
+            914,
+            163,
+            false
+        ]
+    ],
+    "startTime": "2024/06/03-19:28:01",
+    "baro_altitude": 883.92,
+    "category": 0,
+    "geo_altitude": 922.02,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717452568,
+    "latitude": 27.9442,
+    "longitude": -80.6198,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717452568,
+    "true_track": 203.27,
+    "velocity": 56,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 243,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "7FL3",
+    "estDepartureAirportHorizDistance": 829,
+    "estDepartureAirportVertDistance": 1059,
+    "firstSeen": 1717453681,
+    "lastSeen": 1717453873
+}

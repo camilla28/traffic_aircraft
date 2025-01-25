@@ -1,0 +1,80 @@
+{
+    "callsign": "WEN3182 ",
+    "endTime": "2024/06/04-08:58:26",
+    "icao24": "c0509f",
+    "path": [
+        [
+            1717499816,
+            52.4198,
+            -115.5449,
+            7620,
+            144,
+            false
+        ],
+        [
+            1717500572,
+            52.4109,
+            -115.5346,
+            7620,
+            144,
+            false
+        ],
+        [
+            1717501456,
+            52.3982,
+            -115.5198,
+            7620,
+            144,
+            false
+        ],
+        [
+            1717502306,
+            52.3907,
+            -115.5111,
+            7620,
+            144,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:16:56",
+    "baro_altitude": 7620,
+    "category": 0,
+    "geo_altitude": 7559.04,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499951,
+    "latitude": 52.4178,
+    "longitude": -115.5425,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499939,
+    "true_track": 144.69,
+    "velocity": 177.14,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717499816,
+    "lastSeen": 1717502306
+}

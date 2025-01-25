@@ -1,0 +1,80 @@
+{
+    "callsign": "LOT640  ",
+    "endTime": "2024/06/04-08:27:23",
+    "icao24": "48ad84",
+    "path": [
+        [
+            1717497958,
+            47.6144,
+            22.8173,
+            10363,
+            325,
+            false
+        ],
+        [
+            1717498832,
+            47.6499,
+            22.7815,
+            10363,
+            325,
+            false
+        ],
+        [
+            1717499661,
+            47.6772,
+            22.7539,
+            10363,
+            325,
+            false
+        ],
+        [
+            1717500443,
+            47.716,
+            22.7148,
+            10363,
+            325,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:45:58",
+    "baro_altitude": 10363.2,
+    "category": 0,
+    "geo_altitude": 10523.22,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499989,
+    "latitude": 47.6947,
+    "longitude": 22.7363,
+    "on_ground": false,
+    "origin_country": "Poland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499989,
+    "true_track": 325.78,
+    "velocity": 233.29,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LRSM",
+    "estDepartureAirportHorizDistance": 11594,
+    "estDepartureAirportVertDistance": 10239,
+    "firstSeen": 1717497958,
+    "lastSeen": 1717500443
+}

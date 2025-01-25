@@ -1,0 +1,80 @@
+{
+    "callsign": "LBT510  ",
+    "endTime": "2024/06/04-08:39:27",
+    "icao24": "02a1a6",
+    "path": [
+        [
+            1717499193,
+            43.0183,
+            7.8148,
+            11582,
+            331,
+            false
+        ],
+        [
+            1717500089,
+            43.0896,
+            7.763,
+            11582,
+            331,
+            false
+        ],
+        [
+            1717500986,
+            43.1636,
+            7.7092,
+            11582,
+            332,
+            false
+        ],
+        [
+            1717501167,
+            43.172,
+            7.7031,
+            11582,
+            332,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:06:33",
+    "baro_altitude": 11582.4,
+    "category": 0,
+    "geo_altitude": 11841.48,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499996,
+    "latitude": 43.075,
+    "longitude": 7.7736,
+    "on_ground": false,
+    "origin_country": "Tunisia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1717499995,
+    "true_track": 331.91,
+    "velocity": 232.68,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717499193,
+    "lastSeen": 1717501167
+}

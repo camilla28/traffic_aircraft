@@ -1,0 +1,80 @@
+{
+    "callsign": "DEPGA   ",
+    "endTime": "2024/05/29-08:39:34",
+    "icao24": "3d2ce0",
+    "path": [
+        [
+            1716982236,
+            50.9887,
+            9.5188,
+            609,
+            353,
+            false
+        ],
+        [
+            1716982684,
+            51.3461,
+            9.4585,
+            609,
+            353,
+            false
+        ],
+        [
+            1716982733,
+            51.387,
+            9.4515,
+            304,
+            352,
+            false
+        ],
+        [
+            1716982774,
+            51.4189,
+            9.4451,
+            609,
+            353,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-08:30:36",
+    "baro_altitude": 1653.54,
+    "category": 0,
+    "geo_altitude": 1744.98,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716978990,
+    "latitude": 48.4203,
+    "longitude": 9.7338,
+    "on_ground": false,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "4452",
+    "time_position": 1716978990,
+    "true_track": 15.9,
+    "velocity": 88.26,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 136,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDEM",
+    "estDepartureAirportHorizDistance": 10696,
+    "estDepartureAirportVertDistance": 458,
+    "firstSeen": 1716982236,
+    "lastSeen": 1716982774
+}

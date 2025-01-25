@@ -1,0 +1,120 @@
+{
+    "callsign": "CNS104  ",
+    "endTime": "2024/06/14-14:03:39",
+    "icao24": "a897e5",
+    "path": [
+        [
+            1718384542,
+            40.841,
+            -74.0782,
+            304,
+            224,
+            false
+        ],
+        [
+            1718384560,
+            40.8344,
+            -74.0871,
+            304,
+            225,
+            false
+        ],
+        [
+            1718384569,
+            40.8308,
+            -74.0931,
+            304,
+            239,
+            false
+        ],
+        [
+            1718384577,
+            40.8286,
+            -74.1008,
+            304,
+            259,
+            false
+        ],
+        [
+            1718384586,
+            40.8287,
+            -74.1093,
+            609,
+            280,
+            false
+        ],
+        [
+            1718384594,
+            40.8303,
+            -74.1163,
+            609,
+            292,
+            false
+        ],
+        [
+            1718384602,
+            40.8324,
+            -74.1226,
+            609,
+            293,
+            false
+        ],
+        [
+            1718384610,
+            40.8345,
+            -74.1288,
+            914,
+            293,
+            false
+        ],
+        [
+            1718384619,
+            40.8367,
+            -74.136,
+            914,
+            287,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-14:02:22",
+    "baro_altitude": 1531.62,
+    "category": 0,
+    "geo_altitude": 1562.1,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718380974,
+    "latitude": 41.0317,
+    "longitude": -75.4944,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5753",
+    "time_position": 1718380973,
+    "true_track": 94.23,
+    "velocity": 132.57,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 335,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KTEB",
+    "estDepartureAirportHorizDistance": 1496,
+    "estDepartureAirportVertDistance": 347,
+    "firstSeen": 1718384542,
+    "lastSeen": 1718384619
+}

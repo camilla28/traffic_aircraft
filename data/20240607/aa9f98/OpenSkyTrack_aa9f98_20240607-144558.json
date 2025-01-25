@@ -1,0 +1,104 @@
+{
+    "callsign": "N784CD  ",
+    "endTime": "2024/06/07-14:45:09",
+    "icao24": "aa9f98",
+    "path": [
+        [
+            1717781692,
+            40.1067,
+            -83.0948,
+            609,
+            14,
+            false
+        ],
+        [
+            1717781692,
+            40.1067,
+            -83.0948,
+            609,
+            14,
+            false
+        ],
+        [
+            1717781846,
+            40.1977,
+            -83.0782,
+            1524,
+            7,
+            false
+        ],
+        [
+            1717781846,
+            40.1977,
+            -83.0782,
+            1524,
+            7,
+            false
+        ],
+        [
+            1717781957,
+            40.2632,
+            -83.0672,
+            1828,
+            6,
+            false
+        ],
+        [
+            1717782198,
+            40.4328,
+            -83.0379,
+            2133,
+            7,
+            false
+        ],
+        [
+            1717782309,
+            40.5244,
+            -83.0221,
+            1828,
+            6,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-14:34:52",
+    "baro_altitude": 769.62,
+    "category": 0,
+    "geo_altitude": 716.28,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717781695,
+    "latitude": 40.1067,
+    "longitude": -83.0948,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717781692,
+    "true_track": 14.57,
+    "velocity": 67.5,
+    "vertical_rate": 6.5,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 413,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KOSU",
+    "estDepartureAirportHorizDistance": 3517,
+    "estDepartureAirportVertDistance": 493,
+    "firstSeen": 1717781692,
+    "lastSeen": 1717782309
+}

@@ -1,0 +1,296 @@
+{
+    "callsign": "AIC452  ",
+    "endTime": "2024/06/12-10:26:02",
+    "icao24": "801590",
+    "path": [
+        [
+            1718198304,
+            17.7195,
+            83.2803,
+            304,
+            95,
+            false
+        ],
+        [
+            1718198312,
+            17.7187,
+            83.2884,
+            304,
+            95,
+            false
+        ],
+        [
+            1718198343,
+            17.7152,
+            83.3233,
+            609,
+            94,
+            false
+        ],
+        [
+            1718198351,
+            17.7154,
+            83.3327,
+            914,
+            83,
+            false
+        ],
+        [
+            1718198358,
+            17.7173,
+            83.3408,
+            914,
+            68,
+            false
+        ],
+        [
+            1718198366,
+            17.722,
+            83.3496,
+            914,
+            56,
+            false
+        ],
+        [
+            1718198374,
+            17.7279,
+            83.3564,
+            1219,
+            42,
+            false
+        ],
+        [
+            1718198381,
+            17.7343,
+            83.3612,
+            1219,
+            30,
+            false
+        ],
+        [
+            1718198389,
+            17.7431,
+            83.3651,
+            1524,
+            15,
+            false
+        ],
+        [
+            1718198396,
+            17.7507,
+            83.3663,
+            1524,
+            1,
+            false
+        ],
+        [
+            1718198405,
+            17.7619,
+            83.3647,
+            1524,
+            343,
+            false
+        ],
+        [
+            1718198413,
+            17.7702,
+            83.3604,
+            1524,
+            328,
+            false
+        ],
+        [
+            1718198421,
+            17.7773,
+            83.3534,
+            1828,
+            307,
+            false
+        ],
+        [
+            1718198428,
+            17.7814,
+            83.3456,
+            1828,
+            293,
+            false
+        ],
+        [
+            1718198436,
+            17.784,
+            83.336,
+            1828,
+            282,
+            false
+        ],
+        [
+            1718198460,
+            17.7909,
+            83.3061,
+            2133,
+            284,
+            false
+        ],
+        [
+            1718198492,
+            17.8022,
+            83.2649,
+            2438,
+            286,
+            false
+        ],
+        [
+            1718198516,
+            17.8109,
+            83.2338,
+            2743,
+            286,
+            false
+        ],
+        [
+            1718198531,
+            17.8164,
+            83.2136,
+            3048,
+            285,
+            false
+        ],
+        [
+            1718198540,
+            17.8202,
+            83.2015,
+            3048,
+            292,
+            false
+        ],
+        [
+            1718198548,
+            17.8254,
+            83.1919,
+            3352,
+            306,
+            false
+        ],
+        [
+            1718198556,
+            17.8332,
+            83.1837,
+            3352,
+            322,
+            false
+        ],
+        [
+            1718198564,
+            17.842,
+            83.1783,
+            3352,
+            334,
+            false
+        ],
+        [
+            1718198572,
+            17.8519,
+            83.1743,
+            3657,
+            340,
+            false
+        ],
+        [
+            1718198603,
+            17.8926,
+            83.1581,
+            3657,
+            337,
+            false
+        ],
+        [
+            1718198627,
+            17.9271,
+            83.143,
+            3657,
+            337,
+            false
+        ],
+        [
+            1718198666,
+            17.9871,
+            83.1166,
+            3962,
+            337,
+            false
+        ],
+        [
+            1718198689,
+            18.023,
+            83.101,
+            4267,
+            337,
+            false
+        ],
+        [
+            1718198713,
+            18.0603,
+            83.0849,
+            4572,
+            337,
+            false
+        ],
+        [
+            1718198744,
+            18.1112,
+            83.063,
+            4876,
+            337,
+            false
+        ],
+        [
+            1718198762,
+            18.1398,
+            83.0508,
+            5181,
+            337,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-10:18:24",
+    "baro_altitude": 3352.8,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194259,
+    "latitude": 17.9253,
+    "longitude": 82.9472,
+    "on_ground": false,
+    "origin_country": "India",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0546",
+    "time_position": 1718194259,
+    "true_track": 131.29,
+    "velocity": 157.48,
+    "vertical_rate": -8.13,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 2,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "VEVZ",
+    "estDepartureAirportHorizDistance": 5073,
+    "estDepartureAirportVertDistance": 544,
+    "firstSeen": 1718198304,
+    "lastSeen": 1718198762
+}

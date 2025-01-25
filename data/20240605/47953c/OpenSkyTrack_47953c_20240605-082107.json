@@ -1,0 +1,96 @@
+{
+    "callsign": "LNOFR   ",
+    "endTime": "2024/06/05-08:21:08",
+    "icao24": "47953c",
+    "path": [
+        [
+            1717586417,
+            60.4249,
+            5.3318,
+            304,
+            205,
+            false
+        ],
+        [
+            1717586424,
+            60.4218,
+            5.3325,
+            304,
+            164,
+            false
+        ],
+        [
+            1717586430,
+            60.4194,
+            5.3341,
+            304,
+            158,
+            false
+        ],
+        [
+            1717586439,
+            60.4161,
+            5.3367,
+            304,
+            158,
+            false
+        ],
+        [
+            1717586444,
+            60.414,
+            5.3385,
+            609,
+            156,
+            false
+        ],
+        [
+            1717586468,
+            60.4053,
+            5.3463,
+            609,
+            157,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-08:20:17",
+    "baro_altitude": 670.56,
+    "category": 0,
+    "geo_altitude": 586.74,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717582767,
+    "latitude": 60.4169,
+    "longitude": 5.3831,
+    "on_ground": false,
+    "origin_country": "Norway",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717582767,
+    "true_track": 305.69,
+    "velocity": 44.97,
+    "vertical_rate": -4.55,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 10,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "ENBR",
+    "estDepartureAirportHorizDistance": 15925,
+    "estDepartureAirportVertDistance": 496,
+    "firstSeen": 1717586417,
+    "lastSeen": 1717586468
+}

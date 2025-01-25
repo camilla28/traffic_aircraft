@@ -1,0 +1,104 @@
+{
+    "callsign": "TJS6    ",
+    "endTime": "2024/06/12-14:54:34",
+    "icao24": "440b6a",
+    "path": [
+        [
+            1718214779,
+            39.4722,
+            2.6652,
+            1828,
+            148,
+            false
+        ],
+        [
+            1718214784,
+            39.4687,
+            2.6679,
+            2133,
+            148,
+            false
+        ],
+        [
+            1718214795,
+            39.4618,
+            2.6763,
+            2133,
+            122,
+            false
+        ],
+        [
+            1718214804,
+            39.4593,
+            2.6855,
+            2133,
+            98,
+            false
+        ],
+        [
+            1718214814,
+            39.4584,
+            2.697,
+            2133,
+            93,
+            false
+        ],
+        [
+            1718214848,
+            39.4566,
+            2.7404,
+            2438,
+            93,
+            false
+        ],
+        [
+            1718214874,
+            39.4548,
+            2.7749,
+            2743,
+            93,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-14:52:59",
+    "baro_altitude": 11887.2,
+    "category": 0,
+    "geo_altitude": 12077.7,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204674,
+    "latitude": 46.4719,
+    "longitude": 6.4867,
+    "on_ground": false,
+    "origin_country": "Austria",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2543",
+    "time_position": 1718204674,
+    "true_track": 200.49,
+    "velocity": 154.32,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LEPA",
+    "estDepartureAirportHorizDistance": 11040,
+    "estDepartureAirportVertDistance": 2094,
+    "firstSeen": 1718214779,
+    "lastSeen": 1718214874
+}

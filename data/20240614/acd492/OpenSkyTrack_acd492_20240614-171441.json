@@ -1,0 +1,96 @@
+{
+    "callsign": "N926BE  ",
+    "endTime": "2024/06/14-17:08:32",
+    "icao24": "acd492",
+    "path": [
+        [
+            1718392368,
+            46.0904,
+            -91.9889,
+            2743,
+            283,
+            false
+        ],
+        [
+            1718392375,
+            46.0912,
+            -91.994,
+            2743,
+            283,
+            false
+        ],
+        [
+            1718393107,
+            46.2072,
+            -92.6874,
+            3048,
+            283,
+            false
+        ],
+        [
+            1718394004,
+            46.3441,
+            -93.5508,
+            3048,
+            282,
+            false
+        ],
+        [
+            1718394902,
+            46.4724,
+            -94.4015,
+            3048,
+            281,
+            false
+        ],
+        [
+            1718395712,
+            46.5784,
+            -95.1434,
+            3048,
+            281,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-16:12:48",
+    "baro_altitude": 3154.68,
+    "category": 0,
+    "geo_altitude": 3261.36,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718395712,
+    "latitude": 46.5784,
+    "longitude": -95.1434,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718395712,
+    "true_track": 281.98,
+    "velocity": 69.42,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "WI33",
+    "estDepartureAirportHorizDistance": 6156,
+    "estDepartureAirportVertDistance": 2665,
+    "firstSeen": 1718392368,
+    "lastSeen": 1718395712
+}

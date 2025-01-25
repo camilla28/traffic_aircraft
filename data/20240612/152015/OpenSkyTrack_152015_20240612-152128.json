@@ -1,0 +1,104 @@
+{
+    "callsign": "AFL1227 ",
+    "endTime": "2024/06/12-14:10:43",
+    "icao24": "152015",
+    "path": [
+        [
+            1718202864,
+            56.1898,
+            43.7675,
+            609,
+            205,
+            false
+        ],
+        [
+            1718202864,
+            56.1898,
+            43.7675,
+            609,
+            205,
+            false
+        ],
+        [
+            1718202905,
+            56.1638,
+            43.7444,
+            914,
+            206,
+            false
+        ],
+        [
+            1718203281,
+            55.7887,
+            43.1444,
+            4876,
+            228,
+            false
+        ],
+        [
+            1718203281,
+            55.7887,
+            43.1444,
+            4876,
+            228,
+            false
+        ],
+        [
+            1718212243,
+            58.6777,
+            33.414,
+            7315,
+            272,
+            false
+        ],
+        [
+            1718212243,
+            58.6777,
+            33.414,
+            7315,
+            272,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-11:34:24",
+    "baro_altitude": 4991.1,
+    "category": 0,
+    "geo_altitude": 5196.84,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204669,
+    "latitude": 55.7887,
+    "longitude": 43.1444,
+    "on_ground": false,
+    "origin_country": "Russian Federation",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718203281,
+    "true_track": 228.77,
+    "velocity": 188.11,
+    "vertical_rate": 7.15,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "UWGG",
+    "estDepartureAirportHorizDistance": 262879,
+    "estDepartureAirportVertDistance": 722,
+    "firstSeen": 1718202864,
+    "lastSeen": 1718212243
+}

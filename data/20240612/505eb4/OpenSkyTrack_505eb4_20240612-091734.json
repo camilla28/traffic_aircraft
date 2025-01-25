@@ -1,0 +1,120 @@
+{
+    "callsign": "RA5500G ",
+    "endTime": "2024/06/12-09:17:43",
+    "icao24": "505eb4",
+    "path": [
+        [
+            1718194004,
+            61.6998,
+            50.6865,
+            1524,
+            308,
+            false
+        ],
+        [
+            1718194022,
+            61.7039,
+            50.6738,
+            1524,
+            308,
+            false
+        ],
+        [
+            1718194059,
+            61.7129,
+            50.6468,
+            1828,
+            308,
+            false
+        ],
+        [
+            1718194059,
+            61.7129,
+            50.6468,
+            1828,
+            304,
+            false
+        ],
+        [
+            1718194095,
+            61.7218,
+            50.6198,
+            1828,
+            304,
+            false
+        ],
+        [
+            1718194141,
+            61.733,
+            50.5857,
+            2133,
+            304,
+            false
+        ],
+        [
+            1718194223,
+            61.7542,
+            50.5222,
+            2438,
+            305,
+            false
+        ],
+        [
+            1718194305,
+            61.775,
+            50.4586,
+            2743,
+            304,
+            false
+        ],
+        [
+            1718194663,
+            61.8962,
+            50.0872,
+            3048,
+            304,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-09:06:44",
+    "baro_altitude": 2849.88,
+    "category": 0,
+    "geo_altitude": 2903.22,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194257,
+    "latitude": 61.7626,
+    "longitude": 50.4967,
+    "on_ground": false,
+    "origin_country": "Slovakia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718194256,
+    "true_track": 304.8,
+    "velocity": 51.37,
+    "vertical_rate": 3.9,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "UUYY",
+    "estDepartureAirportHorizDistance": 10218,
+    "estDepartureAirportVertDistance": 1488,
+    "firstSeen": 1718194004,
+    "lastSeen": 1718194663
+}

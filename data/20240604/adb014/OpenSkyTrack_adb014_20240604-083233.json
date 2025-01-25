@@ -1,0 +1,72 @@
+{
+    "callsign": "AAL1425 ",
+    "endTime": "2024/06/04-08:32:33",
+    "icao24": "adb014",
+    "path": [
+        [
+            1717499375,
+            40.9461,
+            -81.438,
+            10058,
+            67,
+            false
+        ],
+        [
+            1717500197,
+            40.961,
+            -81.3915,
+            10058,
+            67,
+            false
+        ],
+        [
+            1717500753,
+            40.9688,
+            -81.3673,
+            10058,
+            67,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:09:35",
+    "baro_altitude": 10081.26,
+    "category": 0,
+    "geo_altitude": 10477.5,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500027,
+    "latitude": 40.957,
+    "longitude": -81.4041,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717500027,
+    "true_track": 66.97,
+    "velocity": 235.34,
+    "vertical_rate": 5.53,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 5,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KCAK",
+    "estDepartureAirportHorizDistance": 3334,
+    "estDepartureAirportVertDistance": 9684,
+    "firstSeen": 1717499375,
+    "lastSeen": 1717500753
+}

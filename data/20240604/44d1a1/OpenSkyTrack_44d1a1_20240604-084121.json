@@ -1,0 +1,72 @@
+{
+    "callsign": "JAF9CV  ",
+    "endTime": "2024/06/04-08:41:19",
+    "icao24": "44d1a1",
+    "path": [
+        [
+            1717500016,
+            46.0063,
+            11.5833,
+            10668,
+            126,
+            false
+        ],
+        [
+            1717500826,
+            45.9996,
+            11.5963,
+            10668,
+            126,
+            false
+        ],
+        [
+            1717501279,
+            45.9952,
+            11.605,
+            10668,
+            126,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:20:16",
+    "baro_altitude": 10668,
+    "category": 0,
+    "geo_altitude": 10873.74,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500021,
+    "latitude": 46.0063,
+    "longitude": 11.5833,
+    "on_ground": false,
+    "origin_country": "Belgium",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717500016,
+    "true_track": 126.25,
+    "velocity": 236.66,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LIDA",
+    "estDepartureAirportHorizDistance": 624779,
+    "estDepartureAirportVertDistance": 9628,
+    "firstSeen": 1717500016,
+    "lastSeen": 1717501279
+}

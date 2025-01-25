@@ -1,0 +1,120 @@
+{
+    "callsign": "FIN7KM  ",
+    "endTime": "2024/06/07-10:15:52",
+    "icao24": "4601f2",
+    "path": [
+        [
+            1717766037,
+            60.3042,
+            24.9247,
+            304,
+            216,
+            false
+        ],
+        [
+            1717766046,
+            60.2986,
+            24.9168,
+            304,
+            213,
+            false
+        ],
+        [
+            1717766055,
+            60.2924,
+            24.9092,
+            304,
+            210,
+            false
+        ],
+        [
+            1717766082,
+            60.2753,
+            24.8893,
+            304,
+            208,
+            false
+        ],
+        [
+            1717766091,
+            60.2696,
+            24.883,
+            609,
+            208,
+            false
+        ],
+        [
+            1717766100,
+            60.2635,
+            24.8777,
+            609,
+            195,
+            false
+        ],
+        [
+            1717766108,
+            60.2574,
+            24.8763,
+            609,
+            178,
+            false
+        ],
+        [
+            1717766126,
+            60.2439,
+            24.878,
+            609,
+            176,
+            false
+        ],
+        [
+            1717766152,
+            60.2236,
+            24.8807,
+            914,
+            176,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-10:13:57",
+    "baro_altitude": 5067.3,
+    "category": 0,
+    "geo_altitude": 5029.2,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762945,
+    "latitude": 61.0044,
+    "longitude": 25.1401,
+    "on_ground": false,
+    "origin_country": "Finland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1215",
+    "time_position": 1717762945,
+    "true_track": 195.11,
+    "velocity": 146.01,
+    "vertical_rate": -2.28,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 23,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EFHK",
+    "estDepartureAirportHorizDistance": 2252,
+    "estDepartureAirportVertDistance": 273,
+    "firstSeen": 1717766037,
+    "lastSeen": 1717766143
+}

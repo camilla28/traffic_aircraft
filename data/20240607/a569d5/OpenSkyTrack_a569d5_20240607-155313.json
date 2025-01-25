@@ -1,0 +1,112 @@
+{
+    "callsign": "N448RJ  ",
+    "endTime": "2024/06/07-15:53:15",
+    "icao24": "a569d5",
+    "path": [
+        [
+            1717786295,
+            40.8371,
+            -72.6688,
+            304,
+            271,
+            false
+        ],
+        [
+            1717786295,
+            40.8371,
+            -72.6688,
+            304,
+            290,
+            false
+        ],
+        [
+            1717786322,
+            40.841,
+            -72.6847,
+            304,
+            290,
+            false
+        ],
+        [
+            1717786332,
+            40.8428,
+            -72.6898,
+            304,
+            296,
+            false
+        ],
+        [
+            1717786340,
+            40.8443,
+            -72.6937,
+            609,
+            297,
+            false
+        ],
+        [
+            1717786349,
+            40.8463,
+            -72.6981,
+            609,
+            304,
+            false
+        ],
+        [
+            1717786368,
+            40.8509,
+            -72.7066,
+            609,
+            307,
+            false
+        ],
+        [
+            1717786395,
+            40.858,
+            -72.7182,
+            609,
+            309,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-15:51:35",
+    "baro_altitude": 1409.7,
+    "category": 0,
+    "geo_altitude": 1325.88,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717784179,
+    "latitude": 41.0209,
+    "longitude": -73.4807,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717784179,
+    "true_track": 105.3,
+    "velocity": 56.54,
+    "vertical_rate": 3.25,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 172,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KFOK",
+    "estDepartureAirportHorizDistance": 2824,
+    "estDepartureAirportVertDistance": 452,
+    "firstSeen": 1717786295,
+    "lastSeen": 1717786395
+}

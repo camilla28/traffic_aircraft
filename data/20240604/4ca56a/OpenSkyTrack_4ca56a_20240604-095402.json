@@ -1,0 +1,120 @@
+{
+    "callsign": "RYR40GW ",
+    "endTime": "2024/06/04-09:53:56",
+    "icao24": "4ca56a",
+    "path": [
+        [
+            1717499429,
+            41.9616,
+            2.3703,
+            10058,
+            170,
+            false
+        ],
+        [
+            1717500312,
+            41.9088,
+            2.3824,
+            10058,
+            170,
+            false
+        ],
+        [
+            1717501201,
+            41.8571,
+            2.3942,
+            10058,
+            170,
+            false
+        ],
+        [
+            1717502096,
+            41.7906,
+            2.4096,
+            10058,
+            170,
+            false
+        ],
+        [
+            1717502921,
+            41.7483,
+            2.4195,
+            10058,
+            170,
+            false
+        ],
+        [
+            1717503810,
+            41.6934,
+            2.4322,
+            10058,
+            170,
+            false
+        ],
+        [
+            1717504637,
+            41.6432,
+            2.4437,
+            10058,
+            169,
+            false
+        ],
+        [
+            1717505512,
+            41.5853,
+            2.4569,
+            10058,
+            170,
+            false
+        ],
+        [
+            1717505636,
+            41.8526,
+            2.3952,
+            10058,
+            170,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:10:29",
+    "baro_altitude": 10058.4,
+    "category": 0,
+    "geo_altitude": 10332.72,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504644,
+    "latitude": 41.6432,
+    "longitude": 2.4437,
+    "on_ground": false,
+    "origin_country": "Ireland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2315",
+    "time_position": 1717504637,
+    "true_track": 169.91,
+    "velocity": 232,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717499429,
+    "lastSeen": 1717505636
+}

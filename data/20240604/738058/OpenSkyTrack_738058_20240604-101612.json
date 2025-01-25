@@ -1,0 +1,72 @@
+{
+    "callsign": "ELY573  ",
+    "endTime": "2024/06/04-10:04:27",
+    "icao24": "738058",
+    "path": [
+        [
+            1717504502,
+            38.3164,
+            30.9969,
+            10972,
+            5,
+            false
+        ],
+        [
+            1717505388,
+            38.3632,
+            31.0028,
+            10972,
+            5,
+            false
+        ],
+        [
+            1717506267,
+            38.4042,
+            31.0081,
+            10972,
+            5,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:35:02",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504538,
+    "latitude": 38.3187,
+    "longitude": 30.9972,
+    "on_ground": false,
+    "origin_country": "Israel",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504538,
+    "true_track": 5.66,
+    "velocity": 239.87,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717504502,
+    "lastSeen": 1717506267
+}

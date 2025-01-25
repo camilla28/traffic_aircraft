@@ -1,0 +1,104 @@
+{
+    "callsign": "N412RV  ",
+    "endTime": "2024/06/04-10:00:14",
+    "icao24": "a4dd19",
+    "path": [
+        [
+            1717502037,
+            45.3028,
+            -122.7287,
+            304,
+            18,
+            false
+        ],
+        [
+            1717502878,
+            45.3045,
+            -122.7279,
+            304,
+            18,
+            false
+        ],
+        [
+            1717503699,
+            45.3095,
+            -122.7255,
+            304,
+            19,
+            false
+        ],
+        [
+            1717504595,
+            45.3124,
+            -122.7241,
+            304,
+            18,
+            false
+        ],
+        [
+            1717505069,
+            45.3116,
+            -122.7245,
+            304,
+            18,
+            false
+        ],
+        [
+            1717505922,
+            45.2945,
+            -122.7328,
+            304,
+            19,
+            false
+        ],
+        [
+            1717506014,
+            45.3155,
+            -122.7226,
+            304,
+            17,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:53:57",
+    "baro_altitude": 594.36,
+    "category": 0,
+    "geo_altitude": 594.36,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504707,
+    "latitude": 45.313,
+    "longitude": -122.7238,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504609,
+    "true_track": 17.9,
+    "velocity": 70.28,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 253,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KUAO",
+    "estDepartureAirportHorizDistance": 6988,
+    "estDepartureAirportVertDistance": 525,
+    "firstSeen": 1717502037,
+    "lastSeen": 1717506014
+}

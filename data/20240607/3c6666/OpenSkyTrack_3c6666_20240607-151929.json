@@ -1,0 +1,96 @@
+{
+    "callsign": "DLH4N   ",
+    "endTime": "2024/06/07-15:19:31",
+    "icao24": "3c6666",
+    "path": [
+        [
+            1717784290,
+            48.3636,
+            11.7769,
+            304,
+            264,
+            false
+        ],
+        [
+            1717784308,
+            48.3622,
+            11.7562,
+            609,
+            263,
+            false
+        ],
+        [
+            1717784345,
+            48.3585,
+            11.7087,
+            914,
+            263,
+            false
+        ],
+        [
+            1717784353,
+            48.3582,
+            11.6971,
+            914,
+            271,
+            false
+        ],
+        [
+            1717784362,
+            48.3604,
+            11.6832,
+            1219,
+            291,
+            false
+        ],
+        [
+            1717784371,
+            48.3651,
+            11.6713,
+            1219,
+            306,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-15:18:10",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717784009,
+    "latitude": 48.3628,
+    "longitude": 11.8173,
+    "on_ground": true,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717784009,
+    "true_track": 84.38,
+    "velocity": 13.38,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 116,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDDM",
+    "estDepartureAirportHorizDistance": 1096,
+    "estDepartureAirportVertDistance": 141,
+    "firstSeen": 1717784290,
+    "lastSeen": 1717784371
+}

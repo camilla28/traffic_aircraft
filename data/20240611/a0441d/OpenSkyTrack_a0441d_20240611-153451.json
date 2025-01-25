@@ -1,0 +1,96 @@
+{
+    "callsign": "N116SR  ",
+    "endTime": "2024/06/11-15:27:51",
+    "icao24": "a0441d",
+    "path": [
+        [
+            1718130392,
+            33.3846,
+            -81.6124,
+            0,
+            79,
+            false
+        ],
+        [
+            1718130416,
+            33.3862,
+            -81.6009,
+            0,
+            81,
+            false
+        ],
+        [
+            1718130432,
+            33.3872,
+            -81.5929,
+            304,
+            79,
+            false
+        ],
+        [
+            1718130449,
+            33.3885,
+            -81.5845,
+            0,
+            80,
+            false
+        ],
+        [
+            1718130471,
+            33.3899,
+            -81.5734,
+            304,
+            78,
+            false
+        ],
+        [
+            1718130471,
+            33.3899,
+            -81.5734,
+            304,
+            74,
+            false
+        ]
+    ],
+    "startTime": "2024/06/11-15:26:32",
+    "baro_altitude": 304.8,
+    "category": 0,
+    "geo_altitude": 266.7,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718130415,
+    "latitude": 33.3862,
+    "longitude": -81.6011,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718130415,
+    "true_track": 79.92,
+    "velocity": 47.03,
+    "vertical_rate": 1.95,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 252,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "SC20",
+    "estDepartureAirportHorizDistance": 22275,
+    "estDepartureAirportVertDistance": 134,
+    "firstSeen": 1718130392,
+    "lastSeen": 1718130471
+}

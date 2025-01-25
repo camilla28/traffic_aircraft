@@ -1,0 +1,120 @@
+{
+    "callsign": "BTI6RV  ",
+    "endTime": "2024/06/04-08:40:54",
+    "icao24": "502d3f",
+    "path": [
+        [
+            1717496388,
+            56.5026,
+            21.0208,
+            9144,
+            254,
+            false
+        ],
+        [
+            1717496847,
+            56.4926,
+            20.9559,
+            9144,
+            254,
+            false
+        ],
+        [
+            1717497742,
+            56.4718,
+            20.8213,
+            9448,
+            254,
+            false
+        ],
+        [
+            1717497929,
+            56.4684,
+            20.7997,
+            9448,
+            254,
+            false
+        ],
+        [
+            1717498800,
+            56.452,
+            20.6958,
+            9753,
+            254,
+            false
+        ],
+        [
+            1717499454,
+            56.439,
+            20.6119,
+            9753,
+            254,
+            false
+        ],
+        [
+            1717500295,
+            56.4231,
+            20.5061,
+            10058,
+            254,
+            false
+        ],
+        [
+            1717500791,
+            56.4125,
+            20.4361,
+            10058,
+            254,
+            false
+        ],
+        [
+            1717501254,
+            56.4052,
+            20.3891,
+            10363,
+            254,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:19:48",
+    "baro_altitude": 10165.08,
+    "category": 0,
+    "geo_altitude": 10309.86,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499974,
+    "latitude": 56.4292,
+    "longitude": 20.5472,
+    "on_ground": false,
+    "origin_country": "Latvia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499972,
+    "true_track": 254.71,
+    "velocity": 210.66,
+    "vertical_rate": 5.85,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EVLA",
+    "estDepartureAirportHorizDistance": 557951,
+    "estDepartureAirportVertDistance": 9314,
+    "firstSeen": 1717496388,
+    "lastSeen": 1717501254
+}

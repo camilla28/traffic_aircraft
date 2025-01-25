@@ -1,0 +1,80 @@
+{
+    "callsign": "BNOR    ",
+    "endTime": "2024/06/04-09:17:52",
+    "icao24": "478ea8",
+    "path": [
+        [
+            1717501527,
+            61.2736,
+            11.0825,
+            6096,
+            180,
+            false
+        ],
+        [
+            1717502390,
+            61.2701,
+            11.0825,
+            6096,
+            180,
+            false
+        ],
+        [
+            1717503200,
+            61.2669,
+            11.0825,
+            6096,
+            180,
+            false
+        ],
+        [
+            1717503472,
+            61.2658,
+            11.0825,
+            6096,
+            180,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:45:27",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500031,
+    "latitude": null,
+    "longitude": null,
+    "on_ground": false,
+    "origin_country": "Norway",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": null,
+    "true_track": 180,
+    "velocity": 129.13,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717501527,
+    "lastSeen": 1717503472
+}

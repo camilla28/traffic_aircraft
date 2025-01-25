@@ -1,0 +1,88 @@
+{
+    "callsign": "JANET10 ",
+    "endTime": "2024/06/12-12:06:35",
+    "icao24": "ac96df",
+    "path": [
+        [
+            1718203617,
+            36.8566,
+            -116.2576,
+            4876,
+            219,
+            false
+        ],
+        [
+            1718203690,
+            36.7868,
+            -116.3303,
+            4876,
+            219,
+            false
+        ],
+        [
+            1718204138,
+            36.3556,
+            -116.7751,
+            4876,
+            214,
+            false
+        ],
+        [
+            1718204148,
+            36.3454,
+            -116.7833,
+            4876,
+            212,
+            false
+        ],
+        [
+            1718204795,
+            35.6611,
+            -117.2922,
+            4876,
+            210,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-11:46:57",
+    "baro_altitude": 5036.82,
+    "category": 0,
+    "geo_altitude": 5295.9,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204671,
+    "latitude": 35.7944,
+    "longitude": -117.1939,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0475",
+    "time_position": 1718204671,
+    "true_track": 211.04,
+    "velocity": 138.69,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1718203617,
+    "lastSeen": 1718204795
+}

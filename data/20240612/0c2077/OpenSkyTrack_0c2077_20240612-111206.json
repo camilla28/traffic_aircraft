@@ -1,0 +1,72 @@
+{
+    "callsign": "CMP396  ",
+    "endTime": "2024/06/12-09:09:13",
+    "icao24": "0c2077",
+    "path": [
+        [
+            1718192533,
+            -13.6672,
+            -77.5878,
+            10972,
+            344,
+            false
+        ],
+        [
+            1718193430,
+            -11.9303,
+            -78.069,
+            10972,
+            344,
+            false
+        ],
+        [
+            1718194153,
+            -10.5038,
+            -78.4593,
+            10972,
+            344,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-08:42:13",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": 11711.94,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194166,
+    "latitude": -10.5038,
+    "longitude": -78.4593,
+    "on_ground": false,
+    "origin_country": "Panama",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718194153,
+    "true_track": 344.93,
+    "velocity": 227.49,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1718192533,
+    "lastSeen": 1718194153
+}

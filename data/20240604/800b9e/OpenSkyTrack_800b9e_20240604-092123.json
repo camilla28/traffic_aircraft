@@ -1,0 +1,72 @@
+{
+    "callsign": "AXB743  ",
+    "endTime": "2024/06/04-09:19:10",
+    "icao24": "800b9e",
+    "path": [
+        [
+            1717501845,
+            25.2507,
+            55.6848,
+            609,
+            274,
+            false
+        ],
+        [
+            1717502658,
+            25.2512,
+            55.6767,
+            609,
+            274,
+            false
+        ],
+        [
+            1717503550,
+            25.2517,
+            55.67,
+            609,
+            274,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:50:45",
+    "baro_altitude": 701.04,
+    "category": 0,
+    "geo_altitude": 632.46,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500033,
+    "latitude": 25.2497,
+    "longitude": 55.6984,
+    "on_ground": false,
+    "origin_country": "India",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717500031,
+    "true_track": 274.67,
+    "velocity": 101.17,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 21,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "OMSJ",
+    "estDepartureAirportHorizDistance": 18945,
+    "estDepartureAirportVertDistance": 667,
+    "firstSeen": 1717501845,
+    "lastSeen": 1717503550
+}

@@ -1,0 +1,72 @@
+{
+    "callsign": "KQA265  ",
+    "endTime": "2024/06/07-09:45:45",
+    "icao24": "04c0fb",
+    "path": [
+        [
+            1717762624,
+            -8.7582,
+            41.2331,
+            11582,
+            327,
+            false
+        ],
+        [
+            1717763519,
+            -7.1619,
+            40.2324,
+            11582,
+            327,
+            false
+        ],
+        [
+            1717764345,
+            -5.6966,
+            39.3213,
+            11582,
+            328,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-09:17:04",
+    "baro_altitude": 11582.4,
+    "category": 0,
+    "geo_altitude": 12329.16,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762945,
+    "latitude": -8.1873,
+    "longitude": 40.8742,
+    "on_ground": false,
+    "origin_country": "Kenya",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717762945,
+    "true_track": 327.93,
+    "velocity": 232.52,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717762624,
+    "lastSeen": 1717764345
+}

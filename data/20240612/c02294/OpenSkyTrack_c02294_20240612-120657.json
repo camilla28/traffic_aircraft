@@ -1,0 +1,72 @@
+{
+    "callsign": "NCB2795 ",
+    "endTime": "2024/06/12-12:06:54",
+    "icao24": "c02294",
+    "path": [
+        [
+            1718204555,
+            51.101,
+            -114.0096,
+            914,
+            90,
+            false
+        ],
+        [
+            1718204555,
+            51.101,
+            -114.0096,
+            914,
+            90,
+            false
+        ],
+        [
+            1718204814,
+            51.1025,
+            -114.0119,
+            914,
+            0,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-12:02:35",
+    "baro_altitude": 1112.52,
+    "category": 0,
+    "geo_altitude": 1066.8,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204601,
+    "latitude": 51.101,
+    "longitude": -114.0096,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718204555,
+    "true_track": 90,
+    "velocity": 3.09,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 64,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "CYYC",
+    "estDepartureAirportHorizDistance": 1606,
+    "estDepartureAirportVertDistance": 28,
+    "firstSeen": 1718204555,
+    "lastSeen": 1718204814
+}

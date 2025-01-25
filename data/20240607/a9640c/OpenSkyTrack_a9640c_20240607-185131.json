@@ -1,0 +1,120 @@
+{
+    "callsign": "N704GM  ",
+    "endTime": "2024/06/07-18:51:37",
+    "icao24": "a9640c",
+    "path": [
+        [
+            1717793618,
+            35.1312,
+            -85.5946,
+            2438,
+            97,
+            false
+        ],
+        [
+            1717793735,
+            35.1215,
+            -85.5022,
+            2438,
+            97,
+            false
+        ],
+        [
+            1717794633,
+            35.0352,
+            -84.7112,
+            2743,
+            97,
+            false
+        ],
+        [
+            1717795510,
+            34.9435,
+            -83.92,
+            2743,
+            96,
+            false
+        ],
+        [
+            1717795516,
+            34.9432,
+            -83.9139,
+            2743,
+            91,
+            false
+        ],
+        [
+            1717795524,
+            34.9434,
+            -83.9075,
+            2743,
+            84,
+            false
+        ],
+        [
+            1717795537,
+            34.9441,
+            -83.8959,
+            2743,
+            87,
+            false
+        ],
+        [
+            1717796436,
+            34.9702,
+            -83.0821,
+            2743,
+            87,
+            false
+        ],
+        [
+            1717797097,
+            34.9868,
+            -82.463,
+            2743,
+            88,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-17:53:38",
+    "baro_altitude": 2750.82,
+    "category": 0,
+    "geo_altitude": 2811.78,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717794386,
+    "latitude": 35.0595,
+    "longitude": -84.9295,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717794386,
+    "true_track": 97.52,
+    "velocity": 82.51,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 17,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KAPT",
+    "estDepartureAirportHorizDistance": 8299,
+    "estDepartureAirportVertDistance": 2311,
+    "firstSeen": 1717793618,
+    "lastSeen": 1717797090
+}

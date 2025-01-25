@@ -1,0 +1,72 @@
+{
+    "callsign": "APG223  ",
+    "endTime": "2024/06/04-10:40:51",
+    "icao24": "7585b3",
+    "path": [
+        [
+            1717507010,
+            13.2448,
+            121.2134,
+            7010,
+            145,
+            false
+        ],
+        [
+            1717507851,
+            13.2417,
+            121.2155,
+            7010,
+            145,
+            false
+        ],
+        [
+            1717508451,
+            13.2386,
+            121.2177,
+            7010,
+            145,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-10:16:50",
+    "baro_altitude": 7010.4,
+    "category": 0,
+    "geo_altitude": 7505.7,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504702,
+    "latitude": 13.2673,
+    "longitude": 121.1976,
+    "on_ground": false,
+    "origin_country": "Philippines",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504697,
+    "true_track": 145.43,
+    "velocity": 204.91,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717507010,
+    "lastSeen": 1717508451
+}

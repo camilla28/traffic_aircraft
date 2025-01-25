@@ -1,0 +1,72 @@
+{
+    "callsign": "EZY82BF ",
+    "endTime": "2024/06/12-14:36:44",
+    "icao24": "408011",
+    "path": [
+        [
+            1718213257,
+            29.2684,
+            32.8196,
+            10058,
+            308,
+            false
+        ],
+        [
+            1718213304,
+            29.3291,
+            32.7322,
+            10058,
+            308,
+            false
+        ],
+        [
+            1718213804,
+            29.9815,
+            31.7778,
+            10363,
+            307,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-14:27:37",
+    "baro_altitude": 11292.84,
+    "category": 0,
+    "geo_altitude": 11993.88,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204489,
+    "latitude": 30.342,
+    "longitude": 29.2794,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2704",
+    "time_position": 1718204489,
+    "true_track": 134.24,
+    "velocity": 246.29,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1718213257,
+    "lastSeen": 1718213804
+}

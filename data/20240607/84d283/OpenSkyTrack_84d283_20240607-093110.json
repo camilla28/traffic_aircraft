@@ -1,0 +1,112 @@
+{
+    "callsign": "JJP336  ",
+    "endTime": "2024/06/07-09:31:15",
+    "icao24": "84d283",
+    "path": [
+        [
+            1717762014,
+            32.0415,
+            135.6641,
+            10668,
+            57,
+            false
+        ],
+        [
+            1717762652,
+            32.8457,
+            137.1605,
+            10668,
+            57,
+            false
+        ],
+        [
+            1717762787,
+            33.0091,
+            137.4716,
+            10363,
+            58,
+            false
+        ],
+        [
+            1717763218,
+            33.5192,
+            138.4607,
+            10668,
+            58,
+            false
+        ],
+        [
+            1717763238,
+            33.5427,
+            138.5067,
+            10363,
+            58,
+            false
+        ],
+        [
+            1717763254,
+            33.5601,
+            138.5411,
+            10668,
+            58,
+            false
+        ],
+        [
+            1717763380,
+            33.7047,
+            138.8271,
+            10363,
+            58,
+            false
+        ],
+        [
+            1717763475,
+            33.8143,
+            139.0447,
+            10668,
+            59,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-09:06:54",
+    "baro_altitude": 10675.62,
+    "category": 0,
+    "geo_altitude": 11262.36,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762945,
+    "latitude": 33.1371,
+    "longitude": 137.7175,
+    "on_ground": false,
+    "origin_country": "Japan",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2203",
+    "time_position": 1717762893,
+    "true_track": 58.4,
+    "velocity": 254.28,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717762014,
+    "lastSeen": 1717763467
+}

@@ -1,0 +1,96 @@
+{
+    "callsign": "N36JR   ",
+    "endTime": "2024/05/29-18:43:34",
+    "icao24": "a40acb",
+    "path": [
+        [
+            1717018695,
+            33.0024,
+            -111.9025,
+            609,
+            235,
+            false
+        ],
+        [
+            1717018695,
+            33.0024,
+            -111.9025,
+            609,
+            43,
+            false
+        ],
+        [
+            1717018910,
+            32.9801,
+            -111.9148,
+            609,
+            49,
+            false
+        ],
+        [
+            1717018910,
+            32.9801,
+            -111.9148,
+            609,
+            277,
+            false
+        ],
+        [
+            1717019014,
+            33.0042,
+            -111.9009,
+            304,
+            228,
+            false
+        ],
+        [
+            1717019014,
+            33.0042,
+            -111.9009,
+            304,
+            228,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-18:38:15",
+    "baro_altitude": 1386.84,
+    "category": 0,
+    "geo_altitude": 1424.94,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717016382,
+    "latitude": 33.1051,
+    "longitude": -111.8673,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717016382,
+    "true_track": 85.7,
+    "velocity": 47.98,
+    "vertical_rate": -3.25,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 113,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KA39",
+    "estDepartureAirportHorizDistance": 1979,
+    "estDepartureAirportVertDistance": 228,
+    "firstSeen": 1717018695,
+    "lastSeen": 1717019014
+}

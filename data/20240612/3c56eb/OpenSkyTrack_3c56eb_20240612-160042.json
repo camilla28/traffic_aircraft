@@ -1,0 +1,80 @@
+{
+    "callsign": "EWG89FK ",
+    "endTime": "2024/06/12-16:00:44",
+    "icao24": "3c56eb",
+    "path": [
+        [
+            1718218787,
+            47.4382,
+            19.2377,
+            0,
+            311,
+            false
+        ],
+        [
+            1718218804,
+            47.4465,
+            19.2244,
+            0,
+            312,
+            false
+        ],
+        [
+            1718218836,
+            47.4607,
+            19.2018,
+            304,
+            312,
+            false
+        ],
+        [
+            1718218844,
+            47.4653,
+            19.1947,
+            609,
+            312,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-15:59:47",
+    "baro_altitude": 7840.98,
+    "category": 0,
+    "geo_altitude": 7924.8,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204674,
+    "latitude": 49.505,
+    "longitude": 9.332,
+    "on_ground": false,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5025",
+    "time_position": 1718204674,
+    "true_track": 9.97,
+    "velocity": 219.9,
+    "vertical_rate": 8.78,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 63,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LHBP",
+    "estDepartureAirportHorizDistance": 997,
+    "estDepartureAirportVertDistance": 28,
+    "firstSeen": 1718218787,
+    "lastSeen": 1718218844
+}

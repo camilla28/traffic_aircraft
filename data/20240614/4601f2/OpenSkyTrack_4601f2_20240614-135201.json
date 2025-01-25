@@ -1,0 +1,232 @@
+{
+    "callsign": "FIN5Y   ",
+    "endTime": "2024/06/14-13:52:07",
+    "icao24": "4601f2",
+    "path": [
+        [
+            1718383371,
+            60.3217,
+            24.9231,
+            0,
+            225,
+            false
+        ],
+        [
+            1718383389,
+            60.3149,
+            24.9099,
+            0,
+            224,
+            false
+        ],
+        [
+            1718383409,
+            60.3066,
+            24.895,
+            304,
+            222,
+            false
+        ],
+        [
+            1718383419,
+            60.3026,
+            24.8851,
+            304,
+            235,
+            false
+        ],
+        [
+            1718383446,
+            60.2915,
+            24.8525,
+            304,
+            234,
+            false
+        ],
+        [
+            1718383455,
+            60.2878,
+            24.8413,
+            609,
+            237,
+            false
+        ],
+        [
+            1718383473,
+            60.2807,
+            24.818,
+            609,
+            236,
+            false
+        ],
+        [
+            1718383482,
+            60.2755,
+            24.8089,
+            609,
+            206,
+            false
+        ],
+        [
+            1718383491,
+            60.2689,
+            24.8054,
+            609,
+            188,
+            false
+        ],
+        [
+            1718383500,
+            60.2617,
+            24.804,
+            914,
+            183,
+            false
+        ],
+        [
+            1718383535,
+            60.2339,
+            24.7998,
+            914,
+            183,
+            false
+        ],
+        [
+            1718383586,
+            60.2075,
+            24.7953,
+            1219,
+            185,
+            false
+        ],
+        [
+            1718383596,
+            60.1871,
+            24.7916,
+            1524,
+            184,
+            false
+        ],
+        [
+            1718383605,
+            60.1786,
+            24.792,
+            1524,
+            173,
+            false
+        ],
+        [
+            1718383614,
+            60.1705,
+            24.7939,
+            1524,
+            173,
+            false
+        ],
+        [
+            1718383623,
+            60.1631,
+            24.7959,
+            1828,
+            171,
+            false
+        ],
+        [
+            1718383641,
+            60.1486,
+            24.8011,
+            1828,
+            168,
+            false
+        ],
+        [
+            1718383659,
+            60.1342,
+            24.8069,
+            1828,
+            168,
+            false
+        ],
+        [
+            1718383697,
+            60.1034,
+            24.8189,
+            2133,
+            169,
+            false
+        ],
+        [
+            1718383764,
+            60.0483,
+            24.8381,
+            2438,
+            170,
+            false
+        ],
+        [
+            1718383908,
+            59.8957,
+            24.8934,
+            2743,
+            170,
+            false
+        ],
+        [
+            1718383918,
+            59.8843,
+            24.8958,
+            2743,
+            177,
+            false
+        ],
+        [
+            1718383927,
+            59.8742,
+            24.8958,
+            2743,
+            181,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-13:42:51",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718380973,
+    "latitude": 60.3152,
+    "longitude": 24.9736,
+    "on_ground": true,
+    "origin_country": "Finland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0253",
+    "time_position": 1718380971,
+    "true_track": 233.44,
+    "velocity": 0,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 23,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EFHK",
+    "estDepartureAirportHorizDistance": 1671,
+    "estDepartureAirportVertDistance": 74,
+    "firstSeen": 1718383371,
+    "lastSeen": 1718383927
+}

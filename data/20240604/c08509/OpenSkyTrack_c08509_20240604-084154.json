@@ -1,0 +1,104 @@
+{
+    "callsign": "ACA97   ",
+    "endTime": "2024/06/04-08:36:42",
+    "icao24": "c08509",
+    "path": [
+        [
+            1717499636,
+            12.056,
+            -61.892,
+            11277,
+            323,
+            false
+        ],
+        [
+            1717499792,
+            12.058,
+            -61.8935,
+            11277,
+            323,
+            false
+        ],
+        [
+            1717500141,
+            12.0737,
+            -61.9054,
+            11582,
+            323,
+            false
+        ],
+        [
+            1717500429,
+            12.0804,
+            -61.9105,
+            11277,
+            323,
+            false
+        ],
+        [
+            1717500546,
+            12.089,
+            -61.9169,
+            11582,
+            323,
+            false
+        ],
+        [
+            1717500729,
+            12.101,
+            -61.926,
+            11277,
+            323,
+            false
+        ],
+        [
+            1717501002,
+            12.1125,
+            -61.9347,
+            11582,
+            323,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:13:56",
+    "baro_altitude": 11582.4,
+    "category": 0,
+    "geo_altitude": 12359.64,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499978,
+    "latitude": 12.0617,
+    "longitude": -61.8963,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499978,
+    "true_track": 323.37,
+    "velocity": 244.88,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "TGPY",
+    "estDepartureAirportHorizDistance": 9397,
+    "estDepartureAirportVertDistance": 11562,
+    "firstSeen": 1717499636,
+    "lastSeen": 1717501002
+}

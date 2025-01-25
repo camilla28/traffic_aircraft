@@ -1,0 +1,184 @@
+{
+    "callsign": "SAT402  ",
+    "endTime": "2024/06/12-12:02:44",
+    "icao24": "495244",
+    "path": [
+        [
+            1718204199,
+            37.7413,
+            -25.6953,
+            -304,
+            291,
+            false
+        ],
+        [
+            1718204207,
+            37.7429,
+            -25.7004,
+            0,
+            292,
+            false
+        ],
+        [
+            1718204217,
+            37.7452,
+            -25.7068,
+            0,
+            296,
+            false
+        ],
+        [
+            1718204227,
+            37.7482,
+            -25.7128,
+            0,
+            302,
+            false
+        ],
+        [
+            1718204233,
+            37.7502,
+            -25.7164,
+            304,
+            306,
+            false
+        ],
+        [
+            1718204236,
+            37.7516,
+            -25.7188,
+            304,
+            308,
+            false
+        ],
+        [
+            1718204268,
+            37.7641,
+            -25.7364,
+            304,
+            312,
+            false
+        ],
+        [
+            1718204277,
+            37.7708,
+            -25.7453,
+            304,
+            313,
+            false
+        ],
+        [
+            1718204303,
+            37.7913,
+            -25.7718,
+            609,
+            311,
+            false
+        ],
+        [
+            1718204315,
+            37.8,
+            -25.7839,
+            914,
+            311,
+            false
+        ],
+        [
+            1718204353,
+            37.8263,
+            -25.8209,
+            1219,
+            312,
+            false
+        ],
+        [
+            1718204360,
+            37.8314,
+            -25.8279,
+            1524,
+            311,
+            false
+        ],
+        [
+            1718204406,
+            37.8627,
+            -25.8724,
+            1828,
+            311,
+            false
+        ],
+        [
+            1718204435,
+            37.8832,
+            -25.9016,
+            2133,
+            311,
+            false
+        ],
+        [
+            1718204470,
+            37.908,
+            -25.9367,
+            2438,
+            311,
+            false
+        ],
+        [
+            1718204536,
+            37.9567,
+            -26.0057,
+            3048,
+            311,
+            false
+        ],
+        [
+            1718204564,
+            37.9783,
+            -26.0363,
+            3352,
+            311,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-11:56:39",
+    "baro_altitude": 3520.44,
+    "category": 0,
+    "geo_altitude": 3840.48,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204565,
+    "latitude": 37.9783,
+    "longitude": -26.0363,
+    "on_ground": false,
+    "origin_country": "Portugal",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718204564,
+    "true_track": 311.54,
+    "velocity": 126.46,
+    "vertical_rate": 8.13,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 2,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LPPD",
+    "estDepartureAirportHorizDistance": 647,
+    "estDepartureAirportVertDistance": 132,
+    "firstSeen": 1718204199,
+    "lastSeen": 1718204564
+}

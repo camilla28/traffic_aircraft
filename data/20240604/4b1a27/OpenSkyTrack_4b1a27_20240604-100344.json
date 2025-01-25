@@ -1,0 +1,112 @@
+{
+    "callsign": "EZS78PJ ",
+    "endTime": "2024/06/04-10:03:42",
+    "icao24": "4b1a27",
+    "path": [
+        [
+            1717502472,
+            48.5347,
+            3.2644,
+            8839,
+            92,
+            false
+        ],
+        [
+            1717503288,
+            48.5288,
+            3.4208,
+            8839,
+            93,
+            false
+        ],
+        [
+            1717504179,
+            48.5224,
+            3.5835,
+            8839,
+            93,
+            false
+        ],
+        [
+            1717504988,
+            48.5165,
+            3.7311,
+            8839,
+            93,
+            false
+        ],
+        [
+            1717505827,
+            48.5108,
+            3.8682,
+            8839,
+            94,
+            false
+        ],
+        [
+            1717505958,
+            48.5098,
+            3.8846,
+            8839,
+            95,
+            false
+        ],
+        [
+            1717506063,
+            48.5082,
+            3.9053,
+            8839,
+            97,
+            false
+        ],
+        [
+            1717506222,
+            48.5029,
+            3.9537,
+            8839,
+            98,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:01:12",
+    "baro_altitude": 8839.2,
+    "category": 0,
+    "geo_altitude": 9090.66,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504652,
+    "latitude": 48.5189,
+    "longitude": 3.6725,
+    "on_ground": false,
+    "origin_country": "Switzerland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1072",
+    "time_position": 1717504652,
+    "true_track": 93.46,
+    "velocity": 230.38,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717502472,
+    "lastSeen": 1717506222
+}

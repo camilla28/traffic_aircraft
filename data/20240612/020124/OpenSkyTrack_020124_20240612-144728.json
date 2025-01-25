@@ -1,0 +1,72 @@
+{
+    "callsign": "MAC747  ",
+    "endTime": "2024/06/12-12:02:34",
+    "icao24": "020124",
+    "path": [
+        [
+            1718204449,
+            33.8125,
+            -5.536,
+            6096,
+            243,
+            false
+        ],
+        [
+            1718204449,
+            33.8125,
+            -5.536,
+            6096,
+            243,
+            false
+        ],
+        [
+            1718204554,
+            33.7401,
+            -5.7119,
+            6400,
+            243,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-12:00:49",
+    "baro_altitude": 6400.8,
+    "category": 1,
+    "geo_altitude": 6774.18,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204554,
+    "latitude": 33.7401,
+    "longitude": -5.7119,
+    "on_ground": false,
+    "origin_country": "Morocco",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718204554,
+    "true_track": 243.8,
+    "velocity": 179.46,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "GMFM",
+    "estDepartureAirportHorizDistance": 82137,
+    "estDepartureAirportVertDistance": 5603,
+    "firstSeen": 1718204449,
+    "lastSeen": 1718204554
+}

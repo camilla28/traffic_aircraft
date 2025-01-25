@@ -1,0 +1,96 @@
+{
+    "callsign": "CXK565  ",
+    "endTime": "2024/06/07-16:10:56",
+    "icao24": "aca9d4",
+    "path": [
+        [
+            1717787182,
+            35.2155,
+            -81.1331,
+            304,
+            300,
+            false
+        ],
+        [
+            1717787190,
+            35.2166,
+            -81.1357,
+            304,
+            300,
+            false
+        ],
+        [
+            1717787194,
+            35.2167,
+            -81.1372,
+            304,
+            261,
+            false
+        ],
+        [
+            1717787194,
+            35.2167,
+            -81.1372,
+            304,
+            30,
+            false
+        ],
+        [
+            1717787453,
+            35.2153,
+            -81.1257,
+            304,
+            312,
+            false
+        ],
+        [
+            1717787456,
+            35.2158,
+            -81.1269,
+            304,
+            312,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-16:06:22",
+    "baro_altitude": 975.36,
+    "category": 0,
+    "geo_altitude": 944.88,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717784179,
+    "latitude": 35.1219,
+    "longitude": -81.2894,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717784179,
+    "true_track": 265.53,
+    "velocity": 33.02,
+    "vertical_rate": 4.23,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 312,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KAKH",
+    "estDepartureAirportHorizDistance": 2349,
+    "estDepartureAirportVertDistance": 229,
+    "firstSeen": 1717787182,
+    "lastSeen": 1717787456
+}

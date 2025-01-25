@@ -1,0 +1,104 @@
+{
+    "callsign": "ATL2C   ",
+    "endTime": "2024/06/12-10:57:09",
+    "icao24": "3e350c",
+    "path": [
+        [
+            1718200511,
+            57.6782,
+            13.9781,
+            2133,
+            213,
+            false
+        ],
+        [
+            1718200514,
+            57.6762,
+            13.9756,
+            2133,
+            212,
+            false
+        ],
+        [
+            1718200537,
+            57.6603,
+            13.9568,
+            2438,
+            212,
+            false
+        ],
+        [
+            1718200562,
+            57.6416,
+            13.9347,
+            2743,
+            212,
+            false
+        ],
+        [
+            1718200587,
+            57.6221,
+            13.9113,
+            3048,
+            212,
+            false
+        ],
+        [
+            1718200604,
+            57.6081,
+            13.8943,
+            3352,
+            213,
+            false
+        ],
+        [
+            1718200629,
+            57.5866,
+            13.8682,
+            3657,
+            212,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-10:55:11",
+    "baro_altitude": 2194.56,
+    "category": 0,
+    "geo_altitude": 2186.94,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194208,
+    "latitude": 57.9084,
+    "longitude": 14.0168,
+    "on_ground": false,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7270",
+    "time_position": 1718194207,
+    "true_track": 28.35,
+    "velocity": 118.08,
+    "vertical_rate": -16.26,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "ESGJ",
+    "estDepartureAirportHorizDistance": 10085,
+    "estDepartureAirportVertDistance": 2014,
+    "firstSeen": 1718200511,
+    "lastSeen": 1718200629
+}

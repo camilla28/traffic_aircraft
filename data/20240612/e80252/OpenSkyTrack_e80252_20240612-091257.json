@@ -1,0 +1,112 @@
+{
+    "callsign": "LPE2132 ",
+    "endTime": "2024/06/12-09:12:59",
+    "icao24": "e80252",
+    "path": [
+        [
+            1718194063,
+            -11.5957,
+            -77.3316,
+            1828,
+            155,
+            false
+        ],
+        [
+            1718194126,
+            -11.6583,
+            -77.3022,
+            1524,
+            154,
+            false
+        ],
+        [
+            1718194203,
+            -11.7315,
+            -77.2675,
+            1219,
+            154,
+            false
+        ],
+        [
+            1718194253,
+            -11.7739,
+            -77.2476,
+            914,
+            155,
+            false
+        ],
+        [
+            1718194288,
+            -11.8015,
+            -77.2326,
+            609,
+            145,
+            false
+        ],
+        [
+            1718194356,
+            -11.8511,
+            -77.1995,
+            609,
+            147,
+            false
+        ],
+        [
+            1718194362,
+            -11.8552,
+            -77.1971,
+            609,
+            151,
+            false
+        ],
+        [
+            1718194379,
+            -11.8677,
+            -77.1905,
+            609,
+            153,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-09:07:43",
+    "baro_altitude": 1051.56,
+    "category": 0,
+    "geo_altitude": 1173.48,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194253,
+    "latitude": -11.7739,
+    "longitude": -77.2476,
+    "on_ground": false,
+    "origin_country": "Chile",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718194253,
+    "true_track": 155.41,
+    "velocity": 100.14,
+    "vertical_rate": -3.9,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 9,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "SPNO",
+    "estDepartureAirportHorizDistance": 104656,
+    "estDepartureAirportVertDistance": 1824,
+    "firstSeen": 1718194063,
+    "lastSeen": 1718194379
+}

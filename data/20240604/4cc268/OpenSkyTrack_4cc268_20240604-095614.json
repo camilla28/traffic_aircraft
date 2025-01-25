@@ -1,0 +1,72 @@
+{
+    "callsign": "ICE12E  ",
+    "endTime": "2024/06/04-09:54:50",
+    "icao24": "4cc268",
+    "path": [
+        [
+            1717504232,
+            53.6557,
+            -108.0349,
+            11277,
+            65,
+            false
+        ],
+        [
+            1717505064,
+            53.6631,
+            -108.0078,
+            11277,
+            65,
+            false
+        ],
+        [
+            1717505690,
+            53.6698,
+            -107.9836,
+            11277,
+            65,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:30:32",
+    "baro_altitude": 11277.6,
+    "category": 0,
+    "geo_altitude": 11277.6,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504714,
+    "latitude": 53.6596,
+    "longitude": -108.0207,
+    "on_ground": false,
+    "origin_country": "Iceland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504714,
+    "true_track": 65.25,
+    "velocity": 246.99,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717504232,
+    "lastSeen": 1717505690
+}

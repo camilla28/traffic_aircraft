@@ -1,0 +1,72 @@
+{
+    "callsign": "SCU42   ",
+    "endTime": "2024/05/29-11:08:17",
+    "icao24": "ab1614",
+    "path": [
+        [
+            1716990495,
+            35.5308,
+            -96.3322,
+            1219,
+            205,
+            false
+        ],
+        [
+            1716991394,
+            35.146,
+            -96.5505,
+            1219,
+            205,
+            false
+        ],
+        [
+            1716991697,
+            35.0111,
+            -96.6266,
+            1219,
+            204,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-10:48:15",
+    "baro_altitude": 1303.02,
+    "category": 0,
+    "geo_altitude": 1363.98,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716991238,
+    "latitude": 35.2133,
+    "longitude": -96.5126,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1716991238,
+    "true_track": 205.35,
+    "velocity": 54.08,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 273,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "K3F7",
+    "estDepartureAirportHorizDistance": 31753,
+    "estDepartureAirportVertDistance": 1051,
+    "firstSeen": 1716990495,
+    "lastSeen": 1716991697
+}

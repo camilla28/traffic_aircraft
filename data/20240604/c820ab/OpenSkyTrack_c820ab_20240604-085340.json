@@ -1,0 +1,128 @@
+{
+    "callsign": "ANZ823M ",
+    "endTime": "2024/06/04-08:53:42",
+    "icao24": "c820ab",
+    "path": [
+        [
+            1717496751,
+            -37.9113,
+            175.3285,
+            304,
+            180,
+            false
+        ],
+        [
+            1717497604,
+            -37.9255,
+            175.3283,
+            304,
+            181,
+            false
+        ],
+        [
+            1717497724,
+            -37.927,
+            175.3282,
+            304,
+            181,
+            false
+        ],
+        [
+            1717498603,
+            -37.942,
+            175.3279,
+            609,
+            181,
+            false
+        ],
+        [
+            1717499494,
+            -37.9554,
+            175.3275,
+            609,
+            181,
+            false
+        ],
+        [
+            1717499596,
+            -37.9589,
+            175.3275,
+            609,
+            181,
+            false
+        ],
+        [
+            1717500491,
+            -37.9729,
+            175.3272,
+            914,
+            181,
+            false
+        ],
+        [
+            1717501313,
+            -37.9893,
+            175.3268,
+            914,
+            180,
+            false
+        ],
+        [
+            1717501414,
+            -37.9912,
+            175.3268,
+            914,
+            180,
+            false
+        ],
+        [
+            1717502022,
+            -38.0072,
+            175.3265,
+            1219,
+            180,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:25:51",
+    "baro_altitude": 975.36,
+    "category": 0,
+    "geo_altitude": 1066.8,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500026,
+    "latitude": -37.9654,
+    "longitude": 175.3274,
+    "on_ground": false,
+    "origin_country": "New Zealand",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717500026,
+    "true_track": 180.68,
+    "velocity": 86.43,
+    "vertical_rate": 8.13,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 47,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "NZHN",
+    "estDepartureAirportHorizDistance": 4981,
+    "estDepartureAirportVertDistance": 389,
+    "firstSeen": 1717496751,
+    "lastSeen": 1717502022
+}

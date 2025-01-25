@@ -1,0 +1,80 @@
+{
+    "callsign": "IBE6700 ",
+    "endTime": "2024/06/04-08:47:27",
+    "icao24": "3455c1",
+    "path": [
+        [
+            1717499121,
+            37.6862,
+            5.5708,
+            12192,
+            287,
+            false
+        ],
+        [
+            1717499910,
+            37.6934,
+            5.5425,
+            12192,
+            287,
+            false
+        ],
+        [
+            1717500785,
+            37.7015,
+            5.5109,
+            12192,
+            287,
+            false
+        ],
+        [
+            1717501647,
+            37.7099,
+            5.4781,
+            12192,
+            287,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:05:21",
+    "baro_altitude": null,
+    "category": 6,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504634,
+    "latitude": 40.4935,
+    "longitude": -3.5592,
+    "on_ground": true,
+    "origin_country": "Spain",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504624,
+    "true_track": 317.81,
+    "velocity": 8.75,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717499121,
+    "lastSeen": 1717501647
+}

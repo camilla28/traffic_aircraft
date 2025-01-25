@@ -1,0 +1,112 @@
+{
+    "callsign": "ROU1575 ",
+    "endTime": "2024/06/04-08:48:58",
+    "icao24": "c08497",
+    "path": [
+        [
+            1717496766,
+            43.7144,
+            -79.6716,
+            304,
+            136,
+            false
+        ],
+        [
+            1717497657,
+            43.7116,
+            -79.6678,
+            304,
+            136,
+            false
+        ],
+        [
+            1717498021,
+            43.7096,
+            -79.6651,
+            304,
+            136,
+            false
+        ],
+        [
+            1717498872,
+            43.7048,
+            -79.6589,
+            0,
+            137,
+            false
+        ],
+        [
+            1717499698,
+            43.6998,
+            -79.6525,
+            0,
+            136,
+            false
+        ],
+        [
+            1717500533,
+            43.6957,
+            -79.647,
+            0,
+            136,
+            false
+        ],
+        [
+            1717501422,
+            43.6904,
+            -79.6401,
+            0,
+            135,
+            false
+        ],
+        [
+            1717501738,
+            43.6886,
+            -79.6378,
+            0,
+            136,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:26:06",
+    "baro_altitude": 213.36,
+    "category": 0,
+    "geo_altitude": 198.12,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500035,
+    "latitude": 43.6982,
+    "longitude": -79.6502,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717500033,
+    "true_track": 136.17,
+    "velocity": 71.31,
+    "vertical_rate": -3.25,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 222,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "CYYZ",
+    "estDepartureAirportHorizDistance": 5304,
+    "estDepartureAirportVertDistance": 169,
+    "firstSeen": 1717496766,
+    "lastSeen": 1717501738
+}

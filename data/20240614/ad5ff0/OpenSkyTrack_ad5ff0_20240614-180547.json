@@ -1,0 +1,96 @@
+{
+    "callsign": "N961AU  ",
+    "endTime": "2024/06/14-18:05:39",
+    "icao24": "ad5ff0",
+    "path": [
+        [
+            1718399054,
+            32.7923,
+            -84.8962,
+            914,
+            225,
+            false
+        ],
+        [
+            1718399054,
+            32.7923,
+            -84.8962,
+            914,
+            225,
+            false
+        ],
+        [
+            1718399107,
+            32.776,
+            -84.916,
+            914,
+            224,
+            false
+        ],
+        [
+            1718399113,
+            32.774,
+            -84.9182,
+            914,
+            222,
+            false
+        ],
+        [
+            1718399125,
+            32.77,
+            -84.9225,
+            914,
+            220,
+            false
+        ],
+        [
+            1718399139,
+            32.7652,
+            -84.9271,
+            914,
+            221,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-18:04:14",
+    "baro_altitude": 1059.18,
+    "category": 0,
+    "geo_altitude": 1089.66,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718396795,
+    "latitude": 32.7318,
+    "longitude": -85.106,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718396795,
+    "true_track": 88.84,
+    "velocity": 50.94,
+    "vertical_rate": 1.63,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 318,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KPIM",
+    "estDepartureAirportHorizDistance": 5465,
+    "estDepartureAirportVertDistance": 647,
+    "firstSeen": 1718399054,
+    "lastSeen": 1718399139
+}

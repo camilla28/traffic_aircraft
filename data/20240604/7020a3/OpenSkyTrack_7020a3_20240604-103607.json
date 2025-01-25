@@ -1,0 +1,120 @@
+{
+    "callsign": "UBG208  ",
+    "endTime": "2024/06/04-10:35:32",
+    "icao24": "7020a3",
+    "path": [
+        [
+            1717503685,
+            22.595,
+            88.916,
+            3048,
+            92,
+            false
+        ],
+        [
+            1717504547,
+            22.5945,
+            88.9313,
+            3048,
+            92,
+            false
+        ],
+        [
+            1717505152,
+            22.594,
+            88.9422,
+            3048,
+            94,
+            false
+        ],
+        [
+            1717506026,
+            22.5922,
+            88.9585,
+            3048,
+            96,
+            false
+        ],
+        [
+            1717506695,
+            22.5909,
+            88.9706,
+            3048,
+            96,
+            false
+        ],
+        [
+            1717506821,
+            22.5906,
+            88.9731,
+            3352,
+            96,
+            false
+        ],
+        [
+            1717506871,
+            22.5907,
+            88.9725,
+            3048,
+            96,
+            false
+        ],
+        [
+            1717507767,
+            22.5888,
+            88.9898,
+            3352,
+            96,
+            false
+        ],
+        [
+            1717508132,
+            22.5881,
+            88.9957,
+            3352,
+            96,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:21:25",
+    "baro_altitude": 3177.54,
+    "category": 0,
+    "geo_altitude": 3261.36,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504714,
+    "latitude": 22.5944,
+    "longitude": 88.9327,
+    "on_ground": false,
+    "origin_country": "Bangladesh",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0457",
+    "time_position": 1717504714,
+    "true_track": 92.11,
+    "velocity": 97.81,
+    "vertical_rate": 3.9,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717503685,
+    "lastSeen": 1717508132
+}

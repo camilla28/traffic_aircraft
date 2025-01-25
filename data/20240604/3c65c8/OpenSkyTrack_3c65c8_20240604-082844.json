@@ -1,0 +1,136 @@
+{
+    "callsign": "DLH04T  ",
+    "endTime": "2024/06/04-08:27:50",
+    "icao24": "3c65c8",
+    "path": [
+        [
+            1717498050,
+            41.4326,
+            -7.2484,
+            7010,
+            85,
+            false
+        ],
+        [
+            1717498238,
+            41.4331,
+            -7.2399,
+            7010,
+            85,
+            false
+        ],
+        [
+            1717498243,
+            41.4333,
+            -7.2366,
+            7315,
+            85,
+            false
+        ],
+        [
+            1717498283,
+            41.4329,
+            -7.2428,
+            7010,
+            85,
+            false
+        ],
+        [
+            1717499172,
+            41.4374,
+            -7.163,
+            7315,
+            85,
+            false
+        ],
+        [
+            1717499829,
+            41.4402,
+            -7.1119,
+            7315,
+            85,
+            false
+        ],
+        [
+            1717499834,
+            41.4405,
+            -7.1057,
+            7620,
+            85,
+            false
+        ],
+        [
+            1717499844,
+            41.4403,
+            -7.1092,
+            7315,
+            85,
+            false
+        ],
+        [
+            1717499847,
+            41.4406,
+            -7.1041,
+            7620,
+            85,
+            false
+        ],
+        [
+            1717499873,
+            41.44,
+            -7.1145,
+            7315,
+            85,
+            false
+        ],
+        [
+            1717500470,
+            41.4431,
+            -7.0593,
+            7620,
+            85,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:47:30",
+    "baro_altitude": 7650.48,
+    "category": 0,
+    "geo_altitude": 8008.62,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500025,
+    "latitude": 41.4412,
+    "longitude": -7.0931,
+    "on_ground": false,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5446",
+    "time_position": 1717500025,
+    "true_track": 85.75,
+    "velocity": 250.19,
+    "vertical_rate": 6.5,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LPMI",
+    "estDepartureAirportHorizDistance": 271543,
+    "estDepartureAirportVertDistance": 6887,
+    "firstSeen": 1717498050,
+    "lastSeen": 1717500470
+}

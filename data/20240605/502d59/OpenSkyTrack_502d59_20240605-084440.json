@@ -1,0 +1,72 @@
+{
+    "callsign": "BTI4YE  ",
+    "endTime": "2024/06/05-08:44:39",
+    "icao24": "502d59",
+    "path": [
+        [
+            1717587826,
+            56.9047,
+            23.9678,
+            0,
+            186,
+            false
+        ],
+        [
+            1717587854,
+            56.8867,
+            23.9648,
+            304,
+            184,
+            false
+        ],
+        [
+            1717587879,
+            56.8702,
+            23.9623,
+            609,
+            184,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-08:43:46",
+    "baro_altitude": 11277.6,
+    "category": 0,
+    "geo_altitude": 11414.76,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717582996,
+    "latitude": 56.5215,
+    "longitude": 19.8883,
+    "on_ground": false,
+    "origin_country": "Latvia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3522",
+    "time_position": 1717582996,
+    "true_track": 72.43,
+    "velocity": 236.89,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 30,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EVRA",
+    "estDepartureAirportHorizDistance": 2106,
+    "estDepartureAirportVertDistance": 240,
+    "firstSeen": 1717587826,
+    "lastSeen": 1717587879
+}

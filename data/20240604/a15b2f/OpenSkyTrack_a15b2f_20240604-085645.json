@@ -1,0 +1,72 @@
+{
+    "callsign": "FDX131  ",
+    "endTime": "2024/06/04-08:56:39",
+    "icao24": "a15b2f",
+    "path": [
+        [
+            1717500949,
+            37.4214,
+            -88.072,
+            10972,
+            205,
+            false
+        ],
+        [
+            1717501746,
+            37.401,
+            -88.0842,
+            10972,
+            205,
+            false
+        ],
+        [
+            1717502199,
+            37.3911,
+            -88.0901,
+            10972,
+            205,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:35:49",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": 11475.72,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499962,
+    "latitude": 37.4316,
+    "longitude": -88.0659,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499962,
+    "true_track": 205.27,
+    "velocity": 243.47,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "K5M9",
+    "estDepartureAirportHorizDistance": 10474,
+    "estDepartureAirportVertDistance": 10774,
+    "firstSeen": 1717500949,
+    "lastSeen": 1717502199
+}

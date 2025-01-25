@@ -1,0 +1,136 @@
+{
+    "callsign": "ASA1115 ",
+    "endTime": "2024/06/04-10:30:55",
+    "icao24": "a6705c",
+    "path": [
+        [
+            1717499419,
+            45.163,
+            -122.4434,
+            10972,
+            350,
+            false
+        ],
+        [
+            1717500219,
+            45.3188,
+            -122.4826,
+            10972,
+            349,
+            false
+        ],
+        [
+            1717501113,
+            45.3371,
+            -122.4872,
+            10972,
+            349,
+            false
+        ],
+        [
+            1717502008,
+            45.3503,
+            -122.4906,
+            10972,
+            349,
+            false
+        ],
+        [
+            1717502881,
+            45.2688,
+            -122.47,
+            10972,
+            349,
+            false
+        ],
+        [
+            1717503778,
+            45.3701,
+            -122.4955,
+            10972,
+            349,
+            false
+        ],
+        [
+            1717504674,
+            45.3785,
+            -122.4977,
+            10972,
+            349,
+            false
+        ],
+        [
+            1717505554,
+            45.3878,
+            -122.5,
+            10972,
+            349,
+            false
+        ],
+        [
+            1717506453,
+            45.3998,
+            -122.5031,
+            10972,
+            349,
+            false
+        ],
+        [
+            1717507321,
+            45.4081,
+            -122.5051,
+            10972,
+            349,
+            false
+        ],
+        [
+            1717507855,
+            45.4109,
+            -122.5059,
+            10972,
+            349,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:10:19",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": 11330.94,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504681,
+    "latitude": 45.3785,
+    "longitude": -122.4977,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504674,
+    "true_track": 349.9,
+    "velocity": 205.36,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 2,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "K4S9",
+    "estDepartureAirportHorizDistance": 12928,
+    "estDepartureAirportVertDistance": 10893,
+    "firstSeen": 1717499419,
+    "lastSeen": 1717507855
+}

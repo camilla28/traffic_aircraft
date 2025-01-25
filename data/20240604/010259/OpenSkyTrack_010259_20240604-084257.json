@@ -1,0 +1,120 @@
+{
+    "callsign": "MSC389  ",
+    "endTime": "2024/06/04-08:42:44",
+    "icao24": "010259",
+    "path": [
+        [
+            1717495535,
+            32.2769,
+            29.3665,
+            10972,
+            329,
+            false
+        ],
+        [
+            1717496433,
+            32.2924,
+            29.3556,
+            10972,
+            328,
+            false
+        ],
+        [
+            1717497232,
+            32.3067,
+            29.3455,
+            10972,
+            328,
+            false
+        ],
+        [
+            1717498125,
+            32.3202,
+            29.3359,
+            10972,
+            329,
+            false
+        ],
+        [
+            1717498768,
+            32.329,
+            29.3297,
+            10972,
+            329,
+            false
+        ],
+        [
+            1717499071,
+            41.73,
+            23.2418,
+            10972,
+            333,
+            false
+        ],
+        [
+            1717499904,
+            41.8123,
+            23.1876,
+            10972,
+            333,
+            false
+        ],
+        [
+            1717500798,
+            42.1394,
+            22.9708,
+            10972,
+            333,
+            false
+        ],
+        [
+            1717501364,
+            42.1848,
+            22.9404,
+            10972,
+            333,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:05:35",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": 11323.32,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500033,
+    "latitude": 42.074,
+    "longitude": 23.0143,
+    "on_ground": false,
+    "origin_country": "Egypt",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "6477",
+    "time_position": 1717500033,
+    "true_track": 333.71,
+    "velocity": 236.97,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717495535,
+    "lastSeen": 1717501364
+}

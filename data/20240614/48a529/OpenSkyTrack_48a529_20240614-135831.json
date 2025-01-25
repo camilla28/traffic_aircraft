@@ -1,0 +1,112 @@
+{
+    "callsign": "SPKKK   ",
+    "endTime": "2024/06/14-13:58:39",
+    "icao24": "48a529",
+    "path": [
+        [
+            1718383590,
+            52.7186,
+            18.0962,
+            304,
+            238,
+            false
+        ],
+        [
+            1718383603,
+            52.716,
+            18.0891,
+            304,
+            239,
+            false
+        ],
+        [
+            1718383609,
+            52.7131,
+            18.0805,
+            304,
+            241,
+            false
+        ],
+        [
+            1718383619,
+            52.7116,
+            18.0737,
+            304,
+            251,
+            false
+        ],
+        [
+            1718383752,
+            52.6913,
+            17.9781,
+            304,
+            250,
+            false
+        ],
+        [
+            1718383763,
+            52.6893,
+            17.97,
+            304,
+            246,
+            false
+        ],
+        [
+            1718384291,
+            52.5904,
+            17.592,
+            304,
+            245,
+            false
+        ],
+        [
+            1718384319,
+            52.5854,
+            17.5727,
+            304,
+            245,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-13:46:30",
+    "baro_altitude": 274.32,
+    "category": 0,
+    "geo_altitude": 320.04,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718380973,
+    "latitude": 52.4479,
+    "longitude": 17.0783,
+    "on_ground": false,
+    "origin_country": "Poland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718380973,
+    "true_track": 53.62,
+    "velocity": 36.42,
+    "vertical_rate": 1.63,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 29,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EPIN",
+    "estDepartureAirportHorizDistance": 15341,
+    "estDepartureAirportVertDistance": 395,
+    "firstSeen": 1718383590,
+    "lastSeen": 1718384319
+}

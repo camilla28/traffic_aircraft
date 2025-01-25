@@ -1,0 +1,80 @@
+{
+    "callsign": "SWA1966 ",
+    "endTime": "2024/06/04-09:07:39",
+    "icao24": "aaa644",
+    "path": [
+        [
+            1717500387,
+            26.1438,
+            -80.3673,
+            304,
+            235,
+            false
+        ],
+        [
+            1717501160,
+            26.1412,
+            -80.3715,
+            304,
+            234,
+            false
+        ],
+        [
+            1717501965,
+            26.1385,
+            -80.3758,
+            304,
+            235,
+            false
+        ],
+        [
+            1717502859,
+            26.1354,
+            -80.3807,
+            304,
+            235,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:26:27",
+    "baro_altitude": 601.98,
+    "category": 0,
+    "geo_altitude": 624.84,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499918,
+    "latitude": 26.1445,
+    "longitude": -80.3663,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499914,
+    "true_track": 235.57,
+    "velocity": 121,
+    "vertical_rate": -1.95,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 149,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KHWO",
+    "estDepartureAirportHorizDistance": 20284,
+    "estDepartureAirportVertDistance": 599,
+    "firstSeen": 1717500387,
+    "lastSeen": 1717502859
+}

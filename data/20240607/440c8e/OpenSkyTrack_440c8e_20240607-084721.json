@@ -1,0 +1,72 @@
+{
+    "callsign": null,
+    "endTime": "2024/06/07-07:56:28",
+    "icao24": "440c8e",
+    "path": [
+        [
+            1717757788,
+            34.868,
+            33.6104,
+            8229,
+            61,
+            false
+        ],
+        [
+            1717757788,
+            34.868,
+            33.6104,
+            8229,
+            61,
+            false
+        ],
+        [
+            1717757788,
+            34.868,
+            33.6104,
+            7924,
+            61,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-07:56:28",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717759293,
+    "latitude": 34.868,
+    "longitude": 33.6104,
+    "on_ground": true,
+    "origin_country": "Austria",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2000",
+    "time_position": 1717759293,
+    "true_track": 61.88,
+    "velocity": 0,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LCLK",
+    "estDepartureAirportHorizDistance": 1538,
+    "estDepartureAirportVertDistance": 8524,
+    "firstSeen": 1717757788,
+    "lastSeen": 1717757788
+}

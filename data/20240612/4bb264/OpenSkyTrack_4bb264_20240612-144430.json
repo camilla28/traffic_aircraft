@@ -1,0 +1,104 @@
+{
+    "callsign": "THY5JK  ",
+    "endTime": "2024/06/12-14:44:37",
+    "icao24": "4bb264",
+    "path": [
+        [
+            1718214192,
+            60.114,
+            11.1211,
+            914,
+            132,
+            false
+        ],
+        [
+            1718214210,
+            60.1008,
+            11.1506,
+            914,
+            131,
+            false
+        ],
+        [
+            1718214224,
+            60.0892,
+            11.1762,
+            1219,
+            132,
+            false
+        ],
+        [
+            1718214252,
+            60.0668,
+            11.2241,
+            1524,
+            133,
+            false
+        ],
+        [
+            1718214261,
+            60.0592,
+            11.2406,
+            1828,
+            131,
+            false
+        ],
+        [
+            1718214269,
+            60.0535,
+            11.2577,
+            1828,
+            120,
+            false
+        ],
+        [
+            1718214277,
+            60.0492,
+            11.2761,
+            2133,
+            113,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-14:43:12",
+    "baro_altitude": 10378.44,
+    "category": 0,
+    "geo_altitude": 10370.82,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204674,
+    "latitude": 54.526,
+    "longitude": 18.0106,
+    "on_ground": false,
+    "origin_country": "Turkey",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5323",
+    "time_position": 1718204673,
+    "true_track": 334.63,
+    "velocity": 242.54,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 22,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "ENGM",
+    "estDepartureAirportHorizDistance": 8902,
+    "estDepartureAirportVertDistance": 828,
+    "firstSeen": 1718214192,
+    "lastSeen": 1718214277
+}

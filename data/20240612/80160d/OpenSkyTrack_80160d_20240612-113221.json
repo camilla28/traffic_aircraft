@@ -1,0 +1,112 @@
+{
+    "callsign": "AIC610  ",
+    "endTime": "2024/06/12-11:32:06",
+    "icao24": "80160d",
+    "path": [
+        [
+            1718202506,
+            14.1555,
+            77.3026,
+            7010,
+            304,
+            false
+        ],
+        [
+            1718202525,
+            14.1757,
+            77.2715,
+            7010,
+            302,
+            false
+        ],
+        [
+            1718202534,
+            14.1848,
+            77.2561,
+            7315,
+            300,
+            false
+        ],
+        [
+            1718202551,
+            14.2006,
+            77.2265,
+            7315,
+            297,
+            false
+        ],
+        [
+            1718202561,
+            14.2092,
+            77.2097,
+            7315,
+            297,
+            false
+        ],
+        [
+            1718202606,
+            14.2508,
+            77.1297,
+            7620,
+            298,
+            false
+        ],
+        [
+            1718202665,
+            14.3066,
+            77.0231,
+            7924,
+            296,
+            false
+        ],
+        [
+            1718202726,
+            14.3414,
+            76.929,
+            8229,
+            295,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-11:28:26",
+    "baro_altitude": 8145.78,
+    "category": 0,
+    "geo_altitude": 8625.84,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718202659,
+    "latitude": 14.2973,
+    "longitude": 77.0412,
+    "on_ground": false,
+    "origin_country": "India",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718202655,
+    "true_track": 297.97,
+    "velocity": 224.84,
+    "vertical_rate": 4.88,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1718202506,
+    "lastSeen": 1718202726
+}

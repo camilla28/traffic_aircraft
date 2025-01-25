@@ -1,0 +1,128 @@
+{
+    "callsign": "DAL1044 ",
+    "endTime": "2024/06/07-09:39:54",
+    "icao24": "aba1a0",
+    "path": [
+        [
+            1717763869,
+            44.8791,
+            -93.24,
+            0,
+            169,
+            false
+        ],
+        [
+            1717763882,
+            44.8696,
+            -93.2375,
+            0,
+            169,
+            false
+        ],
+        [
+            1717763890,
+            44.8632,
+            -93.2357,
+            304,
+            168,
+            false
+        ],
+        [
+            1717763898,
+            44.8559,
+            -93.2338,
+            304,
+            171,
+            false
+        ],
+        [
+            1717763905,
+            44.8496,
+            -93.2333,
+            609,
+            179,
+            false
+        ],
+        [
+            1717763912,
+            44.8432,
+            -93.2338,
+            609,
+            184,
+            false
+        ],
+        [
+            1717763943,
+            44.8103,
+            -93.2384,
+            609,
+            186,
+            false
+        ],
+        [
+            1717763973,
+            44.7711,
+            -93.2445,
+            914,
+            186,
+            false
+        ],
+        [
+            1717763988,
+            44.7505,
+            -93.2477,
+            1219,
+            185,
+            false
+        ],
+        [
+            1717763994,
+            44.7412,
+            -93.2489,
+            1524,
+            185,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-09:37:49",
+    "baro_altitude": null,
+    "category": 1,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762941,
+    "latitude": 44.8805,
+    "longitude": -93.2203,
+    "on_ground": true,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717762941,
+    "true_track": 300.94,
+    "velocity": 7.46,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 251,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KMSP",
+    "estDepartureAirportHorizDistance": 1519,
+    "estDepartureAirportVertDistance": 17,
+    "firstSeen": 1717763869,
+    "lastSeen": 1717763988
+}

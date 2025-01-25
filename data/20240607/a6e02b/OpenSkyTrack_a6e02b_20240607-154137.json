@@ -1,0 +1,72 @@
+{
+    "callsign": "N542JJ  ",
+    "endTime": "2024/06/07-15:41:41",
+    "icao24": "a6e02b",
+    "path": [
+        [
+            1717785536,
+            42.3281,
+            -90.901,
+            914,
+            67,
+            false
+        ],
+        [
+            1717785536,
+            42.3281,
+            -90.901,
+            914,
+            61,
+            false
+        ],
+        [
+            1717785701,
+            42.3808,
+            -90.7611,
+            609,
+            59,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-15:38:56",
+    "baro_altitude": 998.22,
+    "category": 0,
+    "geo_altitude": 944.88,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717784086,
+    "latitude": 42.2899,
+    "longitude": -91.4326,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717784086,
+    "true_track": 65.1,
+    "velocity": 63.52,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 312,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "IA30",
+    "estDepartureAirportHorizDistance": 12796,
+    "estDepartureAirportVertDistance": 609,
+    "firstSeen": 1717785536,
+    "lastSeen": 1717785701
+}

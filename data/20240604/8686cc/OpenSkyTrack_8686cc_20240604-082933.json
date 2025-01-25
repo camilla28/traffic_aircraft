@@ -1,0 +1,80 @@
+{
+    "callsign": "ANA464  ",
+    "endTime": "2024/06/04-08:29:30",
+    "icao24": "8686cc",
+    "path": [
+        [
+            1717498702,
+            34.7183,
+            139.8877,
+            3657,
+            31,
+            false
+        ],
+        [
+            1717499220,
+            34.7245,
+            139.8923,
+            3657,
+            31,
+            false
+        ],
+        [
+            1717500118,
+            34.7353,
+            139.9002,
+            3657,
+            31,
+            false
+        ],
+        [
+            1717500570,
+            34.7394,
+            139.9033,
+            3657,
+            31,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:58:22",
+    "baro_altitude": 3680.46,
+    "category": 0,
+    "geo_altitude": 3733.8,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500011,
+    "latitude": 34.7329,
+    "longitude": 139.8985,
+    "on_ground": false,
+    "origin_country": "Japan",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717500011,
+    "true_track": 31.39,
+    "velocity": 153.08,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717498702,
+    "lastSeen": 1717500570
+}

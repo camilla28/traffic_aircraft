@@ -1,0 +1,136 @@
+{
+    "callsign": "LOT3PB  ",
+    "endTime": "2024/06/04-08:43:53",
+    "icao24": "48ae80",
+    "path": [
+        [
+            1717497985,
+            44.2579,
+            12.122,
+            11277,
+            204,
+            false
+        ],
+        [
+            1717498883,
+            44.2245,
+            12.1013,
+            11277,
+            204,
+            false
+        ],
+        [
+            1717498894,
+            44.2206,
+            12.0989,
+            11277,
+            203,
+            false
+        ],
+        [
+            1717499731,
+            44.1802,
+            12.0738,
+            10972,
+            204,
+            false
+        ],
+        [
+            1717500625,
+            44.1409,
+            12.0493,
+            10972,
+            204,
+            false
+        ],
+        [
+            1717500938,
+            44.128,
+            12.0413,
+            10972,
+            204,
+            false
+        ],
+        [
+            1717500941,
+            44.1252,
+            12.0395,
+            10668,
+            204,
+            false
+        ],
+        [
+            1717500954,
+            44.1263,
+            12.0402,
+            10972,
+            204,
+            false
+        ],
+        [
+            1717500958,
+            44.1252,
+            12.0395,
+            10668,
+            204,
+            false
+        ],
+        [
+            1717500987,
+            44.128,
+            12.0413,
+            10972,
+            204,
+            false
+        ],
+        [
+            1717501433,
+            44.1082,
+            12.0289,
+            10668,
+            204,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:46:25",
+    "baro_altitude": 11132.82,
+    "category": 1,
+    "geo_altitude": 11369.04,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500017,
+    "latitude": 44.1656,
+    "longitude": 12.0648,
+    "on_ground": false,
+    "origin_country": "Poland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1717500017,
+    "true_track": 204.14,
+    "velocity": 222.67,
+    "vertical_rate": -5.2,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LIPK",
+    "estDepartureAirportHorizDistance": 516911,
+    "estDepartureAirportVertDistance": 11347,
+    "firstSeen": 1717497985,
+    "lastSeen": 1717501433
+}

@@ -1,0 +1,128 @@
+{
+    "callsign": "GLAMO   ",
+    "endTime": "2024/06/03-19:23:20",
+    "icao24": "407b29",
+    "path": [
+        [
+            1717453293,
+            34.2095,
+            -118.4904,
+            0,
+            175,
+            false
+        ],
+        [
+            1717453298,
+            34.2057,
+            -118.49,
+            0,
+            176,
+            false
+        ],
+        [
+            1717453329,
+            34.1838,
+            -118.4881,
+            304,
+            174,
+            false
+        ],
+        [
+            1717453341,
+            34.1749,
+            -118.4871,
+            609,
+            174,
+            false
+        ],
+        [
+            1717453347,
+            34.1704,
+            -118.4869,
+            609,
+            183,
+            false
+        ],
+        [
+            1717453353,
+            34.166,
+            -118.4883,
+            609,
+            206,
+            false
+        ],
+        [
+            1717453359,
+            34.1622,
+            -118.4913,
+            609,
+            214,
+            false
+        ],
+        [
+            1717453366,
+            34.1582,
+            -118.4949,
+            609,
+            218,
+            false
+        ],
+        [
+            1717453388,
+            34.1428,
+            -118.5105,
+            609,
+            220,
+            false
+        ],
+        [
+            1717453400,
+            34.1337,
+            -118.5196,
+            914,
+            220,
+            false
+        ]
+    ],
+    "startTime": "2024/06/03-19:21:33",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717452568,
+    "latitude": 34.2092,
+    "longitude": -118.4915,
+    "on_ground": true,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717452568,
+    "true_track": 354.38,
+    "velocity": 3.09,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 134,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KVNY",
+    "estDepartureAirportHorizDistance": 77,
+    "estDepartureAirportVertDistance": 7,
+    "firstSeen": 1717453293,
+    "lastSeen": 1717453400
+}

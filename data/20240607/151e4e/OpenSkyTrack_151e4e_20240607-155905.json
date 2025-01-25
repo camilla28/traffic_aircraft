@@ -1,0 +1,96 @@
+{
+    "callsign": "PBD6844 ",
+    "endTime": "2024/06/07-15:07:52",
+    "icao24": "151e4e",
+    "path": [
+        [
+            1717770542,
+            44.0555,
+            43.3746,
+            11277,
+            93,
+            false
+        ],
+        [
+            1717770739,
+            44.029,
+            43.9835,
+            11277,
+            93,
+            false
+        ],
+        [
+            1717783435,
+            55.9031,
+            45.3833,
+            10972,
+            268,
+            false
+        ],
+        [
+            1717783435,
+            55.9031,
+            45.3833,
+            10972,
+            268,
+            false
+        ],
+        [
+            1717783526,
+            55.8978,
+            45.0557,
+            11277,
+            268,
+            false
+        ],
+        [
+            1717783672,
+            55.8874,
+            44.5304,
+            11582,
+            267,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-11:29:02",
+    "baro_altitude": 11582.4,
+    "category": 0,
+    "geo_altitude": 11765.28,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717784176,
+    "latitude": 55.8874,
+    "longitude": 44.5304,
+    "on_ground": false,
+    "origin_country": "Russian Federation",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717783672,
+    "true_track": 267.64,
+    "velocity": 225,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717770542,
+    "lastSeen": 1717783672
+}

@@ -1,0 +1,72 @@
+{
+    "callsign": "AIQ322  ",
+    "endTime": "2024/06/07-09:00:43",
+    "icao24": "880456",
+    "path": [
+        [
+            1717760640,
+            9.8907,
+            100.1703,
+            10972,
+            2,
+            false
+        ],
+        [
+            1717761536,
+            11.7617,
+            100.261,
+            10972,
+            2,
+            false
+        ],
+        [
+            1717761643,
+            11.9846,
+            100.2717,
+            10972,
+            2,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-08:44:00",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": 11765.28,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717761619,
+    "latitude": 11.9317,
+    "longitude": 100.2691,
+    "on_ground": false,
+    "origin_country": "Thailand",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717761618,
+    "true_track": 2.67,
+    "velocity": 231.75,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717760640,
+    "lastSeen": 1717761643
+}

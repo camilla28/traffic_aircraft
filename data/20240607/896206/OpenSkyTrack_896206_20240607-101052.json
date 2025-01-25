@@ -1,0 +1,136 @@
+{
+    "callsign": "BAR303  ",
+    "endTime": "2024/06/07-09:29:50",
+    "icao24": "896206",
+    "path": [
+        [
+            1717762704,
+            24.4608,
+            54.5202,
+            2133,
+            237,
+            false
+        ],
+        [
+            1717762718,
+            24.4532,
+            54.507,
+            2133,
+            237,
+            false
+        ],
+        [
+            1717762760,
+            24.4435,
+            54.4906,
+            2438,
+            236,
+            false
+        ],
+        [
+            1717762760,
+            24.4435,
+            54.4906,
+            3352,
+            256,
+            false
+        ],
+        [
+            1717762760,
+            24.4435,
+            54.4906,
+            3657,
+            264,
+            false
+        ],
+        [
+            1717762868,
+            24.4157,
+            54.3453,
+            3962,
+            264,
+            false
+        ],
+        [
+            1717762868,
+            24.4157,
+            54.3453,
+            4267,
+            270,
+            false
+        ],
+        [
+            1717762910,
+            24.4158,
+            54.2989,
+            4572,
+            270,
+            false
+        ],
+        [
+            1717762910,
+            24.4158,
+            54.2989,
+            4876,
+            268,
+            false
+        ],
+        [
+            1717763072,
+            24.4123,
+            54.074,
+            4572,
+            268,
+            false
+        ],
+        [
+            1717763390,
+            24.4009,
+            53.5486,
+            4876,
+            268,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-09:18:24",
+    "baro_altitude": 4602.48,
+    "category": 0,
+    "geo_altitude": 4823.46,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762913,
+    "latitude": 24.4158,
+    "longitude": 54.2989,
+    "on_ground": false,
+    "origin_country": "United Arab Emirates",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2773",
+    "time_position": 1717762910,
+    "true_track": 270.26,
+    "velocity": 112.66,
+    "vertical_rate": 8.45,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 2,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "OMAD",
+    "estDepartureAirportHorizDistance": 7345,
+    "estDepartureAirportVertDistance": 2281,
+    "firstSeen": 1717762704,
+    "lastSeen": 1717763390
+}

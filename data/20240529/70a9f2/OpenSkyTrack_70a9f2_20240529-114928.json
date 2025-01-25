@@ -1,0 +1,120 @@
+{
+    "callsign": "BHA803  ",
+    "endTime": "2024/05/29-11:13:44",
+    "icao24": "70a9f2",
+    "path": [
+        [
+            1716991496,
+            27.7236,
+            85.3703,
+            1524,
+            50,
+            false
+        ],
+        [
+            1716991530,
+            27.7427,
+            85.359,
+            1524,
+            50,
+            false
+        ],
+        [
+            1716991592,
+            27.7332,
+            85.3135,
+            1828,
+            50,
+            false
+        ],
+        [
+            1716991643,
+            27.714,
+            85.2788,
+            2133,
+            50,
+            false
+        ],
+        [
+            1716991701,
+            27.7075,
+            85.2354,
+            2438,
+            50,
+            false
+        ],
+        [
+            1716991767,
+            27.7166,
+            85.193,
+            2743,
+            50,
+            false
+        ],
+        [
+            1716991863,
+            27.725,
+            85.1305,
+            3048,
+            50,
+            false
+        ],
+        [
+            1716991933,
+            27.7204,
+            85.0651,
+            3352,
+            50,
+            false
+        ],
+        [
+            1716992024,
+            27.7163,
+            84.9866,
+            3657,
+            50,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-11:04:56",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716991216,
+    "latitude": 27.6907,
+    "longitude": 85.3559,
+    "on_ground": true,
+    "origin_country": "Nepal",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1716991216,
+    "true_track": 132.19,
+    "velocity": 6.69,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 25,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "VNKT",
+    "estDepartureAirportHorizDistance": 31268,
+    "estDepartureAirportVertDistance": 338,
+    "firstSeen": 1716991496,
+    "lastSeen": 1716992024
+}

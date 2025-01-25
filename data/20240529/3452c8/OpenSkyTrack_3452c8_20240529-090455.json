@@ -1,0 +1,136 @@
+{
+    "callsign": "ANE46SN ",
+    "endTime": "2024/05/29-09:04:50",
+    "icao24": "3452c8",
+    "path": [
+        [
+            1716983632,
+            37.3564,
+            -3.6319,
+            2743,
+            1,
+            false
+        ],
+        [
+            1716983635,
+            37.3604,
+            -3.6318,
+            2743,
+            0,
+            false
+        ],
+        [
+            1716983644,
+            37.3724,
+            -3.6315,
+            3048,
+            0,
+            false
+        ],
+        [
+            1716983752,
+            37.5451,
+            -3.6299,
+            3962,
+            0,
+            false
+        ],
+        [
+            1716983923,
+            37.8362,
+            -3.6276,
+            5486,
+            0,
+            false
+        ],
+        [
+            1716983970,
+            37.9193,
+            -3.6269,
+            5791,
+            0,
+            false
+        ],
+        [
+            1716984008,
+            37.9878,
+            -3.6264,
+            6096,
+            0,
+            false
+        ],
+        [
+            1716984045,
+            38.0559,
+            -3.6258,
+            6400,
+            0,
+            false
+        ],
+        [
+            1716984069,
+            38.1015,
+            -3.6255,
+            6705,
+            0,
+            false
+        ],
+        [
+            1716984069,
+            38.1015,
+            -3.6255,
+            6705,
+            4,
+            false
+        ],
+        [
+            1716984290,
+            38.5312,
+            -3.5885,
+            7010,
+            4,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-08:53:52",
+    "baro_altitude": 8747.76,
+    "category": 0,
+    "geo_altitude": 9258.3,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716978990,
+    "latitude": 39.1134,
+    "longitude": -3.2562,
+    "on_ground": false,
+    "origin_country": "Spain",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1716978990,
+    "true_track": 166.51,
+    "velocity": 233.83,
+    "vertical_rate": 8.45,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LE84",
+    "estDepartureAirportHorizDistance": 47396,
+    "estDepartureAirportVertDistance": 1903,
+    "firstSeen": 1716983632,
+    "lastSeen": 1716984290
+}

@@ -1,0 +1,136 @@
+{
+    "callsign": "ICG3270 ",
+    "endTime": "2024/06/12-09:11:25",
+    "icao24": "738a90",
+    "path": [
+        [
+            1718193800,
+            31.1921,
+            35.2102,
+            2438,
+            1,
+            false
+        ],
+        [
+            1718193849,
+            31.2355,
+            35.2114,
+            2438,
+            1,
+            false
+        ],
+        [
+            1718193912,
+            31.2904,
+            35.2126,
+            2743,
+            1,
+            false
+        ],
+        [
+            1718193981,
+            31.3498,
+            35.2142,
+            3048,
+            1,
+            false
+        ],
+        [
+            1718194064,
+            31.4213,
+            35.2161,
+            3352,
+            1,
+            false
+        ],
+        [
+            1718194069,
+            31.4256,
+            35.2161,
+            3657,
+            357,
+            false
+        ],
+        [
+            1718194077,
+            31.4324,
+            35.215,
+            3657,
+            349,
+            false
+        ],
+        [
+            1718194082,
+            31.4372,
+            35.2135,
+            3657,
+            342,
+            false
+        ],
+        [
+            1718194145,
+            31.4907,
+            35.1941,
+            3657,
+            342,
+            false
+        ],
+        [
+            1718194234,
+            31.5669,
+            35.1669,
+            3962,
+            343,
+            false
+        ],
+        [
+            1718194285,
+            31.6118,
+            35.151,
+            4267,
+            343,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-09:03:20",
+    "baro_altitude": 4343.4,
+    "category": 0,
+    "geo_altitude": 4655.82,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194259,
+    "latitude": 31.5883,
+    "longitude": 35.1593,
+    "on_ground": false,
+    "origin_country": "Israel",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3507",
+    "time_position": 1718194259,
+    "true_track": 342.96,
+    "velocity": 100.08,
+    "vertical_rate": 4.23,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 10,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LL1B",
+    "estDepartureAirportHorizDistance": 4589,
+    "estDepartureAirportVertDistance": 1858,
+    "firstSeen": 1718193800,
+    "lastSeen": 1718194285
+}

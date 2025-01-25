@@ -1,0 +1,96 @@
+{
+    "callsign": "N550GL  ",
+    "endTime": "2024/06/12-09:24:32",
+    "icao24": "a7000c",
+    "path": [
+        [
+            1718193981,
+            29.754,
+            -94.7561,
+            6096,
+            257,
+            false
+        ],
+        [
+            1718194375,
+            29.658,
+            -95.2655,
+            6096,
+            260,
+            false
+        ],
+        [
+            1718194381,
+            29.6572,
+            -95.2732,
+            6096,
+            266,
+            false
+        ],
+        [
+            1718194388,
+            29.6572,
+            -95.2824,
+            6096,
+            272,
+            false
+        ],
+        [
+            1718194395,
+            29.6578,
+            -95.2914,
+            6096,
+            276,
+            false
+        ],
+        [
+            1718195072,
+            29.7774,
+            -96.169,
+            6096,
+            278,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-09:06:21",
+    "baro_altitude": 6096,
+    "category": 0,
+    "geo_altitude": 6393.18,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194259,
+    "latitude": 29.6865,
+    "longitude": -95.1144,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718194259,
+    "true_track": 257.74,
+    "velocity": 128.45,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 3,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "K54T",
+    "estDepartureAirportHorizDistance": 9388,
+    "estDepartureAirportVertDistance": 6086,
+    "firstSeen": 1718193981,
+    "lastSeen": 1718195066
+}

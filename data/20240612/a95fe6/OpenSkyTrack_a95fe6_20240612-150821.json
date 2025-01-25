@@ -1,0 +1,120 @@
+{
+    "callsign": "N703CA  ",
+    "endTime": "2024/06/12-15:08:27",
+    "icao24": "a95fe6",
+    "path": [
+        [
+            1718215640,
+            33.8556,
+            -84.3125,
+            304,
+            205,
+            false
+        ],
+        [
+            1718215650,
+            33.8523,
+            -84.3144,
+            304,
+            210,
+            false
+        ],
+        [
+            1718215658,
+            33.8497,
+            -84.3164,
+            304,
+            214,
+            false
+        ],
+        [
+            1718215666,
+            33.8475,
+            -84.3189,
+            304,
+            229,
+            false
+        ],
+        [
+            1718215671,
+            33.8467,
+            -84.3208,
+            304,
+            247,
+            false
+        ],
+        [
+            1718215683,
+            33.8455,
+            -84.3269,
+            304,
+            266,
+            false
+        ],
+        [
+            1718215692,
+            33.8461,
+            -84.3312,
+            304,
+            293,
+            false
+        ],
+        [
+            1718215700,
+            33.8478,
+            -84.3343,
+            304,
+            312,
+            false
+        ],
+        [
+            1718215707,
+            33.8502,
+            -84.3368,
+            304,
+            325,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-15:07:20",
+    "baro_altitude": 998.22,
+    "category": 0,
+    "geo_altitude": 1021.08,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204674,
+    "latitude": 33.8553,
+    "longitude": -84.632,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718204674,
+    "true_track": 150.33,
+    "velocity": 50.92,
+    "vertical_rate": -0.98,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 326,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KPDK",
+    "estDepartureAirportHorizDistance": 2378,
+    "estDepartureAirportVertDistance": 105,
+    "firstSeen": 1718215640,
+    "lastSeen": 1718215707
+}

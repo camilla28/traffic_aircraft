@@ -1,0 +1,120 @@
+{
+    "callsign": "PPVIA   ",
+    "endTime": "2024/06/14-13:10:20",
+    "icao24": "e49364",
+    "path": [
+        [
+            1718380811,
+            -21.9294,
+            -46.8286,
+            1219,
+            0,
+            false
+        ],
+        [
+            1718380811,
+            -21.9294,
+            -46.8286,
+            1219,
+            0,
+            false
+        ],
+        [
+            1718380846,
+            -21.9072,
+            -46.8274,
+            1219,
+            4,
+            false
+        ],
+        [
+            1718380956,
+            -21.8225,
+            -46.8221,
+            1219,
+            3,
+            false
+        ],
+        [
+            1718381095,
+            -21.7684,
+            -46.85,
+            1219,
+            315,
+            false
+        ],
+        [
+            1718381095,
+            -21.7684,
+            -46.85,
+            1219,
+            315,
+            false
+        ],
+        [
+            1718381174,
+            -21.6946,
+            -46.9261,
+            1524,
+            316,
+            false
+        ],
+        [
+            1718381245,
+            -21.6631,
+            -46.9584,
+            1828,
+            316,
+            false
+        ],
+        [
+            1718381420,
+            -21.577,
+            -47.0467,
+            2133,
+            316,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-13:00:11",
+    "baro_altitude": 1371.6,
+    "category": 0,
+    "geo_altitude": 1470.66,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718380956,
+    "latitude": -21.8225,
+    "longitude": -46.8221,
+    "on_ground": false,
+    "origin_country": "Brazil",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718380956,
+    "true_track": 3.23,
+    "velocity": 91.2,
+    "vertical_rate": -0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 154,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "SDJV",
+    "estDepartureAirportHorizDistance": 9850,
+    "estDepartureAirportVertDistance": 533,
+    "firstSeen": 1718380811,
+    "lastSeen": 1718381420
+}

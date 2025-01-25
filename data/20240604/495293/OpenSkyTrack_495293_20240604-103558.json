@@ -1,0 +1,72 @@
+{
+    "callsign": null,
+    "endTime": "2024/06/04-10:35:30",
+    "icao24": "495293",
+    "path": [
+        [
+            1717508125,
+            38.8356,
+            -9.0992,
+            609,
+            31,
+            false
+        ],
+        [
+            1717508130,
+            38.8364,
+            -9.0985,
+            609,
+            27,
+            false
+        ],
+        [
+            1717508130,
+            38.8364,
+            -9.0985,
+            609,
+            27,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-10:35:25",
+    "baro_altitude": 2133.6,
+    "category": 0,
+    "geo_altitude": 2278.38,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504714,
+    "latitude": 38.3287,
+    "longitude": -9.2491,
+    "on_ground": false,
+    "origin_country": "Portugal",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "4057",
+    "time_position": 1717504714,
+    "true_track": 280.09,
+    "velocity": 123.32,
+    "vertical_rate": 0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 20,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LPPT",
+    "estDepartureAirportHorizDistance": 6796,
+    "estDepartureAirportVertDistance": 625,
+    "firstSeen": 1717508125,
+    "lastSeen": 1717508130
+}

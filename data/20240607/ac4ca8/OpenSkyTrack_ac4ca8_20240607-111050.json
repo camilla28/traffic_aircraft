@@ -1,0 +1,136 @@
+{
+    "callsign": "SWA4081 ",
+    "endTime": "2024/06/07-11:10:48",
+    "icao24": "ac4ca8",
+    "path": [
+        [
+            1717769199,
+            39.8774,
+            -104.6118,
+            1524,
+            89,
+            false
+        ],
+        [
+            1717769209,
+            39.8772,
+            -104.5993,
+            1828,
+            95,
+            false
+        ],
+        [
+            1717769218,
+            39.8758,
+            -104.5886,
+            1828,
+            101,
+            false
+        ],
+        [
+            1717769224,
+            39.8743,
+            -104.5811,
+            1828,
+            107,
+            false
+        ],
+        [
+            1717769251,
+            39.874,
+            -104.5799,
+            1828,
+            107,
+            false
+        ],
+        [
+            1717769261,
+            39.8595,
+            -104.5372,
+            2133,
+            114,
+            false
+        ],
+        [
+            1717769289,
+            39.8455,
+            -104.4966,
+            2133,
+            114,
+            false
+        ],
+        [
+            1717769326,
+            39.8263,
+            -104.4395,
+            2438,
+            113,
+            false
+        ],
+        [
+            1717769364,
+            39.8046,
+            -104.3763,
+            2743,
+            113,
+            false
+        ],
+        [
+            1717769410,
+            39.7765,
+            -104.2944,
+            3048,
+            114,
+            false
+        ],
+        [
+            1717769448,
+            39.7507,
+            -104.2206,
+            3352,
+            113,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-11:06:39",
+    "baro_altitude": 10332.72,
+    "category": 0,
+    "geo_altitude": 10888.98,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762944,
+    "latitude": 40.5369,
+    "longitude": -107.1357,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717762944,
+    "true_track": 95.75,
+    "velocity": 251.8,
+    "vertical_rate": -13,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 170,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KDEN",
+    "estDepartureAirportHorizDistance": 4674,
+    "estDepartureAirportVertDistance": 112,
+    "firstSeen": 1717769199,
+    "lastSeen": 1717769448
+}

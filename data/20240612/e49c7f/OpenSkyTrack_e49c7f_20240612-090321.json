@@ -1,0 +1,104 @@
+{
+    "callsign": "PSVMQ   ",
+    "endTime": "2024/06/12-08:55:10",
+    "icao24": "e49c7f",
+    "path": [
+        [
+            1718191137,
+            -23.6161,
+            -48.4215,
+            7620,
+            1,
+            false
+        ],
+        [
+            1718191388,
+            -23.3179,
+            -48.4123,
+            7620,
+            0,
+            false
+        ],
+        [
+            1718191392,
+            -23.3128,
+            -48.4123,
+            7620,
+            359,
+            false
+        ],
+        [
+            1718192291,
+            -22.2724,
+            -48.4357,
+            7620,
+            358,
+            false
+        ],
+        [
+            1718192929,
+            -21.5272,
+            -48.4498,
+            7620,
+            358,
+            false
+        ],
+        [
+            1718192929,
+            -21.5272,
+            -48.4498,
+            7620,
+            3,
+            false
+        ],
+        [
+            1718193310,
+            -21.0806,
+            -48.4265,
+            7620,
+            2,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-08:18:57",
+    "baro_altitude": 7620,
+    "category": 0,
+    "geo_altitude": 8122.92,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718191738,
+    "latitude": -22.9135,
+    "longitude": -48.4217,
+    "on_ground": false,
+    "origin_country": "Brazil",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718191736,
+    "true_track": 358.84,
+    "velocity": 127.09,
+    "vertical_rate": 0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "SDFL",
+    "estDepartureAirportHorizDistance": 14736,
+    "estDepartureAirportVertDistance": 6994,
+    "firstSeen": 1718191137,
+    "lastSeen": 1718193310
+}

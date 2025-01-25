@@ -1,0 +1,160 @@
+{
+    "callsign": "FIN08PL ",
+    "endTime": "2024/06/12-11:07:34",
+    "icao24": "342059",
+    "path": [
+        [
+            1718201132,
+            60.3229,
+            24.9259,
+            0,
+            227,
+            false
+        ],
+        [
+            1718201152,
+            60.3123,
+            24.9021,
+            0,
+            228,
+            false
+        ],
+        [
+            1718201160,
+            60.3081,
+            24.8928,
+            304,
+            228,
+            false
+        ],
+        [
+            1718201169,
+            60.304,
+            24.8831,
+            304,
+            231,
+            false
+        ],
+        [
+            1718201178,
+            60.3006,
+            24.8716,
+            304,
+            244,
+            false
+        ],
+        [
+            1718201185,
+            60.2987,
+            24.8606,
+            609,
+            256,
+            false
+        ],
+        [
+            1718201194,
+            60.2977,
+            24.847,
+            609,
+            266,
+            false
+        ],
+        [
+            1718201203,
+            60.2979,
+            24.8342,
+            609,
+            275,
+            false
+        ],
+        [
+            1718201210,
+            60.2987,
+            24.8221,
+            609,
+            279,
+            false
+        ],
+        [
+            1718201219,
+            60.3,
+            24.8091,
+            609,
+            282,
+            false
+        ],
+        [
+            1718201227,
+            60.3018,
+            24.7948,
+            609,
+            284,
+            false
+        ],
+        [
+            1718201236,
+            60.3027,
+            24.7793,
+            609,
+            269,
+            false
+        ],
+        [
+            1718201245,
+            60.3014,
+            24.7638,
+            914,
+            254,
+            false
+        ],
+        [
+            1718201254,
+            60.2992,
+            24.7485,
+            914,
+            252,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-11:05:32",
+    "baro_altitude": 2545.08,
+    "category": 0,
+    "geo_altitude": 2522.22,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194259,
+    "latitude": 60.4213,
+    "longitude": 24.004,
+    "on_ground": false,
+    "origin_country": "Spain",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2327",
+    "time_position": 1718194259,
+    "true_track": 79.34,
+    "velocity": 150.24,
+    "vertical_rate": -7.15,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 23,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EFHK",
+    "estDepartureAirportHorizDistance": 1820,
+    "estDepartureAirportVertDistance": 52,
+    "firstSeen": 1718201132,
+    "lastSeen": 1718201245
+}

@@ -1,0 +1,72 @@
+{
+    "callsign": "N709SD  ",
+    "endTime": "2024/06/04-09:05:55",
+    "icao24": "a97791",
+    "path": [
+        [
+            1717501119,
+            32.6537,
+            -117.0995,
+            304,
+            165,
+            false
+        ],
+        [
+            1717501860,
+            32.6524,
+            -117.0991,
+            304,
+            167,
+            false
+        ],
+        [
+            1717502755,
+            32.6497,
+            -117.0984,
+            304,
+            167,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:38:39",
+    "baro_altitude": 335.28,
+    "category": 0,
+    "geo_altitude": 274.32,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499990,
+    "latitude": 32.6556,
+    "longitude": -117.1001,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499955,
+    "true_track": 163.47,
+    "velocity": 48.83,
+    "vertical_rate": -0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 104,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KNRS",
+    "estDepartureAirportHorizDistance": 9817,
+    "estDepartureAirportVertDistance": 327,
+    "firstSeen": 1717501119,
+    "lastSeen": 1717502755
+}

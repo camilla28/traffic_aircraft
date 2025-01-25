@@ -1,0 +1,96 @@
+{
+    "callsign": "RYR3C   ",
+    "endTime": "2024/06/05-08:28:39",
+    "icao24": "4ca6a6",
+    "path": [
+        [
+            1717586826,
+            38.7897,
+            -9.1313,
+            0,
+            24,
+            false
+        ],
+        [
+            1717586826,
+            38.7897,
+            -9.1313,
+            0,
+            24,
+            false
+        ],
+        [
+            1717586826,
+            38.7897,
+            -9.1313,
+            304,
+            30,
+            false
+        ],
+        [
+            1717586869,
+            38.82,
+            -9.109,
+            304,
+            29,
+            false
+        ],
+        [
+            1717586900,
+            38.8468,
+            -9.0899,
+            609,
+            28,
+            false
+        ],
+        [
+            1717586919,
+            38.8643,
+            -9.0777,
+            914,
+            29,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-08:27:06",
+    "baro_altitude": 4023.36,
+    "category": 1,
+    "geo_altitude": 4267.2,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717582997,
+    "latitude": 38.8882,
+    "longitude": -9.2794,
+    "on_ground": false,
+    "origin_country": "Ireland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7147",
+    "time_position": 1717582997,
+    "true_track": 196.89,
+    "velocity": 187.64,
+    "vertical_rate": -21.46,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 20,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LPPT",
+    "estDepartureAirportHorizDistance": 1014,
+    "estDepartureAirportVertDistance": 84,
+    "firstSeen": 1717586826,
+    "lastSeen": 1717586919
+}

@@ -1,0 +1,112 @@
+{
+    "callsign": "KLM1524 ",
+    "endTime": "2024/06/04-10:31:47",
+    "icao24": "48507f",
+    "path": [
+        [
+            1717502455,
+            46.7382,
+            -0.875,
+            10972,
+            32,
+            false
+        ],
+        [
+            1717503293,
+            46.7885,
+            -0.8275,
+            10972,
+            33,
+            false
+        ],
+        [
+            1717504185,
+            46.8369,
+            -0.7816,
+            10972,
+            33,
+            false
+        ],
+        [
+            1717505013,
+            46.8835,
+            -0.7374,
+            10972,
+            33,
+            false
+        ],
+        [
+            1717505907,
+            46.934,
+            -0.6893,
+            10972,
+            33,
+            false
+        ],
+        [
+            1717506804,
+            46.9882,
+            -0.6377,
+            10972,
+            33,
+            false
+        ],
+        [
+            1717507670,
+            47.0372,
+            -0.5908,
+            10972,
+            33,
+            false
+        ],
+        [
+            1717507907,
+            47.0544,
+            -0.5744,
+            10972,
+            33,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:00:55",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": 11247.12,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504669,
+    "latitude": 46.8609,
+    "longitude": -0.7588,
+    "on_ground": false,
+    "origin_country": "Kingdom of the Netherlands",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504669,
+    "true_track": 33.05,
+    "velocity": 228.3,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717502455,
+    "lastSeen": 1717507907
+}

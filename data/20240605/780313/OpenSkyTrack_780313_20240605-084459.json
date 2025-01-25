@@ -1,0 +1,120 @@
+{
+    "callsign": "CXA8186 ",
+    "endTime": "2024/06/05-06:32:07",
+    "icao24": "780313",
+    "path": [
+        [
+            1717579541,
+            22.2395,
+            113.6065,
+            2743,
+            41,
+            false
+        ],
+        [
+            1717579541,
+            22.2395,
+            113.6065,
+            2743,
+            38,
+            false
+        ],
+        [
+            1717579559,
+            22.2586,
+            113.6233,
+            2743,
+            38,
+            false
+        ],
+        [
+            1717579582,
+            22.2847,
+            113.6456,
+            3048,
+            38,
+            false
+        ],
+        [
+            1717579604,
+            22.3094,
+            113.667,
+            3352,
+            38,
+            false
+        ],
+        [
+            1717579630,
+            22.3385,
+            113.6921,
+            3657,
+            38,
+            false
+        ],
+        [
+            1717579716,
+            22.4485,
+            113.7871,
+            3962,
+            41,
+            false
+        ],
+        [
+            1717579903,
+            22.6895,
+            114.0154,
+            3962,
+            41,
+            false
+        ],
+        [
+            1717579927,
+            22.7192,
+            114.0435,
+            4267,
+            40,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-06:25:41",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717582991,
+    "latitude": null,
+    "longitude": null,
+    "on_ground": false,
+    "origin_country": "China",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": null,
+    "true_track": 58.24,
+    "velocity": 177.88,
+    "vertical_rate": -3.25,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "VMMC",
+    "estDepartureAirportHorizDistance": 16156,
+    "estDepartureAirportVertDistance": 2820,
+    "firstSeen": 1717579541,
+    "lastSeen": 1717579927
+}

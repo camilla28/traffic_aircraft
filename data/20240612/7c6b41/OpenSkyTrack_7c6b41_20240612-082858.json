@@ -1,0 +1,184 @@
+{
+    "callsign": "JST614  ",
+    "endTime": "2024/06/12-08:29:04",
+    "icao24": "7c6b41",
+    "path": [
+        [
+            1718191591,
+            -38.0528,
+            144.4652,
+            0,
+            187,
+            false
+        ],
+        [
+            1718191598,
+            -38.0571,
+            144.4645,
+            0,
+            187,
+            false
+        ],
+        [
+            1718191621,
+            -38.0739,
+            144.4616,
+            304,
+            186,
+            false
+        ],
+        [
+            1718191627,
+            -38.0785,
+            144.4617,
+            304,
+            175,
+            false
+        ],
+        [
+            1718191633,
+            -38.0836,
+            144.4634,
+            304,
+            161,
+            false
+        ],
+        [
+            1718191639,
+            -38.0885,
+            144.467,
+            304,
+            145,
+            false
+        ],
+        [
+            1718191645,
+            -38.092,
+            144.4719,
+            609,
+            124,
+            false
+        ],
+        [
+            1718191650,
+            -38.0941,
+            144.4773,
+            609,
+            110,
+            false
+        ],
+        [
+            1718191656,
+            -38.0951,
+            144.4834,
+            609,
+            96,
+            false
+        ],
+        [
+            1718191662,
+            -38.0947,
+            144.491,
+            609,
+            80,
+            false
+        ],
+        [
+            1718191669,
+            -38.092,
+            144.4992,
+            914,
+            59,
+            false
+        ],
+        [
+            1718191675,
+            -38.0884,
+            144.5046,
+            914,
+            45,
+            false
+        ],
+        [
+            1718191680,
+            -38.0844,
+            144.5081,
+            914,
+            32,
+            false
+        ],
+        [
+            1718191686,
+            -38.0786,
+            144.5113,
+            1219,
+            20,
+            false
+        ],
+        [
+            1718191692,
+            -38.0727,
+            144.5138,
+            1219,
+            18,
+            false
+        ],
+        [
+            1718191726,
+            -38.0358,
+            144.5275,
+            1219,
+            17,
+            false
+        ],
+        [
+            1718191744,
+            -38.0136,
+            144.5367,
+            1524,
+            18,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-08:26:31",
+    "baro_altitude": 1653.54,
+    "category": 0,
+    "geo_altitude": 1706.88,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718191738,
+    "latitude": -38.021,
+    "longitude": 144.5336,
+    "on_ground": false,
+    "origin_country": "Australia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "6772",
+    "time_position": 1718191738,
+    "true_track": 18.18,
+    "velocity": 143.49,
+    "vertical_rate": 15.28,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 82,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "YMAV",
+    "estDepartureAirportHorizDistance": 1522,
+    "estDepartureAirportVertDistance": 134,
+    "firstSeen": 1718191591,
+    "lastSeen": 1718191744
+}

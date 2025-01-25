@@ -1,0 +1,128 @@
+{
+    "callsign": "GWI2AE  ",
+    "endTime": "2024/06/12-16:00:36",
+    "icao24": "3c56f5",
+    "path": [
+        [
+            1718218747,
+            48.3668,
+            11.8196,
+            609,
+            82,
+            false
+        ],
+        [
+            1718218772,
+            48.3686,
+            11.8443,
+            609,
+            84,
+            false
+        ],
+        [
+            1718218780,
+            48.3692,
+            11.8529,
+            914,
+            84,
+            false
+        ],
+        [
+            1718218788,
+            48.3703,
+            11.8622,
+            914,
+            73,
+            false
+        ],
+        [
+            1718218796,
+            48.3734,
+            11.8709,
+            914,
+            55,
+            false
+        ],
+        [
+            1718218805,
+            48.3793,
+            11.8785,
+            914,
+            32,
+            false
+        ],
+        [
+            1718218813,
+            48.3865,
+            11.8816,
+            914,
+            10,
+            false
+        ],
+        [
+            1718218820,
+            48.3942,
+            11.8803,
+            914,
+            350,
+            false
+        ],
+        [
+            1718218828,
+            48.4024,
+            11.8769,
+            1219,
+            343,
+            false
+        ],
+        [
+            1718218836,
+            48.4107,
+            11.8725,
+            1219,
+            338,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-15:59:07",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": 11186.16,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204675,
+    "latitude": 44.0987,
+    "longitude": 6.3089,
+    "on_ground": false,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5526",
+    "time_position": 1718204675,
+    "true_track": 26.05,
+    "velocity": 254.23,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 114,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDDM",
+    "estDepartureAirportHorizDistance": 2400,
+    "estDepartureAirportVertDistance": 179,
+    "firstSeen": 1718218747,
+    "lastSeen": 1718218836
+}

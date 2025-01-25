@@ -1,0 +1,72 @@
+{
+    "callsign": "EDV5271 ",
+    "endTime": "2024/06/04-08:25:15",
+    "icao24": "aceb76",
+    "path": [
+        [
+            1717499406,
+            37.4001,
+            -80.3224,
+            10668,
+            34,
+            false
+        ],
+        [
+            1717500289,
+            37.4291,
+            -80.2975,
+            10668,
+            34,
+            false
+        ],
+        [
+            1717500315,
+            37.4263,
+            -80.2998,
+            10668,
+            34,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:10:06",
+    "baro_altitude": 10668,
+    "category": 0,
+    "geo_altitude": 11109.96,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499877,
+    "latitude": 37.417,
+    "longitude": -80.3079,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499872,
+    "true_track": 34.36,
+    "velocity": 244.29,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "VA10",
+    "estDepartureAirportHorizDistance": 13499,
+    "estDepartureAirportVertDistance": 10143,
+    "firstSeen": 1717499406,
+    "lastSeen": 1717500315
+}

@@ -1,0 +1,104 @@
+{
+    "callsign": "UAL1868 ",
+    "endTime": "2024/05/29-18:07:10",
+    "icao24": "aa56f7",
+    "path": [
+        [
+            1717016753,
+            49.1858,
+            -123.1704,
+            -304,
+            278,
+            false
+        ],
+        [
+            1717016774,
+            49.1881,
+            -123.1903,
+            -304,
+            279,
+            false
+        ],
+        [
+            1717016802,
+            49.1918,
+            -123.2243,
+            0,
+            278,
+            false
+        ],
+        [
+            1717016808,
+            49.1922,
+            -123.2326,
+            0,
+            274,
+            false
+        ],
+        [
+            1717016815,
+            49.1921,
+            -123.242,
+            304,
+            267,
+            false
+        ],
+        [
+            1717016820,
+            49.1917,
+            -123.2493,
+            304,
+            263,
+            false
+        ],
+        [
+            1717016830,
+            49.1905,
+            -123.2634,
+            304,
+            262,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-18:05:53",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717016350,
+    "latitude": 49.188,
+    "longitude": -123.171,
+    "on_ground": true,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717016350,
+    "true_track": 98.44,
+    "velocity": 7.2,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 105,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "CYVR",
+    "estDepartureAirportHorizDistance": 1337,
+    "estDepartureAirportVertDistance": 103,
+    "firstSeen": 1717016753,
+    "lastSeen": 1717016830
+}

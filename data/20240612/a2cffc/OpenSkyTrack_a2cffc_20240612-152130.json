@@ -1,0 +1,144 @@
+{
+    "callsign": "SWA606  ",
+    "endTime": "2024/06/12-15:21:36",
+    "icao24": "a2cffc",
+    "path": [
+        [
+            1718216354,
+            33.4311,
+            -111.9804,
+            609,
+            88,
+            false
+        ],
+        [
+            1718216380,
+            33.4318,
+            -111.9532,
+            609,
+            89,
+            false
+        ],
+        [
+            1718216406,
+            33.4322,
+            -111.9212,
+            914,
+            88,
+            false
+        ],
+        [
+            1718216430,
+            33.4335,
+            -111.8899,
+            1219,
+            89,
+            false
+        ],
+        [
+            1718216438,
+            33.4326,
+            -111.8797,
+            1524,
+            104,
+            false
+        ],
+        [
+            1718216446,
+            33.4289,
+            -111.8702,
+            1524,
+            124,
+            false
+        ],
+        [
+            1718216455,
+            33.4218,
+            -111.8616,
+            1524,
+            142,
+            false
+        ],
+        [
+            1718216463,
+            33.4146,
+            -111.856,
+            1828,
+            148,
+            false
+        ],
+        [
+            1718216471,
+            33.4066,
+            -111.8505,
+            1828,
+            154,
+            false
+        ],
+        [
+            1718216480,
+            33.3967,
+            -111.8468,
+            2133,
+            168,
+            false
+        ],
+        [
+            1718216488,
+            33.3876,
+            -111.8468,
+            2133,
+            187,
+            false
+        ],
+        [
+            1718216496,
+            33.3793,
+            -111.8497,
+            2438,
+            201,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-15:19:14",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204672,
+    "latitude": 33.4316,
+    "longitude": -112.0031,
+    "on_ground": true,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3401",
+    "time_position": 1718204672,
+    "true_track": 28.12,
+    "velocity": 6.43,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 115,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KPHX",
+    "estDepartureAirportHorizDistance": 2246,
+    "estDepartureAirportVertDistance": 332,
+    "firstSeen": 1718216354,
+    "lastSeen": 1718216496
+}

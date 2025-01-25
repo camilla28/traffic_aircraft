@@ -1,0 +1,112 @@
+{
+    "callsign": "GURMS   ",
+    "endTime": "2024/06/05-07:23:02",
+    "icao24": "4044d1",
+    "path": [
+        [
+            1717582024,
+            51.0324,
+            2.1262,
+            1219,
+            79,
+            false
+        ],
+        [
+            1717582422,
+            51.0714,
+            2.4677,
+            1219,
+            81,
+            false
+        ],
+        [
+            1717582655,
+            51.091,
+            2.6619,
+            1219,
+            84,
+            false
+        ],
+        [
+            1717582661,
+            51.0913,
+            2.6669,
+            1219,
+            86,
+            false
+        ],
+        [
+            1717582941,
+            51.1042,
+            2.9078,
+            1219,
+            83,
+            false
+        ],
+        [
+            1717582975,
+            51.1052,
+            2.9361,
+            914,
+            81,
+            false
+        ],
+        [
+            1717582982,
+            51.1057,
+            2.9417,
+            914,
+            80,
+            false
+        ],
+        [
+            1717582982,
+            51.1057,
+            2.9417,
+            914,
+            85,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-07:07:04",
+    "baro_altitude": 1196.34,
+    "category": 0,
+    "geo_altitude": 1211.58,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717582982,
+    "latitude": 51.1057,
+    "longitude": 2.9417,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717582982,
+    "true_track": 80.97,
+    "velocity": 55.74,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 66,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFAC",
+    "estDepartureAirportHorizDistance": 14317,
+    "estDepartureAirportVertDistance": 1512,
+    "firstSeen": 1717582024,
+    "lastSeen": 1717582982
+}

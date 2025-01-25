@@ -1,0 +1,72 @@
+{
+    "callsign": "CDG2154 ",
+    "endTime": "2024/06/07-15:29:47",
+    "icao24": "78203b",
+    "path": [
+        [
+            1717783808,
+            -3.1112,
+            105.1628,
+            10363,
+            339,
+            false
+        ],
+        [
+            1717784317,
+            -2.0989,
+            104.7862,
+            10363,
+            339,
+            false
+        ],
+        [
+            1717784987,
+            -0.7658,
+            104.2906,
+            10668,
+            339,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-15:10:08",
+    "baro_altitude": 10363.2,
+    "category": 0,
+    "geo_altitude": 11071.86,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717784179,
+    "latitude": -2.375,
+    "longitude": 104.8887,
+    "on_ground": false,
+    "origin_country": "China",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2344",
+    "time_position": 1717784179,
+    "true_track": 339.44,
+    "velocity": 237.35,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717783808,
+    "lastSeen": 1717784987
+}

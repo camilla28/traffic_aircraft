@@ -1,0 +1,96 @@
+{
+    "callsign": "N8574X  ",
+    "endTime": "2024/06/07-11:51:21",
+    "icao24": "abc453",
+    "path": [
+        [
+            1717771714,
+            43.3358,
+            -76.3812,
+            609,
+            77,
+            false
+        ],
+        [
+            1717771735,
+            43.3405,
+            -76.3725,
+            609,
+            37,
+            false
+        ],
+        [
+            1717771737,
+            43.3408,
+            -76.3722,
+            609,
+            37,
+            false
+        ],
+        [
+            1717771779,
+            43.3503,
+            -76.3562,
+            914,
+            58,
+            false
+        ],
+        [
+            1717771863,
+            43.3727,
+            -76.3061,
+            914,
+            60,
+            false
+        ],
+        [
+            1717771881,
+            43.3781,
+            -76.2926,
+            914,
+            61,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-11:48:34",
+    "baro_altitude": 1584.96,
+    "category": 0,
+    "geo_altitude": 1470.66,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762944,
+    "latitude": 41.8655,
+    "longitude": -80.8772,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "4144",
+    "time_position": 1717762944,
+    "true_track": 64.71,
+    "velocity": 72.26,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 234,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KFZY",
+    "estDepartureAirportHorizDistance": 1758,
+    "estDepartureAirportVertDistance": 640,
+    "firstSeen": 1717771714,
+    "lastSeen": 1717771881
+}

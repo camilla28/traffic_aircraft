@@ -1,0 +1,80 @@
+{
+    "callsign": "CQH8531 ",
+    "endTime": "2024/06/12-09:12:41",
+    "icao24": "781856",
+    "path": [
+        [
+            1718193745,
+            40.1098,
+            123.4473,
+            8839,
+            29,
+            false
+        ],
+        [
+            1718194133,
+            40.7892,
+            123.9449,
+            8839,
+            28,
+            false
+        ],
+        [
+            1718194178,
+            40.8652,
+            124.0057,
+            8839,
+            33,
+            false
+        ],
+        [
+            1718194361,
+            41.1889,
+            124.2781,
+            8839,
+            32,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-09:02:25",
+    "baro_altitude": 8869.68,
+    "category": 0,
+    "geo_altitude": 9220.2,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194246,
+    "latitude": 40.9797,
+    "longitude": 124.1028,
+    "on_ground": false,
+    "origin_country": "China",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718194243,
+    "true_track": 32.29,
+    "velocity": 233.07,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1718193745,
+    "lastSeen": 1718194361
+}

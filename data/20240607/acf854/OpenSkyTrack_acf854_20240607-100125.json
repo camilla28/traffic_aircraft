@@ -1,0 +1,80 @@
+{
+    "callsign": "N935AZ  ",
+    "endTime": "2024/06/07-10:00:51",
+    "icao24": "acf854",
+    "path": [
+        [
+            1717765109,
+            27.217,
+            -80.8164,
+            609,
+            115,
+            false
+        ],
+        [
+            1717765109,
+            27.217,
+            -80.8164,
+            609,
+            115,
+            false
+        ],
+        [
+            1717765251,
+            27.1763,
+            -80.7556,
+            1219,
+            130,
+            false
+        ],
+        [
+            1717765251,
+            27.1763,
+            -80.7556,
+            1219,
+            130,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-09:58:29",
+    "baro_altitude": 1706.88,
+    "category": 0,
+    "geo_altitude": 1706.88,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762938,
+    "latitude": 26.5611,
+    "longitude": -80.6375,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717762928,
+    "true_track": 1.71,
+    "velocity": 68.97,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 243,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KOBE",
+    "estDepartureAirportHorizDistance": 6070,
+    "estDepartureAirportVertDistance": 782,
+    "firstSeen": 1717765109,
+    "lastSeen": 1717765251
+}

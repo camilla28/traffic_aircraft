@@ -1,0 +1,128 @@
+{
+    "callsign": "HRT445  ",
+    "endTime": "2024/06/12-10:44:59",
+    "icao24": "c05ce8",
+    "path": [
+        [
+            1718199799,
+            43.6847,
+            -79.6486,
+            0,
+            225,
+            false
+        ],
+        [
+            1718199807,
+            43.6809,
+            -79.6541,
+            0,
+            225,
+            false
+        ],
+        [
+            1718199824,
+            43.6721,
+            -79.6666,
+            304,
+            227,
+            false
+        ],
+        [
+            1718199833,
+            43.6674,
+            -79.6749,
+            609,
+            235,
+            false
+        ],
+        [
+            1718199841,
+            43.6637,
+            -79.6825,
+            609,
+            235,
+            false
+        ],
+        [
+            1718199858,
+            43.6544,
+            -79.6999,
+            914,
+            233,
+            false
+        ],
+        [
+            1718199866,
+            43.6499,
+            -79.708,
+            914,
+            232,
+            false
+        ],
+        [
+            1718199874,
+            43.6451,
+            -79.7164,
+            1219,
+            231,
+            false
+        ],
+        [
+            1718199883,
+            43.6394,
+            -79.7258,
+            1219,
+            229,
+            false
+        ],
+        [
+            1718199899,
+            43.6285,
+            -79.743,
+            1524,
+            229,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-10:43:19",
+    "baro_altitude": 2407.92,
+    "category": 0,
+    "geo_altitude": 2423.16,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194259,
+    "latitude": 44.1406,
+    "longitude": -79.3499,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718194259,
+    "true_track": 164.78,
+    "velocity": 133.28,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 223,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "CYYZ",
+    "estDepartureAirportHorizDistance": 1286,
+    "estDepartureAirportVertDistance": 17,
+    "firstSeen": 1718199799,
+    "lastSeen": 1718199899
+}

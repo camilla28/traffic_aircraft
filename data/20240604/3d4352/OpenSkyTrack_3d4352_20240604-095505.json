@@ -1,0 +1,128 @@
+{
+    "callsign": "DEXTA   ",
+    "endTime": "2024/06/04-09:55:06",
+    "icao24": "3d4352",
+    "path": [
+        [
+            1717498366,
+            49.9411,
+            10.9271,
+            5791,
+            217,
+            false
+        ],
+        [
+            1717499204,
+            49.9254,
+            10.9084,
+            5791,
+            217,
+            false
+        ],
+        [
+            1717500101,
+            49.9117,
+            10.8921,
+            5791,
+            216,
+            false
+        ],
+        [
+            1717500993,
+            49.8972,
+            10.8748,
+            5791,
+            217,
+            false
+        ],
+        [
+            1717501891,
+            49.8832,
+            10.8581,
+            5791,
+            216,
+            false
+        ],
+        [
+            1717502760,
+            49.867,
+            10.839,
+            5791,
+            217,
+            false
+        ],
+        [
+            1717503655,
+            49.8515,
+            10.8206,
+            5791,
+            216,
+            false
+        ],
+        [
+            1717504551,
+            49.8384,
+            10.805,
+            5791,
+            217,
+            false
+        ],
+        [
+            1717505389,
+            49.8269,
+            10.7915,
+            5791,
+            216,
+            false
+        ],
+        [
+            1717505706,
+            49.8235,
+            10.7873,
+            5791,
+            216,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:52:46",
+    "baro_altitude": 6088.38,
+    "category": 0,
+    "geo_altitude": 6286.5,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504624,
+    "latitude": 49.8368,
+    "longitude": 10.8032,
+    "on_ground": false,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1341",
+    "time_position": 1717504624,
+    "true_track": 217.05,
+    "velocity": 99.91,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDQA",
+    "estDepartureAirportHorizDistance": 2533,
+    "estDepartureAirportVertDistance": 5841,
+    "firstSeen": 1717498366,
+    "lastSeen": 1717505706
+}

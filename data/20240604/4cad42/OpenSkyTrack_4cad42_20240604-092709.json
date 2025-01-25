@@ -1,0 +1,72 @@
+{
+    "callsign": "SAS2822 ",
+    "endTime": "2024/06/04-09:25:23",
+    "icao24": "4cad42",
+    "path": [
+        [
+            1717503013,
+            36.3633,
+            32.161,
+            1219,
+            297,
+            false
+        ],
+        [
+            1717503258,
+            36.3657,
+            32.1552,
+            1219,
+            297,
+            false
+        ],
+        [
+            1717503923,
+            36.3728,
+            32.1369,
+            1524,
+            295,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:10:13",
+    "baro_altitude": 10332.72,
+    "category": 0,
+    "geo_altitude": 10835.64,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500033,
+    "latitude": 37.4141,
+    "longitude": 30.5761,
+    "on_ground": false,
+    "origin_country": "Ireland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499994,
+    "true_track": 160.44,
+    "velocity": 224.38,
+    "vertical_rate": -9.75,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 7,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LTGP",
+    "estDepartureAirportHorizDistance": 14389,
+    "estDepartureAirportVertDistance": 1421,
+    "firstSeen": 1717503013,
+    "lastSeen": 1717503923
+}

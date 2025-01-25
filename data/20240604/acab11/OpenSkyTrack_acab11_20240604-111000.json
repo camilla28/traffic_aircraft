@@ -1,0 +1,72 @@
+{
+    "callsign": "AAL1874 ",
+    "endTime": "2024/06/04-11:09:26",
+    "icao24": "acab11",
+    "path": [
+        [
+            1717509206,
+            40.5693,
+            -73.8781,
+            6400,
+            51,
+            false
+        ],
+        [
+            1717510033,
+            40.5997,
+            -73.8272,
+            6400,
+            51,
+            false
+        ],
+        [
+            1717510166,
+            40.6043,
+            -73.8195,
+            6400,
+            51,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-10:53:26",
+    "baro_altitude": 6400.8,
+    "category": 0,
+    "geo_altitude": 6629.4,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504652,
+    "latitude": 40.5647,
+    "longitude": -73.8858,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504496,
+    "true_track": 51.83,
+    "velocity": 204.8,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KJFK",
+    "estDepartureAirportHorizDistance": 12020,
+    "estDepartureAirportVertDistance": 6396,
+    "firstSeen": 1717509206,
+    "lastSeen": 1717510166
+}

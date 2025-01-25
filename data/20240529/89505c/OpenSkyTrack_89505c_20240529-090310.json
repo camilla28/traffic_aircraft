@@ -1,0 +1,88 @@
+{
+    "callsign": "RBA519  ",
+    "endTime": "2024/05/29-07:41:53",
+    "icao24": "89505c",
+    "path": [
+        [
+            1716978779,
+            5.1281,
+            114.6087,
+            4572,
+            320,
+            false
+        ],
+        [
+            1716978796,
+            5.1492,
+            114.5914,
+            4876,
+            320,
+            false
+        ],
+        [
+            1716978796,
+            5.1492,
+            114.5914,
+            4876,
+            303,
+            false
+        ],
+        [
+            1716978936,
+            5.2899,
+            114.3982,
+            6400,
+            303,
+            false
+        ],
+        [
+            1716979313,
+            5.7125,
+            113.7596,
+            8839,
+            303,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-07:32:59",
+    "baro_altitude": 6530.34,
+    "category": 0,
+    "geo_altitude": 7002.78,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716978940,
+    "latitude": 5.2899,
+    "longitude": 114.3982,
+    "on_ground": false,
+    "origin_country": "Brunei Darussalam",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1716978936,
+    "true_track": 303.53,
+    "velocity": 203.04,
+    "vertical_rate": 2.93,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1716978779,
+    "lastSeen": 1716979313
+}

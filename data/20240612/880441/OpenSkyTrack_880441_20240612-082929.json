@@ -1,0 +1,104 @@
+{
+    "callsign": "AIQ3332 ",
+    "endTime": "2024/06/12-08:29:01",
+    "icao24": "880441",
+    "path": [
+        [
+            1718191463,
+            10.0755,
+            99.6407,
+            8229,
+            17,
+            false
+        ],
+        [
+            1718191502,
+            10.1459,
+            99.6628,
+            8229,
+            17,
+            false
+        ],
+        [
+            1718191558,
+            10.2499,
+            99.6952,
+            8534,
+            17,
+            false
+        ],
+        [
+            1718191617,
+            10.3644,
+            99.7311,
+            8839,
+            17,
+            false
+        ],
+        [
+            1718191673,
+            10.4718,
+            99.7646,
+            9144,
+            17,
+            false
+        ],
+        [
+            1718191741,
+            10.6053,
+            99.8064,
+            9448,
+            17,
+            false
+        ],
+        [
+            1718191741,
+            10.6053,
+            99.8064,
+            9448,
+            13,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-08:24:23",
+    "baro_altitude": 9639.3,
+    "category": 0,
+    "geo_altitude": 10302.24,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718191737,
+    "latitude": 10.5436,
+    "longitude": 99.7871,
+    "on_ground": false,
+    "origin_country": "Thailand",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718191710,
+    "true_track": 17.12,
+    "velocity": 227.16,
+    "vertical_rate": 5.53,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1718191463,
+    "lastSeen": 1718191741
+}

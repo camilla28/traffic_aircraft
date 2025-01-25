@@ -1,0 +1,104 @@
+{
+    "callsign": "MXY615  ",
+    "endTime": "2024/06/12-15:34:32",
+    "icao24": "a1e4e9",
+    "path": [
+        [
+            1718217169,
+            41.1865,
+            -112.023,
+            1219,
+            225,
+            false
+        ],
+        [
+            1718217169,
+            41.1865,
+            -112.023,
+            1219,
+            225,
+            false
+        ],
+        [
+            1718217205,
+            41.178,
+            -112.041,
+            1524,
+            249,
+            false
+        ],
+        [
+            1718217213,
+            41.1737,
+            -112.0578,
+            1524,
+            252,
+            false
+        ],
+        [
+            1718217223,
+            41.1702,
+            -112.0728,
+            1524,
+            252,
+            false
+        ],
+        [
+            1718217255,
+            41.1604,
+            -112.1148,
+            1828,
+            253,
+            false
+        ],
+        [
+            1718217272,
+            41.1554,
+            -112.1364,
+            2133,
+            253,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-15:32:49",
+    "baro_altitude": 7.62,
+    "category": 0,
+    "geo_altitude": 53.34,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204540,
+    "latitude": 33.6814,
+    "longitude": -117.8652,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718204540,
+    "true_track": 207.99,
+    "velocity": 64.67,
+    "vertical_rate": -3.25,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 50,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KOGD",
+    "estDepartureAirportHorizDistance": 1275,
+    "estDepartureAirportVertDistance": 122,
+    "firstSeen": 1718217169,
+    "lastSeen": 1718217272
+}

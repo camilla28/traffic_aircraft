@@ -1,0 +1,104 @@
+{
+    "callsign": "THY6200 ",
+    "endTime": "2024/06/04-09:01:45",
+    "icao24": "39b228",
+    "path": [
+        [
+            1717498016,
+            39.6088,
+            30.042,
+            9144,
+            336,
+            false
+        ],
+        [
+            1717498829,
+            39.6252,
+            30.0328,
+            9144,
+            336,
+            false
+        ],
+        [
+            1717499227,
+            39.6345,
+            30.0276,
+            9144,
+            336,
+            false
+        ],
+        [
+            1717500104,
+            39.6657,
+            30.0103,
+            8839,
+            336,
+            false
+        ],
+        [
+            1717500944,
+            39.6929,
+            29.995,
+            8839,
+            336,
+            false
+        ],
+        [
+            1717501818,
+            39.7131,
+            29.9838,
+            8839,
+            336,
+            false
+        ],
+        [
+            1717502505,
+            39.7385,
+            29.9696,
+            8839,
+            336,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:46:56",
+    "baro_altitude": 9083.04,
+    "category": 0,
+    "geo_altitude": 9555.48,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500004,
+    "latitude": 39.6596,
+    "longitude": 30.0136,
+    "on_ground": false,
+    "origin_country": "France",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717500000,
+    "true_track": 336.65,
+    "velocity": 250.48,
+    "vertical_rate": -5.2,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717498016,
+    "lastSeen": 1717502505
+}

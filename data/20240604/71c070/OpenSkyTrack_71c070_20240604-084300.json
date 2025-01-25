@@ -1,0 +1,88 @@
+{
+    "callsign": "TWB201  ",
+    "endTime": "2024/06/04-08:41:56",
+    "icao24": "71c070",
+    "path": [
+        [
+            1717498091,
+            35.763,
+            140.8202,
+            1828,
+            182,
+            false
+        ],
+        [
+            1717498952,
+            35.7561,
+            140.8198,
+            1828,
+            182,
+            false
+        ],
+        [
+            1717499789,
+            35.7479,
+            140.8193,
+            1828,
+            182,
+            false
+        ],
+        [
+            1717500529,
+            35.7397,
+            140.8189,
+            1828,
+            182,
+            false
+        ],
+        [
+            1717501316,
+            35.7349,
+            140.8186,
+            1828,
+            182,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:48:11",
+    "baro_altitude": 2042.16,
+    "category": 0,
+    "geo_altitude": 2095.5,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500029,
+    "latitude": 35.7429,
+    "longitude": 140.819,
+    "on_ground": false,
+    "origin_country": "Republic of Korea",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "4311",
+    "time_position": 1717500008,
+    "true_track": 182.58,
+    "velocity": 148.82,
+    "vertical_rate": -2.6,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 4,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "RJTU",
+    "estDepartureAirportHorizDistance": 119361,
+    "estDepartureAirportVertDistance": 1978,
+    "firstSeen": 1717498091,
+    "lastSeen": 1717501316
+}

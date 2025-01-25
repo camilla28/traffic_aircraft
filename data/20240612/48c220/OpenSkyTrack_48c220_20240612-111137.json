@@ -1,0 +1,112 @@
+{
+    "callsign": "RYR29PK ",
+    "endTime": "2024/06/12-11:11:44",
+    "icao24": "48c220",
+    "path": [
+        [
+            1718201391,
+            52.4469,
+            20.6059,
+            304,
+            261,
+            false
+        ],
+        [
+            1718201409,
+            52.4447,
+            20.5814,
+            304,
+            261,
+            false
+        ],
+        [
+            1718201435,
+            52.4409,
+            20.5408,
+            609,
+            261,
+            false
+        ],
+        [
+            1718201452,
+            52.4384,
+            20.5114,
+            914,
+            261,
+            false
+        ],
+        [
+            1718201479,
+            52.4344,
+            20.4669,
+            1219,
+            261,
+            false
+        ],
+        [
+            1718201488,
+            52.4333,
+            20.4508,
+            1524,
+            265,
+            false
+        ],
+        [
+            1718201495,
+            52.4333,
+            20.4368,
+            1524,
+            273,
+            false
+        ],
+        [
+            1718201504,
+            52.4348,
+            20.4197,
+            1524,
+            280,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-11:09:51",
+    "baro_altitude": 10668,
+    "category": 0,
+    "geo_altitude": 10652.76,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194259,
+    "latitude": 52.0329,
+    "longitude": 10.4163,
+    "on_ground": false,
+    "origin_country": "Poland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1718194259,
+    "true_track": 80.68,
+    "velocity": 241.38,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 28,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EPMO",
+    "estDepartureAirportHorizDistance": 2424,
+    "estDepartureAirportVertDistance": 353,
+    "firstSeen": 1718201391,
+    "lastSeen": 1718201504
+}

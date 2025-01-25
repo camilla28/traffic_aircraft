@@ -1,0 +1,104 @@
+{
+    "callsign": "WMT5JK  ",
+    "endTime": "2024/06/04-08:30:09",
+    "icao24": "471f6a",
+    "path": [
+        [
+            1717496739,
+            42.5501,
+            19.0373,
+            8534,
+            325,
+            false
+        ],
+        [
+            1717497553,
+            42.5648,
+            19.0237,
+            8534,
+            325,
+            false
+        ],
+        [
+            1717498452,
+            42.6161,
+            18.9758,
+            8534,
+            325,
+            false
+        ],
+        [
+            1717498607,
+            42.6331,
+            18.9598,
+            8534,
+            325,
+            false
+        ],
+        [
+            1717499269,
+            42.6523,
+            18.9418,
+            8839,
+            325,
+            false
+        ],
+        [
+            1717500107,
+            42.6757,
+            18.9198,
+            8839,
+            325,
+            false
+        ],
+        [
+            1717500609,
+            42.6873,
+            18.9089,
+            8839,
+            325,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:25:39",
+    "baro_altitude": 8945.88,
+    "category": 0,
+    "geo_altitude": 9166.86,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499983,
+    "latitude": 42.672,
+    "longitude": 18.9232,
+    "on_ground": false,
+    "origin_country": "Hungary",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1362",
+    "time_position": 1717499983,
+    "true_track": 325.24,
+    "velocity": 229.19,
+    "vertical_rate": 5.2,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717496739,
+    "lastSeen": 1717500609
+}

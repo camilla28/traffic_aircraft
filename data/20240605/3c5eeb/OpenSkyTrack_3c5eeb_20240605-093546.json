@@ -1,0 +1,88 @@
+{
+    "callsign": "EWG8YM  ",
+    "endTime": "2024/06/05-09:35:48",
+    "icao24": "3c5eeb",
+    "path": [
+        [
+            1717590891,
+            51.2888,
+            6.7714,
+            0,
+            232,
+            false
+        ],
+        [
+            1717590913,
+            51.2801,
+            6.7534,
+            0,
+            232,
+            false
+        ],
+        [
+            1717590934,
+            51.2719,
+            6.736,
+            304,
+            233,
+            false
+        ],
+        [
+            1717590941,
+            51.269,
+            6.7294,
+            304,
+            235,
+            false
+        ],
+        [
+            1717590948,
+            51.2664,
+            6.7235,
+            609,
+            234,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-09:34:51",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717590631,
+    "latitude": 51.2872,
+    "longitude": 6.7726,
+    "on_ground": true,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1717590631,
+    "true_track": 53.44,
+    "velocity": 10.8,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 123,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDDL",
+    "estDepartureAirportHorizDistance": 743,
+    "estDepartureAirportVertDistance": 14,
+    "firstSeen": 1717590891,
+    "lastSeen": 1717590948
+}

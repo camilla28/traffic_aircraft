@@ -1,0 +1,80 @@
+{
+    "callsign": "AAL806  ",
+    "endTime": "2024/06/04-09:15:48",
+    "icao24": "ab1fbb",
+    "path": [
+        [
+            1717501342,
+            36.0224,
+            -83.6976,
+            7620,
+            48,
+            false
+        ],
+        [
+            1717501874,
+            36.0367,
+            -83.6775,
+            7620,
+            48,
+            false
+        ],
+        [
+            1717503320,
+            37.3483,
+            -81.7752,
+            7620,
+            49,
+            false
+        ],
+        [
+            1717503348,
+            37.3463,
+            -81.7783,
+            7620,
+            49,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:42:22",
+    "baro_altitude": 7620,
+    "category": 0,
+    "geo_altitude": 7947.66,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500011,
+    "latitude": 36.0105,
+    "longitude": -83.7142,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717500011,
+    "true_track": 48.78,
+    "velocity": 253.73,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "4TN0",
+    "estDepartureAirportHorizDistance": 14617,
+    "estDepartureAirportVertDistance": 7296,
+    "firstSeen": 1717501342,
+    "lastSeen": 1717503348
+}

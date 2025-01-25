@@ -1,0 +1,120 @@
+{
+    "callsign": "BAW705  ",
+    "endTime": "2024/06/12-14:35:26",
+    "icao24": "400980",
+    "path": [
+        [
+            1718213619,
+            48.119,
+            16.5453,
+            0,
+            295,
+            false
+        ],
+        [
+            1718213628,
+            48.1215,
+            16.537,
+            304,
+            292,
+            false
+        ],
+        [
+            1718213637,
+            48.1227,
+            16.5278,
+            304,
+            272,
+            false
+        ],
+        [
+            1718213640,
+            48.1227,
+            16.5246,
+            304,
+            267,
+            false
+        ],
+        [
+            1718213640,
+            48.1227,
+            16.5246,
+            304,
+            267,
+            false
+        ],
+        [
+            1718213684,
+            48.1166,
+            16.4731,
+            609,
+            268,
+            false
+        ],
+        [
+            1718213693,
+            48.1178,
+            16.4561,
+            914,
+            278,
+            false
+        ],
+        [
+            1718213709,
+            48.1204,
+            16.4303,
+            914,
+            278,
+            false
+        ],
+        [
+            1718213726,
+            48.1235,
+            16.4008,
+            1219,
+            278,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-14:33:39",
+    "baro_altitude": 10668,
+    "category": 1,
+    "geo_altitude": 10706.1,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204674,
+    "latitude": 50.968,
+    "longitude": 3.1345,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0502",
+    "time_position": 1718204674,
+    "true_track": 100.69,
+    "velocity": 243.97,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 87,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LOWW",
+    "estDepartureAirportHorizDistance": 1572,
+    "estDepartureAirportVertDistance": 53,
+    "firstSeen": 1718213619,
+    "lastSeen": 1718213726
+}

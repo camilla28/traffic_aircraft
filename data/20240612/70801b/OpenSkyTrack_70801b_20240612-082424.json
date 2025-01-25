@@ -1,0 +1,112 @@
+{
+    "callsign": "LAO001  ",
+    "endTime": "2024/06/12-08:24:30",
+    "icao24": "70801b",
+    "path": [
+        [
+            1718191079,
+            22.5217,
+            107.0677,
+            10972,
+            228,
+            false
+        ],
+        [
+            1718191186,
+            22.3587,
+            106.8711,
+            10972,
+            227,
+            false
+        ],
+        [
+            1718191276,
+            22.216,
+            106.7187,
+            10972,
+            224,
+            false
+        ],
+        [
+            1718191298,
+            22.181,
+            106.6821,
+            10972,
+            222,
+            false
+        ],
+        [
+            1718191304,
+            22.1708,
+            106.6723,
+            10668,
+            221,
+            false
+        ],
+        [
+            1718191310,
+            22.1605,
+            106.6628,
+            10668,
+            220,
+            false
+        ],
+        [
+            1718191418,
+            21.9743,
+            106.5001,
+            10972,
+            219,
+            false
+        ],
+        [
+            1718191470,
+            21.8844,
+            106.4212,
+            10668,
+            219,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-08:17:59",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": 11780.52,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718191188,
+    "latitude": 22.357,
+    "longitude": 106.8692,
+    "on_ground": false,
+    "origin_country": "Lao People's Democratic Republic",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718191188,
+    "true_track": 226.74,
+    "velocity": 251.48,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1718191079,
+    "lastSeen": 1718191470
+}

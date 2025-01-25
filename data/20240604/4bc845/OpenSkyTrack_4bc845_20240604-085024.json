@@ -1,0 +1,104 @@
+{
+    "callsign": null,
+    "endTime": "2024/06/04-08:48:31",
+    "icao24": "4bc845",
+    "path": [
+        [
+            1717497472,
+            39.0158,
+            30.0472,
+            9144,
+            336,
+            false
+        ],
+        [
+            1717498210,
+            39.0427,
+            30.0321,
+            9144,
+            336,
+            false
+        ],
+        [
+            1717499106,
+            39.0732,
+            30.0148,
+            9144,
+            336,
+            false
+        ],
+        [
+            1717499990,
+            39.1049,
+            29.9969,
+            9144,
+            336,
+            false
+        ],
+        [
+            1717500766,
+            39.1358,
+            29.9795,
+            9144,
+            336,
+            false
+        ],
+        [
+            1717501538,
+            39.1576,
+            29.9672,
+            9144,
+            336,
+            false
+        ],
+        [
+            1717501711,
+            39.169,
+            29.9609,
+            9144,
+            336,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:37:52",
+    "baro_altitude": 9144,
+    "category": 0,
+    "geo_altitude": 9601.2,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499990,
+    "latitude": 39.1049,
+    "longitude": 29.9969,
+    "on_ground": false,
+    "origin_country": "Turkey",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499990,
+    "true_track": 336.27,
+    "velocity": 232.65,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LTBZ",
+    "estDepartureAirportHorizDistance": 11779,
+    "estDepartureAirportVertDistance": 8129,
+    "firstSeen": 1717497472,
+    "lastSeen": 1717501711
+}

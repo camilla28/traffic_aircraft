@@ -1,0 +1,160 @@
+{
+    "callsign": "FDB707  ",
+    "endTime": "2024/06/05-08:02:33",
+    "icao24": "896378",
+    "path": [
+        [
+            1717583825,
+            25.2523,
+            55.3727,
+            0,
+            301,
+            false
+        ],
+        [
+            1717583864,
+            25.2677,
+            55.3446,
+            0,
+            300,
+            false
+        ],
+        [
+            1717583896,
+            25.2828,
+            55.3176,
+            304,
+            302,
+            false
+        ],
+        [
+            1717583906,
+            25.288,
+            55.3089,
+            304,
+            304,
+            false
+        ],
+        [
+            1717583919,
+            25.2982,
+            55.2989,
+            609,
+            304,
+            false
+        ],
+        [
+            1717583927,
+            25.3059,
+            55.296,
+            609,
+            344,
+            false
+        ],
+        [
+            1717583929,
+            25.3081,
+            55.2956,
+            609,
+            348,
+            false
+        ],
+        [
+            1717583929,
+            25.3081,
+            55.2956,
+            609,
+            348,
+            false
+        ],
+        [
+            1717583953,
+            25.3365,
+            55.296,
+            914,
+            1,
+            false
+        ],
+        [
+            1717583953,
+            25.3365,
+            55.296,
+            914,
+            0,
+            false
+        ],
+        [
+            1717583994,
+            25.3862,
+            55.2996,
+            1524,
+            15,
+            false
+        ],
+        [
+            1717583994,
+            25.3862,
+            55.2996,
+            1524,
+            34,
+            false
+        ],
+        [
+            1717584867,
+            25.753,
+            55.5717,
+            4267,
+            34,
+            false
+        ],
+        [
+            1717585353,
+            25.7591,
+            55.5763,
+            4267,
+            34,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-07:37:05",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717582996,
+    "latitude": 25.2672,
+    "longitude": 55.3518,
+    "on_ground": true,
+    "origin_country": "United Arab Emirates",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717582991,
+    "true_track": 2.81,
+    "velocity": 1.03,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 21,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "OMDB",
+    "estDepartureAirportHorizDistance": 1060,
+    "estDepartureAirportVertDistance": 87,
+    "firstSeen": 1717583825,
+    "lastSeen": 1717585353
+}

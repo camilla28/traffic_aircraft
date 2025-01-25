@@ -1,0 +1,144 @@
+{
+    "callsign": "N111PS  ",
+    "endTime": "2024/06/14-18:51:39",
+    "icao24": "a03140",
+    "path": [
+        [
+            1718401675,
+            41.1809,
+            -80.1732,
+            609,
+            17,
+            false
+        ],
+        [
+            1718401708,
+            41.1932,
+            -80.1678,
+            609,
+            18,
+            false
+        ],
+        [
+            1718401716,
+            41.1966,
+            -80.1665,
+            914,
+            14,
+            false
+        ],
+        [
+            1718401720,
+            41.1979,
+            -80.1661,
+            914,
+            13,
+            false
+        ],
+        [
+            1718401727,
+            41.2007,
+            -80.1653,
+            914,
+            10,
+            false
+        ],
+        [
+            1718401740,
+            41.2057,
+            -80.1642,
+            914,
+            8,
+            false
+        ],
+        [
+            1718401743,
+            41.2071,
+            -80.1641,
+            914,
+            6,
+            false
+        ],
+        [
+            1718401755,
+            41.2116,
+            -80.1635,
+            914,
+            4,
+            false
+        ],
+        [
+            1718401763,
+            41.2148,
+            -80.1634,
+            914,
+            1,
+            false
+        ],
+        [
+            1718401765,
+            41.2153,
+            -80.1634,
+            914,
+            0,
+            false
+        ],
+        [
+            1718401843,
+            41.256,
+            -80.1639,
+            914,
+            358,
+            false
+        ],
+        [
+            1718401899,
+            41.2839,
+            -80.1647,
+            914,
+            359,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-18:47:55",
+    "baro_altitude": 929.64,
+    "category": 0,
+    "geo_altitude": 922.02,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718401720,
+    "latitude": 41.1979,
+    "longitude": -80.1661,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718401720,
+    "true_track": 13.88,
+    "velocity": 47.16,
+    "vertical_rate": 2.93,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 335,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "K29D",
+    "estDepartureAirportHorizDistance": 3920,
+    "estDepartureAirportVertDistance": 397,
+    "firstSeen": 1718401675,
+    "lastSeen": 1718401899
+}

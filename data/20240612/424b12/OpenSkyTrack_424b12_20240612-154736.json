@@ -1,0 +1,120 @@
+{
+    "callsign": "VSB08   ",
+    "endTime": "2024/06/12-15:47:44",
+    "icao24": "424b12",
+    "path": [
+        [
+            1718217971,
+            51.27,
+            -0.7935,
+            0,
+            241,
+            false
+        ],
+        [
+            1718217980,
+            51.2666,
+            -0.8013,
+            304,
+            231,
+            false
+        ],
+        [
+            1718217988,
+            51.263,
+            -0.8078,
+            304,
+            226,
+            false
+        ],
+        [
+            1718218006,
+            51.2533,
+            -0.8228,
+            304,
+            224,
+            false
+        ],
+        [
+            1718218023,
+            51.2434,
+            -0.8387,
+            609,
+            223,
+            false
+        ],
+        [
+            1718218031,
+            51.2376,
+            -0.8459,
+            609,
+            214,
+            false
+        ],
+        [
+            1718218039,
+            51.2311,
+            -0.8515,
+            609,
+            206,
+            false
+        ],
+        [
+            1718218056,
+            51.2164,
+            -0.8627,
+            609,
+            205,
+            false
+        ],
+        [
+            1718218064,
+            51.2097,
+            -0.8675,
+            914,
+            204,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-15:46:11",
+    "baro_altitude": 5364.48,
+    "category": 0,
+    "geo_altitude": 5478.78,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204675,
+    "latitude": 53.7292,
+    "longitude": -3.1161,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5470",
+    "time_position": 1718204674,
+    "true_track": 145.1,
+    "velocity": 107.89,
+    "vertical_rate": 9.75,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 115,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EGLF",
+    "estDepartureAirportHorizDistance": 927,
+    "estDepartureAirportVertDistance": 125,
+    "firstSeen": 1718217971,
+    "lastSeen": 1718218064
+}

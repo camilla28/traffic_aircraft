@@ -1,0 +1,80 @@
+{
+    "callsign": "KNE570  ",
+    "endTime": "2024/06/12-14:10:25",
+    "icao24": "4241a1",
+    "path": [
+        [
+            1718211853,
+            29.8318,
+            31.4754,
+            2743,
+            163,
+            false
+        ],
+        [
+            1718211890,
+            29.7799,
+            31.4932,
+            3048,
+            163,
+            false
+        ],
+        [
+            1718211909,
+            29.7521,
+            31.5025,
+            3352,
+            163,
+            false
+        ],
+        [
+            1718212225,
+            29.1968,
+            31.6835,
+            5486,
+            164,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-14:04:13",
+    "baro_altitude": 6964.68,
+    "category": 0,
+    "geo_altitude": 7886.7,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204673,
+    "latitude": 29.3377,
+    "longitude": 32.5213,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "4573",
+    "time_position": 1718204673,
+    "true_track": 308.24,
+    "velocity": 210.26,
+    "vertical_rate": -9.75,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "HE15",
+    "estDepartureAirportHorizDistance": 71537,
+    "estDepartureAirportVertDistance": 2926,
+    "firstSeen": 1718211853,
+    "lastSeen": 1718212225
+}

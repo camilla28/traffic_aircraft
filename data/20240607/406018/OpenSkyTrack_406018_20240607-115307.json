@@ -1,0 +1,80 @@
+{
+    "callsign": "EZY46MG ",
+    "endTime": "2024/06/07-11:53:03",
+    "icao24": "406018",
+    "path": [
+        [
+            1717771886,
+            40.4757,
+            -3.5667,
+            609,
+            142,
+            false
+        ],
+        [
+            1717771923,
+            40.4537,
+            -3.5444,
+            609,
+            142,
+            false
+        ],
+        [
+            1717771953,
+            40.4355,
+            -3.5263,
+            914,
+            143,
+            false
+        ],
+        [
+            1717771983,
+            40.4171,
+            -3.5082,
+            1219,
+            142,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-11:51:26",
+    "baro_altitude": 11262.36,
+    "category": 0,
+    "geo_altitude": 11620.5,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762945,
+    "latitude": 47.811,
+    "longitude": -3.6687,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0541",
+    "time_position": 1717762945,
+    "true_track": 183.72,
+    "velocity": 213.95,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 31,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LEMD",
+    "estDepartureAirportHorizDistance": 824,
+    "estDepartureAirportVertDistance": 0,
+    "firstSeen": 1717771886,
+    "lastSeen": 1717771983
+}

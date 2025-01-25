@@ -1,0 +1,72 @@
+{
+    "callsign": "FAD3078 ",
+    "endTime": "2024/06/07-09:43:12",
+    "icao24": "0c405a",
+    "path": [
+        [
+            1717762686,
+            26.9756,
+            -80.4528,
+            609,
+            345,
+            false
+        ],
+        [
+            1717763575,
+            27.5661,
+            -80.6243,
+            609,
+            345,
+            false
+        ],
+        [
+            1717764192,
+            27.9686,
+            -80.7423,
+            609,
+            345,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-09:18:06",
+    "baro_altitude": 769.62,
+    "category": 0,
+    "geo_altitude": 792.48,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762945,
+    "latitude": 27.1458,
+    "longitude": -80.5021,
+    "on_ground": false,
+    "origin_country": "Dominican Republic",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717762945,
+    "true_track": 345.4,
+    "velocity": 75.49,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 202,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KX58",
+    "estDepartureAirportHorizDistance": 6847,
+    "estDepartureAirportVertDistance": 760,
+    "firstSeen": 1717762686,
+    "lastSeen": 1717764192
+}

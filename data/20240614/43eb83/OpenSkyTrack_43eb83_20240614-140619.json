@@ -1,0 +1,120 @@
+{
+    "callsign": "2JSEG   ",
+    "endTime": "2024/06/14-14:06:22",
+    "icao24": "43eb83",
+    "path": [
+        [
+            1718384691,
+            50.7772,
+            -1.8592,
+            304,
+            253,
+            false
+        ],
+        [
+            1718384699,
+            50.7758,
+            -1.8671,
+            304,
+            255,
+            false
+        ],
+        [
+            1718384708,
+            50.7749,
+            -1.8759,
+            304,
+            264,
+            false
+        ],
+        [
+            1718384716,
+            50.7747,
+            -1.8839,
+            609,
+            270,
+            false
+        ],
+        [
+            1718384725,
+            50.7749,
+            -1.8938,
+            609,
+            272,
+            false
+        ],
+        [
+            1718384753,
+            50.7757,
+            -1.9247,
+            914,
+            271,
+            false
+        ],
+        [
+            1718384763,
+            50.7759,
+            -1.9363,
+            1219,
+            268,
+            false
+        ],
+        [
+            1718384772,
+            50.7752,
+            -1.9458,
+            1219,
+            260,
+            false
+        ],
+        [
+            1718384782,
+            50.7734,
+            -1.9565,
+            1524,
+            248,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-14:04:51",
+    "baro_altitude": 4221.48,
+    "category": 0,
+    "geo_altitude": 4175.76,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718380974,
+    "latitude": 50.2855,
+    "longitude": -1.7952,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718380973,
+    "true_track": 21.23,
+    "velocity": 163.36,
+    "vertical_rate": -4.55,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 77,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EGHH",
+    "estDepartureAirportHorizDistance": 618,
+    "estDepartureAirportVertDistance": 323,
+    "firstSeen": 1718384691,
+    "lastSeen": 1718384782
+}

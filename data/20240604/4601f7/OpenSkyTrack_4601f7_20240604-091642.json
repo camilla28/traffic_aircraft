@@ -1,0 +1,80 @@
+{
+    "callsign": "FIN396  ",
+    "endTime": "2024/06/04-09:15:17",
+    "icao24": "4601f7",
+    "path": [
+        [
+            1717501710,
+            60.5658,
+            24.1768,
+            3352,
+            125,
+            false
+        ],
+        [
+            1717502012,
+            60.5614,
+            24.1902,
+            3352,
+            122,
+            false
+        ],
+        [
+            1717502828,
+            60.5556,
+            24.2093,
+            3352,
+            121,
+            false
+        ],
+        [
+            1717503317,
+            60.5513,
+            24.2237,
+            3352,
+            120,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:48:30",
+    "baro_altitude": 3604.26,
+    "category": 0,
+    "geo_altitude": 3596.64,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500034,
+    "latitude": 60.5687,
+    "longitude": 24.1691,
+    "on_ground": false,
+    "origin_country": "Finland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0205",
+    "time_position": 1717500018,
+    "true_track": 137.07,
+    "velocity": 111.02,
+    "vertical_rate": -7.48,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717501710,
+    "lastSeen": 1717503317
+}

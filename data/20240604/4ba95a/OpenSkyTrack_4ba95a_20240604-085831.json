@@ -1,0 +1,96 @@
+{
+    "callsign": "THY13SV ",
+    "endTime": "2024/06/04-08:57:54",
+    "icao24": "4ba95a",
+    "path": [
+        [
+            1717498414,
+            43.4073,
+            25.3305,
+            10972,
+            302,
+            false
+        ],
+        [
+            1717499199,
+            43.4229,
+            25.2962,
+            10972,
+            302,
+            false
+        ],
+        [
+            1717500092,
+            43.4407,
+            25.2572,
+            10972,
+            302,
+            false
+        ],
+        [
+            1717500908,
+            43.4561,
+            25.2237,
+            10972,
+            302,
+            false
+        ],
+        [
+            1717501795,
+            43.475,
+            25.182,
+            10972,
+            302,
+            false
+        ],
+        [
+            1717502274,
+            43.406,
+            25.3331,
+            10972,
+            302,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:53:34",
+    "baro_altitude": 10972.8,
+    "category": 1,
+    "geo_altitude": 11346.18,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500001,
+    "latitude": 43.4403,
+    "longitude": 25.2583,
+    "on_ground": false,
+    "origin_country": "Turkey",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5430",
+    "time_position": 1717500001,
+    "true_track": 302.09,
+    "velocity": 234.37,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LB29",
+    "estDepartureAirportHorizDistance": 11595,
+    "estDepartureAirportVertDistance": 10866,
+    "firstSeen": 1717498414,
+    "lastSeen": 1717502274
+}

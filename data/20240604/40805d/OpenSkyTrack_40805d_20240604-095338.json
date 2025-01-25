@@ -1,0 +1,120 @@
+{
+    "callsign": "WUK45Z  ",
+    "endTime": "2024/06/04-09:52:01",
+    "icao24": "40805d",
+    "path": [
+        [
+            1717501842,
+            42.8829,
+            -4.1498,
+            10363,
+            184,
+            false
+        ],
+        [
+            1717502616,
+            42.8734,
+            -4.1508,
+            10363,
+            184,
+            false
+        ],
+        [
+            1717503375,
+            42.8617,
+            -4.1521,
+            10363,
+            184,
+            false
+        ],
+        [
+            1717504161,
+            42.8531,
+            -4.153,
+            10363,
+            184,
+            false
+        ],
+        [
+            1717504669,
+            42.8461,
+            -4.1538,
+            10363,
+            184,
+            false
+        ],
+        [
+            1717504681,
+            42.8461,
+            -4.1538,
+            10668,
+            184,
+            false
+        ],
+        [
+            1717505384,
+            42.8377,
+            -4.1547,
+            10363,
+            184,
+            false
+        ],
+        [
+            1717505384,
+            42.8377,
+            -4.1547,
+            10668,
+            184,
+            false
+        ],
+        [
+            1717505521,
+            42.8367,
+            -4.1549,
+            10363,
+            184,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:50:42",
+    "baro_altitude": 10668,
+    "category": 0,
+    "geo_altitude": 11033.76,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504683,
+    "latitude": 42.8461,
+    "longitude": -4.1538,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3723",
+    "time_position": 1717504681,
+    "true_track": 184.66,
+    "velocity": 246.72,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717501842,
+    "lastSeen": 1717505521
+}

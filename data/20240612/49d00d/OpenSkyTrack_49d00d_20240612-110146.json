@@ -1,0 +1,128 @@
+{
+    "callsign": "TVQ6109 ",
+    "endTime": "2024/06/12-11:01:20",
+    "icao24": "49d00d",
+    "path": [
+        [
+            1718200762,
+            36.7786,
+            31.0444,
+            1828,
+            85,
+            false
+        ],
+        [
+            1718200770,
+            36.7801,
+            31.0571,
+            1828,
+            78,
+            false
+        ],
+        [
+            1718200780,
+            36.784,
+            31.0714,
+            1828,
+            74,
+            false
+        ],
+        [
+            1718200788,
+            36.7894,
+            31.083,
+            1828,
+            54,
+            false
+        ],
+        [
+            1718200795,
+            36.7954,
+            31.0914,
+            2133,
+            43,
+            false
+        ],
+        [
+            1718200804,
+            36.8048,
+            31.1001,
+            2133,
+            32,
+            false
+        ],
+        [
+            1718200812,
+            36.8147,
+            31.1073,
+            2133,
+            30,
+            false
+        ],
+        [
+            1718200827,
+            36.8298,
+            31.1188,
+            2438,
+            31,
+            false
+        ],
+        [
+            1718200869,
+            36.8787,
+            31.1566,
+            2743,
+            32,
+            false
+        ],
+        [
+            1718200880,
+            36.8914,
+            31.1669,
+            3048,
+            33,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-10:59:22",
+    "baro_altitude": 1927.86,
+    "category": 0,
+    "geo_altitude": 2080.26,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194259,
+    "latitude": 37.1717,
+    "longitude": 30.7114,
+    "on_ground": false,
+    "origin_country": "Czech Republic",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718194234,
+    "true_track": 92.83,
+    "velocity": 125.16,
+    "vertical_rate": -10.73,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 9,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LTAI",
+    "estDepartureAirportHorizDistance": 24034,
+    "estDepartureAirportVertDistance": 1873,
+    "firstSeen": 1718200762,
+    "lastSeen": 1718200880
+}

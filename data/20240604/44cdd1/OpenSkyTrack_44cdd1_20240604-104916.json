@@ -1,0 +1,104 @@
+{
+    "callsign": "BEL5BN  ",
+    "endTime": "2024/06/04-10:49:18",
+    "icao24": "44cdd1",
+    "path": [
+        [
+            1717504159,
+            48.0872,
+            7.2479,
+            10058,
+            154,
+            false
+        ],
+        [
+            1717505043,
+            48.0726,
+            7.2581,
+            10058,
+            154,
+            false
+        ],
+        [
+            1717505927,
+            48.0571,
+            7.269,
+            10058,
+            154,
+            false
+        ],
+        [
+            1717506728,
+            48.0327,
+            7.286,
+            10058,
+            154,
+            false
+        ],
+        [
+            1717507532,
+            48.002,
+            7.3075,
+            10058,
+            154,
+            false
+        ],
+        [
+            1717508337,
+            47.9271,
+            7.3596,
+            10058,
+            154,
+            false
+        ],
+        [
+            1717508958,
+            47.8904,
+            7.3851,
+            10058,
+            154,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:29:19",
+    "baro_altitude": 10058.4,
+    "category": 0,
+    "geo_altitude": 10302.24,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504705,
+    "latitude": 48.079,
+    "longitude": 7.2537,
+    "on_ground": false,
+    "origin_country": "Belgium",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1717504705,
+    "true_track": 154.9,
+    "velocity": 224.39,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFGA",
+    "estDepartureAirportHorizDistance": 8676,
+    "estDepartureAirportVertDistance": 9866,
+    "firstSeen": 1717504159,
+    "lastSeen": 1717508958
+}

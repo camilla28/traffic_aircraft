@@ -1,0 +1,80 @@
+{
+    "callsign": "LXJ403  ",
+    "endTime": "2024/06/07-16:08:47",
+    "icao24": "a4b859",
+    "path": [
+        [
+            1717787038,
+            36.0824,
+            -115.1687,
+            609,
+            205,
+            false
+        ],
+        [
+            1717787052,
+            36.0816,
+            -115.1692,
+            609,
+            206,
+            false
+        ],
+        [
+            1717787052,
+            36.0816,
+            -115.1692,
+            609,
+            270,
+            false
+        ],
+        [
+            1717787327,
+            36.082,
+            -115.1711,
+            609,
+            87,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-16:03:58",
+    "baro_altitude": 7696.2,
+    "category": 0,
+    "geo_altitude": 8122.92,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717784180,
+    "latitude": 34.6849,
+    "longitude": -118.0096,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717784180,
+    "true_track": 78.3,
+    "velocity": 208.04,
+    "vertical_rate": 11.38,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 54,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KLAS",
+    "estDepartureAirportHorizDistance": 263,
+    "estDepartureAirportVertDistance": 36,
+    "firstSeen": 1717787038,
+    "lastSeen": 1717787327
+}

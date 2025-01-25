@@ -1,0 +1,80 @@
+{
+    "callsign": "N65PA   ",
+    "endTime": "2024/06/15-12:05:27",
+    "icao24": "a88ba7",
+    "path": [
+        [
+            1718459495,
+            42.8692,
+            -112.7706,
+            4572,
+            113,
+            false
+        ],
+        [
+            1718460147,
+            42.6235,
+            -112.0169,
+            4572,
+            113,
+            false
+        ],
+        [
+            1718463586,
+            41.2896,
+            -108.0384,
+            4267,
+            99,
+            false
+        ],
+        [
+            1718463927,
+            41.2298,
+            -107.6023,
+            4267,
+            101,
+            false
+        ]
+    ],
+    "startTime": "2024/06/15-10:51:35",
+    "baro_altitude": 4533.9,
+    "category": 0,
+    "geo_altitude": 4724.4,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718463608,
+    "latitude": 41.2883,
+    "longitude": -108.0279,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718463595,
+    "true_track": 99.51,
+    "velocity": 109.02,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 2,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KU01",
+    "estDepartureAirportHorizDistance": 8556,
+    "estDepartureAirportVertDistance": 3225,
+    "firstSeen": 1718459495,
+    "lastSeen": 1718463927
+}

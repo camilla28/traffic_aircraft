@@ -1,0 +1,112 @@
+{
+    "callsign": "GAP2863 ",
+    "endTime": "2024/06/05-09:58:59",
+    "icao24": "7583ae",
+    "path": [
+        [
+            1717592220,
+            14.5104,
+            121.0228,
+            0,
+            60,
+            false
+        ],
+        [
+            1717592238,
+            14.5174,
+            121.0356,
+            0,
+            62,
+            false
+        ],
+        [
+            1717592276,
+            14.5311,
+            121.0646,
+            304,
+            64,
+            false
+        ],
+        [
+            1717592306,
+            14.5441,
+            121.0917,
+            609,
+            64,
+            false
+        ],
+        [
+            1717592315,
+            14.5471,
+            121.1013,
+            609,
+            76,
+            false
+        ],
+        [
+            1717592323,
+            14.5479,
+            121.1111,
+            609,
+            87,
+            false
+        ],
+        [
+            1717592331,
+            14.548,
+            121.1204,
+            609,
+            90,
+            false
+        ],
+        [
+            1717592339,
+            14.5471,
+            121.1304,
+            914,
+            97,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-09:57:00",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717590495,
+    "latitude": 14.5067,
+    "longitude": 121.0132,
+    "on_ground": true,
+    "origin_country": "Philippines",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717590495,
+    "true_track": 194.06,
+    "velocity": 2.57,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 26,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "RPLL",
+    "estDepartureAirportHorizDistance": 290,
+    "estDepartureAirportVertDistance": 38,
+    "firstSeen": 1717592220,
+    "lastSeen": 1717592339
+}

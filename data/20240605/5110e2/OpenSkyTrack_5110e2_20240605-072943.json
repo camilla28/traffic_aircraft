@@ -1,0 +1,88 @@
+{
+    "callsign": "SAS4224 ",
+    "endTime": "2024/06/05-07:29:45",
+    "icao24": "5110e2",
+    "path": [
+        [
+            1717583333,
+            59.6397,
+            17.9555,
+            0,
+            190,
+            false
+        ],
+        [
+            1717583355,
+            59.6255,
+            17.9503,
+            0,
+            190,
+            false
+        ],
+        [
+            1717583375,
+            59.6121,
+            17.9457,
+            304,
+            189,
+            false
+        ],
+        [
+            1717583381,
+            59.6076,
+            17.9436,
+            304,
+            194,
+            false
+        ],
+        [
+            1717583385,
+            59.6048,
+            17.942,
+            609,
+            197,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-07:28:53",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717582997,
+    "latitude": 59.6437,
+    "longitude": 17.9208,
+    "on_ground": true,
+    "origin_country": "Estonia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717582997,
+    "true_track": 188.44,
+    "velocity": 8.23,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 21,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "ESSA",
+    "estDepartureAirportHorizDistance": 2522,
+    "estDepartureAirportVertDistance": 80,
+    "firstSeen": 1717583333,
+    "lastSeen": 1717583385
+}

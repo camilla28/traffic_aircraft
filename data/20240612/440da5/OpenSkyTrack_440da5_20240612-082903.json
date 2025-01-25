@@ -1,0 +1,144 @@
+{
+    "callsign": "EJU5371 ",
+    "endTime": "2024/06/12-08:29:09",
+    "icao24": "440da5",
+    "path": [
+        [
+            1718191649,
+            47.6092,
+            7.5158,
+            0,
+            155,
+            false
+        ],
+        [
+            1718191661,
+            47.6016,
+            7.5211,
+            0,
+            154,
+            false
+        ],
+        [
+            1718191686,
+            47.5844,
+            7.5331,
+            304,
+            155,
+            false
+        ],
+        [
+            1718191703,
+            47.5715,
+            7.5418,
+            609,
+            156,
+            false
+        ],
+        [
+            1718191709,
+            47.5664,
+            7.5444,
+            609,
+            164,
+            false
+        ],
+        [
+            1718191715,
+            47.5607,
+            7.5458,
+            609,
+            174,
+            false
+        ],
+        [
+            1718191720,
+            47.5561,
+            7.5458,
+            609,
+            183,
+            false
+        ],
+        [
+            1718191726,
+            47.5504,
+            7.5442,
+            609,
+            196,
+            false
+        ],
+        [
+            1718191732,
+            47.5446,
+            7.5402,
+            609,
+            212,
+            false
+        ],
+        [
+            1718191738,
+            47.5395,
+            7.5337,
+            914,
+            227,
+            false
+        ],
+        [
+            1718191744,
+            47.5357,
+            7.5256,
+            914,
+            241,
+            false
+        ],
+        [
+            1718191749,
+            47.5338,
+            7.5186,
+            914,
+            252,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-08:27:29",
+    "baro_altitude": 929.64,
+    "category": 0,
+    "geo_altitude": 1028.7,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718191738,
+    "latitude": 47.5395,
+    "longitude": 7.5337,
+    "on_ground": false,
+    "origin_country": "Austria",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1718191738,
+    "true_track": 227.41,
+    "velocity": 120.88,
+    "vertical_rate": 13.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 129,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSZM",
+    "estDepartureAirportHorizDistance": 2409,
+    "estDepartureAirportVertDistance": 33,
+    "firstSeen": 1718191649,
+    "lastSeen": 1718191749
+}

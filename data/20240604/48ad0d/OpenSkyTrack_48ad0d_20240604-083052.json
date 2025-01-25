@@ -1,0 +1,80 @@
+{
+    "callsign": "LOT46K  ",
+    "endTime": "2024/06/04-08:30:38",
+    "icao24": "48ad0d",
+    "path": [
+        [
+            1717498564,
+            55.5938,
+            12.6064,
+            0,
+            221,
+            false
+        ],
+        [
+            1717498891,
+            55.5922,
+            12.6037,
+            0,
+            221,
+            false
+        ],
+        [
+            1717499777,
+            55.5844,
+            12.5915,
+            304,
+            221,
+            false
+        ],
+        [
+            1717500638,
+            55.5747,
+            12.5765,
+            304,
+            220,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:56:04",
+    "baro_altitude": 518.16,
+    "category": 0,
+    "geo_altitude": 563.88,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500013,
+    "latitude": 55.5809,
+    "longitude": 12.5861,
+    "on_ground": false,
+    "origin_country": "Poland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499997,
+    "true_track": 220.9,
+    "velocity": 86.43,
+    "vertical_rate": 8.45,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 48,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EKCH",
+    "estDepartureAirportHorizDistance": 461797,
+    "estDepartureAirportVertDistance": 246,
+    "firstSeen": 1717498564,
+    "lastSeen": 1717500638
+}

@@ -1,0 +1,112 @@
+{
+    "callsign": "SPDGB   ",
+    "endTime": "2024/05/29-07:38:01",
+    "icao24": "488cc1",
+    "path": [
+        [
+            1716978462,
+            44.5208,
+            11.5525,
+            304,
+            15,
+            false
+        ],
+        [
+            1716978513,
+            44.5556,
+            11.5652,
+            304,
+            13,
+            false
+        ],
+        [
+            1716978528,
+            44.5667,
+            11.5684,
+            304,
+            2,
+            false
+        ],
+        [
+            1716978543,
+            44.578,
+            11.5675,
+            304,
+            0,
+            false
+        ],
+        [
+            1716978550,
+            44.5828,
+            11.5667,
+            304,
+            353,
+            false
+        ],
+        [
+            1716978906,
+            44.8397,
+            11.5263,
+            304,
+            355,
+            false
+        ],
+        [
+            1716978911,
+            44.8431,
+            11.526,
+            304,
+            357,
+            false
+        ],
+        [
+            1716979081,
+            44.9657,
+            11.5224,
+            304,
+            358,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-07:27:42",
+    "baro_altitude": 441.96,
+    "category": 0,
+    "geo_altitude": 502.92,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716978985,
+    "latitude": 44.896,
+    "longitude": 11.5249,
+    "on_ground": false,
+    "origin_country": "Poland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1716978984,
+    "true_track": 358.55,
+    "velocity": 81.31,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 46,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LIPE",
+    "estDepartureAirportHorizDistance": 20971,
+    "estDepartureAirportVertDistance": 412,
+    "firstSeen": 1716978462,
+    "lastSeen": 1716979081
+}

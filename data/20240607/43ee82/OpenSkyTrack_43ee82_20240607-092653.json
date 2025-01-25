@@ -1,0 +1,184 @@
+{
+    "callsign": "2GOOD   ",
+    "endTime": "2024/06/07-09:26:58",
+    "icao24": "43ee82",
+    "path": [
+        [
+            1717762654,
+            51.4961,
+            -0.7933,
+            0,
+            249,
+            false
+        ],
+        [
+            1717762675,
+            51.493,
+            -0.8062,
+            0,
+            251,
+            false
+        ],
+        [
+            1717762682,
+            51.4924,
+            -0.8103,
+            0,
+            258,
+            false
+        ],
+        [
+            1717762696,
+            51.4913,
+            -0.8188,
+            304,
+            259,
+            false
+        ],
+        [
+            1717762809,
+            51.4814,
+            -0.9183,
+            304,
+            260,
+            false
+        ],
+        [
+            1717762816,
+            51.4807,
+            -0.9261,
+            304,
+            263,
+            false
+        ],
+        [
+            1717762823,
+            51.4807,
+            -0.9341,
+            304,
+            277,
+            false
+        ],
+        [
+            1717762830,
+            51.4821,
+            -0.9415,
+            304,
+            293,
+            false
+        ],
+        [
+            1717762839,
+            51.4845,
+            -0.9504,
+            304,
+            292,
+            false
+        ],
+        [
+            1717762845,
+            51.4861,
+            -0.9574,
+            304,
+            288,
+            false
+        ],
+        [
+            1717762916,
+            51.501,
+            -1.0343,
+            304,
+            288,
+            false
+        ],
+        [
+            1717763006,
+            51.5172,
+            -1.1143,
+            609,
+            288,
+            false
+        ],
+        [
+            1717763064,
+            51.5265,
+            -1.1601,
+            914,
+            289,
+            false
+        ],
+        [
+            1717763071,
+            51.5281,
+            -1.1651,
+            914,
+            304,
+            false
+        ],
+        [
+            1717763078,
+            51.5304,
+            -1.1695,
+            914,
+            311,
+            false
+        ],
+        [
+            1717763151,
+            51.5596,
+            -1.2243,
+            914,
+            311,
+            false
+        ],
+        [
+            1717763218,
+            51.5832,
+            -1.2682,
+            1219,
+            310,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-09:17:34",
+    "baro_altitude": 716.28,
+    "category": 0,
+    "geo_altitude": 807.72,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762944,
+    "latitude": 51.5065,
+    "longitude": -1.0615,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3602",
+    "time_position": 1717762944,
+    "true_track": 287.85,
+    "velocity": 63.77,
+    "vertical_rate": 4.23,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 121,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EGLM",
+    "estDepartureAirportHorizDistance": 1109,
+    "estDepartureAirportVertDistance": 104,
+    "firstSeen": 1717762654,
+    "lastSeen": 1717763209
+}

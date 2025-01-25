@@ -1,0 +1,144 @@
+{
+    "callsign": "ETH738  ",
+    "endTime": "2024/06/04-09:57:34",
+    "icao24": "040030",
+    "path": [
+        [
+            1717501241,
+            48.7738,
+            3.3839,
+            1828,
+            316,
+            false
+        ],
+        [
+            1717502089,
+            48.8051,
+            3.339,
+            1828,
+            316,
+            false
+        ],
+        [
+            1717502247,
+            48.8087,
+            3.3338,
+            1828,
+            316,
+            false
+        ],
+        [
+            1717502960,
+            48.8411,
+            3.2865,
+            1524,
+            316,
+            false
+        ],
+        [
+            1717503335,
+            48.8597,
+            3.2594,
+            1524,
+            316,
+            false
+        ],
+        [
+            1717503335,
+            48.8597,
+            3.2594,
+            1219,
+            316,
+            false
+        ],
+        [
+            1717503512,
+            48.8621,
+            3.256,
+            1524,
+            316,
+            false
+        ],
+        [
+            1717504303,
+            48.8961,
+            3.2073,
+            1219,
+            316,
+            false
+        ],
+        [
+            1717504413,
+            48.9069,
+            3.192,
+            914,
+            316,
+            false
+        ],
+        [
+            1717504459,
+            48.9036,
+            3.1967,
+            1219,
+            316,
+            false
+        ],
+        [
+            1717505313,
+            48.9359,
+            3.1511,
+            914,
+            317,
+            false
+        ],
+        [
+            1717505854,
+            48.9604,
+            3.1163,
+            914,
+            316,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:40:41",
+    "baro_altitude": 1203.96,
+    "category": 0,
+    "geo_altitude": 1287.78,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504632,
+    "latitude": 48.9096,
+    "longitude": 3.1883,
+    "on_ground": false,
+    "origin_country": "Ethiopia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1717504632,
+    "true_track": 316.84,
+    "velocity": 136.12,
+    "vertical_rate": -1.95,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 62,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFFG",
+    "estDepartureAirportHorizDistance": 8107,
+    "estDepartureAirportVertDistance": 1939,
+    "firstSeen": 1717501241,
+    "lastSeen": 1717505854
+}

@@ -1,0 +1,80 @@
+{
+    "callsign": "AAY2629 ",
+    "endTime": "2024/06/12-14:29:23",
+    "icao24": "a2de17",
+    "path": [
+        [
+            1718213253,
+            42.7675,
+            -97.1791,
+            6096,
+            200,
+            false
+        ],
+        [
+            1718213253,
+            42.7675,
+            -97.1791,
+            6096,
+            200,
+            false
+        ],
+        [
+            1718213344,
+            42.6054,
+            -97.2622,
+            6705,
+            200,
+            false
+        ],
+        [
+            1718213363,
+            42.5711,
+            -97.2798,
+            7010,
+            200,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-14:27:33",
+    "baro_altitude": 10370.82,
+    "category": 0,
+    "geo_altitude": 10812.78,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204674,
+    "latitude": 39.9677,
+    "longitude": -92.4683,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "6505",
+    "time_position": 1718204674,
+    "true_track": 319.88,
+    "velocity": 217.96,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1718213253,
+    "lastSeen": 1718213363
+}

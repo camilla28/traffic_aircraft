@@ -1,0 +1,72 @@
+{
+    "callsign": "N858XJ  ",
+    "endTime": "2024/06/14-18:54:01",
+    "icao24": "abc726",
+    "path": [
+        [
+            1718401668,
+            32.7427,
+            -85.3355,
+            609,
+            56,
+            false
+        ],
+        [
+            1718402019,
+            32.8301,
+            -85.1997,
+            609,
+            55,
+            false
+        ],
+        [
+            1718402041,
+            32.8363,
+            -85.1896,
+            609,
+            56,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-18:47:48",
+    "baro_altitude": 708.66,
+    "category": 0,
+    "geo_altitude": 708.66,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718401669,
+    "latitude": 32.7427,
+    "longitude": -85.3355,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718401668,
+    "true_track": 56.13,
+    "velocity": 45.23,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 296,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "AL89",
+    "estDepartureAirportHorizDistance": 3812,
+    "estDepartureAirportVertDistance": 458,
+    "firstSeen": 1718401668,
+    "lastSeen": 1718402041
+}

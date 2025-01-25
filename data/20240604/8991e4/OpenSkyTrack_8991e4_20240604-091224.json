@@ -1,0 +1,112 @@
+{
+    "callsign": "SJX002  ",
+    "endTime": "2024/06/04-09:12:14",
+    "icao24": "8991e4",
+    "path": [
+        [
+            1717499635,
+            33.972,
+            -118.205,
+            609,
+            263,
+            false
+        ],
+        [
+            1717500489,
+            33.9689,
+            -118.2376,
+            609,
+            263,
+            false
+        ],
+        [
+            1717501387,
+            33.967,
+            -118.2553,
+            609,
+            262,
+            false
+        ],
+        [
+            1717502235,
+            33.9644,
+            -118.2803,
+            609,
+            263,
+            false
+        ],
+        [
+            1717502624,
+            33.9632,
+            -118.2929,
+            609,
+            263,
+            false
+        ],
+        [
+            1717502649,
+            33.9628,
+            -118.2963,
+            304,
+            262,
+            false
+        ],
+        [
+            1717502674,
+            33.9633,
+            -118.2919,
+            609,
+            263,
+            false
+        ],
+        [
+            1717503134,
+            33.9614,
+            -118.3105,
+            304,
+            262,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:13:55",
+    "baro_altitude": 807.72,
+    "category": 0,
+    "geo_altitude": 769.62,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499993,
+    "latitude": 33.9706,
+    "longitude": -118.2195,
+    "on_ground": false,
+    "origin_country": "Taiwan",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499992,
+    "true_track": 263.69,
+    "velocity": 98.34,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 137,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KCPM",
+    "estDepartureAirportHorizDistance": 9941,
+    "estDepartureAirportVertDistance": 785,
+    "firstSeen": 1717499635,
+    "lastSeen": 1717503134
+}

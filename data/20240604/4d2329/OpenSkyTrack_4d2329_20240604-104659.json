@@ -1,0 +1,104 @@
+{
+    "callsign": "SWU1952 ",
+    "endTime": "2024/06/04-10:45:52",
+    "icao24": "4d2329",
+    "path": [
+        [
+            1717504240,
+            49.7845,
+            10.3819,
+            7315,
+            313,
+            false
+        ],
+        [
+            1717505068,
+            49.7873,
+            10.3773,
+            7315,
+            313,
+            false
+        ],
+        [
+            1717505955,
+            49.7918,
+            10.3701,
+            7315,
+            313,
+            false
+        ],
+        [
+            1717506783,
+            49.7971,
+            10.3615,
+            7315,
+            313,
+            false
+        ],
+        [
+            1717507583,
+            49.8063,
+            10.3465,
+            7315,
+            313,
+            false
+        ],
+        [
+            1717508480,
+            49.8143,
+            10.3336,
+            7315,
+            313,
+            false
+        ],
+        [
+            1717508752,
+            49.8172,
+            10.329,
+            7315,
+            313,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:30:40",
+    "baro_altitude": 7315.2,
+    "category": 0,
+    "geo_altitude": 7528.56,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504714,
+    "latitude": 49.7857,
+    "longitude": 10.38,
+    "on_ground": false,
+    "origin_country": "Malta",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504694,
+    "true_track": 313.7,
+    "velocity": 175.74,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "ETIN",
+    "estDepartureAirportHorizDistance": 13810,
+    "estDepartureAirportVertDistance": 7105,
+    "firstSeen": 1717504240,
+    "lastSeen": 1717508752
+}

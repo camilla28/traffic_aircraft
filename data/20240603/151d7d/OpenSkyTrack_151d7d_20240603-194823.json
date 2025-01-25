@@ -1,0 +1,72 @@
+{
+    "callsign": "UTA470  ",
+    "endTime": "2024/06/03-19:25:10",
+    "icao24": "151d7d",
+    "path": [
+        [
+            1717452406,
+            61.4155,
+            48.5963,
+            11887,
+            83,
+            false
+        ],
+        [
+            1717453013,
+            61.5417,
+            51.1551,
+            11887,
+            85,
+            false
+        ],
+        [
+            1717453510,
+            61.6085,
+            53.2939,
+            11887,
+            87,
+            false
+        ]
+    ],
+    "startTime": "2024/06/03-19:06:46",
+    "baro_altitude": 11887.2,
+    "category": 0,
+    "geo_altitude": 12077.7,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717452569,
+    "latitude": 61.4539,
+    "longitude": 49.2776,
+    "on_ground": false,
+    "origin_country": "Russian Federation",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717452569,
+    "true_track": 83.69,
+    "velocity": 224.63,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717452406,
+    "lastSeen": 1717453510
+}

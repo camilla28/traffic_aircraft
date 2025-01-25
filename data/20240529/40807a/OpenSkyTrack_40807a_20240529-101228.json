@@ -1,0 +1,128 @@
+{
+    "callsign": "TOM1CD  ",
+    "endTime": "2024/05/29-10:12:20",
+    "icao24": "40807a",
+    "path": [
+        [
+            1716983859,
+            30.6639,
+            -16.0208,
+            10972,
+            359,
+            false
+        ],
+        [
+            1716984058,
+            31.0751,
+            -16.0272,
+            10972,
+            359,
+            false
+        ],
+        [
+            1716984128,
+            31.2221,
+            -16.0194,
+            10972,
+            15,
+            false
+        ],
+        [
+            1716984159,
+            31.2835,
+            -15.9892,
+            10972,
+            15,
+            false
+        ],
+        [
+            1716984167,
+            31.2995,
+            -15.9799,
+            10972,
+            26,
+            false
+        ],
+        [
+            1716985060,
+            33.0605,
+            -14.948,
+            10972,
+            26,
+            false
+        ],
+        [
+            1716985270,
+            33.4745,
+            -14.6978,
+            10972,
+            26,
+            false
+        ],
+        [
+            1716986766,
+            36.2704,
+            -12.9384,
+            10972,
+            27,
+            false
+        ],
+        [
+            1716987664,
+            37.9337,
+            -11.8222,
+            10972,
+            28,
+            false
+        ],
+        [
+            1716988340,
+            39.1744,
+            -10.9513,
+            10972,
+            29,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-08:57:39",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": 11529.06,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716987586,
+    "latitude": 37.7869,
+    "longitude": -11.9232,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "6215",
+    "time_position": 1716987585,
+    "true_track": 28.59,
+    "velocity": 234.35,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1716983859,
+    "lastSeen": 1716988340
+}

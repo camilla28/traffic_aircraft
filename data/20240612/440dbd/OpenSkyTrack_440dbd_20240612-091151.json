@@ -1,0 +1,120 @@
+{
+    "callsign": "GLJ75YS ",
+    "endTime": "2024/06/12-09:08:34",
+    "icao24": "440dbd",
+    "path": [
+        [
+            1718191820,
+            33.8183,
+            35.4908,
+            24993,
+            225,
+            false
+        ],
+        [
+            1718191820,
+            33.8183,
+            35.4908,
+            24993,
+            225,
+            false
+        ],
+        [
+            1718193889,
+            33.8182,
+            35.4908,
+            0,
+            0,
+            false
+        ],
+        [
+            1718193906,
+            33.8182,
+            35.4908,
+            304,
+            0,
+            false
+        ],
+        [
+            1718193906,
+            33.8182,
+            35.4908,
+            914,
+            0,
+            false
+        ],
+        [
+            1718194114,
+            33.8183,
+            35.4908,
+            2133,
+            0,
+            false
+        ],
+        [
+            1718194114,
+            33.8183,
+            35.4908,
+            3962,
+            0,
+            false
+        ],
+        [
+            1718194114,
+            33.8183,
+            35.4908,
+            4267,
+            0,
+            false
+        ],
+        [
+            1718194114,
+            33.8183,
+            35.4908,
+            4572,
+            0,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-08:30:20",
+    "baro_altitude": 3840.48,
+    "category": 0,
+    "geo_altitude": 1379.22,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194258,
+    "latitude": 33.8183,
+    "longitude": 35.4908,
+    "on_ground": false,
+    "origin_country": "Austria",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2237",
+    "time_position": 1718194114,
+    "true_track": 0,
+    "velocity": 0,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "OLBA",
+    "estDepartureAirportHorizDistance": 367,
+    "estDepartureAirportVertDistance": 25058,
+    "firstSeen": 1718191820,
+    "lastSeen": 1718194114
+}

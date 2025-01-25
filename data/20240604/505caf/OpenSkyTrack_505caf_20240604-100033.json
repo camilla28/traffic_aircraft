@@ -1,0 +1,96 @@
+{
+    "callsign": "BCS4772 ",
+    "endTime": "2024/06/04-10:00:32",
+    "icao24": "505caf",
+    "path": [
+        [
+            1717502380,
+            49.6931,
+            15.1632,
+            8839,
+            133,
+            false
+        ],
+        [
+            1717503206,
+            49.6584,
+            15.2204,
+            8839,
+            133,
+            false
+        ],
+        [
+            1717504105,
+            49.6239,
+            15.2772,
+            8839,
+            133,
+            false
+        ],
+        [
+            1717504917,
+            49.5881,
+            15.3359,
+            8839,
+            133,
+            false
+        ],
+        [
+            1717505811,
+            49.5695,
+            15.3665,
+            8839,
+            133,
+            false
+        ],
+        [
+            1717506032,
+            49.5627,
+            15.3777,
+            8839,
+            133,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:59:40",
+    "baro_altitude": 8839.2,
+    "category": 0,
+    "geo_altitude": 9044.94,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504714,
+    "latitude": 49.5961,
+    "longitude": 15.3229,
+    "on_ground": false,
+    "origin_country": "Slovakia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1717504713,
+    "true_track": 133.11,
+    "velocity": 220.56,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LKZB",
+    "estDepartureAirportHorizDistance": 13929,
+    "estDepartureAirportVertDistance": 8345,
+    "firstSeen": 1717502380,
+    "lastSeen": 1717506032
+}

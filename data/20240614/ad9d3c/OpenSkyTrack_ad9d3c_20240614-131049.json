@@ -1,0 +1,152 @@
+{
+    "callsign": "N9767   ",
+    "endTime": "2024/06/14-13:06:18",
+    "icao24": "ad9d3c",
+    "path": [
+        [
+            1718380818,
+            44.121,
+            -123.2024,
+            0,
+            177,
+            false
+        ],
+        [
+            1718380849,
+            44.1074,
+            -123.202,
+            0,
+            176,
+            false
+        ],
+        [
+            1718380849,
+            44.1074,
+            -123.202,
+            0,
+            153,
+            false
+        ],
+        [
+            1718380873,
+            44.0996,
+            -123.1937,
+            0,
+            104,
+            false
+        ],
+        [
+            1718380883,
+            44.0998,
+            -123.1875,
+            0,
+            85,
+            false
+        ],
+        [
+            1718380904,
+            44.1075,
+            -123.1781,
+            0,
+            85,
+            false
+        ],
+        [
+            1718380904,
+            44.1075,
+            -123.1781,
+            0,
+            357,
+            false
+        ],
+        [
+            1718380936,
+            44.1222,
+            -123.1773,
+            304,
+            357,
+            false
+        ],
+        [
+            1718380945,
+            44.1272,
+            -123.1775,
+            304,
+            0,
+            false
+        ],
+        [
+            1718380972,
+            44.1403,
+            -123.1776,
+            304,
+            1,
+            false
+        ],
+        [
+            1718381166,
+            44.2379,
+            -123.1722,
+            609,
+            0,
+            false
+        ],
+        [
+            1718381178,
+            44.2446,
+            -123.1718,
+            609,
+            3,
+            false
+        ],
+        [
+            1718381178,
+            44.2446,
+            -123.1718,
+            609,
+            5,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-13:00:18",
+    "baro_altitude": 426.72,
+    "category": 0,
+    "geo_altitude": 487.68,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718380972,
+    "latitude": 44.1403,
+    "longitude": -123.1776,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718380972,
+    "true_track": 1.07,
+    "velocity": 55.06,
+    "vertical_rate": 1.63,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 203,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KEUG",
+    "estDepartureAirportHorizDistance": 853,
+    "estDepartureAirportVertDistance": 30,
+    "firstSeen": 1718380818,
+    "lastSeen": 1718381178
+}

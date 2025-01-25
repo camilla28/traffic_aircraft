@@ -1,0 +1,184 @@
+{
+    "callsign": "LNIKL   ",
+    "endTime": "2024/06/12-08:39:13",
+    "icao24": "47b372",
+    "path": [
+        [
+            1718187797,
+            59.6256,
+            16.6324,
+            304,
+            330,
+            false
+        ],
+        [
+            1718187811,
+            59.6322,
+            16.6252,
+            304,
+            331,
+            false
+        ],
+        [
+            1718187862,
+            59.6573,
+            16.5985,
+            609,
+            331,
+            false
+        ],
+        [
+            1718187915,
+            59.6832,
+            16.5707,
+            914,
+            331,
+            false
+        ],
+        [
+            1718187979,
+            59.7155,
+            16.5357,
+            1219,
+            331,
+            false
+        ],
+        [
+            1718188040,
+            59.7469,
+            16.5017,
+            1524,
+            331,
+            false
+        ],
+        [
+            1718188112,
+            59.7849,
+            16.4604,
+            1828,
+            330,
+            false
+        ],
+        [
+            1718188189,
+            59.825,
+            16.4169,
+            2133,
+            331,
+            false
+        ],
+        [
+            1718188266,
+            59.8653,
+            16.3728,
+            2438,
+            331,
+            false
+        ],
+        [
+            1718188362,
+            59.9166,
+            16.3166,
+            2743,
+            331,
+            false
+        ],
+        [
+            1718188524,
+            60.0129,
+            16.2104,
+            3048,
+            331,
+            false
+        ],
+        [
+            1718188643,
+            60.0802,
+            16.1359,
+            3352,
+            330,
+            false
+        ],
+        [
+            1718189540,
+            60.6515,
+            15.4884,
+            3657,
+            330,
+            false
+        ],
+        [
+            1718190266,
+            61.1222,
+            14.9347,
+            3657,
+            329,
+            false
+        ],
+        [
+            1718191400,
+            61.8672,
+            14.0176,
+            3657,
+            329,
+            false
+        ],
+        [
+            1718192296,
+            62.4656,
+            13.242,
+            3657,
+            328,
+            false
+        ],
+        [
+            1718192353,
+            62.5029,
+            13.1924,
+            3657,
+            328,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-07:23:17",
+    "baro_altitude": 3657.6,
+    "category": 0,
+    "geo_altitude": 3611.88,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718191737,
+    "latitude": 62.0921,
+    "longitude": 13.7304,
+    "on_ground": false,
+    "origin_country": "Norway",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718191737,
+    "true_track": 329.04,
+    "velocity": 86.99,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 31,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "ESOW",
+    "estDepartureAirportHorizDistance": 4025,
+    "estDepartureAirportVertDistance": 504,
+    "firstSeen": 1718187797,
+    "lastSeen": 1718192353
+}

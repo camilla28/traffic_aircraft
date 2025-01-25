@@ -1,0 +1,136 @@
+{
+    "callsign": "AIQ3027 ",
+    "endTime": "2024/06/12-08:19:52",
+    "icao24": "88044a",
+    "path": [
+        [
+            1718191109,
+            13.9006,
+            100.6023,
+            0,
+            207,
+            false
+        ],
+        [
+            1718191115,
+            13.897,
+            100.6003,
+            0,
+            208,
+            false
+        ],
+        [
+            1718191138,
+            13.8826,
+            100.5922,
+            304,
+            208,
+            false
+        ],
+        [
+            1718191143,
+            13.8794,
+            100.5903,
+            304,
+            211,
+            false
+        ],
+        [
+            1718191148,
+            13.8761,
+            100.5879,
+            609,
+            219,
+            false
+        ],
+        [
+            1718191154,
+            13.8734,
+            100.5853,
+            609,
+            226,
+            false
+        ],
+        [
+            1718191159,
+            13.8708,
+            100.5822,
+            609,
+            233,
+            false
+        ],
+        [
+            1718191164,
+            13.869,
+            100.5793,
+            609,
+            242,
+            false
+        ],
+        [
+            1718191169,
+            13.8674,
+            100.5757,
+            609,
+            246,
+            false
+        ],
+        [
+            1718191176,
+            13.8657,
+            100.5716,
+            609,
+            248,
+            false
+        ],
+        [
+            1718191192,
+            13.8615,
+            100.5599,
+            914,
+            250,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-08:18:29",
+    "baro_altitude": 998.22,
+    "category": 0,
+    "geo_altitude": 998.22,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718191188,
+    "latitude": 13.8626,
+    "longitude": 100.5629,
+    "on_ground": false,
+    "origin_country": "Thailand",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718191188,
+    "true_track": 250.3,
+    "velocity": 80.87,
+    "vertical_rate": 8.78,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 15,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "VTBD",
+    "estDepartureAirportHorizDistance": 1341,
+    "estDepartureAirportVertDistance": 195,
+    "firstSeen": 1718191109,
+    "lastSeen": 1718191192
+}

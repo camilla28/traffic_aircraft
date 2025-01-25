@@ -1,0 +1,88 @@
+{
+    "callsign": "QTR6V   ",
+    "endTime": "2024/06/04-08:50:54",
+    "icao24": "06a2c4",
+    "path": [
+        [
+            1717499762,
+            48.3815,
+            13.5131,
+            10972,
+            287,
+            false
+        ],
+        [
+            1717499915,
+            48.3872,
+            13.4866,
+            10972,
+            287,
+            false
+        ],
+        [
+            1717500763,
+            48.4115,
+            13.3725,
+            10972,
+            287,
+            false
+        ],
+        [
+            1717501660,
+            48.4447,
+            13.216,
+            10972,
+            287,
+            false
+        ],
+        [
+            1717501854,
+            48.4503,
+            13.1897,
+            10972,
+            287,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:16:02",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": 11170.92,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500034,
+    "latitude": 48.3878,
+    "longitude": 13.4837,
+    "on_ground": false,
+    "origin_country": "Qatar",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3242",
+    "time_position": 1717500033,
+    "true_track": 287.84,
+    "velocity": 248.59,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LOLS",
+    "estDepartureAirportHorizDistance": 50715,
+    "estDepartureAirportVertDistance": 10646,
+    "firstSeen": 1717499762,
+    "lastSeen": 1717501854
+}

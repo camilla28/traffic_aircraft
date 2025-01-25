@@ -1,0 +1,96 @@
+{
+    "callsign": "FHMZG   ",
+    "endTime": "2024/06/04-09:12:24",
+    "icao24": "39b326",
+    "path": [
+        [
+            1717499443,
+            47.2814,
+            -0.3573,
+            1219,
+            256,
+            false
+        ],
+        [
+            1717500330,
+            47.277,
+            -0.3839,
+            1219,
+            256,
+            false
+        ],
+        [
+            1717501159,
+            47.2738,
+            -0.4032,
+            1219,
+            256,
+            false
+        ],
+        [
+            1717501973,
+            47.2711,
+            -0.4202,
+            1219,
+            256,
+            false
+        ],
+        [
+            1717502869,
+            47.2677,
+            -0.4411,
+            1219,
+            256,
+            false
+        ],
+        [
+            1717503144,
+            47.2663,
+            -0.4495,
+            1219,
+            256,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:10:43",
+    "baro_altitude": 1371.6,
+    "category": 0,
+    "geo_altitude": 1455.42,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500013,
+    "latitude": 47.2781,
+    "longitude": -0.3773,
+    "on_ground": false,
+    "origin_country": "France",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717500010,
+    "true_track": 256.24,
+    "velocity": 51.91,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 56,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFOD",
+    "estDepartureAirportHorizDistance": 18477,
+    "estDepartureAirportVertDistance": 1289,
+    "firstSeen": 1717499443,
+    "lastSeen": 1717503144
+}

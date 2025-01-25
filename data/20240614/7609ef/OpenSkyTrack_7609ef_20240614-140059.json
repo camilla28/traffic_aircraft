@@ -1,0 +1,296 @@
+{
+    "callsign": "FJL502  ",
+    "endTime": "2024/06/14-13:41:45",
+    "icao24": "7609ef",
+    "path": [
+        [
+            1718380942,
+            31.5395,
+            74.4049,
+            304,
+            0,
+            false
+        ],
+        [
+            1718380946,
+            31.5431,
+            74.4049,
+            304,
+            0,
+            false
+        ],
+        [
+            1718381246,
+            31.5315,
+            74.1753,
+            3048,
+            225,
+            false
+        ],
+        [
+            1718381246,
+            31.5315,
+            74.1753,
+            3048,
+            225,
+            false
+        ],
+        [
+            1718381324,
+            31.4462,
+            74.072,
+            3352,
+            226,
+            false
+        ],
+        [
+            1718381366,
+            31.3974,
+            74.013,
+            3657,
+            225,
+            false
+        ],
+        [
+            1718381392,
+            31.3667,
+            73.976,
+            3962,
+            225,
+            false
+        ],
+        [
+            1718381409,
+            31.3466,
+            73.9514,
+            4267,
+            228,
+            false
+        ],
+        [
+            1718381423,
+            31.331,
+            73.9305,
+            4267,
+            229,
+            false
+        ],
+        [
+            1718381455,
+            31.294,
+            73.8808,
+            4572,
+            229,
+            false
+        ],
+        [
+            1718381492,
+            31.2503,
+            73.8223,
+            4876,
+            229,
+            false
+        ],
+        [
+            1718382004,
+            30.6447,
+            73.0198,
+            8534,
+            228,
+            false
+        ],
+        [
+            1718382056,
+            30.536,
+            72.8775,
+            8839,
+            228,
+            false
+        ],
+        [
+            1718382143,
+            30.4237,
+            72.7311,
+            9144,
+            228,
+            false
+        ],
+        [
+            1718382207,
+            30.3416,
+            72.6245,
+            9448,
+            228,
+            false
+        ],
+        [
+            1718382262,
+            30.2755,
+            72.5388,
+            9753,
+            228,
+            false
+        ],
+        [
+            1718382297,
+            30.2265,
+            72.4759,
+            10058,
+            226,
+            false
+        ],
+        [
+            1718382306,
+            30.2145,
+            72.4618,
+            10058,
+            224,
+            false
+        ],
+        [
+            1718382315,
+            30.2021,
+            72.4483,
+            10058,
+            222,
+            false
+        ],
+        [
+            1718382326,
+            30.1872,
+            72.4332,
+            10058,
+            220,
+            false
+        ],
+        [
+            1718382336,
+            30.172,
+            72.4191,
+            10058,
+            218,
+            false
+        ],
+        [
+            1718382354,
+            30.1427,
+            72.3942,
+            10058,
+            215,
+            false
+        ],
+        [
+            1718382421,
+            30.0392,
+            72.3082,
+            10363,
+            215,
+            false
+        ],
+        [
+            1718382473,
+            29.9675,
+            72.249,
+            10668,
+            215,
+            false
+        ],
+        [
+            1718382514,
+            29.9025,
+            72.1941,
+            10668,
+            219,
+            false
+        ],
+        [
+            1718382524,
+            29.8854,
+            72.1757,
+            10668,
+            224,
+            false
+        ],
+        [
+            1718382534,
+            29.8719,
+            72.1584,
+            10668,
+            229,
+            false
+        ],
+        [
+            1718382543,
+            29.861,
+            72.142,
+            10972,
+            233,
+            false
+        ],
+        [
+            1718383032,
+            29.3103,
+            71.2551,
+            10972,
+            234,
+            false
+        ],
+        [
+            1718383220,
+            29.0981,
+            70.9182,
+            10668,
+            234,
+            false
+        ],
+        [
+            1718383305,
+            29.001,
+            70.765,
+            10972,
+            234,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-13:02:22",
+    "baro_altitude": 525.78,
+    "category": 0,
+    "geo_altitude": 320.04,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718380963,
+    "latitude": 31.5431,
+    "longitude": 74.4049,
+    "on_ground": false,
+    "origin_country": "Pakistan",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718380946,
+    "true_track": 0.34,
+    "velocity": 87.46,
+    "vertical_rate": 14.31,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 24,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "OPLA",
+    "estDepartureAirportHorizDistance": 1994,
+    "estDepartureAirportVertDistance": 247,
+    "firstSeen": 1718380942,
+    "lastSeen": 1718383305
+}

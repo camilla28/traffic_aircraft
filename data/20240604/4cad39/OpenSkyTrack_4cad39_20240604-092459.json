@@ -1,0 +1,104 @@
+{
+    "callsign": "RYR49EK ",
+    "endTime": "2024/06/04-09:24:07",
+    "icao24": "4cad39",
+    "path": [
+        [
+            1717501754,
+            43.788,
+            7.7125,
+            11582,
+            44,
+            false
+        ],
+        [
+            1717502248,
+            43.8059,
+            7.7367,
+            11582,
+            44,
+            false
+        ],
+        [
+            1717502248,
+            43.8059,
+            7.7367,
+            9448,
+            44,
+            false
+        ],
+        [
+            1717502557,
+            43.8146,
+            7.7479,
+            11582,
+            42,
+            false
+        ],
+        [
+            1717503004,
+            43.828,
+            7.7641,
+            11582,
+            39,
+            false
+        ],
+        [
+            1717503225,
+            43.8394,
+            7.7765,
+            11582,
+            37,
+            false
+        ],
+        [
+            1717503847,
+            43.8594,
+            7.7977,
+            11582,
+            37,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:49:14",
+    "baro_altitude": 11582.4,
+    "category": 0,
+    "geo_altitude": 11826.24,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500034,
+    "latitude": 43.7539,
+    "longitude": 7.666,
+    "on_ground": false,
+    "origin_country": "Ireland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1717500029,
+    "true_track": 44.65,
+    "velocity": 240.82,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717501754,
+    "lastSeen": 1717503847
+}

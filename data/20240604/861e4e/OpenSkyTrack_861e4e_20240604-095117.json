@@ -1,0 +1,104 @@
+{
+    "callsign": "ANA90   ",
+    "endTime": "2024/06/04-09:47:53",
+    "icao24": "861e4e",
+    "path": [
+        [
+            1717500281,
+            35.3083,
+            139.9471,
+            1524,
+            330,
+            false
+        ],
+        [
+            1717501104,
+            35.312,
+            139.9444,
+            1524,
+            329,
+            false
+        ],
+        [
+            1717501994,
+            35.315,
+            139.9423,
+            1524,
+            329,
+            false
+        ],
+        [
+            1717502810,
+            35.3173,
+            139.9407,
+            1524,
+            329,
+            false
+        ],
+        [
+            1717503613,
+            35.3201,
+            139.9387,
+            1524,
+            329,
+            false
+        ],
+        [
+            1717504413,
+            35.3225,
+            139.937,
+            1524,
+            329,
+            false
+        ],
+        [
+            1717505273,
+            35.325,
+            139.9351,
+            1219,
+            329,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:24:41",
+    "baro_altitude": 1516.38,
+    "category": 0,
+    "geo_altitude": 1516.38,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504710,
+    "latitude": 35.3228,
+    "longitude": 139.9368,
+    "on_ground": false,
+    "origin_country": "Japan",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "4664",
+    "time_position": 1717504546,
+    "true_track": 328.93,
+    "velocity": 96.7,
+    "vertical_rate": -5.2,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 19,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "RJTK",
+    "estDepartureAirportHorizDistance": 10559,
+    "estDepartureAirportVertDistance": 1543,
+    "firstSeen": 1717500281,
+    "lastSeen": 1717505273
+}

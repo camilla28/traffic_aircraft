@@ -1,0 +1,112 @@
+{
+    "callsign": "RYR3287 ",
+    "endTime": "2024/06/07-11:33:46",
+    "icao24": "4cae55",
+    "path": [
+        [
+            1717770653,
+            43.3375,
+            3.2868,
+            609,
+            295,
+            false
+        ],
+        [
+            1717770663,
+            43.3425,
+            3.2757,
+            609,
+            308,
+            false
+        ],
+        [
+            1717770663,
+            43.3425,
+            3.2757,
+            609,
+            308,
+            false
+        ],
+        [
+            1717770699,
+            43.3539,
+            3.2618,
+            609,
+            323,
+            false
+        ],
+        [
+            1717770699,
+            43.3539,
+            3.2618,
+            609,
+            324,
+            false
+        ],
+        [
+            1717770783,
+            43.4629,
+            3.1699,
+            2133,
+            324,
+            false
+        ],
+        [
+            1717770805,
+            43.4867,
+            3.1469,
+            2438,
+            325,
+            false
+        ],
+        [
+            1717770826,
+            43.5092,
+            3.1252,
+            2743,
+            324,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-11:30:53",
+    "baro_altitude": 3970.02,
+    "category": 0,
+    "geo_altitude": 4076.7,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762945,
+    "latitude": 51.6141,
+    "longitude": -0.8302,
+    "on_ground": false,
+    "origin_country": "Ireland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "6334",
+    "time_position": 1717762945,
+    "true_track": 179.56,
+    "velocity": 199.1,
+    "vertical_rate": 13,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 58,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFMU",
+    "estDepartureAirportHorizDistance": 4947,
+    "estDepartureAirportVertDistance": 638,
+    "firstSeen": 1717770653,
+    "lastSeen": 1717770826
+}

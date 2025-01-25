@@ -1,0 +1,144 @@
+{
+    "callsign": "N43CC   ",
+    "endTime": "2024/06/15-12:13:02",
+    "icao24": "a520fa",
+    "path": [
+        [
+            1718463348,
+            27.2972,
+            -79.528,
+            1219,
+            285,
+            false
+        ],
+        [
+            1718463875,
+            27.3912,
+            -79.9197,
+            1219,
+            284,
+            false
+        ],
+        [
+            1718464084,
+            27.4301,
+            -80.0873,
+            914,
+            284,
+            false
+        ],
+        [
+            1718464103,
+            27.4336,
+            -80.1024,
+            609,
+            285,
+            false
+        ],
+        [
+            1718464142,
+            27.4421,
+            -80.1283,
+            609,
+            292,
+            false
+        ],
+        [
+            1718464152,
+            27.4447,
+            -80.1358,
+            609,
+            290,
+            false
+        ],
+        [
+            1718464162,
+            27.4488,
+            -80.1484,
+            609,
+            286,
+            false
+        ],
+        [
+            1718464170,
+            27.4503,
+            -80.1549,
+            609,
+            282,
+            false
+        ],
+        [
+            1718464197,
+            27.4536,
+            -80.1732,
+            609,
+            283,
+            false
+        ],
+        [
+            1718464207,
+            27.4561,
+            -80.1839,
+            609,
+            286,
+            false
+        ],
+        [
+            1718464253,
+            27.4655,
+            -80.2182,
+            609,
+            285,
+            false
+        ],
+        [
+            1718464382,
+            27.4811,
+            -80.2838,
+            304,
+            285,
+            false
+        ]
+    ],
+    "startTime": "2024/06/15-11:55:48",
+    "baro_altitude": 1356.36,
+    "category": 0,
+    "geo_altitude": 1417.32,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718463634,
+    "latitude": 27.3472,
+    "longitude": -79.7371,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718463634,
+    "true_track": 284.88,
+    "velocity": 76.12,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 117,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KSUA",
+    "estDepartureAirportHorizDistance": 70396,
+    "estDepartureAirportVertDistance": 1351,
+    "firstSeen": 1718463348,
+    "lastSeen": 1718464382
+}

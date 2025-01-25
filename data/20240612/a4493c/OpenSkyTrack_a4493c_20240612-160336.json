@@ -1,0 +1,104 @@
+{
+    "callsign": "UAL1016 ",
+    "endTime": "2024/06/12-14:42:17",
+    "icao24": "a4493c",
+    "path": [
+        [
+            1718213738,
+            29.851,
+            -95.1779,
+            1219,
+            126,
+            false
+        ],
+        [
+            1718213738,
+            29.851,
+            -95.1779,
+            1219,
+            134,
+            false
+        ],
+        [
+            1718213843,
+            29.7537,
+            -95.0747,
+            2133,
+            134,
+            false
+        ],
+        [
+            1718213843,
+            29.7537,
+            -95.0747,
+            2133,
+            159,
+            false
+        ],
+        [
+            1718213982,
+            29.5718,
+            -94.9952,
+            3352,
+            159,
+            false
+        ],
+        [
+            1718214108,
+            29.3783,
+            -94.9136,
+            4572,
+            159,
+            false
+        ],
+        [
+            1718214137,
+            29.3319,
+            -94.894,
+            4876,
+            159,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-14:35:38",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204643,
+    "latitude": null,
+    "longitude": null,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": null,
+    "true_track": 296.13,
+    "velocity": 150.7,
+    "vertical_rate": -5.53,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 254,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "8TX7",
+    "estDepartureAirportHorizDistance": 3431,
+    "estDepartureAirportVertDistance": 1504,
+    "firstSeen": 1718213738,
+    "lastSeen": 1718214137
+}

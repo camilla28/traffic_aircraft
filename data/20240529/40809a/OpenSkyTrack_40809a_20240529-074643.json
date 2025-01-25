@@ -1,0 +1,72 @@
+{
+    "callsign": "GPJCN   ",
+    "endTime": "2024/05/29-07:46:37",
+    "icao24": "40809a",
+    "path": [
+        [
+            1716978383,
+            53.9025,
+            1.1095,
+            609,
+            174,
+            false
+        ],
+        [
+            1716979273,
+            53.293,
+            1.1969,
+            609,
+            175,
+            false
+        ],
+        [
+            1716979597,
+            53.0707,
+            1.228,
+            609,
+            175,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-07:26:23",
+    "baro_altitude": 876.3,
+    "category": 0,
+    "geo_altitude": 868.68,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716978980,
+    "latitude": 53.5021,
+    "longitude": 1.1671,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1716978968,
+    "true_track": 174.63,
+    "velocity": 76.99,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 33,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EGYO",
+    "estDepartureAirportHorizDistance": 82285,
+    "estDepartureAirportVertDistance": 853,
+    "firstSeen": 1716978383,
+    "lastSeen": 1716979597
+}

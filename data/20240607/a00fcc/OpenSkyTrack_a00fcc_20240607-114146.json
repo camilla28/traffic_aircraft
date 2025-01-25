@@ -1,0 +1,144 @@
+{
+    "callsign": "N1029Y  ",
+    "endTime": "2024/06/07-11:41:47",
+    "icao24": "a00fcc",
+    "path": [
+        [
+            1717770569,
+            61.1697,
+            -149.9994,
+            -304,
+            268,
+            false
+        ],
+        [
+            1717770590,
+            61.1696,
+            -150.0196,
+            0,
+            268,
+            false
+        ],
+        [
+            1717770600,
+            61.1691,
+            -150.0309,
+            0,
+            258,
+            false
+        ],
+        [
+            1717770609,
+            61.1673,
+            -150.0405,
+            0,
+            239,
+            false
+        ],
+        [
+            1717770619,
+            61.1636,
+            -150.0488,
+            0,
+            215,
+            false
+        ],
+        [
+            1717770636,
+            61.1551,
+            -150.0603,
+            0,
+            216,
+            false
+        ],
+        [
+            1717770647,
+            61.1502,
+            -150.0685,
+            304,
+            223,
+            false
+        ],
+        [
+            1717770655,
+            61.1464,
+            -150.0765,
+            304,
+            226,
+            false
+        ],
+        [
+            1717770699,
+            61.1285,
+            -150.1152,
+            304,
+            225,
+            false
+        ],
+        [
+            1717770750,
+            61.1054,
+            -150.1633,
+            609,
+            225,
+            false
+        ],
+        [
+            1717770807,
+            61.0807,
+            -150.2144,
+            914,
+            224,
+            false
+        ],
+        [
+            1717771307,
+            60.8325,
+            -150.7246,
+            1219,
+            224,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-11:29:29",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762862,
+    "latitude": 61.1717,
+    "longitude": -149.9788,
+    "on_ground": true,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0160",
+    "time_position": 1717762856,
+    "true_track": 0,
+    "velocity": 6.94,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 166,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "PANC",
+    "estDepartureAirportHorizDistance": 634,
+    "estDepartureAirportVertDistance": 69,
+    "firstSeen": 1717770569,
+    "lastSeen": 1717771307
+}

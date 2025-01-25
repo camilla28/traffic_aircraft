@@ -1,0 +1,112 @@
+{
+    "callsign": "N473CA  ",
+    "endTime": "2024/06/04-08:44:47",
+    "icao24": "a5cc72",
+    "path": [
+        [
+            1717498127,
+            34.1935,
+            -118.3958,
+            2133,
+            107,
+            false
+        ],
+        [
+            1717498866,
+            34.1878,
+            -118.3735,
+            2133,
+            109,
+            false
+        ],
+        [
+            1717498979,
+            34.1874,
+            -118.3722,
+            2133,
+            110,
+            false
+        ],
+        [
+            1717499815,
+            34.1808,
+            -118.3511,
+            2133,
+            109,
+            false
+        ],
+        [
+            1717500683,
+            34.1731,
+            -118.3237,
+            2133,
+            108,
+            false
+        ],
+        [
+            1717501122,
+            34.1699,
+            -118.3124,
+            2133,
+            109,
+            false
+        ],
+        [
+            1717501227,
+            34.1686,
+            -118.3084,
+            2133,
+            111,
+            false
+        ],
+        [
+            1717501487,
+            34.1665,
+            -118.3021,
+            2133,
+            112,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:48:47",
+    "baro_altitude": 2286,
+    "category": 0,
+    "geo_altitude": 2316.48,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500033,
+    "latitude": 34.1788,
+    "longitude": -118.3442,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717500033,
+    "true_track": 108.58,
+    "velocity": 64.58,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 86,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KBUR",
+    "estDepartureAirportHorizDistance": 27239,
+    "estDepartureAirportVertDistance": 2048,
+    "firstSeen": 1717498127,
+    "lastSeen": 1717501485
+}

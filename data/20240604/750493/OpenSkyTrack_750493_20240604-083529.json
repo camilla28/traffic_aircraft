@@ -1,0 +1,80 @@
+{
+    "callsign": "AXM5141 ",
+    "endTime": "2024/06/04-08:35:21",
+    "icao24": "750493",
+    "path": [
+        [
+            1717499089,
+            5.6451,
+            115.4758,
+            4876,
+            257,
+            false
+        ],
+        [
+            1717499589,
+            5.6413,
+            115.4585,
+            4876,
+            257,
+            false
+        ],
+        [
+            1717500470,
+            5.6331,
+            115.4213,
+            5181,
+            257,
+            false
+        ],
+        [
+            1717500921,
+            5.6295,
+            115.4052,
+            5181,
+            257,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:04:49",
+    "baro_altitude": 5227.32,
+    "category": 0,
+    "geo_altitude": 5608.32,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500018,
+    "latitude": 5.6375,
+    "longitude": 115.4415,
+    "on_ground": false,
+    "origin_country": "Malaysia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717500018,
+    "true_track": 257.6,
+    "velocity": 191.73,
+    "vertical_rate": 7.15,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "WBKU",
+    "estDepartureAirportHorizDistance": 12881,
+    "estDepartureAirportVertDistance": 5134,
+    "firstSeen": 1717499089,
+    "lastSeen": 1717500921
+}

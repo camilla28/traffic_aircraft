@@ -1,0 +1,288 @@
+{
+    "callsign": "AMF1650 ",
+    "endTime": "2024/06/12-08:40:56",
+    "icao24": "a27e33",
+    "path": [
+        [
+            1718190822,
+            42.894,
+            -84.7956,
+            3048,
+            320,
+            false
+        ],
+        [
+            1718190865,
+            42.9206,
+            -84.8256,
+            3048,
+            321,
+            false
+        ],
+        [
+            1718190876,
+            42.9279,
+            -84.8332,
+            3352,
+            321,
+            false
+        ],
+        [
+            1718190887,
+            42.9344,
+            -84.8409,
+            3352,
+            321,
+            false
+        ],
+        [
+            1718190893,
+            42.9383,
+            -84.8448,
+            3352,
+            324,
+            false
+        ],
+        [
+            1718190898,
+            42.9417,
+            -84.848,
+            3352,
+            326,
+            false
+        ],
+        [
+            1718190908,
+            42.9481,
+            -84.8537,
+            3352,
+            326,
+            false
+        ],
+        [
+            1718190914,
+            42.9525,
+            -84.8576,
+            3657,
+            326,
+            false
+        ],
+        [
+            1718190920,
+            42.9563,
+            -84.8611,
+            3657,
+            324,
+            false
+        ],
+        [
+            1718190952,
+            42.9765,
+            -84.8821,
+            3657,
+            323,
+            false
+        ],
+        [
+            1718191126,
+            43.1071,
+            -85.0129,
+            3962,
+            321,
+            false
+        ],
+        [
+            1718191719,
+            43.6034,
+            -85.5594,
+            3962,
+            322,
+            false
+        ],
+        [
+            1718191737,
+            43.6187,
+            -85.5756,
+            4267,
+            321,
+            false
+        ],
+        [
+            1718191936,
+            43.7925,
+            -85.7631,
+            3962,
+            321,
+            false
+        ],
+        [
+            1718191964,
+            43.8167,
+            -85.7895,
+            4267,
+            321,
+            false
+        ],
+        [
+            1718191986,
+            43.8365,
+            -85.8115,
+            3962,
+            321,
+            false
+        ],
+        [
+            1718191999,
+            43.8473,
+            -85.8233,
+            4267,
+            321,
+            false
+        ],
+        [
+            1718192015,
+            43.8612,
+            -85.8387,
+            3962,
+            320,
+            false
+        ],
+        [
+            1718192033,
+            43.8773,
+            -85.857,
+            4267,
+            320,
+            false
+        ],
+        [
+            1718192085,
+            43.9217,
+            -85.9077,
+            3962,
+            320,
+            false
+        ],
+        [
+            1718192090,
+            43.9262,
+            -85.9129,
+            4267,
+            320,
+            false
+        ],
+        [
+            1718192151,
+            43.9786,
+            -85.9731,
+            3962,
+            320,
+            false
+        ],
+        [
+            1718192169,
+            43.994,
+            -85.9908,
+            4267,
+            320,
+            false
+        ],
+        [
+            1718192227,
+            44.0448,
+            -86.0476,
+            3962,
+            321,
+            false
+        ],
+        [
+            1718192314,
+            44.1206,
+            -86.1314,
+            4267,
+            321,
+            false
+        ],
+        [
+            1718192377,
+            44.177,
+            -86.1934,
+            3962,
+            321,
+            false
+        ],
+        [
+            1718192390,
+            44.1886,
+            -86.2062,
+            4267,
+            322,
+            false
+        ],
+        [
+            1718192426,
+            44.2201,
+            -86.2413,
+            3962,
+            321,
+            false
+        ],
+        [
+            1718192451,
+            44.2419,
+            -86.2658,
+            4267,
+            320,
+            false
+        ],
+        [
+            1718192456,
+            44.2464,
+            -86.2709,
+            3962,
+            320,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-08:13:42",
+    "baro_altitude": 4274.82,
+    "category": 0,
+    "geo_altitude": 4381.5,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718191737,
+    "latitude": 43.6187,
+    "longitude": -85.5756,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718191737,
+    "true_track": 321.98,
+    "velocity": 122.77,
+    "vertical_rate": -0.98,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 2,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "MI10",
+    "estDepartureAirportHorizDistance": 7749,
+    "estDepartureAirportVertDistance": 2827,
+    "firstSeen": 1718190822,
+    "lastSeen": 1718192456
+}

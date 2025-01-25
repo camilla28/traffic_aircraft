@@ -1,0 +1,104 @@
+{
+    "callsign": "BCS90Y  ",
+    "endTime": "2024/06/04-10:38:20",
+    "icao24": "440bc0",
+    "path": [
+        [
+            1717504229,
+            49.2087,
+            2.6738,
+            3048,
+            247,
+            false
+        ],
+        [
+            1717505123,
+            49.2064,
+            2.6655,
+            3048,
+            247,
+            false
+        ],
+        [
+            1717506010,
+            49.2036,
+            2.6552,
+            3048,
+            247,
+            false
+        ],
+        [
+            1717506132,
+            49.2033,
+            2.6542,
+            3048,
+            247,
+            false
+        ],
+        [
+            1717507006,
+            49.2017,
+            2.6482,
+            3352,
+            247,
+            false
+        ],
+        [
+            1717507842,
+            49.2005,
+            2.6441,
+            3352,
+            247,
+            false
+        ],
+        [
+            1717508300,
+            49.1992,
+            2.6394,
+            3352,
+            247,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:30:29",
+    "baro_altitude": 3345.18,
+    "category": 0,
+    "geo_altitude": 3482.34,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504588,
+    "latitude": 49.2075,
+    "longitude": 2.6695,
+    "on_ground": false,
+    "origin_country": "Austria",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717504586,
+    "true_track": 247.05,
+    "velocity": 156.99,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFPP",
+    "estDepartureAirportHorizDistance": 11866,
+    "estDepartureAirportVertDistance": 3227,
+    "firstSeen": 1717504229,
+    "lastSeen": 1717508300
+}

@@ -1,0 +1,72 @@
+{
+    "callsign": "TEST1234",
+    "endTime": "2024/06/07-08:26:29",
+    "icao24": "471f4a",
+    "path": [
+        [
+            1717758816,
+            54.6386,
+            25.2815,
+            0,
+            0,
+            false
+        ],
+        [
+            1717758918,
+            54.6384,
+            25.2809,
+            0,
+            0,
+            false
+        ],
+        [
+            1717759589,
+            54.6387,
+            25.2813,
+            0,
+            0,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-08:13:36",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717759290,
+    "latitude": 54.6387,
+    "longitude": 25.2811,
+    "on_ground": true,
+    "origin_country": "Hungary",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7711",
+    "time_position": 1717759284,
+    "true_track": 267.19,
+    "velocity": 0,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 28,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EYVI",
+    "estDepartureAirportHorizDistance": 574,
+    "estDepartureAirportVertDistance": 37,
+    "firstSeen": 1717758816,
+    "lastSeen": 1717759589
+}

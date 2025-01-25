@@ -1,0 +1,112 @@
+{
+    "callsign": "JST889  ",
+    "endTime": "2024/06/05-08:57:38",
+    "icao24": "7c6b0e",
+    "path": [
+        [
+            1717588173,
+            -24.7876,
+            151.1561,
+            10363,
+            149,
+            false
+        ],
+        [
+            1717588180,
+            -24.8036,
+            151.1666,
+            10363,
+            149,
+            false
+        ],
+        [
+            1717588410,
+            -25.3291,
+            151.5114,
+            10668,
+            149,
+            false
+        ],
+        [
+            1717588533,
+            -25.6058,
+            151.6941,
+            10363,
+            149,
+            false
+        ],
+        [
+            1717588563,
+            -25.672,
+            151.7381,
+            10058,
+            148,
+            false
+        ],
+        [
+            1717588596,
+            -25.7469,
+            151.7878,
+            9753,
+            149,
+            false
+        ],
+        [
+            1717588626,
+            -25.8149,
+            151.8331,
+            9448,
+            148,
+            false
+        ],
+        [
+            1717588658,
+            -25.8842,
+            151.8792,
+            9144,
+            148,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-08:49:33",
+    "baro_altitude": 9959.34,
+    "category": 1,
+    "geo_altitude": 10355.58,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717588578,
+    "latitude": -25.7059,
+    "longitude": 151.7606,
+    "on_ground": false,
+    "origin_country": "Australia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "4427",
+    "time_position": 1717588578,
+    "true_track": 148.97,
+    "velocity": 292.38,
+    "vertical_rate": -11.05,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "YMTO",
+    "estDepartureAirportHorizDistance": 38308,
+    "estDepartureAirportVertDistance": 10429,
+    "firstSeen": 1717588173,
+    "lastSeen": 1717588658
+}

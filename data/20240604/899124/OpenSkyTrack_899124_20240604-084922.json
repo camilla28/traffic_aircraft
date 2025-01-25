@@ -1,0 +1,80 @@
+{
+    "callsign": "EVA660  ",
+    "endTime": "2024/06/04-08:49:02",
+    "icao24": "899124",
+    "path": [
+        [
+            1717499238,
+            35.618,
+            142.5031,
+            10058,
+            61,
+            false
+        ],
+        [
+            1717500054,
+            35.6433,
+            142.5614,
+            10058,
+            62,
+            false
+        ],
+        [
+            1717500934,
+            35.6767,
+            142.6386,
+            10058,
+            62,
+            false
+        ],
+        [
+            1717501742,
+            35.7023,
+            142.6977,
+            10058,
+            62,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:07:18",
+    "baro_altitude": 10058.4,
+    "category": 0,
+    "geo_altitude": 10363.2,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500019,
+    "latitude": 35.6441,
+    "longitude": 142.5632,
+    "on_ground": false,
+    "origin_country": "Taiwan",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717500019,
+    "true_track": 62.08,
+    "velocity": 321.95,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717499238,
+    "lastSeen": 1717501742
+}

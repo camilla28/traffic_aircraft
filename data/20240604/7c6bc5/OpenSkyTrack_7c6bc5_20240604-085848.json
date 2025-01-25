@@ -1,0 +1,80 @@
+{
+    "callsign": "VKN     ",
+    "endTime": "2024/06/04-08:31:45",
+    "icao24": "7c6bc5",
+    "path": [
+        [
+            1717500645,
+            -27.565,
+            153.0356,
+            0,
+            11,
+            false
+        ],
+        [
+            1717500645,
+            -27.565,
+            153.0356,
+            0,
+            11,
+            false
+        ],
+        [
+            1717500678,
+            -27.5728,
+            153.0331,
+            0,
+            14,
+            false
+        ],
+        [
+            1717500705,
+            -27.57,
+            153.0343,
+            0,
+            14,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:30:45",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500034,
+    "latitude": -27.572,
+    "longitude": 153.0047,
+    "on_ground": true,
+    "origin_country": "Australia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717500034,
+    "true_track": 11.25,
+    "velocity": 0.06,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 46,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "YBAF",
+    "estDepartureAirportHorizDistance": 2239,
+    "estDepartureAirportVertDistance": 255,
+    "firstSeen": 1717500645,
+    "lastSeen": 1717500705
+}

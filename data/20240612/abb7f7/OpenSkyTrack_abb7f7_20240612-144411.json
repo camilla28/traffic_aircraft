@@ -1,0 +1,72 @@
+{
+    "callsign": "UAL1714 ",
+    "endTime": "2024/06/12-14:44:21",
+    "icao24": "abb7f7",
+    "path": [
+        [
+            1718214210,
+            39.8412,
+            -104.7444,
+            1828,
+            270,
+            false
+        ],
+        [
+            1718214227,
+            39.841,
+            -104.7631,
+            1828,
+            268,
+            false
+        ],
+        [
+            1718214261,
+            39.8405,
+            -104.8049,
+            2133,
+            269,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-14:43:30",
+    "baro_altitude": 10972.8,
+    "category": 1,
+    "geo_altitude": 11498.58,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204539,
+    "latitude": 38.7549,
+    "longitude": -98.374,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3027",
+    "time_position": 1718204419,
+    "true_track": 277.54,
+    "velocity": 211.72,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 170,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KDEN",
+    "estDepartureAirportHorizDistance": 5818,
+    "estDepartureAirportVertDistance": 272,
+    "firstSeen": 1718214210,
+    "lastSeen": 1718214261
+}

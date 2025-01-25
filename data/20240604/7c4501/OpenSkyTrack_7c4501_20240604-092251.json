@@ -1,0 +1,96 @@
+{
+    "callsign": "NWZ     ",
+    "endTime": "2024/06/04-09:17:38",
+    "icao24": "7c4501",
+    "path": [
+        [
+            1717502471,
+            -28.2012,
+            153.5175,
+            0,
+            67,
+            false
+        ],
+        [
+            1717502658,
+            -28.2004,
+            153.5197,
+            0,
+            66,
+            false
+        ],
+        [
+            1717502815,
+            -28.1998,
+            153.5212,
+            0,
+            55,
+            false
+        ],
+        [
+            1717502815,
+            -28.1998,
+            153.5212,
+            0,
+            55,
+            false
+        ],
+        [
+            1717503289,
+            -28.1936,
+            153.5221,
+            0,
+            344,
+            false
+        ],
+        [
+            1717503458,
+            -28.1931,
+            153.522,
+            0,
+            343,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:01:11",
+    "baro_altitude": 182.88,
+    "category": 0,
+    "geo_altitude": 259.08,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499918,
+    "latitude": -28.1993,
+    "longitude": 153.5205,
+    "on_ground": false,
+    "origin_country": "Australia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499918,
+    "true_track": 25.94,
+    "velocity": 42.33,
+    "vertical_rate": -2.6,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 39,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "YBCG",
+    "estDepartureAirportHorizDistance": 4273,
+    "estDepartureAirportVertDistance": 176,
+    "firstSeen": 1717502471,
+    "lastSeen": 1717503458
+}

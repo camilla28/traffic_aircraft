@@ -1,0 +1,136 @@
+{
+    "callsign": "GOCCF   ",
+    "endTime": "2024/06/05-08:33:16",
+    "icao24": "400fbd",
+    "path": [
+        [
+            1717586808,
+            51.1237,
+            -3.0394,
+            914,
+            68,
+            false
+        ],
+        [
+            1717586839,
+            51.13,
+            -3.0148,
+            914,
+            66,
+            false
+        ],
+        [
+            1717586839,
+            51.13,
+            -3.0148,
+            1219,
+            69,
+            false
+        ],
+        [
+            1717586905,
+            51.1441,
+            -2.958,
+            914,
+            71,
+            false
+        ],
+        [
+            1717586941,
+            51.1503,
+            -2.9276,
+            914,
+            73,
+            false
+        ],
+        [
+            1717586977,
+            51.1558,
+            -2.8968,
+            914,
+            75,
+            false
+        ],
+        [
+            1717587038,
+            51.1648,
+            -2.8451,
+            914,
+            74,
+            false
+        ],
+        [
+            1717587041,
+            51.1653,
+            -2.8423,
+            914,
+            72,
+            false
+        ],
+        [
+            1717587134,
+            51.1813,
+            -2.7641,
+            914,
+            71,
+            false
+        ],
+        [
+            1717587143,
+            51.1829,
+            -2.7563,
+            914,
+            69,
+            false
+        ],
+        [
+            1717587196,
+            51.194,
+            -2.7102,
+            914,
+            70,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-08:26:48",
+    "baro_altitude": 1211.58,
+    "category": 0,
+    "geo_altitude": 1249.68,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717582923,
+    "latitude": 51.351,
+    "longitude": -1.987,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3710",
+    "time_position": 1717582905,
+    "true_track": 236.15,
+    "velocity": 50.79,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 56,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EGDW",
+    "estDepartureAirportHorizDistance": 19335,
+    "estDepartureAirportVertDistance": 1157,
+    "firstSeen": 1717586808,
+    "lastSeen": 1717587196
+}

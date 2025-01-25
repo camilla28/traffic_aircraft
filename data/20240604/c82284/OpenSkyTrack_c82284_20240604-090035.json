@@ -1,0 +1,72 @@
+{
+    "callsign": "ANZ125M ",
+    "endTime": "2024/06/04-08:36:27",
+    "icao24": "c82284",
+    "path": [
+        [
+            1717499720,
+            -38.5716,
+            175.3761,
+            4876,
+            178,
+            false
+        ],
+        [
+            1717500618,
+            -38.6131,
+            175.3775,
+            4876,
+            178,
+            false
+        ],
+        [
+            1717500987,
+            -38.6353,
+            175.3783,
+            4876,
+            178,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:15:20",
+    "baro_altitude": 4884.42,
+    "category": 0,
+    "geo_altitude": 5052.06,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500036,
+    "latitude": -38.592,
+    "longitude": 175.3768,
+    "on_ground": false,
+    "origin_country": "New Zealand",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717500031,
+    "true_track": 178.65,
+    "velocity": 131.22,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717499720,
+    "lastSeen": 1717500987
+}

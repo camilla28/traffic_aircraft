@@ -1,0 +1,96 @@
+{
+    "callsign": "EDW266N ",
+    "endTime": "2024/06/15-12:01:10",
+    "icao24": "4b1801",
+    "path": [
+        [
+            1718463311,
+            47.4552,
+            8.5562,
+            10363,
+            95,
+            false
+        ],
+        [
+            1718463325,
+            47.4552,
+            8.556,
+            10363,
+            95,
+            false
+        ],
+        [
+            1718463371,
+            47.4552,
+            8.556,
+            10058,
+            95,
+            false
+        ],
+        [
+            1718463371,
+            47.4552,
+            8.556,
+            9448,
+            95,
+            false
+        ],
+        [
+            1718463371,
+            47.4552,
+            8.556,
+            10363,
+            95,
+            false
+        ],
+        [
+            1718463670,
+            47.4557,
+            8.569,
+            7924,
+            95,
+            false
+        ]
+    ],
+    "startTime": "2024/06/15-11:55:11",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718463646,
+    "latitude": 47.4559,
+    "longitude": 8.5655,
+    "on_ground": false,
+    "origin_country": "Switzerland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3522",
+    "time_position": 1718463641,
+    "true_track": 95.62,
+    "velocity": 9.77,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LSZH",
+    "estDepartureAirportHorizDistance": 1206,
+    "estDepartureAirportVertDistance": 10152,
+    "firstSeen": 1718463311,
+    "lastSeen": 1718463670
+}

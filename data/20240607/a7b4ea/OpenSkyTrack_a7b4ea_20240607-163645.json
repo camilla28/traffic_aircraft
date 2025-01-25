@@ -1,0 +1,80 @@
+{
+    "callsign": "JIA5488 ",
+    "endTime": "2024/06/07-16:36:44",
+    "icao24": "a7b4ea",
+    "path": [
+        [
+            1717788971,
+            35.2492,
+            -80.9358,
+            609,
+            9,
+            false
+        ],
+        [
+            1717788979,
+            35.2562,
+            -80.9335,
+            609,
+            17,
+            false
+        ],
+        [
+            1717788988,
+            35.2641,
+            -80.9303,
+            609,
+            19,
+            false
+        ],
+        [
+            1717789004,
+            35.2785,
+            -80.9239,
+            914,
+            20,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-16:36:11",
+    "baro_altitude": 4274.82,
+    "category": 4,
+    "geo_altitude": 4389.12,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717784179,
+    "latitude": 35.5783,
+    "longitude": -80.6168,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "6221",
+    "time_position": 1717784179,
+    "true_track": 211.57,
+    "velocity": 184.76,
+    "vertical_rate": -6.5,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 313,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KCLT",
+    "estDepartureAirportHorizDistance": 3962,
+    "estDepartureAirportVertDistance": 495,
+    "firstSeen": 1717788971,
+    "lastSeen": 1717789004
+}

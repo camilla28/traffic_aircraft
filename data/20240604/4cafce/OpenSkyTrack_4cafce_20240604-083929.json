@@ -1,0 +1,136 @@
+{
+    "callsign": "SAS142  ",
+    "endTime": "2024/06/04-08:38:30",
+    "icao24": "4cafce",
+    "path": [
+        [
+            1717499130,
+            58.2335,
+            13.679,
+            8839,
+            46,
+            false
+        ],
+        [
+            1717499484,
+            58.2455,
+            13.7035,
+            8839,
+            47,
+            false
+        ],
+        [
+            1717499488,
+            58.2478,
+            13.7081,
+            9144,
+            47,
+            false
+        ],
+        [
+            1717499493,
+            58.2491,
+            13.7109,
+            8839,
+            47,
+            false
+        ],
+        [
+            1717499506,
+            58.2485,
+            13.7096,
+            9144,
+            47,
+            false
+        ],
+        [
+            1717499526,
+            58.2439,
+            13.7002,
+            8839,
+            47,
+            false
+        ],
+        [
+            1717500361,
+            58.2926,
+            13.7995,
+            9144,
+            47,
+            false
+        ],
+        [
+            1717500613,
+            58.3056,
+            13.8262,
+            9144,
+            47,
+            false
+        ],
+        [
+            1717500638,
+            58.309,
+            13.8332,
+            9448,
+            47,
+            false
+        ],
+        [
+            1717500672,
+            58.3063,
+            13.8276,
+            9144,
+            47,
+            false
+        ],
+        [
+            1717501110,
+            58.334,
+            13.8844,
+            9448,
+            47,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:05:30",
+    "baro_altitude": 9288.78,
+    "category": 0,
+    "geo_altitude": 9380.22,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500032,
+    "latitude": 58.2755,
+    "longitude": 13.7645,
+    "on_ground": false,
+    "origin_country": "Ireland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2516",
+    "time_position": 1717500032,
+    "true_track": 47.07,
+    "velocity": 241.7,
+    "vertical_rate": 7.8,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "ESGK",
+    "estDepartureAirportHorizDistance": 8712,
+    "estDepartureAirportVertDistance": 8843,
+    "firstSeen": 1717499130,
+    "lastSeen": 1717501110
+}

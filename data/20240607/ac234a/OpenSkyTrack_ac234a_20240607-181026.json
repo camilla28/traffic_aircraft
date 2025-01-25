@@ -1,0 +1,136 @@
+{
+    "callsign": "GPD116  ",
+    "endTime": "2024/06/07-18:10:25",
+    "icao24": "ac234a",
+    "path": [
+        [
+            1717794390,
+            18.466,
+            -65.9356,
+            609,
+            61,
+            false
+        ],
+        [
+            1717794429,
+            18.479,
+            -65.9111,
+            914,
+            60,
+            false
+        ],
+        [
+            1717794436,
+            18.4812,
+            -65.9068,
+            1219,
+            64,
+            false
+        ],
+        [
+            1717794441,
+            18.4824,
+            -65.9033,
+            1219,
+            77,
+            false
+        ],
+        [
+            1717794441,
+            18.4824,
+            -65.9033,
+            1219,
+            77,
+            false
+        ],
+        [
+            1717794459,
+            18.48,
+            -65.8908,
+            1219,
+            110,
+            false
+        ],
+        [
+            1717794474,
+            18.4765,
+            -65.8806,
+            1219,
+            108,
+            false
+        ],
+        [
+            1717794496,
+            18.4717,
+            -65.8645,
+            1524,
+            106,
+            false
+        ],
+        [
+            1717794520,
+            18.4669,
+            -65.8467,
+            1524,
+            105,
+            false
+        ],
+        [
+            1717794574,
+            18.4554,
+            -65.8041,
+            1828,
+            105,
+            false
+        ],
+        [
+            1717794625,
+            18.4441,
+            -65.7621,
+            2133,
+            105,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-18:06:30",
+    "baro_altitude": 853.44,
+    "category": 0,
+    "geo_altitude": 876.3,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717794385,
+    "latitude": 18.4645,
+    "longitude": -65.9384,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717794385,
+    "true_track": 61.45,
+    "velocity": 73.2,
+    "vertical_rate": 7.48,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 21,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "TJSJ",
+    "estDepartureAirportHorizDistance": 7186,
+    "estDepartureAirportVertDistance": 881,
+    "firstSeen": 1717794390,
+    "lastSeen": 1717794625
+}

@@ -1,0 +1,72 @@
+{
+    "callsign": "HKE172  ",
+    "endTime": "2024/06/04-08:34:28",
+    "icao24": "780a71",
+    "path": [
+        [
+            1717499922,
+            21.9952,
+            115.1577,
+            8534,
+            87,
+            false
+        ],
+        [
+            1717500817,
+            21.9967,
+            115.1952,
+            8534,
+            87,
+            false
+        ],
+        [
+            1717500868,
+            21.9968,
+            115.1973,
+            8534,
+            87,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:18:42",
+    "baro_altitude": 8587.74,
+    "category": 0,
+    "geo_altitude": 9212.58,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499961,
+    "latitude": 21.995,
+    "longitude": 115.1526,
+    "on_ground": false,
+    "origin_country": "China",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499955,
+    "true_track": 87.57,
+    "velocity": 218.32,
+    "vertical_rate": 3.9,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717499922,
+    "lastSeen": 1717500868
+}

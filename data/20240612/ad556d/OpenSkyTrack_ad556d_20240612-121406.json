@@ -1,0 +1,80 @@
+{
+    "callsign": "N9585G  ",
+    "endTime": "2024/06/12-12:13:25",
+    "icao24": "ad556d",
+    "path": [
+        [
+            1718205173,
+            48.517,
+            -122.9967,
+            0,
+            338,
+            false
+        ],
+        [
+            1718205188,
+            48.5227,
+            -123,
+            0,
+            339,
+            false
+        ],
+        [
+            1718205205,
+            48.5273,
+            -123.005,
+            0,
+            304,
+            false
+        ],
+        [
+            1718205205,
+            48.5273,
+            -123.005,
+            0,
+            304,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-12:12:53",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": 228.6,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204594,
+    "latitude": 48.4989,
+    "longitude": -123.0209,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718204556,
+    "true_track": 79.17,
+    "velocity": 60.23,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 150,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KFHR",
+    "estDepartureAirportHorizDistance": 2265,
+    "estDepartureAirportVertDistance": 239,
+    "firstSeen": 1718205173,
+    "lastSeen": 1718205205
+}

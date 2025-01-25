@@ -1,0 +1,104 @@
+{
+    "callsign": "RYR60QU ",
+    "endTime": "2024/06/05-08:17:29",
+    "icao24": "4ca84b",
+    "path": [
+        [
+            1717586134,
+            51.841,
+            -8.4909,
+            0,
+            340,
+            false
+        ],
+        [
+            1717586154,
+            51.8541,
+            -8.4984,
+            0,
+            342,
+            false
+        ],
+        [
+            1717586170,
+            51.8654,
+            -8.5042,
+            304,
+            341,
+            false
+        ],
+        [
+            1717586175,
+            51.8683,
+            -8.5059,
+            304,
+            339,
+            false
+        ],
+        [
+            1717586198,
+            51.8846,
+            -8.5151,
+            609,
+            339,
+            false
+        ],
+        [
+            1717586222,
+            51.9018,
+            -8.5253,
+            914,
+            340,
+            false
+        ],
+        [
+            1717586249,
+            51.9231,
+            -8.5381,
+            1219,
+            339,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-08:15:34",
+    "baro_altitude": 2918.46,
+    "category": 0,
+    "geo_altitude": 2971.8,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717582996,
+    "latitude": 51.9129,
+    "longitude": -7.9275,
+    "on_ground": false,
+    "origin_country": "Ireland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7620",
+    "time_position": 1717582996,
+    "true_track": 221.67,
+    "velocity": 143.93,
+    "vertical_rate": -10.4,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 18,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EICK",
+    "estDepartureAirportHorizDistance": 131,
+    "estDepartureAirportVertDistance": 31,
+    "firstSeen": 1717586134,
+    "lastSeen": 1717586249
+}

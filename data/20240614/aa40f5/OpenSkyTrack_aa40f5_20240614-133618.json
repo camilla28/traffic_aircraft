@@ -1,0 +1,120 @@
+{
+    "callsign": "N76UD   ",
+    "endTime": "2024/06/14-13:35:40",
+    "icao24": "aa40f5",
+    "path": [
+        [
+            1718382665,
+            42.0331,
+            -90.7806,
+            609,
+            278,
+            false
+        ],
+        [
+            1718382673,
+            42.0327,
+            -90.7848,
+            609,
+            244,
+            false
+        ],
+        [
+            1718382681,
+            42.0301,
+            -90.7891,
+            609,
+            218,
+            false
+        ],
+        [
+            1718382681,
+            42.0301,
+            -90.7891,
+            609,
+            350,
+            false
+        ],
+        [
+            1718382906,
+            42.0512,
+            -90.7767,
+            609,
+            324,
+            false
+        ],
+        [
+            1718382920,
+            42.0544,
+            -90.7826,
+            609,
+            289,
+            false
+        ],
+        [
+            1718382930,
+            42.0542,
+            -90.7879,
+            609,
+            243,
+            false
+        ],
+        [
+            1718382940,
+            42.0506,
+            -90.7915,
+            609,
+            195,
+            false
+        ],
+        [
+            1718382940,
+            42.0506,
+            -90.7915,
+            609,
+            190,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-13:31:05",
+    "baro_altitude": 441.96,
+    "category": 0,
+    "geo_altitude": 449.58,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718380973,
+    "latitude": 42.4077,
+    "longitude": -90.7144,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718380973,
+    "true_track": 310.91,
+    "velocity": 30.63,
+    "vertical_rate": 3.9,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 320,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KOQW",
+    "estDepartureAirportHorizDistance": 3571,
+    "estDepartureAirportVertDistance": 481,
+    "firstSeen": 1718382665,
+    "lastSeen": 1718382940
+}

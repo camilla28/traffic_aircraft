@@ -1,0 +1,96 @@
+{
+    "callsign": "UAE6MR  ",
+    "endTime": "2024/06/04-10:30:06",
+    "icao24": "89616f",
+    "path": [
+        [
+            1717504271,
+            52.9229,
+            -2.3829,
+            11277,
+            118,
+            false
+        ],
+        [
+            1717505147,
+            52.9124,
+            -2.3507,
+            11277,
+            118,
+            false
+        ],
+        [
+            1717506024,
+            52.9043,
+            -2.3259,
+            11277,
+            118,
+            false
+        ],
+        [
+            1717506863,
+            52.9043,
+            -2.3259,
+            11277,
+            118,
+            false
+        ],
+        [
+            1717507701,
+            52.9271,
+            -2.3957,
+            11277,
+            118,
+            false
+        ],
+        [
+            1717507806,
+            52.926,
+            -2.3923,
+            11277,
+            118,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:31:11",
+    "baro_altitude": 11277.6,
+    "category": 0,
+    "geo_altitude": 11490.96,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504655,
+    "latitude": 52.9189,
+    "longitude": -2.3708,
+    "on_ground": false,
+    "origin_country": "United Arab Emirates",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2321",
+    "time_position": 1717504653,
+    "true_track": 118.46,
+    "velocity": 258.04,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EGOE",
+    "estDepartureAirportHorizDistance": 8267,
+    "estDepartureAirportVertDistance": 11194,
+    "firstSeen": 1717504271,
+    "lastSeen": 1717507806
+}

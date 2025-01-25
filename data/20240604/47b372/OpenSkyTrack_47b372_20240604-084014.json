@@ -1,0 +1,80 @@
+{
+    "callsign": "LNIKL   ",
+    "endTime": "2024/06/04-08:40:09",
+    "icao24": "47b372",
+    "path": [
+        [
+            1717498915,
+            67.0472,
+            14.6701,
+            2438,
+            158,
+            false
+        ],
+        [
+            1717499705,
+            67.0417,
+            14.6755,
+            2438,
+            159,
+            false
+        ],
+        [
+            1717500595,
+            67.0292,
+            14.6877,
+            2438,
+            157,
+            false
+        ],
+        [
+            1717501209,
+            67.0195,
+            14.6983,
+            2438,
+            155,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:01:55",
+    "baro_altitude": 2606.04,
+    "category": 0,
+    "geo_altitude": 2468.88,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500011,
+    "latitude": 67.0388,
+    "longitude": 14.6781,
+    "on_ground": false,
+    "origin_country": "Norway",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717500011,
+    "true_track": 160.71,
+    "velocity": 54.5,
+    "vertical_rate": 2.6,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717498915,
+    "lastSeen": 1717501209
+}

@@ -1,0 +1,128 @@
+{
+    "callsign": "MAU16   ",
+    "endTime": "2024/05/29-11:39:31",
+    "icao24": "06002f",
+    "path": [
+        [
+            1716989148,
+            33.3691,
+            25.6515,
+            11582,
+            326,
+            false
+        ],
+        [
+            1716989466,
+            33.9483,
+            25.1913,
+            11582,
+            325,
+            false
+        ],
+        [
+            1716989473,
+            33.961,
+            25.1803,
+            11582,
+            322,
+            false
+        ],
+        [
+            1716989481,
+            33.9743,
+            25.1674,
+            11582,
+            319,
+            false
+        ],
+        [
+            1716990378,
+            35.3995,
+            23.6299,
+            11582,
+            317,
+            false
+        ],
+        [
+            1716991273,
+            36.8164,
+            22.0244,
+            11582,
+            316,
+            false
+        ],
+        [
+            1716991881,
+            37.7864,
+            20.8755,
+            11582,
+            316,
+            false
+        ],
+        [
+            1716991974,
+            37.9331,
+            20.6979,
+            11887,
+            315,
+            false
+        ],
+        [
+            1716992865,
+            39.3279,
+            18.9554,
+            12192,
+            314,
+            false
+        ],
+        [
+            1716993571,
+            40.3909,
+            17.5318,
+            12192,
+            313,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-10:25:48",
+    "baro_altitude": 11582.4,
+    "category": 0,
+    "geo_altitude": 11795.76,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716991249,
+    "latitude": 36.7786,
+    "longitude": 22.0684,
+    "on_ground": false,
+    "origin_country": "Mauritius",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5522",
+    "time_position": 1716991249,
+    "true_track": 316.89,
+    "velocity": 243.13,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1716989148,
+    "lastSeen": 1716993571
+}

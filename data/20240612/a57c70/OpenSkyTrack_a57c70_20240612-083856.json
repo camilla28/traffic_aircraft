@@ -1,0 +1,72 @@
+{
+    "callsign": "N4524B  ",
+    "endTime": "2024/06/12-08:36:55",
+    "icao24": "a57c70",
+    "path": [
+        [
+            1718190659,
+            41.1828,
+            -83.4235,
+            1828,
+            278,
+            false
+        ],
+        [
+            1718191540,
+            41.2557,
+            -84.0642,
+            1828,
+            278,
+            false
+        ],
+        [
+            1718192215,
+            41.3104,
+            -84.5737,
+            1828,
+            278,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-08:10:59",
+    "baro_altitude": 1958.34,
+    "category": 0,
+    "geo_altitude": 1996.44,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718191736,
+    "latitude": 41.2717,
+    "longitude": -84.2112,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718191736,
+    "true_track": 277.41,
+    "velocity": 63.81,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 456,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KFZI",
+    "estDepartureAirportHorizDistance": 2501,
+    "estDepartureAirportVertDistance": 1729,
+    "firstSeen": 1718190659,
+    "lastSeen": 1718192215
+}

@@ -1,0 +1,128 @@
+{
+    "callsign": "NSZ2829 ",
+    "endTime": "2024/06/05-09:23:52",
+    "icao24": "4aca8b",
+    "path": [
+        [
+            1717589637,
+            42.8905,
+            18.9467,
+            7010,
+            15,
+            false
+        ],
+        [
+            1717589679,
+            42.9704,
+            18.978,
+            7315,
+            16,
+            false
+        ],
+        [
+            1717589709,
+            43.0283,
+            19.0007,
+            7620,
+            16,
+            false
+        ],
+        [
+            1717589751,
+            43.1087,
+            19.0325,
+            7924,
+            16,
+            false
+        ],
+        [
+            1717589770,
+            43.1466,
+            19.0474,
+            8229,
+            16,
+            false
+        ],
+        [
+            1717589825,
+            43.258,
+            19.0913,
+            8534,
+            16,
+            false
+        ],
+        [
+            1717590078,
+            43.7889,
+            19.3059,
+            10058,
+            15,
+            false
+        ],
+        [
+            1717590124,
+            43.8864,
+            19.3433,
+            10363,
+            15,
+            false
+        ],
+        [
+            1717590185,
+            44.0168,
+            19.3931,
+            10668,
+            15,
+            false
+        ],
+        [
+            1717590232,
+            44.1199,
+            19.4315,
+            10972,
+            15,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-09:13:57",
+    "baro_altitude": 7879.08,
+    "category": 0,
+    "geo_altitude": 7947.66,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717589717,
+    "latitude": 43.0283,
+    "longitude": 19.0007,
+    "on_ground": false,
+    "origin_country": "Sweden",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "6041",
+    "time_position": 1717589709,
+    "true_track": 16.11,
+    "velocity": 224.36,
+    "vertical_rate": 6.5,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LYNK",
+    "estDepartureAirportHorizDistance": 34262,
+    "estDepartureAirportVertDistance": 6657,
+    "firstSeen": 1717589637,
+    "lastSeen": 1717590232
+}

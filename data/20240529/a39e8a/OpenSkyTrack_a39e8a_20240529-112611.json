@@ -1,0 +1,104 @@
+{
+    "callsign": "N332PH  ",
+    "endTime": "2024/05/29-11:26:07",
+    "icao24": "a39e8a",
+    "path": [
+        [
+            1716992160,
+            27.7294,
+            -98.0172,
+            0,
+            147,
+            false
+        ],
+        [
+            1716992168,
+            27.7238,
+            -98.0151,
+            0,
+            170,
+            false
+        ],
+        [
+            1716992179,
+            27.7188,
+            -98.0153,
+            304,
+            187,
+            false
+        ],
+        [
+            1716992188,
+            27.7151,
+            -98.0158,
+            304,
+            185,
+            false
+        ],
+        [
+            1716992267,
+            27.6822,
+            -98.0194,
+            304,
+            186,
+            false
+        ],
+        [
+            1716992373,
+            27.637,
+            -98.0244,
+            609,
+            185,
+            false
+        ],
+        [
+            1716992767,
+            27.46,
+            -98.045,
+            914,
+            185,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-11:16:00",
+    "baro_altitude": 548.64,
+    "category": 0,
+    "geo_altitude": 579.12,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1716991246,
+    "latitude": 27.7955,
+    "longitude": -98.042,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1716991246,
+    "true_track": 170.62,
+    "velocity": 56.83,
+    "vertical_rate": -1.3,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 197,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KALI",
+    "estDepartureAirportHorizDistance": 1530,
+    "estDepartureAirportVertDistance": 159,
+    "firstSeen": 1716992160,
+    "lastSeen": 1716992767
+}

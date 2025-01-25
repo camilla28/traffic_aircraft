@@ -1,0 +1,88 @@
+{
+    "callsign": "HRT373  ",
+    "endTime": "2024/06/12-08:20:48",
+    "icao24": "c07d1a",
+    "path": [
+        [
+            1718191220,
+            43.685,
+            -79.6482,
+            0,
+            224,
+            false
+        ],
+        [
+            1718191227,
+            43.6816,
+            -79.6525,
+            0,
+            221,
+            false
+        ],
+        [
+            1718191237,
+            43.6757,
+            -79.6597,
+            304,
+            222,
+            false
+        ],
+        [
+            1718191243,
+            43.6726,
+            -79.6638,
+            304,
+            224,
+            false
+        ],
+        [
+            1718191248,
+            43.6695,
+            -79.6682,
+            609,
+            225,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-08:20:20",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718191187,
+    "latitude": null,
+    "longitude": null,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": null,
+    "true_track": 230.62,
+    "velocity": 3.09,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 223,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "CYYZ",
+    "estDepartureAirportHorizDistance": 1408,
+    "estDepartureAirportVertDistance": 39,
+    "firstSeen": 1718191220,
+    "lastSeen": 1718191248
+}

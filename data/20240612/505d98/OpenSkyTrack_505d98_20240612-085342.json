@@ -1,0 +1,128 @@
+{
+    "callsign": "EXS35W  ",
+    "endTime": "2024/06/12-08:53:50",
+    "icao24": "505d98",
+    "path": [
+        [
+            1718190951,
+            43.3878,
+            16.5845,
+            10668,
+            307,
+            false
+        ],
+        [
+            1718190987,
+            43.4281,
+            16.5123,
+            10668,
+            307,
+            false
+        ],
+        [
+            1718191442,
+            43.9401,
+            15.5733,
+            10972,
+            306,
+            false
+        ],
+        [
+            1718191498,
+            44.0028,
+            15.4558,
+            11277,
+            306,
+            false
+        ],
+        [
+            1718192397,
+            44.9823,
+            13.5615,
+            11582,
+            305,
+            false
+        ],
+        [
+            1718192504,
+            45.0977,
+            13.3294,
+            11582,
+            303,
+            false
+        ],
+        [
+            1718193143,
+            45.7349,
+            11.8614,
+            11582,
+            300,
+            false
+        ],
+        [
+            1718193194,
+            45.7856,
+            11.7396,
+            11582,
+            301,
+            false
+        ],
+        [
+            1718193206,
+            45.7975,
+            11.7116,
+            11277,
+            301,
+            false
+        ],
+        [
+            1718193230,
+            45.8222,
+            11.6536,
+            11582,
+            301,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-08:15:51",
+    "baro_altitude": 11582.4,
+    "category": 0,
+    "geo_altitude": 11917.68,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718191738,
+    "latitude": 44.2645,
+    "longitude": 14.9615,
+    "on_ground": false,
+    "origin_country": "Slovakia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "7241",
+    "time_position": 1718191738,
+    "true_track": 306.12,
+    "velocity": 205.07,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LDSB",
+    "estDepartureAirportHorizDistance": 27723,
+    "estDepartureAirportVertDistance": 10210,
+    "firstSeen": 1718190951,
+    "lastSeen": 1718193230
+}

@@ -1,0 +1,96 @@
+{
+    "callsign": "OHCAZ   ",
+    "endTime": "2024/06/04-09:10:03",
+    "icao24": "460561",
+    "path": [
+        [
+            1717500047,
+            62.5461,
+            29.1149,
+            1524,
+            85,
+            false
+        ],
+        [
+            1717500514,
+            62.5465,
+            29.1266,
+            1524,
+            85,
+            false
+        ],
+        [
+            1717501253,
+            62.5474,
+            29.1503,
+            1219,
+            85,
+            false
+        ],
+        [
+            1717502025,
+            62.5479,
+            29.1693,
+            1219,
+            87,
+            false
+        ],
+        [
+            1717502742,
+            62.5481,
+            29.1922,
+            1219,
+            89,
+            false
+        ],
+        [
+            1717503003,
+            62.5482,
+            29.2019,
+            1219,
+            89,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:20:47",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500015,
+    "latitude": null,
+    "longitude": null,
+    "on_ground": false,
+    "origin_country": "Finland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": null,
+    "true_track": 85.41,
+    "velocity": 70.71,
+    "vertical_rate": -2.28,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 14,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EFJO",
+    "estDepartureAirportHorizDistance": 28351,
+    "estDepartureAirportVertDistance": 1463,
+    "firstSeen": 1717500047,
+    "lastSeen": 1717503003
+}

@@ -1,0 +1,112 @@
+{
+    "callsign": "FGIJO   ",
+    "endTime": "2024/06/05-09:46:53",
+    "icao24": "39212e",
+    "path": [
+        [
+            1717591052,
+            42.8922,
+            3.0014,
+            304,
+            171,
+            false
+        ],
+        [
+            1717591059,
+            42.8893,
+            3.002,
+            304,
+            173,
+            false
+        ],
+        [
+            1717591063,
+            42.887,
+            3.0022,
+            304,
+            176,
+            false
+        ],
+        [
+            1717591071,
+            42.8835,
+            3.0024,
+            304,
+            178,
+            false
+        ],
+        [
+            1717591083,
+            42.8776,
+            3.0025,
+            304,
+            180,
+            false
+        ],
+        [
+            1717591083,
+            42.8776,
+            3.0025,
+            304,
+            182,
+            false
+        ],
+        [
+            1717591613,
+            42.7261,
+            2.881,
+            0,
+            212,
+            false
+        ],
+        [
+            1717591613,
+            42.7261,
+            2.881,
+            0,
+            212,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-09:37:32",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717590594,
+    "latitude": null,
+    "longitude": null,
+    "on_ground": false,
+    "origin_country": "France",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": null,
+    "true_track": 126.71,
+    "velocity": 37.86,
+    "vertical_rate": -2.28,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 47,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFMP",
+    "estDepartureAirportHorizDistance": 19929,
+    "estDepartureAirportVertDistance": 382,
+    "firstSeen": 1717591052,
+    "lastSeen": 1717591613
+}

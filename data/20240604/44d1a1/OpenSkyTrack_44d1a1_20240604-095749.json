@@ -1,0 +1,112 @@
+{
+    "callsign": "JAF9CV  ",
+    "endTime": "2024/06/04-09:57:50",
+    "icao24": "44d1a1",
+    "path": [
+        [
+            1717500016,
+            46.0063,
+            11.5833,
+            10668,
+            126,
+            false
+        ],
+        [
+            1717500826,
+            45.9996,
+            11.5963,
+            10668,
+            126,
+            false
+        ],
+        [
+            1717501724,
+            45.992,
+            11.6111,
+            10668,
+            126,
+            false
+        ],
+        [
+            1717502586,
+            45.9835,
+            11.6277,
+            10668,
+            126,
+            false
+        ],
+        [
+            1717503479,
+            45.9765,
+            11.6411,
+            10668,
+            126,
+            false
+        ],
+        [
+            1717504372,
+            45.967,
+            11.6591,
+            10668,
+            127,
+            false
+        ],
+        [
+            1717505244,
+            45.9597,
+            11.6729,
+            10668,
+            127,
+            false
+        ],
+        [
+            1717505870,
+            45.9538,
+            11.684,
+            10668,
+            127,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:20:16",
+    "baro_altitude": 10668,
+    "category": 0,
+    "geo_altitude": 10866.12,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504714,
+    "latitude": 45.9637,
+    "longitude": 11.6654,
+    "on_ground": false,
+    "origin_country": "Belgium",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "0112",
+    "time_position": 1717504714,
+    "true_track": 127.12,
+    "velocity": 236.13,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LIDA",
+    "estDepartureAirportHorizDistance": 624779,
+    "estDepartureAirportVertDistance": 9628,
+    "firstSeen": 1717500016,
+    "lastSeen": 1717505870
+}

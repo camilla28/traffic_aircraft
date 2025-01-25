@@ -1,0 +1,120 @@
+{
+    "callsign": "WZZ70WF ",
+    "endTime": "2024/06/07-10:55:06",
+    "icao24": "47340b",
+    "path": [
+        [
+            1717768393,
+            51.4475,
+            5.3713,
+            0,
+            216,
+            false
+        ],
+        [
+            1717768412,
+            51.4365,
+            5.3586,
+            0,
+            215,
+            false
+        ],
+        [
+            1717768451,
+            51.4118,
+            5.3307,
+            304,
+            214,
+            false
+        ],
+        [
+            1717768461,
+            51.4043,
+            5.3224,
+            609,
+            214,
+            false
+        ],
+        [
+            1717768469,
+            51.3969,
+            5.3158,
+            609,
+            201,
+            false
+        ],
+        [
+            1717768478,
+            51.3884,
+            5.313,
+            609,
+            183,
+            false
+        ],
+        [
+            1717768488,
+            51.3782,
+            5.3155,
+            914,
+            162,
+            false
+        ],
+        [
+            1717768496,
+            51.3707,
+            5.3213,
+            914,
+            146,
+            false
+        ],
+        [
+            1717768506,
+            51.363,
+            5.3329,
+            914,
+            126,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-10:53:13",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762943,
+    "latitude": 51.456,
+    "longitude": 5.3783,
+    "on_ground": true,
+    "origin_country": "Hungary",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1717762943,
+    "true_track": 33.75,
+    "velocity": 12.86,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 99,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EHEH",
+    "estDepartureAirportHorizDistance": 557,
+    "estDepartureAirportVertDistance": 7,
+    "firstSeen": 1717768393,
+    "lastSeen": 1717768506
+}

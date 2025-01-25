@@ -1,0 +1,120 @@
+{
+    "callsign": "N116TL  ",
+    "endTime": "2024/06/14-18:13:15",
+    "icao24": "a04431",
+    "path": [
+        [
+            1718398940,
+            62.0826,
+            -152.1606,
+            2133,
+            124,
+            false
+        ],
+        [
+            1718399064,
+            62.0375,
+            -152.0266,
+            2133,
+            125,
+            false
+        ],
+        [
+            1718399074,
+            62.0334,
+            -152.0151,
+            2133,
+            127,
+            false
+        ],
+        [
+            1718399165,
+            61.9982,
+            -151.922,
+            2133,
+            126,
+            false
+        ],
+        [
+            1718399193,
+            61.9879,
+            -151.8914,
+            2133,
+            124,
+            false
+        ],
+        [
+            1718399297,
+            61.9503,
+            -151.7746,
+            2133,
+            125,
+            false
+        ],
+        [
+            1718399348,
+            61.9317,
+            -151.7197,
+            1828,
+            126,
+            false
+        ],
+        [
+            1718399534,
+            61.8588,
+            -151.5195,
+            1828,
+            126,
+            false
+        ],
+        [
+            1718399595,
+            61.8371,
+            -151.4554,
+            2133,
+            123,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-18:02:20",
+    "baro_altitude": 2103.12,
+    "category": 0,
+    "geo_altitude": 2209.8,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718399391,
+    "latitude": 61.9148,
+    "longitude": -151.6741,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718399391,
+    "true_track": 129.05,
+    "velocity": 70.22,
+    "vertical_rate": -0.98,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 2,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "33AK",
+    "estDepartureAirportHorizDistance": 82539,
+    "estDepartureAirportVertDistance": 1642,
+    "firstSeen": 1718398940,
+    "lastSeen": 1718399595
+}

@@ -1,0 +1,72 @@
+{
+    "callsign": "VIV4110 ",
+    "endTime": "2024/06/12-09:09:24",
+    "icao24": "4d2338",
+    "path": [
+        [
+            1718194037,
+            25.9241,
+            -100.7452,
+            6400,
+            295,
+            false
+        ],
+        [
+            1718194037,
+            25.9241,
+            -100.7452,
+            6400,
+            295,
+            false
+        ],
+        [
+            1718194164,
+            26.0285,
+            -100.9908,
+            7315,
+            295,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-09:07:17",
+    "baro_altitude": 7391.4,
+    "category": 0,
+    "geo_altitude": 7879.08,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194164,
+    "latitude": 26.0285,
+    "longitude": -100.9908,
+    "on_ground": false,
+    "origin_country": "Malta",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718194164,
+    "true_track": 295.12,
+    "velocity": 219.32,
+    "vertical_rate": 3.9,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1718194037,
+    "lastSeen": 1718194164
+}

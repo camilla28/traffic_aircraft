@@ -1,0 +1,144 @@
+{
+    "callsign": "RYR7GQ  ",
+    "endTime": "2024/06/12-15:57:53",
+    "icao24": "4ca24c",
+    "path": [
+        [
+            1718218542,
+            45.5166,
+            12.3677,
+            304,
+            45,
+            false
+        ],
+        [
+            1718218568,
+            45.5295,
+            12.386,
+            304,
+            45,
+            false
+        ],
+        [
+            1718218576,
+            45.5335,
+            12.3926,
+            304,
+            55,
+            false
+        ],
+        [
+            1718218585,
+            45.5362,
+            12.4032,
+            609,
+            77,
+            false
+        ],
+        [
+            1718218593,
+            45.5362,
+            12.4128,
+            609,
+            96,
+            false
+        ],
+        [
+            1718218601,
+            45.535,
+            12.4227,
+            609,
+            99,
+            false
+        ],
+        [
+            1718218632,
+            45.5334,
+            12.4367,
+            609,
+            98,
+            false
+        ],
+        [
+            1718218641,
+            45.5297,
+            12.4724,
+            914,
+            98,
+            false
+        ],
+        [
+            1718218649,
+            45.5283,
+            12.4863,
+            1219,
+            98,
+            false
+        ],
+        [
+            1718218658,
+            45.5266,
+            12.5007,
+            1219,
+            101,
+            false
+        ],
+        [
+            1718218666,
+            45.5238,
+            12.5114,
+            1219,
+            119,
+            false
+        ],
+        [
+            1718218673,
+            45.5196,
+            12.5192,
+            1524,
+            135,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-15:55:42",
+    "baro_altitude": 2895.6,
+    "category": 0,
+    "geo_altitude": 2994.66,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204674,
+    "latitude": 51.2637,
+    "longitude": -3.0586,
+    "on_ground": false,
+    "origin_country": "Ireland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "5340",
+    "time_position": 1718204674,
+    "true_track": 71.38,
+    "velocity": 149.83,
+    "vertical_rate": -4.88,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 45,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LIPZ",
+    "estDepartureAirportHorizDistance": 1485,
+    "estDepartureAirportVertDistance": 302,
+    "firstSeen": 1718218542,
+    "lastSeen": 1718218673
+}

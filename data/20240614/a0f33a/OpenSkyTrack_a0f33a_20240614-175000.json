@@ -1,0 +1,120 @@
+{
+    "callsign": "N160RW  ",
+    "endTime": "2024/06/14-17:42:40",
+    "icao24": "a0f33a",
+    "path": [
+        [
+            1718395428,
+            38.7823,
+            -120.0289,
+            3352,
+            186,
+            false
+        ],
+        [
+            1718395430,
+            38.7805,
+            -120.0292,
+            3657,
+            188,
+            false
+        ],
+        [
+            1718395464,
+            38.7523,
+            -120.0341,
+            3962,
+            188,
+            false
+        ],
+        [
+            1718395546,
+            38.6796,
+            -120.0472,
+            4572,
+            188,
+            false
+        ],
+        [
+            1718395586,
+            38.6431,
+            -120.0539,
+            4876,
+            188,
+            false
+        ],
+        [
+            1718396485,
+            37.4967,
+            -120.2581,
+            5181,
+            187,
+            false
+        ],
+        [
+            1718397379,
+            36.3026,
+            -120.4642,
+            5181,
+            187,
+            false
+        ],
+        [
+            1718397714,
+            36.0055,
+            -120.5145,
+            5181,
+            187,
+            false
+        ],
+        [
+            1718397760,
+            35.8071,
+            -120.5478,
+            3962,
+            187,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-17:03:48",
+    "baro_altitude": 5295.9,
+    "category": 0,
+    "geo_altitude": 5554.98,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718396795,
+    "latitude": 37.085,
+    "longitude": -120.3299,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718396794,
+    "true_track": 187.91,
+    "velocity": 149.58,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 8,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KTVL",
+    "estDepartureAirportHorizDistance": 14863,
+    "estDepartureAirportVertDistance": 1717,
+    "firstSeen": 1718395428,
+    "lastSeen": 1718397760
+}

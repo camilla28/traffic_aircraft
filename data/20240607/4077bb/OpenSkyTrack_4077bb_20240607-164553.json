@@ -1,0 +1,120 @@
+{
+    "callsign": "EXS34NR ",
+    "endTime": "2024/06/07-16:45:57",
+    "icao24": "4077bb",
+    "path": [
+        [
+            1717789473,
+            36.7974,
+            27.089,
+            0,
+            327,
+            false
+        ],
+        [
+            1717789486,
+            36.8063,
+            27.0819,
+            0,
+            328,
+            false
+        ],
+        [
+            1717789498,
+            36.8139,
+            27.0762,
+            304,
+            325,
+            false
+        ],
+        [
+            1717789506,
+            36.8184,
+            27.0714,
+            304,
+            310,
+            false
+        ],
+        [
+            1717789516,
+            36.8219,
+            27.0633,
+            609,
+            292,
+            false
+        ],
+        [
+            1717789525,
+            36.8226,
+            27.0536,
+            609,
+            265,
+            false
+        ],
+        [
+            1717789541,
+            36.8199,
+            27.0337,
+            609,
+            266,
+            false
+        ],
+        [
+            1717789549,
+            36.8213,
+            27.0236,
+            609,
+            290,
+            false
+        ],
+        [
+            1717789557,
+            36.8254,
+            27.0147,
+            609,
+            304,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-16:44:33",
+    "baro_altitude": 4191,
+    "category": 0,
+    "geo_altitude": 4434.84,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717784178,
+    "latitude": 36.9153,
+    "longitude": 26.6109,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "3471",
+    "time_position": 1717784178,
+    "true_track": 143.66,
+    "velocity": 157.12,
+    "vertical_rate": -7.48,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 25,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LGKO",
+    "estDepartureAirportHorizDistance": 451,
+    "estDepartureAirportVertDistance": 34,
+    "firstSeen": 1717789473,
+    "lastSeen": 1717789557
+}

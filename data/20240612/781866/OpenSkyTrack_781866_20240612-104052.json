@@ -1,0 +1,104 @@
+{
+    "callsign": "CSC3934 ",
+    "endTime": "2024/06/12-10:38:44",
+    "icao24": "781866",
+    "path": [
+        [
+            1718199203,
+            18.7851,
+            98.9629,
+            304,
+            0,
+            false
+        ],
+        [
+            1718199211,
+            18.792,
+            98.963,
+            304,
+            0,
+            false
+        ],
+        [
+            1718199233,
+            18.8109,
+            98.9633,
+            609,
+            0,
+            false
+        ],
+        [
+            1718199253,
+            18.8282,
+            98.9633,
+            914,
+            0,
+            false
+        ],
+        [
+            1718199253,
+            18.8282,
+            98.9633,
+            914,
+            61,
+            false
+        ],
+        [
+            1718199479,
+            19.0449,
+            99.1092,
+            3352,
+            61,
+            false
+        ],
+        [
+            1718199524,
+            19.0791,
+            99.1753,
+            3657,
+            61,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-10:33:23",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194256,
+    "latitude": 18.7736,
+    "longitude": 98.9652,
+    "on_ground": true,
+    "origin_country": "China",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718194256,
+    "true_track": 180,
+    "velocity": 9.26,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 19,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "VTCC",
+    "estDepartureAirportHorizDistance": 2038,
+    "estDepartureAirportVertDistance": 187,
+    "firstSeen": 1718199203,
+    "lastSeen": 1718199524
+}

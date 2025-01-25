@@ -1,0 +1,72 @@
+{
+    "callsign": "FDX1635 ",
+    "endTime": "2024/06/04-08:35:54",
+    "icao24": "a0a6e9",
+    "path": [
+        [
+            1717499596,
+            36.458,
+            -82.3857,
+            10363,
+            315,
+            false
+        ],
+        [
+            1717500469,
+            36.4604,
+            -82.3886,
+            10363,
+            315,
+            false
+        ],
+        [
+            1717500954,
+            36.4637,
+            -82.3927,
+            10363,
+            315,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:13:16",
+    "baro_altitude": 10363.2,
+    "category": 0,
+    "geo_altitude": 10812.78,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499973,
+    "latitude": 36.4604,
+    "longitude": -82.3886,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717499973,
+    "true_track": 315.19,
+    "velocity": 219.72,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 3,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KTRI",
+    "estDepartureAirportHorizDistance": 2782,
+    "estDepartureAirportVertDistance": 9900,
+    "firstSeen": 1717499596,
+    "lastSeen": 1717500954
+}

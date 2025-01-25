@@ -1,0 +1,112 @@
+{
+    "callsign": "OOI04   ",
+    "endTime": "2024/06/07-11:02:33",
+    "icao24": "44a7c0",
+    "path": [
+        [
+            1717768360,
+            50.7145,
+            5.0789,
+            0,
+            167,
+            false
+        ],
+        [
+            1717768360,
+            50.7145,
+            5.0789,
+            0,
+            134,
+            false
+        ],
+        [
+            1717768558,
+            50.7141,
+            5.0793,
+            0,
+            134,
+            false
+        ],
+        [
+            1717768560,
+            50.7136,
+            5.0795,
+            0,
+            175,
+            false
+        ],
+        [
+            1717768560,
+            50.7136,
+            5.0795,
+            0,
+            175,
+            false
+        ],
+        [
+            1717768753,
+            50.7141,
+            5.0772,
+            0,
+            141,
+            false
+        ],
+        [
+            1717768753,
+            50.7141,
+            5.0772,
+            0,
+            166,
+            false
+        ],
+        [
+            1717768953,
+            50.7142,
+            5.0784,
+            0,
+            166,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-10:52:40",
+    "baro_altitude": 548.64,
+    "category": 0,
+    "geo_altitude": 685.8,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762944,
+    "latitude": 50.7104,
+    "longitude": 5.0819,
+    "on_ground": false,
+    "origin_country": "Belgium",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717762944,
+    "true_track": 327.32,
+    "velocity": 32.39,
+    "vertical_rate": -0.98,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 105,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EBAV",
+    "estDepartureAirportHorizDistance": 1157,
+    "estDepartureAirportVertDistance": 93,
+    "firstSeen": 1717768360,
+    "lastSeen": 1717768953
+}

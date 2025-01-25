@@ -1,0 +1,104 @@
+{
+    "callsign": "IHFRT   ",
+    "endTime": "2024/06/05-08:40:02",
+    "icao24": "3006a9",
+    "path": [
+        [
+            1717587504,
+            45.6557,
+            9.2851,
+            304,
+            201,
+            false
+        ],
+        [
+            1717587556,
+            45.6279,
+            9.2696,
+            304,
+            199,
+            false
+        ],
+        [
+            1717587571,
+            45.6196,
+            9.2656,
+            304,
+            199,
+            false
+        ],
+        [
+            1717587578,
+            45.616,
+            9.2636,
+            304,
+            203,
+            false
+        ],
+        [
+            1717587585,
+            45.6125,
+            9.2613,
+            0,
+            207,
+            false
+        ],
+        [
+            1717587591,
+            45.6102,
+            9.2597,
+            0,
+            207,
+            false
+        ],
+        [
+            1717587602,
+            45.6064,
+            9.2567,
+            0,
+            207,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-08:38:24",
+    "baro_altitude": 449.58,
+    "category": 0,
+    "geo_altitude": 525.78,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717582996,
+    "latitude": 45.6349,
+    "longitude": 9.24,
+    "on_ground": false,
+    "origin_country": "Italy",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "4603",
+    "time_position": 1717582996,
+    "true_track": 36.4,
+    "velocity": 63.28,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 66,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LIMB",
+    "estDepartureAirportHorizDistance": 14209,
+    "estDepartureAirportVertDistance": 256,
+    "firstSeen": 1717587504,
+    "lastSeen": 1717587596
+}

@@ -1,0 +1,80 @@
+{
+    "callsign": "DAL618  ",
+    "endTime": "2024/06/12-15:46:47",
+    "icao24": "a48a8f",
+    "path": [
+        [
+            1718217702,
+            28.5212,
+            -88.6061,
+            10363,
+            357,
+            false
+        ],
+        [
+            1718217827,
+            28.7842,
+            -88.6191,
+            10363,
+            357,
+            false
+        ],
+        [
+            1718217921,
+            28.9812,
+            -88.6289,
+            10058,
+            357,
+            false
+        ],
+        [
+            1718218007,
+            29.1605,
+            -88.6379,
+            10363,
+            357,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-15:41:42",
+    "baro_altitude": 10668,
+    "category": 0,
+    "geo_altitude": 11384.28,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204674,
+    "latitude": 27.6224,
+    "longitude": -89.249,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "4750",
+    "time_position": 1718204674,
+    "true_track": 178.79,
+    "velocity": 244.42,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1718217702,
+    "lastSeen": 1718218007
+}

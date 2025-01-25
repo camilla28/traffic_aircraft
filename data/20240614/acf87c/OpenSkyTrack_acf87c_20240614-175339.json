@@ -1,0 +1,72 @@
+{
+    "callsign": "CAP735  ",
+    "endTime": "2024/06/14-17:52:50",
+    "icao24": "acf87c",
+    "path": [
+        [
+            1718398320,
+            39.4591,
+            -75.7194,
+            304,
+            27,
+            false
+        ],
+        [
+            1718398328,
+            39.4631,
+            -75.7159,
+            304,
+            35,
+            false
+        ],
+        [
+            1718398370,
+            39.483,
+            -75.6975,
+            304,
+            36,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-17:52:00",
+    "baro_altitude": 495.3,
+    "category": 0,
+    "geo_altitude": 457.2,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718396787,
+    "latitude": 39.3194,
+    "longitude": -75.5972,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718396759,
+    "true_track": 157.93,
+    "velocity": 61.62,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 507,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "DE33",
+    "estDepartureAirportHorizDistance": 3327,
+    "estDepartureAirportVertDistance": 476,
+    "firstSeen": 1718398320,
+    "lastSeen": 1718398370
+}

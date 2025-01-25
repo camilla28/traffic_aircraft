@@ -1,0 +1,80 @@
+{
+    "callsign": "N484LP  ",
+    "endTime": "2024/06/15-12:06:05",
+    "icao24": "a5f87d",
+    "path": [
+        [
+            1718463070,
+            29.4157,
+            -82.9181,
+            1524,
+            143,
+            false
+        ],
+        [
+            1718463706,
+            29.1923,
+            -82.7332,
+            1524,
+            142,
+            false
+        ],
+        [
+            1718463901,
+            29.1256,
+            -82.6752,
+            1524,
+            143,
+            false
+        ],
+        [
+            1718463965,
+            29.1039,
+            -82.6576,
+            1524,
+            143,
+            false
+        ]
+    ],
+    "startTime": "2024/06/15-11:51:10",
+    "baro_altitude": 1661.16,
+    "category": 0,
+    "geo_altitude": 1744.98,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718463647,
+    "latitude": 29.2136,
+    "longitude": -82.7507,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718463647,
+    "true_track": 144.11,
+    "velocity": 48.26,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 264,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "51FL",
+    "estDepartureAirportHorizDistance": 5431,
+    "estDepartureAirportVertDistance": 1650,
+    "firstSeen": 1718463070,
+    "lastSeen": 1718463965
+}

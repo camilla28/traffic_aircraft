@@ -1,0 +1,72 @@
+{
+    "callsign": "N746DW  ",
+    "endTime": "2024/06/07-22:55:15",
+    "icao24": "aa0934",
+    "path": [
+        [
+            1717811015,
+            37.6644,
+            -84.5239,
+            1524,
+            271,
+            false
+        ],
+        [
+            1717811034,
+            37.6647,
+            -84.5322,
+            1524,
+            270,
+            false
+        ],
+        [
+            1717811715,
+            37.6717,
+            -84.8904,
+            1828,
+            270,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-22:43:35",
+    "baro_altitude": 1981.2,
+    "category": 0,
+    "geo_altitude": 2004.06,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717811554,
+    "latitude": 37.67,
+    "longitude": -84.8015,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717811554,
+    "true_track": 271.27,
+    "velocity": 46.31,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 241,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "2KY1",
+    "estDepartureAirportHorizDistance": 13372,
+    "estDepartureAirportVertDistance": 1400,
+    "firstSeen": 1717811015,
+    "lastSeen": 1717811715
+}

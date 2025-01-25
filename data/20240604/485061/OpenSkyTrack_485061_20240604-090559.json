@@ -1,0 +1,96 @@
+{
+    "callsign": "TRA68P  ",
+    "endTime": "2024/06/04-09:05:35",
+    "icao24": "485061",
+    "path": [
+        [
+            1717498665,
+            48.7758,
+            3.0496,
+            11277,
+            199,
+            false
+        ],
+        [
+            1717499521,
+            48.7554,
+            3.0388,
+            11277,
+            199,
+            false
+        ],
+        [
+            1717500404,
+            48.7338,
+            3.0276,
+            11277,
+            199,
+            false
+        ],
+        [
+            1717501302,
+            48.7132,
+            3.0168,
+            11277,
+            199,
+            false
+        ],
+        [
+            1717502197,
+            48.6863,
+            3.0027,
+            11277,
+            199,
+            false
+        ],
+        [
+            1717502735,
+            48.6733,
+            2.9958,
+            11277,
+            199,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:57:45",
+    "baro_altitude": 11277.6,
+    "category": 0,
+    "geo_altitude": 11513.82,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499965,
+    "latitude": 48.7463,
+    "longitude": 3.0342,
+    "on_ground": false,
+    "origin_country": "Kingdom of the Netherlands",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2117",
+    "time_position": 1717499959,
+    "true_track": 199.12,
+    "velocity": 230.86,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 1,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LFPK",
+    "estDepartureAirportHorizDistance": 12705,
+    "estDepartureAirportVertDistance": 11134,
+    "firstSeen": 1717498665,
+    "lastSeen": 1717502735
+}

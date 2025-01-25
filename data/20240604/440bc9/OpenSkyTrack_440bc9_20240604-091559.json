@@ -1,0 +1,80 @@
+{
+    "callsign": "BCS2213 ",
+    "endTime": "2024/06/04-09:12:19",
+    "icao24": "440bc9",
+    "path": [
+        [
+            1717501499,
+            51.2647,
+            12.4708,
+            1828,
+            79,
+            false
+        ],
+        [
+            1717501817,
+            51.2655,
+            12.4779,
+            1828,
+            79,
+            false
+        ],
+        [
+            1717502677,
+            51.273,
+            12.5404,
+            1524,
+            79,
+            false
+        ],
+        [
+            1717503139,
+            51.2745,
+            12.5529,
+            1524,
+            78,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-08:44:59",
+    "baro_altitude": 1744.98,
+    "category": 0,
+    "geo_altitude": 1828.8,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499839,
+    "latitude": 51.2704,
+    "longitude": 12.5185,
+    "on_ground": false,
+    "origin_country": "Austria",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2003",
+    "time_position": 1717499836,
+    "true_track": 79.33,
+    "velocity": 144.48,
+    "vertical_rate": -8.78,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 119,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDOE",
+    "estDepartureAirportHorizDistance": 9293,
+    "estDepartureAirportVertDistance": 1842,
+    "firstSeen": 1717501499,
+    "lastSeen": 1717503139
+}

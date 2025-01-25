@@ -1,0 +1,200 @@
+{
+    "callsign": "LPE2182 ",
+    "endTime": "2024/06/07-07:52:54",
+    "icao24": "e8025e",
+    "path": [
+        [
+            1717757280,
+            -12.0401,
+            -77.1057,
+            304,
+            153,
+            false
+        ],
+        [
+            1717757313,
+            -12.0634,
+            -77.0935,
+            304,
+            152,
+            false
+        ],
+        [
+            1717757346,
+            -12.0927,
+            -77.0783,
+            609,
+            153,
+            false
+        ],
+        [
+            1717757367,
+            -12.1155,
+            -77.067,
+            914,
+            154,
+            false
+        ],
+        [
+            1717757383,
+            -12.1339,
+            -77.0581,
+            1219,
+            154,
+            false
+        ],
+        [
+            1717757399,
+            -12.1522,
+            -77.0492,
+            1524,
+            154,
+            false
+        ],
+        [
+            1717757416,
+            -12.1722,
+            -77.0395,
+            1828,
+            153,
+            false
+        ],
+        [
+            1717757432,
+            -12.1913,
+            -77.0301,
+            2133,
+            154,
+            false
+        ],
+        [
+            1717757455,
+            -12.2188,
+            -77.0164,
+            2438,
+            153,
+            false
+        ],
+        [
+            1717757459,
+            -12.2244,
+            -77.0136,
+            2743,
+            153,
+            false
+        ],
+        [
+            1717757466,
+            -12.2321,
+            -77.0093,
+            2743,
+            149,
+            false
+        ],
+        [
+            1717757471,
+            -12.2378,
+            -77.0053,
+            2743,
+            141,
+            false
+        ],
+        [
+            1717757477,
+            -12.2434,
+            -76.9997,
+            3048,
+            131,
+            false
+        ],
+        [
+            1717757482,
+            -12.2475,
+            -76.9939,
+            3048,
+            122,
+            false
+        ],
+        [
+            1717757487,
+            -12.2509,
+            -76.9876,
+            3048,
+            117,
+            false
+        ],
+        [
+            1717757514,
+            -12.2684,
+            -76.9507,
+            3048,
+            115,
+            false
+        ],
+        [
+            1717757542,
+            -12.288,
+            -76.9087,
+            3352,
+            115,
+            false
+        ],
+        [
+            1717757564,
+            -12.3041,
+            -76.875,
+            3657,
+            116,
+            false
+        ],
+        [
+            1717757574,
+            -12.3113,
+            -76.8601,
+            3962,
+            116,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-07:48:00",
+    "baro_altitude": 2415.54,
+    "category": 0,
+    "geo_altitude": 2537.46,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717757435,
+    "latitude": -12.1948,
+    "longitude": -77.0283,
+    "on_ground": false,
+    "origin_country": "Chile",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717757435,
+    "true_track": 153.89,
+    "velocity": 146.1,
+    "vertical_rate": 15.61,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 11,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "SPJC",
+    "estDepartureAirportHorizDistance": 2169,
+    "estDepartureAirportVertDistance": 316,
+    "firstSeen": 1717757280,
+    "lastSeen": 1717757574
+}

@@ -1,0 +1,80 @@
+{
+    "callsign": "HT719   ",
+    "endTime": "2024/06/12-09:17:30",
+    "icao24": "7c1c5c",
+    "path": [
+        [
+            1718193857,
+            -25.5036,
+            151.5812,
+            5181,
+            137,
+            false
+        ],
+        [
+            1718193877,
+            -25.5207,
+            151.5984,
+            5181,
+            137,
+            false
+        ],
+        [
+            1718193994,
+            -25.6266,
+            151.7032,
+            5181,
+            140,
+            false
+        ],
+        [
+            1718194650,
+            -26.2125,
+            152.2544,
+            5181,
+            139,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-09:04:17",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194225,
+    "latitude": -25.8134,
+    "longitude": 151.8773,
+    "on_ground": true,
+    "origin_country": "Australia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "6071",
+    "time_position": 1718194202,
+    "true_track": 139.5,
+    "velocity": 129.9,
+    "vertical_rate": -0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "YGAY",
+    "estDepartureAirportHorizDistance": 59287,
+    "estDepartureAirportVertDistance": 5084,
+    "firstSeen": 1718193857,
+    "lastSeen": 1718194650
+}

@@ -1,0 +1,96 @@
+{
+    "callsign": "NHZ02B  ",
+    "endTime": "2024/06/05-09:00:08",
+    "icao24": "407a3a",
+    "path": [
+        [
+            1717588015,
+            53.5437,
+            4.5466,
+            914,
+            174,
+            false
+        ],
+        [
+            1717588589,
+            53.1787,
+            4.6156,
+            914,
+            172,
+            false
+        ],
+        [
+            1717588646,
+            53.1425,
+            4.6237,
+            914,
+            172,
+            false
+        ],
+        [
+            1717588652,
+            53.1389,
+            4.6247,
+            914,
+            169,
+            false
+        ],
+        [
+            1717588658,
+            53.1351,
+            4.6261,
+            914,
+            166,
+            false
+        ],
+        [
+            1717588808,
+            53.0406,
+            4.6671,
+            609,
+            164,
+            false
+        ]
+    ],
+    "startTime": "2024/06/05-08:46:55",
+    "baro_altitude": 922.02,
+    "category": 0,
+    "geo_altitude": 952.5,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717588578,
+    "latitude": 53.1861,
+    "longitude": 4.6141,
+    "on_ground": false,
+    "origin_country": "United Kingdom",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717588578,
+    "true_track": 172.51,
+    "velocity": 71.08,
+    "vertical_rate": 0.65,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 13,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EHTX",
+    "estDepartureAirportHorizDistance": 51358,
+    "estDepartureAirportVertDistance": 929,
+    "firstSeen": 1717588015,
+    "lastSeen": 1717588808
+}

@@ -1,0 +1,104 @@
+{
+    "callsign": "AAL721  ",
+    "endTime": "2024/06/07-07:51:49",
+    "icao24": "aaa6dd",
+    "path": [
+        [
+            1717757443,
+            41.7956,
+            12.219,
+            0,
+            249,
+            false
+        ],
+        [
+            1717757448,
+            41.7943,
+            12.2137,
+            304,
+            253,
+            false
+        ],
+        [
+            1717757454,
+            41.7932,
+            12.2067,
+            304,
+            260,
+            false
+        ],
+        [
+            1717757460,
+            41.7928,
+            12.1999,
+            304,
+            265,
+            false
+        ],
+        [
+            1717757481,
+            41.7921,
+            12.1727,
+            304,
+            268,
+            false
+        ],
+        [
+            1717757497,
+            41.7916,
+            12.1504,
+            304,
+            267,
+            false
+        ],
+        [
+            1717757509,
+            41.7911,
+            12.1321,
+            609,
+            267,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-07:50:43",
+    "baro_altitude": 198.12,
+    "category": 0,
+    "geo_altitude": 289.56,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717757435,
+    "latitude": 41.798,
+    "longitude": 12.2273,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717757435,
+    "true_track": 249.29,
+    "velocity": 90.2,
+    "vertical_rate": 10.73,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 18,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "LIRF",
+    "estDepartureAirportHorizDistance": 1226,
+    "estDepartureAirportVertDistance": 293,
+    "firstSeen": 1717757443,
+    "lastSeen": 1717757503
+}

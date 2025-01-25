@@ -1,0 +1,80 @@
+{
+    "callsign": "CFKAB   ",
+    "endTime": "2024/06/12-14:29:55",
+    "icao24": "c01a6a",
+    "path": [
+        [
+            1718211305,
+            49.0291,
+            -90.5527,
+            7620,
+            119,
+            false
+        ],
+        [
+            1718212200,
+            48.3887,
+            -88.8991,
+            7620,
+            120,
+            false
+        ],
+        [
+            1718213081,
+            47.7328,
+            -87.3055,
+            7620,
+            122,
+            false
+        ],
+        [
+            1718213395,
+            47.5011,
+            -86.7644,
+            7620,
+            122,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-13:55:05",
+    "baro_altitude": 7315.2,
+    "category": 0,
+    "geo_altitude": 7421.88,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204674,
+    "latitude": 48.3173,
+    "longitude": -88.7405,
+    "on_ground": false,
+    "origin_country": "Canada",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718204674,
+    "true_track": 301.57,
+    "velocity": 100.23,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1718211305,
+    "lastSeen": 1718213395
+}

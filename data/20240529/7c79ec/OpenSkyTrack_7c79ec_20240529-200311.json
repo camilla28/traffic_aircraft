@@ -1,0 +1,112 @@
+{
+    "callsign": "YDA     ",
+    "endTime": "2024/05/29-20:01:44",
+    "icao24": "7c79ec",
+    "path": [
+        [
+            1717015347,
+            -31.7834,
+            151.7314,
+            2743,
+            251,
+            false
+        ],
+        [
+            1717016238,
+            -32.0257,
+            150.8744,
+            2743,
+            251,
+            false
+        ],
+        [
+            1717017132,
+            -32.2747,
+            150.0303,
+            2743,
+            250,
+            false
+        ],
+        [
+            1717017441,
+            -32.3592,
+            149.7395,
+            2743,
+            251,
+            false
+        ],
+        [
+            1717021936,
+            -33.4504,
+            145.6483,
+            2743,
+            254,
+            false
+        ],
+        [
+            1717022756,
+            -33.62,
+            144.917,
+            2743,
+            254,
+            false
+        ],
+        [
+            1717023653,
+            -33.7941,
+            144.1416,
+            2743,
+            254,
+            false
+        ],
+        [
+            1717023704,
+            -33.804,
+            144.0969,
+            2743,
+            255,
+            false
+        ]
+    ],
+    "startTime": "2024/05/29-17:42:27",
+    "baro_altitude": 2933.7,
+    "category": 0,
+    "geo_altitude": 3124.2,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717016383,
+    "latitude": -32.066,
+    "longitude": 150.7368,
+    "on_ground": false,
+    "origin_country": "Australia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717016383,
+    "true_track": 250.58,
+    "velocity": 94.37,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 3,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "YHCT",
+    "estDepartureAirportHorizDistance": 66851,
+    "estDepartureAirportVertDistance": 1764,
+    "firstSeen": 1717015347,
+    "lastSeen": 1717023704
+}

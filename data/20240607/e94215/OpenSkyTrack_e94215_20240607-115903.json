@@ -1,0 +1,136 @@
+{
+    "callsign": "CP2768  ",
+    "endTime": "2024/06/07-11:59:05",
+    "icao24": "e94215",
+    "path": [
+        [
+            1717771720,
+            -20.2096,
+            -55.1929,
+            4572,
+            291,
+            false
+        ],
+        [
+            1717771720,
+            -20.2096,
+            -55.1929,
+            4572,
+            291,
+            false
+        ],
+        [
+            1717771790,
+            -20.1874,
+            -55.2524,
+            4876,
+            291,
+            false
+        ],
+        [
+            1717771846,
+            -20.1682,
+            -55.3031,
+            5181,
+            292,
+            false
+        ],
+        [
+            1717771854,
+            -20.1654,
+            -55.3096,
+            5486,
+            297,
+            false
+        ],
+        [
+            1717771906,
+            -20.1441,
+            -55.3534,
+            5486,
+            296,
+            false
+        ],
+        [
+            1717772074,
+            -20.075,
+            -55.4981,
+            6096,
+            296,
+            false
+        ],
+        [
+            1717772125,
+            -20.0534,
+            -55.5437,
+            6400,
+            297,
+            false
+        ],
+        [
+            1717772180,
+            -20.0299,
+            -55.5921,
+            6705,
+            297,
+            false
+        ],
+        [
+            1717772269,
+            -19.9921,
+            -55.6711,
+            7010,
+            296,
+            false
+        ],
+        [
+            1717772345,
+            -19.9612,
+            -55.7367,
+            7315,
+            296,
+            false
+        ]
+    ],
+    "startTime": "2024/06/07-11:48:40",
+    "baro_altitude": 5615.94,
+    "category": 0,
+    "geo_altitude": 5974.08,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717762944,
+    "latitude": -20.8684,
+    "longitude": -53.9208,
+    "on_ground": false,
+    "origin_country": "Bolivia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1717762944,
+    "true_track": 284.86,
+    "velocity": 130.4,
+    "vertical_rate": -5.2,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "SITR",
+    "estDepartureAirportHorizDistance": 90987,
+    "estDepartureAirportVertDistance": 4409,
+    "firstSeen": 1717771720,
+    "lastSeen": 1717772345
+}

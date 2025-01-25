@@ -1,0 +1,72 @@
+{
+    "callsign": "SWR7C   ",
+    "endTime": "2024/06/04-09:44:30",
+    "icao24": "4b1881",
+    "path": [
+        [
+            1717503928,
+            50.7102,
+            -0.6226,
+            11887,
+            131,
+            false
+        ],
+        [
+            1717504796,
+            50.6992,
+            -0.6028,
+            11887,
+            131,
+            false
+        ],
+        [
+            1717505070,
+            50.6992,
+            -0.6028,
+            11887,
+            131,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-09:25:28",
+    "baro_altitude": 11887.2,
+    "category": 1,
+    "geo_altitude": 12131.04,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717504604,
+    "latitude": 50.7012,
+    "longitude": -0.6065,
+    "on_ground": false,
+    "origin_country": "Switzerland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2002",
+    "time_position": 1717504597,
+    "true_track": 131.48,
+    "velocity": 243.09,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EGKC",
+    "estDepartureAirportHorizDistance": 10172,
+    "estDepartureAirportVertDistance": 11886,
+    "firstSeen": 1717503928,
+    "lastSeen": 1717505070
+}

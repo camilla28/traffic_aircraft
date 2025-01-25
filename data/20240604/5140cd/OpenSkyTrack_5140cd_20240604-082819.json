@@ -1,0 +1,120 @@
+{
+    "callsign": "GEL301  ",
+    "endTime": "2024/06/04-08:12:09",
+    "icao24": "5140cd",
+    "path": [
+        [
+            1717493225,
+            41.0358,
+            39.3697,
+            10972,
+            276,
+            false
+        ],
+        [
+            1717494121,
+            41.0401,
+            39.3231,
+            10972,
+            277,
+            false
+        ],
+        [
+            1717495009,
+            41.0433,
+            39.2884,
+            10972,
+            277,
+            false
+        ],
+        [
+            1717495853,
+            41.0471,
+            39.248,
+            10972,
+            277,
+            false
+        ],
+        [
+            1717496742,
+            41.0516,
+            39.1984,
+            10972,
+            276,
+            false
+        ],
+        [
+            1717497641,
+            41.0546,
+            39.1655,
+            10972,
+            276,
+            false
+        ],
+        [
+            1717498502,
+            41.0581,
+            39.1272,
+            10972,
+            276,
+            false
+        ],
+        [
+            1717499365,
+            41.0614,
+            39.0907,
+            10972,
+            276,
+            false
+        ],
+        [
+            1717499529,
+            41.0624,
+            39.0805,
+            10972,
+            276,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-06:27:05",
+    "baro_altitude": 10972.8,
+    "category": 0,
+    "geo_altitude": 11475.72,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717499959,
+    "latitude": 41.0624,
+    "longitude": 39.0805,
+    "on_ground": false,
+    "origin_country": "Georgia",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "2375",
+    "time_position": 1717499529,
+    "true_track": 276.89,
+    "velocity": 214.53,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": null,
+    "estDepartureAirportHorizDistance": null,
+    "estDepartureAirportVertDistance": null,
+    "firstSeen": 1717493225,
+    "lastSeen": 1717499529
+}

@@ -1,0 +1,120 @@
+{
+    "callsign": "EWG6F   ",
+    "endTime": "2024/06/14-14:16:14",
+    "icao24": "3c49cc",
+    "path": [
+        [
+            1718385211,
+            51.2819,
+            6.7568,
+            0,
+            233,
+            false
+        ],
+        [
+            1718385238,
+            51.2705,
+            6.7326,
+            304,
+            233,
+            false
+        ],
+        [
+            1718385295,
+            51.2406,
+            6.6681,
+            609,
+            233,
+            false
+        ],
+        [
+            1718385303,
+            51.2352,
+            6.6565,
+            914,
+            233,
+            false
+        ],
+        [
+            1718385312,
+            51.2276,
+            6.6452,
+            914,
+            216,
+            false
+        ],
+        [
+            1718385321,
+            51.2187,
+            6.6386,
+            1219,
+            198,
+            false
+        ],
+        [
+            1718385355,
+            51.1844,
+            6.6398,
+            1828,
+            174,
+            false
+        ],
+        [
+            1718385364,
+            51.1755,
+            6.6412,
+            2133,
+            174,
+            false
+        ],
+        [
+            1718385374,
+            51.1657,
+            6.6441,
+            2133,
+            164,
+            false
+        ]
+    ],
+    "startTime": "2024/06/14-14:13:31",
+    "baro_altitude": null,
+    "category": 0,
+    "geo_altitude": null,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718380835,
+    "latitude": 51.2811,
+    "longitude": 6.7653,
+    "on_ground": true,
+    "origin_country": "Germany",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "1000",
+    "time_position": 1718380835,
+    "true_track": 95.62,
+    "velocity": 2.31,
+    "vertical_rate": null,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 122,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDDL",
+    "estDepartureAirportHorizDistance": 840,
+    "estDepartureAirportVertDistance": 153,
+    "firstSeen": 1718385211,
+    "lastSeen": 1718385374
+}

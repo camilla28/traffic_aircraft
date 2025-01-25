@@ -1,0 +1,72 @@
+{
+    "callsign": "UCM454  ",
+    "endTime": "2024/06/12-09:39:02",
+    "icao24": "a58136",
+    "path": [
+        [
+            1718195839,
+            38.7722,
+            -93.8046,
+            304,
+            180,
+            false
+        ],
+        [
+            1718195942,
+            38.7993,
+            -93.8113,
+            304,
+            180,
+            false
+        ],
+        [
+            1718195942,
+            38.7993,
+            -93.8113,
+            304,
+            7,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-09:37:19",
+    "baro_altitude": 876.3,
+    "category": 0,
+    "geo_altitude": 876.3,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718194259,
+    "latitude": 38.4592,
+    "longitude": -93.7336,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718194258,
+    "true_track": 334.18,
+    "velocity": 53.15,
+    "vertical_rate": 0.33,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 298,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KRCM",
+    "estDepartureAirportHorizDistance": 1342,
+    "estDepartureAirportVertDistance": 153,
+    "firstSeen": 1718195839,
+    "lastSeen": 1718195942
+}

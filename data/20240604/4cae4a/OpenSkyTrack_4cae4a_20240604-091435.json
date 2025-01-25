@@ -1,0 +1,120 @@
+{
+    "callsign": "RYR8PA  ",
+    "endTime": "2024/06/04-09:13:36",
+    "icao24": "4cae4a",
+    "path": [
+        [
+            1717496577,
+            49.2865,
+            11.5236,
+            11277,
+            119,
+            false
+        ],
+        [
+            1717497472,
+            49.266,
+            11.5795,
+            11277,
+            119,
+            false
+        ],
+        [
+            1717498359,
+            49.2515,
+            11.6189,
+            11277,
+            119,
+            false
+        ],
+        [
+            1717499256,
+            49.2386,
+            11.6538,
+            11277,
+            119,
+            false
+        ],
+        [
+            1717500079,
+            49.2232,
+            11.6957,
+            11277,
+            119,
+            false
+        ],
+        [
+            1717500976,
+            49.2111,
+            11.7283,
+            11277,
+            119,
+            false
+        ],
+        [
+            1717501806,
+            49.195,
+            11.7716,
+            11277,
+            119,
+            false
+        ],
+        [
+            1717502612,
+            49.1836,
+            11.8021,
+            11277,
+            119,
+            false
+        ],
+        [
+            1717503216,
+            49.1755,
+            11.8237,
+            11277,
+            119,
+            false
+        ]
+    ],
+    "startTime": "2024/06/04-07:22:57",
+    "baro_altitude": 11277.6,
+    "category": 0,
+    "geo_altitude": 11475.72,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1717500034,
+    "latitude": 49.2232,
+    "longitude": 11.6957,
+    "on_ground": false,
+    "origin_country": "Ireland",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": "4614",
+    "time_position": 1717500025,
+    "true_track": 119.24,
+    "velocity": 231.7,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "EDPO",
+    "estDepartureAirportHorizDistance": 366422,
+    "estDepartureAirportVertDistance": 10852,
+    "firstSeen": 1717496577,
+    "lastSeen": 1717503216
+}

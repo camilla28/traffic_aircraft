@@ -1,0 +1,72 @@
+{
+    "callsign": "N452TX  ",
+    "endTime": "2024/06/15-12:01:54",
+    "icao24": "a57b49",
+    "path": [
+        [
+            1718462798,
+            32.6335,
+            -85.5768,
+            2743,
+            66,
+            false
+        ],
+        [
+            1718463696,
+            32.8784,
+            -84.8908,
+            2743,
+            67,
+            false
+        ],
+        [
+            1718463714,
+            32.8833,
+            -84.877,
+            2743,
+            67,
+            false
+        ]
+    ],
+    "startTime": "2024/06/15-11:46:38",
+    "baro_altitude": 2872.74,
+    "category": 0,
+    "geo_altitude": 3025.14,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718463645,
+    "latitude": 32.8649,
+    "longitude": -84.9289,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718463645,
+    "true_track": 67.35,
+    "velocity": 77.48,
+    "vertical_rate": 0,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 0,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "KAUO",
+    "estDepartureAirportHorizDistance": 14191,
+    "estDepartureAirportVertDistance": 2635,
+    "firstSeen": 1718462798,
+    "lastSeen": 1718463714
+}

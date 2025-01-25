@@ -1,0 +1,104 @@
+{
+    "callsign": "CXK340  ",
+    "endTime": "2024/06/12-15:05:47",
+    "icao24": "a1b606",
+    "path": [
+        [
+            1718215081,
+            32.4099,
+            -97.2537,
+            609,
+            90,
+            false
+        ],
+        [
+            1718215081,
+            32.4099,
+            -97.2537,
+            609,
+            94,
+            false
+        ],
+        [
+            1718215233,
+            32.4079,
+            -97.1807,
+            609,
+            93,
+            false
+        ],
+        [
+            1718215233,
+            32.4079,
+            -97.1807,
+            609,
+            90,
+            false
+        ],
+        [
+            1718215256,
+            32.4079,
+            -97.1686,
+            609,
+            87,
+            false
+        ],
+        [
+            1718215256,
+            32.4079,
+            -97.1686,
+            609,
+            94,
+            false
+        ],
+        [
+            1718215547,
+            32.4615,
+            -97.0608,
+            609,
+            93,
+            false
+        ]
+    ],
+    "startTime": "2024/06/12-14:58:01",
+    "baro_altitude": 312.42,
+    "category": 0,
+    "geo_altitude": 312.42,
+    "keys": [
+        "icao24",
+        "firstSeen",
+        "estDepartureAirport",
+        "lastSeen",
+        "estArrivalAirport",
+        "callsign",
+        "estDepartureAirportHorizDistance",
+        "estDepartureAirportVertDistance",
+        "estArrivalAirportHorizDistance",
+        "estArrivalAirportVertDistance",
+        "departureAirportCandidatesCount",
+        "arrivalAirportCandidatesCount"
+    ],
+    "last_contact": 1718204625,
+    "latitude": 32.6966,
+    "longitude": -97.1027,
+    "on_ground": false,
+    "origin_country": "United States",
+    "position_source": 0,
+    "sensors": null,
+    "spi": false,
+    "squawk": null,
+    "time_position": 1718204624,
+    "true_track": 166.5,
+    "velocity": 39.68,
+    "vertical_rate": -1.63,
+    "arrivalAirportCandidatesCount": 0,
+    "departureAirportCandidatesCount": 526,
+    "estArrivalAirport": null,
+    "estArrivalAirportHorizDistance": null,
+    "estArrivalAirportVertDistance": null,
+    "estDepartureAirport": "TX67",
+    "estDepartureAirportHorizDistance": 7142,
+    "estDepartureAirportVertDistance": 472,
+    "firstSeen": 1718215081,
+    "lastSeen": 1718215547
+}
