@@ -80,7 +80,7 @@ To use the plot function just navigate to the python level and write the followi
 ```
 python run_plot.py
 ```
-But days can be used as arguments. Only the days informed as argument are plotted: 
+It is possible to use the function with arguments. In this case, only the days informed as argument are plotted: 
 ```
 python run_plot.py 20230727 20240612
 ```
